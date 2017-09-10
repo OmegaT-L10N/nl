@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.1_0_9319:9320" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10088M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4324,6 +4324,14 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T160304Z">
         <seg>&lt;g0&gt;Ctrl+Shift+V&lt;/g0&gt;: Controleert op ontbrekende of misplaatste tags in opgemaakte bestanden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;g1&gt;Sponsorship of development has already resulted in the addition of certain features.&lt;/g1&gt; If you are willing to finance the work of implementing your desired feature, please contact the development team privately for a quotation.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Kos Ivantsov" changedate="20170910T185302Z" creationid="Kos Ivantsov" creationdate="20170910T185302Z">
+        <seg>&lt;g1&gt;Sponsoren van de ontwikkeling heeft al geresulteerd in de aanvulling van bepaalde mogelijkheden.&lt;/g1&gt; Als u bereid bent om voor het implementeren van de door u gewenste mogelijkheid te betalen, neem dan alstublieft privé contact op met het ontwikkelteam voor een offerte.</seg>
       </tuv>
     </tu>
     <tu>
