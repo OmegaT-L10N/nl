@@ -16,15 +16,15 @@
         <glossary_file>__DEFAULT__</glossary_file>
         <dictionary_dir>__DEFAULT__</dictionary_dir>
         <source_lang>EN</source_lang>
-        <target_lang>DE</target_lang>
+        <target_lang>NL</target_lang>
         <source_tok>org.omegat.tokenizer.LuceneEnglishTokenizer</source_tok>
-        <target_tok>org.omegat.tokenizer.LuceneGermanTokenizer</target_tok>
+        <target_tok>org.omegat.tokenizer.LuceneDutchTokenizer</target_tok>
         <sentence_seg>true</sentence_seg>
         <support_default_translations>true</support_default_translations>
         <remove_tags>false</remove_tags>
         <external_command></external_command>
         <repositories>
-            <repository type="git" url="https://github.com/OmegaT-L10N/de.git">
+            <repository type="git" url="https://github.com/OmegaT-L10N/nl.git">
                 <mapping local="/" repository="/"/>
             </repository>
             <repository type="svn" url="https://svn.code.sf.net/p/omegat/svn/trunk/doc_src/en">
@@ -32,7 +32,7 @@
             </repository>
             <repository type="http" url="https://svn.code.sf.net/p/omegat/svn/trunk/">
                 <mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/>
-                <mapping local="source/readme_de.txt" repository="release/readme.txt"/>
+                <mapping local="source/readme_nl.txt" repository="release/readme.txt"/>
                 <mapping local="source/release/win32-specific/CustomMessages.ini" repository="release/win32-specific/CustomMessages.ini"/>
                 <mapping local="source/scripts/check_rules.properties" repository="scripts/properties/check_rules.properties"/>
                 <mapping local="source/scripts/spellcheck.properties" repository="scripts/properties/spellcheck.properties"/>
