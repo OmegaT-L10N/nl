@@ -1091,6 +1091,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Language Checker</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T135208Z" creationid="Dirk" creationdate="20170914T135208Z">
+        <seg>Taa&amp;lcontrole</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Last Changes...</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20130416T150600Z">
@@ -36098,6 +36106,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The most current info about OmegaT can be found at:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T135145Z" creationid="Dirk" creationdate="20170914T135145Z">
+        <seg>De meest recente informatie over OmegaT is te vinden op:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The most frequently used functions are accessible with keyboard shortcuts, so once you become accustomed to them, you will no longer need to browse through the menus while translating.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T095528Z">
@@ -40943,6 +40959,14 @@ Opdrachten:
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T174202Z">
         <seg>Gebruikt om tags te valideren (openen met &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;V&lt;/k3&gt; &lt;/k0&gt;, sluiten met &lt;k4&gt;Esc&lt;/k4&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Useful links</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T135135Z" creationid="Dirk" creationdate="20170914T135135Z">
+        <seg>Nuttige links</seg>
       </tuv>
     </tu>
     <tu>
