@@ -496,6 +496,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Also allow per-project external commands</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T123933Z" creationid="Dirk" creationdate="20170914T123933Z">
+        <seg>Ook externe opdr&amp;achten per-project toestaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Always</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T191629Z">
@@ -2976,6 +2984,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>3.6 to edit this project as a team project.)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T123642Z" creationid="Dirk" creationdate="20170914T123615Z">
+        <seg>3.6 gebruiken om dit project als een teamproject te bewerken.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>3.6.0</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T100117Z" creationid="Dirk" creationdate="20160911T100117Z">
@@ -4444,6 +4460,14 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160906T173524Z" creationid="Dirk" creationdate="20160906T173524Z">
         <seg>&lt;html&gt;Plaats de caret op de locatie waar u de tekst wilt splitsen.&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;html&gt;Repository URL:&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T123707Z" creationid="Dirk" creationdate="20170914T123707Z">
+        <seg>&lt;html&gt;URL voor opslagplaats:&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13183,6 +13207,14 @@ OmegaT gebruikt de volgende bibliotheken:
       </tuv>
       <tuv lang="NL">
         <seg>Disclaimer of Warranty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displa&amp;y source terms</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T123947Z" creationid="Dirk" creationdate="20170914T123947Z">
+        <seg>Bron&amp;termen weergeven</seg>
       </tuv>
     </tu>
     <tu>
@@ -22258,8 +22290,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Local translation not synchronized with remote repository.</seg>
       </tuv>
-      <tuv lang="NL" changeid="DiGro" changedate="20120708T191516Z">
-        <seg>Lolale vertaling niet gesynchroniseerd met de opslag op afstand.</seg>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T123748Z">
+        <seg>Lokale vertaling niet gesynchroniseerd met de opslag op afstand.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23836,6 +23868,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170104T180441Z" creationid="Dirk" creationdate="20170104T180441Z">
         <seg>Nieuwe regel voor LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New Local Project Folder:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T123737Z" creationid="Dirk" creationdate="20170914T123737Z">
+        <seg>Nieuwe lokale projectmap:</seg>
       </tuv>
     </tu>
     <tu>
@@ -29549,6 +29589,14 @@ lokaal project zonder functionaliteit voor team.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Saving and Output</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T123818Z" creationid="Dirk" creationdate="20170914T123818Z">
+        <seg>Opslaan en uitvoer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Saving and Output Options</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20130310T121616Z">
@@ -30823,6 +30871,30 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Show &amp;longer target terms first</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T123957Z" creationid="Dirk" creationdate="20170914T123957Z">
+        <seg>Geef de &amp;langere doeltermen eerst weer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show &amp;source term first</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T124058Z" creationid="Dirk" creationdate="20170914T124058Z">
+        <seg>Eer&amp;st bronterm weergeven</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show &amp;target term first</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T124036Z" creationid="Dirk" creationdate="20170914T124036Z">
+        <seg>Eerst doel&amp;term weergeven</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Show Advanced &amp;Options</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160906T162052Z" creationid="Dirk" creationdate="20160906T162052Z">
@@ -31255,6 +31327,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sort by source term &amp;alphabetically</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T124007Z" creationid="Dirk" creationdate="20170914T124007Z">
+        <seg>Alf&amp;abetisch op bronterm sorteren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sort by source term alphabetically</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20130930T164911Z" creationid="Dirk" creationdate="20130930T164911Z">
@@ -31267,6 +31347,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20140813T172442Z" creationid="Dirk" creationdate="20140813T172442Z">
         <seg>Fuzzy overeenkomsten sorteren op:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort tar&amp;get terms alphabetically</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T124020Z" creationid="Dirk" creationdate="20170914T124020Z">
+        <seg>Alfabetisch op &amp;doeltermen sorteren</seg>
       </tuv>
     </tu>
     <tu>
@@ -32179,6 +32267,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170104T180108Z" creationid="Dirk" creationdate="20170104T180108Z">
         <seg>Overschakelen naar ingebouwde versie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Synchronisation of repositories</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T123808Z" creationid="Dirk" creationdate="20170914T123808Z">
+        <seg>Synchroniseren van opslagplaatsen</seg>
       </tuv>
     </tu>
     <tu>
