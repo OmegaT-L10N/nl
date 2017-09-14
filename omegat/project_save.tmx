@@ -1999,6 +1999,16 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(You will still able to use OmegaT
+3.6 to edit this project as a team project.)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170914T161724Z" creationid="DiGro (Dick)" creationdate="20170914T161724Z">
+        <seg>(U kunt nog steeds OmegaT
+3.6 gebruiken om dit project als een teamproject te bewerken.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(\b\w+\b)\s\1\b</seg>
       </tuv>
       <tuv lang="NL">
@@ -8074,6 +8084,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ANTLR (ANTLR 3 License)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170914T161246Z" creationid="DiGro (Dick)" creationdate="20170914T161246Z">
+        <seg>ANTLR (ANTLR 3 License)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ANTLR 3.4 (ANTLR 3 license)</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T104123Z">
@@ -9526,6 +9544,14 @@ Het TMX-bestand zal niet worden geladen.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T131034Z">
         <seg>Alles na de "//" zal worden genegeerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Apache Commons (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170914T161329Z" creationid="DiGro (Dick)" creationdate="20170914T161329Z">
+        <seg>Apache Commons (Apache License 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11604,6 +11630,16 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Close the current OmegaT instance
+3.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170914T161514Z" creationid="DiGro (Dick)" creationdate="20170914T161514Z">
+        <seg>De huidige instantie van OmegaT sluiten
+3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Close the project</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T173714Z">
@@ -12262,6 +12298,16 @@ OmegaT gebruikt de volgende bibliotheken:
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160906T170330Z" creationid="Dirk" creationdate="20160906T170330Z">
         <seg>Het bestand &lt;project&gt;/omegat/project_save.tmx naar een veilige locatie kopiëren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy &lt;project&gt;/omegat/project_save.tmx file into a safe location
+2.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170914T161455Z" creationid="DiGro (Dick)" creationdate="20170914T161455Z">
+        <seg>Het bestand &lt;project&gt;/omegat/project_save.tmx naar een veilige locatie kopiëren
+2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13590,6 +13636,14 @@ OmegaT gebruikt de volgende bibliotheken:
       </tuv>
       <tuv lang="NL">
         <seg>Developers that use the GNU GPL protect your rights with two steps:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DictZip from JDict (GPL)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170914T161351Z" creationid="DiGro (Dick)" creationdate="20170914T161351Z">
+        <seg>DictZip from JDict (GPL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17817,6 +17871,14 @@ werd project_save.tmx niet echt geüpload en SVN schakelde naar een onstabiele s
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T130147Z">
         <seg>Grieks, modern</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Groovy (Apache Licence 2.0)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170914T161345Z" creationid="DiGro (Dick)" creationdate="20170914T161345Z">
+        <seg>Groovy (Apache Licence 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22070,6 +22132,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Jmyspell (LGPL License)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170914T161212Z" creationid="DiGro (Dick)" creationdate="20170914T161212Z">
+        <seg>Jmyspell (LGPL License)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jmyspell 2.1.4 (LGPL License)</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T191438Z">
@@ -22483,6 +22553,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170104T181254Z" creationid="Dirk" creationdate="20170104T181254Z">
         <seg>LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool (LGPL License and others)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170914T161340Z" creationid="DiGro (Dick)" creationdate="20170914T161340Z">
+        <seg>LanguageTool (LGPL-licentie en andere)</seg>
       </tuv>
     </tu>
     <tu>
@@ -23251,6 +23329,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>Luba-Katanga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lucene (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170914T161326Z" creationid="DiGro (Dick)" creationdate="20170914T161326Z">
+        <seg>Lucene (Apache License 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -26522,6 +26608,16 @@ your home folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T191315Z">
         <seg>OmegaT gebruikt de volgende bibliotheken:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT uses the following libraries:
+{1}</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170914T161153Z" creationid="DiGro (Dick)" creationdate="20170914T161153Z">
+        <seg>OmegaT gebruikt de volgende bibliotheken:
+{1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -29908,6 +30004,16 @@ lokaal project zonder functionaliteit voor team.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace &lt;project&gt;/omegat/project_save.tmx in the newly downloaded project with the file saved in a safe location
+6.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170914T161602Z" creationid="DiGro (Dick)" creationdate="20170914T161602Z">
+        <seg>&lt;project&gt;/omegat/project_save.tmx in het nieuw gedownloade project vervangen door het bestand dat is opgeslagen op een veilige locatie
+6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace Translation with Match or Selection</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20150413T103338Z" creationid="Dirk" creationdate="20150413T103338Z">
@@ -30500,6 +30606,14 @@ lokaal project zonder functionaliteit voor team.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SQLJet (GPL License)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170914T161249Z" creationid="DiGro (Dick)" creationdate="20170914T161249Z">
+        <seg>SQLJet (GPL License)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SQLJet 1.1.10 (GPL v2)</seg>
       </tuv>
       <tuv lang="NL">
@@ -30552,6 +30666,14 @@ lokaal project zonder functionaliteit voor team.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T124629Z">
         <seg>SVN - Opschonen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVNKit (TMate License)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170914T161223Z" creationid="DiGro (Dick)" creationdate="20170914T161223Z">
+        <seg>SVNKit (TMate License)</seg>
       </tuv>
     </tu>
     <tu>
@@ -33150,6 +33272,16 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Start OmegaT again, download the team project, close OmegaT
+5.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170914T161546Z" creationid="DiGro (Dick)" creationdate="20170914T161546Z">
+        <seg>OmegaT opnieuw starten, het teamproject downloaden, OmegaT sluiten
+5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Start OmegaT and continue to translate</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20150413T104227Z" creationid="Dirk" creationdate="20150413T104227Z">
@@ -33506,6 +33638,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T130518Z">
         <seg>Soendanees</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SuperTMXMerge (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170914T161343Z" creationid="DiGro (Dick)" creationdate="20170914T161343Z">
+        <seg>SuperTMXMerge (Apache License 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -38908,6 +39048,16 @@ vanaf de server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To be sure that no translation will be lost, you need to:
+1.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170914T161440Z" creationid="DiGro (Dick)" creationdate="20170914T161440Z">
+        <seg>U moet, om er zeker van te zijn dat de vertaling niet verloren gaat,:
+1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To browse the archives of the user group, go to:</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T104301Z">
@@ -41320,6 +41470,14 @@ Opdrachten:
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>VLDocking Framework (LGPL License)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170914T161157Z" creationid="DiGro (Dick)" creationdate="20170914T161157Z">
+        <seg>VLDocking Framework (LGPL License)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>VLDocking Framework 3.0.5-SNAPSHOT (LGPL License)</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20150413T103212Z" creationid="Dirk" creationdate="20150413T103212Z">
@@ -41572,6 +41730,16 @@ Opdrachten:
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160906T170356Z" creationid="Dirk" creationdate="20160906T170356Z">
         <seg>WAARSCHUWING: alle niet-opgeslagen gegevens zullen verloren gaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WARNING: all unsaved data will be lost
+4.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170914T161533Z" creationid="DiGro (Dick)" creationdate="20170914T161533Z">
+        <seg>WAARSCHUWING: alle niet-opgeslagen gegevens zullen verloren gaan
+4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48097,6 +48265,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>juniversalchardet (GPL)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170914T161347Z" creationid="DiGro (Dick)" creationdate="20170914T161347Z">
+        <seg>juniversalchardet (GPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>juniversalchardet-1.0.3.jar (GPL v2)</seg>
       </tuv>
       <tuv lang="NL">
@@ -48685,6 +48861,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>lv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mALIGNa (MIT License)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170914T161353Z" creationid="DiGro (Dick)" creationdate="20170914T161353Z">
+        <seg>mALIGNa (MIT License)</seg>
       </tuv>
     </tu>
     <tu>
@@ -52541,6 +52725,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T105239Z" creationid="Dirk" creationdate="20160911T105239Z">
         <seg>trie4j (Apache License 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>trilead-ssh2 (Trilead SSH license)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170914T161321Z" creationid="DiGro (Dick)" creationdate="20170914T161321Z">
+        <seg>trilead-ssh2 (Trilead SSH license)</seg>
       </tuv>
     </tu>
     <tu>
