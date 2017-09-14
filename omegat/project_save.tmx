@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10088M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_1_10060:10062" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -752,6 +752,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Enable history completion</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T121045Z" creationid="Dirk" creationdate="20170914T121045Z">
+        <seg>G&amp;eschiedenis aanvullen inschakelen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Endnotes</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T190658Z">
@@ -1435,6 +1443,14 @@ java -jar OmegaT.jar $*</seg>
         <seg>&amp;Show Relevant Suggestions Automatically</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20150713T070916Z" creationid="Dirk" creationdate="20150713T070916Z">
+        <seg>Relevante &amp;suggesties automatisch weergeven</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Show relevant suggestions automatically</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T120942Z" creationid="Dirk" creationdate="20170914T120942Z">
         <seg>Relevante &amp;suggesties automatisch weergeven</seg>
       </tuv>
     </tu>
@@ -9335,6 +9351,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-Completion</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T121018Z" creationid="Dirk" creationdate="20170914T121018Z">
+        <seg>Auto-aanvullen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto-completer is launched within the target segment via &lt;e0&gt;Ctrl+Space&lt;/e0&gt; shortcut.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T161953Z" creationid="Dirk" creationdate="20160910T161953Z">
@@ -10359,6 +10383,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check &amp;Issues...</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T120724Z" creationid="Dirk" creationdate="20170914T120724Z">
+        <seg>Controleren op &amp;problemen...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check &amp;all printf-variables (e.g., %s, %-s)</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T192018Z">
@@ -11163,6 +11195,14 @@ OmegaT gebruikt de volgende bibliotheken:
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T174156Z">
         <seg>venster Opmerkingen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Commit Source Files</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T120648Z" creationid="Dirk" creationdate="20170914T120648Z">
+        <seg>Bronbestanden indienen</seg>
       </tuv>
     </tu>
     <tu>
@@ -13003,6 +13043,14 @@ OmegaT gebruikt de volgende bibliotheken:
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display context description for TBX &amp;glossaries</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T120748Z" creationid="Dirk" creationdate="20170914T120748Z">
+        <seg>&amp;Beschrijving context voor TBX woordenlijsten weergeven</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display for &amp;All Segments</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120327T163924Z">
@@ -14697,6 +14745,14 @@ werd project_save.tmx niet echt geüpload en SVN schakelde naar een onstabiele s
       </tuv>
       <tuv lang="NL">
         <seg>Ewe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exact &amp;match</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T120845Z" creationid="Dirk" creationdate="20170914T120845Z">
+        <seg>&amp;Exacte overeenkomst</seg>
       </tuv>
     </tu>
     <tu>
@@ -19710,6 +19766,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160906T153739Z" creationid="Dirk" creationdate="20160906T153739Z">
         <seg>Geïnitialiseerd en-ja teamproject.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Initialized {0}-{1} team project.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T120626Z" creationid="Dirk" creationdate="20170914T120626Z">
+        <seg>Geïnitialiseerd {0}-{1} teamproject.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26631,6 +26695,14 @@ of er nog aanvullende stappen moeten worden uitgevoerd.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pop Directional Formatting (PDF U+202C)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T120705Z" creationid="Dirk" creationdate="20170914T120705Z">
+        <seg>Pop Directional Formatting (PDF U+202C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pop Directionnal Formatting (PDF U+202C)</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160906T160848Z" creationid="Dirk" creationdate="20160906T160848Z">
@@ -28117,6 +28189,14 @@ lokaal project zonder functionaliteit voor team.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20141020T094731Z" creationid="Dirk" creationdate="20141020T094731Z">
         <seg>Vervangen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace &amp;glossary hits when inserting source text</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T120837Z" creationid="Dirk" creationdate="20170914T120837Z">
+        <seg>Hits in woordenlijst ve&amp;rvangen bij invoegen brontekst</seg>
       </tuv>
     </tu>
     <tu>
@@ -31543,6 +31623,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T155333Z">
         <seg>Schakel Hoofd-/kleine letters naar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch views with {0} and {1}</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T121012Z" creationid="Dirk" creationdate="20170914T121012Z">
+        <seg>Weergaven schakelen met {0} en {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -38356,6 +38444,14 @@ Opdrachten:
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &amp;Fuzzy Matching for Dictionary Entries</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T120859Z" creationid="Dirk" creationdate="20170914T120859Z">
+        <seg>F&amp;uzzy overeenkomsten voor items woordenboek gebruiken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &amp;TAB to Advance</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T185358Z">
@@ -38368,6 +38464,22 @@ Opdrachten:
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T191801Z">
         <seg>Gebruik &amp;XML voor zelfstandige tags (bijv.: &lt;i/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &amp;fuzzy matching for dictionary entries</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T120913Z" creationid="Dirk" creationdate="20170914T120913Z">
+        <seg>F&amp;uzzy overeenkomsten voor items woordenboek gebruiken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &amp;stemming for glossary entries</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T120829Z" creationid="Dirk" creationdate="20170914T120829Z">
+        <seg>Stemmen voor &amp;Items voor woordenlijst gebruiken</seg>
       </tuv>
     </tu>
     <tu>
@@ -38464,6 +38576,14 @@ Opdrachten:
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T142632Z">
         <seg>Gebruik hem als OmegaT de inhoud van het project niet moet synchroniseren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use terms &amp;appearing separately in the source text</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T120807Z" creationid="Dirk" creationdate="20170914T120807Z">
+        <seg>Termen die &amp;afzonderlijk in de brontekst verschijnen gebruiken</seg>
       </tuv>
     </tu>
     <tu>
