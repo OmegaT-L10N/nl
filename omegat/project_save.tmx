@@ -488,6 +488,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Allow only unique characters</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T124236Z" creationid="Dirk" creationdate="20170914T124236Z">
+        <seg>&amp;Alleen unieke tekens toestaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Allow translation to be equal to source</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T191756Z">
@@ -764,6 +772,38 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T190541Z">
         <seg>&amp;Lege regels</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Enable TaaS terminology lookup</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T124511Z" creationid="Dirk" creationdate="20170914T124511Z">
+        <seg>TaaS t&amp;erminology lookup inschakelen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Enable autotext</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T124121Z" creationid="Dirk" creationdate="20170914T124121Z">
+        <seg>Auto-t&amp;ekst inschakelen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Enable character table</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T124215Z" creationid="Dirk" creationdate="20170914T124215Z">
+        <seg>Tab&amp;el met tekens inschakelen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Enable glossary suggestions</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T124110Z" creationid="Dirk" creationdate="20170914T124110Z">
+        <seg>Suggesties voor woord&amp;enlijst inschakelen</seg>
       </tuv>
     </tu>
     <tu>
@@ -4436,6 +4476,14 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20150413T105044Z" creationid="Dirk" creationdate="20150413T105044Z">
         <seg>&lt;html&gt;&lt;i&gt;Opties&lt;/i&gt; &amp;gt; &lt;i&gt;TAB gebruiken om door te gaan&lt;/i&gt; is geselecteerd&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T124613Z" creationid="Dirk" creationdate="20170914T124613Z">
+        <seg>&lt;html&gt;&lt;i&gt;Voorkeuren&lt;/i&gt; &amp;gt; &lt;i&gt;Algemeen&lt;/i&gt; &amp;gt; &lt;i&gt;TAB gebruiken om door te gaan&lt;/i&gt; is geselecteerd&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9643,6 +9691,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Autotext</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T124206Z" creationid="Dirk" creationdate="20170914T124206Z">
+        <seg>Autotekst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Autotext entries</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T114956Z">
@@ -10235,6 +10291,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>C&amp;lear</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T124253Z" creationid="Dirk" creationdate="20170914T124253Z">
+        <seg>&amp;Leegmaken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>C&amp;opy All Data to Clipboard</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20150413T105348Z" creationid="Dirk" creationdate="20150413T105348Z">
@@ -10503,6 +10567,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160906T173717Z" creationid="Dirk" creationdate="20160906T173717Z">
         <seg>Teken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Character Table</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T124258Z" creationid="Dirk" creationdate="20170914T124258Z">
+        <seg>Tabel met tekens</seg>
       </tuv>
     </tu>
     <tu>
@@ -11335,6 +11407,14 @@ OmegaT gebruikt de volgende bibliotheken:
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Colours</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T124532Z" creationid="Dirk" creationdate="20170914T124532Z">
+        <seg>Kleuren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Column Index must be equal to 1</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T190519Z">
@@ -12115,6 +12195,14 @@ OmegaT gebruikt de volgende bibliotheken:
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create your own key then input it below.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T124427Z" creationid="Dirk" creationdate="20170914T124427Z">
+        <seg>Maak uw eigen sleutel en voer die dan hieronder in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Created by</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160906T172551Z" creationid="Dirk" creationdate="20160906T172551Z">
@@ -12775,6 +12863,14 @@ OmegaT gebruikt de volgende bibliotheken:
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T144901Z">
         <seg>Customer ID (correspondeert met de &lt;c0&gt;microsoft.api.client_id&lt;/c0&gt; parameter voor de opdrachtregel)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Customize character &amp;table</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T124226Z" creationid="Dirk" creationdate="20170914T124226Z">
+        <seg>Tabel met &amp;tekens aanpassen</seg>
       </tuv>
     </tu>
     <tu>
@@ -16029,6 +16125,14 @@ werd project_save.tmx niet echt geüpload en SVN schakelde naar een onstabiele s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For best results, please install the appropriate dictionaries via Preferences &gt; Spell Checking.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T124317Z" creationid="Dirk" creationdate="20170914T124317Z">
+        <seg>Installeer, voor de beste resultaten. de toepasselijke woordenboeken via Voorkeuren &gt; Spellingscontrole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For both users' and</seg>
       </tuv>
       <tuv lang="NL">
@@ -16761,6 +16865,14 @@ werd project_save.tmx niet echt geüpload en SVN schakelde naar een onstabiele s
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T191706Z">
         <seg>Duits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Get API Key</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T124436Z" creationid="Dirk" creationdate="20170914T124436Z">
+        <seg>API-sleutel ophalen</seg>
       </tuv>
     </tu>
     <tu>
@@ -30495,6 +30607,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select TaaS Terminology &amp;Lookup Domain...</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T124344Z" creationid="Dirk" creationdate="20170914T124344Z">
+        <seg>TaaS Terminology &amp;Lookup Domain selecteren...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select TaaS domain</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20140813T173024Z" creationid="Dirk" creationdate="20140813T173024Z">
@@ -31303,6 +31423,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sort &amp;alphabetically</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T124142Z" creationid="Dirk" creationdate="20170914T124142Z">
+        <seg>Alf&amp;abetisch sorteren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sort alphabetically</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20130930T165225Z" creationid="Dirk" creationdate="20130930T165225Z">
@@ -31311,10 +31439,26 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sort by &amp;full text, not shortcut</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T124154Z" creationid="Dirk" creationdate="20170914T124154Z">
+        <seg>Vol&amp;ledige tekst sorteren, geen sneltoets</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sort by full text, not shortcut</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20130930T165253Z" creationid="Dirk" creationdate="20130930T165253Z">
         <seg>Volledige tekst sorteren, geen sneltoets</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort by len&amp;gth</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T124135Z" creationid="Dirk" creationdate="20170914T124135Z">
+        <seg>Op len&amp;gte sorteren</seg>
       </tuv>
     </tu>
     <tu>
@@ -32399,6 +32543,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TaaS</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T124438Z" creationid="Dirk" creationdate="20170914T124438Z">
+        <seg>TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TaaS API key not found.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20140813T173223Z" creationid="Dirk" creationdate="20140813T173223Z">
@@ -32407,10 +32559,26 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TaaS API key not set.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T124411Z" creationid="Dirk" creationdate="20170914T124411Z">
+        <seg>TaaS API-sleutel niet ingesteld.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TaaS Collections</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20140813T172841Z" creationid="Dirk" creationdate="20140813T172841Z">
         <seg>TaaS Collections</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TaaS Terminology</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T124443Z" creationid="Dirk" creationdate="20170914T124443Z">
+        <seg>TaaS Terminology</seg>
       </tuv>
     </tu>
     <tu>
@@ -32931,6 +33099,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="NL">
         <seg>Termination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Terminology</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T124523Z" creationid="Dirk" creationdate="20170914T124523Z">
+        <seg>Terminologie</seg>
       </tuv>
     </tu>
     <tu>
