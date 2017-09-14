@@ -8777,6 +8777,66 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred while processing a font changed event:
+{0}</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T123104Z" creationid="Dirk" creationdate="20170914T123104Z">
+        <seg>Er trad een fout op bij het verwerken van een gebeurtenis voor het wijzigen van een lettertype:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred while processing a new file event:
+{0}</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T122920Z" creationid="Dirk" creationdate="20170914T122920Z">
+        <seg>Er trad een fout op bij het verweken van een gebeurtenis voor een nieuw bestand:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred while processing a project change event:
+{0}</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T122737Z" creationid="Dirk" creationdate="20170914T122737Z">
+        <seg>Er trad een fout op bij het verwerken van een gebeurtenis voor een wijziging in een project:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred while processing an application shutdown event:
+{0}</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T122842Z" creationid="Dirk" creationdate="20170914T122842Z">
+        <seg>Er trad een fout op bij de gebeurtenis voor het afsluiten van een toepassing:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred while processing an application startup event:
+{0}</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T122822Z" creationid="Dirk" creationdate="20170914T122822Z">
+        <seg>Er trad een fout op bij de gebeurtenis voor het opstarten van een toepassing:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred while processing an entry activated event:
+{0}</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T122958Z" creationid="Dirk" creationdate="20170914T122958Z">
+        <seg>Er trad een fout op bij het verwerken van een gebeurtenis bij het activeren van een item:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while trying to create a new folder</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T190149Z">
@@ -13339,6 +13399,14 @@ OmegaT gebruikt de volgende bibliotheken:
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120327T163533Z">
         <seg>Geeft de vertaling van het bronsegment weer door de services voor de machinevertalingen die u hebt geselecteerd in Opties &gt; Machinevertaling, als deze services beschikbaar zijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displays the translation of the source segment by the machine translation services you have selected in Preferences &gt; Machine Translation, if those services are available.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T122614Z" creationid="Dirk" creationdate="20170914T122614Z">
+        <seg>Geeft de vertaling van het bronsegment weer door de services voor de machinevertalingen die u hebt geselecteerd in Voorkeuren &gt; Machinevertaling, als deze services beschikbaar zijn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22304,6 +22372,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T192023Z">
         <seg>Machinevertaling</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Machine Translation Options</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T122650Z" creationid="Dirk" creationdate="20170914T122650Z">
+        <seg>Opties Machinevertaling</seg>
       </tuv>
     </tu>
     <tu>
