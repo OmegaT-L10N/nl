@@ -45389,6 +45389,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>console.println(source + " &gt;&gt;&gt;&gt; " + target);</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170914T161751Z" creationid="DiGro (Dick)" creationdate="20170914T161751Z">
+        <seg>console.println(source + " &gt;&gt;&gt;&gt; " + target);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>contain the covered work, unless you entered into that arrangement,</seg>
       </tuv>
       <tuv lang="NL">
@@ -45593,6 +45601,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>cu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>currSegment = files[i].entries[j];</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170914T161743Z" creationid="DiGro (Dick)" creationdate="20170914T161743Z">
+        <seg>currSegment = files[i].entries[j];</seg>
       </tuv>
     </tu>
     <tu>
@@ -46373,6 +46389,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>files = project.projectFiles;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170914T161735Z" creationid="DiGro (Dick)" creationdate="20170914T161735Z">
+        <seg>files = project.projectFiles;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>files = project.projectFiles;
     for (i in 0 ..&lt; files.size())
     {
@@ -46491,6 +46515,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T104247Z">
         <seg>gebruikersvoorkeuren. Zie de handleiding voor de juiste locatie).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>for (i in 0 ..&lt; files.size())</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170914T161739Z" creationid="DiGro (Dick)" creationdate="20170914T161739Z">
+        <seg>for (i in 0 ..&lt; files.size())</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>for (j in 0 ..&lt; files[i].entries.size())</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170914T161741Z" creationid="DiGro (Dick)" creationdate="20170914T161741Z">
+        <seg>for (j in 0 ..&lt; files[i].entries.size())</seg>
       </tuv>
     </tu>
     <tu>
@@ -47627,6 +47667,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>ie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>if (project.getTranslationInfo(currSegment))</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170914T161745Z" creationid="DiGro (Dick)" creationdate="20170914T161745Z">
+        <seg>if (project.getTranslationInfo(currSegment))</seg>
       </tuv>
     </tu>
     <tu>
@@ -51601,6 +51649,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>source = currSegment.getSrcText();</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170914T161748Z" creationid="DiGro (Dick)" creationdate="20170914T161748Z">
+        <seg>source = currSegment.getSrcText();</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>source code form), and must require no special password or key for</seg>
       </tuv>
       <tuv lang="NL">
@@ -51869,6 +51925,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>tangible personal property which is normally used for personal, family,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>target = project.getTranslationInfo(currSegment).translation;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170914T161750Z" creationid="DiGro (Dick)" creationdate="20170914T161750Z">
+        <seg>target = project.getTranslationInfo(currSegment).translation;</seg>
       </tuv>
     </tu>
     <tu>
@@ -53569,6 +53633,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170914T161740Z" creationid="DiGro (Dick)" creationdate="20170914T161740Z">
+        <seg>{</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{0}</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160906T151828Z" creationid="Dirk" creationdate="20160906T151828Z">
@@ -53701,6 +53773,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T125047Z" creationid="Dirk" creationdate="20170914T125047Z">
         <seg>{1}: &lt;b&gt;{2}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>}</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170914T161752Z" creationid="DiGro (Dick)" creationdate="20170914T161752Z">
+        <seg>}</seg>
       </tuv>
     </tu>
     <tu>
