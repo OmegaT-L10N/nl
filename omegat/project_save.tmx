@@ -1685,8 +1685,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Store for this session only</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20170914T123423Z" creationid="Dirk" creationdate="20170914T123423Z">
-        <seg>&amp;Store for this session only</seg>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T135327Z" creationid="Dirk" creationdate="20170914T123423Z">
+        <seg>Alleen voor deze &amp;sessie opslaan</seg>
       </tuv>
     </tu>
     <tu>
