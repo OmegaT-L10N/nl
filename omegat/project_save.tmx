@@ -1568,6 +1568,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Show in Editor context menu</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T131132Z" creationid="Dirk" creationdate="20170914T131132Z">
+        <seg>In contextmenu ven&amp;ster Bewerken weergeven</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Show relevant suggestions automatically</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T120942Z" creationid="Dirk" creationdate="20170914T120942Z">
@@ -6745,6 +6753,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;PDF files&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T131522Z" creationid="Dirk" creationdate="20170914T131522Z">
+        <seg>&lt;p0&gt;Bronbestanden&lt;/p0&gt; &lt;s1&gt;PDF-bestanden&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;PO as bilingual files&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T135439Z">
@@ -6989,6 +7005,14 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T135543Z">
         <seg>&lt;p0&gt;Doelbestanden&lt;/p0&gt; &lt;s1&gt;andere bestandsformaten&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;PDF text files&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T131504Z" creationid="Dirk" creationdate="20170914T131504Z">
+        <seg>&lt;p0&gt;Doelbestanden&lt;/p0&gt; &lt;s1&gt;PDF-tekstbestanden&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11583,6 +11607,14 @@ OmegaT gebruikt de volgende bibliotheken:
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Command:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T131255Z" creationid="Dirk" creationdate="20170914T131255Z">
+        <seg>Opdracht:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Commands</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T130824Z" creationid="Dirk" creationdate="20170914T130824Z">
@@ -13243,6 +13275,14 @@ OmegaT gebruikt de volgende bibliotheken:
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Delimiter:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T131312Z" creationid="Dirk" creationdate="20170914T131312Z">
+        <seg>Scheidingsteken:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dependable segmentation rules are already available for many languages, so it is likely that you will not need to get involved with writing your own segmentation rules.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T171949Z">
@@ -14493,6 +14533,14 @@ werd project_save.tmx niet echt geüpload en SVN schakelde naar een onstabiele s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ed&amp;it</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T131223Z" creationid="Dirk" creationdate="20170914T131223Z">
+        <seg>Be&amp;werken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110718T164750Z">
@@ -14525,10 +14573,26 @@ werd project_save.tmx niet echt geüpload en SVN schakelde naar een onstabiele s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit External Search Command</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T131246Z" creationid="Dirk" creationdate="20170914T131246Z">
+        <seg>Opdracht Extern zoeken bewerken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit External Search Item</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T131013Z" creationid="Dirk" creationdate="20170914T131013Z">
         <seg>Item voor Extern zoeken bewerken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit External Search URL</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T131236Z" creationid="Dirk" creationdate="20170914T131236Z">
+        <seg>URL Extern zoeken bewerken</seg>
       </tuv>
     </tu>
     <tu>
@@ -14857,6 +14921,14 @@ werd project_save.tmx niet echt geüpload en SVN schakelde naar een onstabiele s
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20121207T200753Z">
         <seg>Codering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Encoding:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T131307Z" creationid="Dirk" creationdate="20170914T131307Z">
+        <seg>Codering:</seg>
       </tuv>
     </tu>
     <tu>
@@ -26991,6 +27063,22 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PDF files</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T131530Z" creationid="Dirk" creationdate="20170914T131530Z">
+        <seg>PDF-bestanden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PDF files are a special case.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T131548Z" creationid="Dirk" creationdate="20170914T131548Z">
+        <seg>PDF-bestanden zijn een speciaal geval.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PDFBox (Apache License 2.0)</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T104205Z" creationid="Dirk" creationdate="20160911T104205Z">
@@ -28565,6 +28653,14 @@ lokaal project zonder functionaliteit voor team.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>RELAX NG schema for XML (*.rng)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T131447Z" creationid="Dirk" creationdate="20170914T131447Z">
+        <seg>RELAX NG-schema voor XML (*.rng)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>RTL-LTR switch</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T125550Z">
@@ -28993,6 +29089,14 @@ lokaal project zonder functionaliteit voor team.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T142842Z">
         <seg>Onthoud waar u het project maakt, omdat u er later naar terug moet keren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remo&amp;ve</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T131213Z" creationid="Dirk" creationdate="20170914T131213Z">
+        <seg>Verw&amp;ijderen</seg>
       </tuv>
     </tu>
     <tu>
@@ -30013,6 +30117,14 @@ lokaal project zonder functionaliteit voor team.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sample Output</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T131420Z" creationid="Dirk" creationdate="20170914T131420Z">
+        <seg>Voorbeeld uitvoer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sample Text</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T185546Z">
@@ -30331,6 +30443,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120103T175337Z">
         <seg>map Scripts:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Se&amp;t</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T131150Z" creationid="Dirk" creationdate="20170914T131150Z">
+        <seg>Inges&amp;teld</seg>
       </tuv>
     </tu>
     <tu>
@@ -33567,6 +33687,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Target:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T131301Z" creationid="Dirk" creationdate="20170914T131301Z">
+        <seg>Doel:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tatar</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T130553Z">
@@ -33723,6 +33851,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20130930T165127Z" creationid="Dirk" creationdate="20130930T165127Z">
         <seg>Termen met meerdere doelen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Test</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T131429Z" creationid="Dirk" creationdate="20170914T131429Z">
+        <seg>Test</seg>
       </tuv>
     </tu>
     <tu>
@@ -34300,6 +34436,14 @@ Probeer alstublieft de fout te corrigeren en herlaad het project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The URL must include "{target}", which will be replaced with the search text.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T131345Z" creationid="Dirk" creationdate="20170914T131345Z">
+        <seg>De URL moet "{target}" bevatten, wat zal worden vervangen door de zoektekst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The URL shown under Project Services will be used by SVN to connect clients to the SVN server you have just established.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T110633Z">
@@ -34544,6 +34688,14 @@ Probeer alstublieft de fout te corrigeren en herlaad het project.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T155908Z">
         <seg>De kleuren worden weergegeven zolang als de optie "Status voor automatisch vergroten van vertalingen opslaan" (in Opties/Bewerken (gedrag)..) is aangevinkt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The command must include "{target}", which will be replaced with the search text.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T131413Z" creationid="Dirk" creationdate="20170914T131413Z">
+        <seg>De opdracht moet "{target}" bevatten, wat zal worden vervangen door de zoektekst.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37117,6 +37269,14 @@ configuratiemap niet betrouwbaar genoeg worden vastgesteld.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T172417Z">
         <seg>Zij dragen toepasselijk gewijzigde namen, zodat de inhoud ervan steeds kan worden geïdentificeerd, indien elders gebruikt, bijvoorbeeld in de submap &lt;f1&gt;tm&lt;/f1&gt; van een ander project (zie hieronder).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They contain text formatting information, but such information cannot be reused by &lt;a0&gt;OmegaT&lt;/a0&gt; in order to create target files.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T131648Z" creationid="Dirk" creationdate="20170914T131648Z">
+        <seg>Zij bevatten informatie over de opmaak van de tekst, maar dergelijke informatie kan niet opnieuw worden gebruikt door &lt;a0&gt;OmegaT&lt;/a0&gt; om doelbestanden te maken.</seg>
       </tuv>
     </tu>
     <tu>
