@@ -1917,6 +1917,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(If you think you have significantly contributed to the OmegaT Project but you</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T135057Z" creationid="Dirk" creationdate="20170914T135057Z">
+        <seg>(Als u denkt dat u een significante bijdrage heeft geleverd aan het OmegaT-project,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
@@ -2019,6 +2027,14 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T190316Z">
         <seg>(opmerking-tag)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(don't see your name on the lists, feel free to contact us.)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T135116Z" creationid="Dirk" creationdate="20170914T135116Z">
+        <seg>maar ziet u uw naam niet op deze lijst, neem dan alstublieft contact met ons op.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7484,6 +7500,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>============</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T135025Z" creationid="Dirk" creationdate="20170914T135025Z">
+        <seg>============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>===============</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T132717Z" creationid="Dirk" creationdate="20170914T132717Z">
@@ -7512,6 +7536,14 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T133506Z" creationid="Dirk" creationdate="20170914T133506Z">
         <seg>=======================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>========================</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T134836Z" creationid="Dirk" creationdate="20170914T134836Z">
+        <seg>========================</seg>
       </tuv>
     </tu>
     <tu>
@@ -7552,6 +7584,14 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T134037Z" creationid="Dirk" creationdate="20170914T134037Z">
         <seg>=========================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>====================================================</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T134954Z" creationid="Dirk" creationdate="20170914T134954Z">
+        <seg>====================================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -12078,6 +12118,22 @@ OmegaT gebruikt de volgende bibliotheken:
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contributions to the code are documented in /docs/contributors.txt.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T135046Z" creationid="Dirk" creationdate="20170914T135046Z">
+        <seg>Bijdragen aan de code zijn gedocumenteerd in /docs/contributors.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contributors</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T135024Z" creationid="Dirk" creationdate="20170914T135024Z">
+        <seg>Bijdragen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Convert Old Team Project</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160906T170843Z" creationid="Dirk" creationdate="20160906T170843Z">
@@ -16352,6 +16408,14 @@ werd project_save.tmx niet echt geüpload en SVN schakelde naar een onstabiele s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Finder window to be able to launch it from any location.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T134810Z" creationid="Dirk" creationdate="20170914T134810Z">
+        <seg>om het vanaf elke locatie te kunnen starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Finds the following:</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T170425Z">
@@ -18541,6 +18605,14 @@ werd project_save.tmx niet echt geüpload en SVN schakelde naar een onstabiele s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If Java is installed at system level and is in the command path, the full path</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T135004Z" creationid="Dirk" creationdate="20170914T135004Z">
+        <seg>Indien Java is geïnstalleerd op systeemniveau en in het pad voor de opdracht staat,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a "command not found" or similar message is returned, it is likely that Java is not installed on your system</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T141459Z">
@@ -19813,6 +19885,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T165457Z">
         <seg>Indien u &lt;a1&gt;OmegaT&lt;/a1&gt; in console-modus start, zal het de instellingen gebruiken die u hebt geconfigureerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you used linux-install.sh script, you should be able to launch OmegaT with:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T134904Z" creationid="Dirk" creationdate="20170914T134904Z">
+        <seg>Indien u linux-install.sh script gebruikte, zou u OmegaT moeten kunnen opstarten met:</seg>
       </tuv>
     </tu>
     <tu>
@@ -22667,6 +22747,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Launching OmegaT (Linux)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T134835Z" creationid="Dirk" creationdate="20170914T134835Z">
+        <seg>Starten van OmegaT (Linux)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Launching OmegaT (Mac)</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T134417Z" creationid="Dirk" creationdate="20170914T134343Z">
@@ -22679,6 +22767,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T134217Z" creationid="Dirk" creationdate="20170914T134217Z">
         <seg>Starten van OmegaT (Windows)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launching OmegaT from the command line (all systems)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T134954Z" creationid="Dirk" creationdate="20170914T134954Z">
+        <seg>Starten van OmegaT vanaf de opdrachtregel (alle systemen)</seg>
       </tuv>
     </tu>
     <tu>
@@ -42653,6 +42749,14 @@ Zowel exacte als zoekacties op sleutelwoorden ondersteunen de jokertekens * en ?
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also launch</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T134820Z" creationid="Dirk" creationdate="20170914T134820Z">
+        <seg>U kunt het ook starten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also manually drag</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T103947Z">
@@ -42967,6 +43071,14 @@ Zowel exacte als zoekacties op sleutelwoorden ondersteunen de jokertekens * en ?
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can then launch the Kaptain launch script with:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T134923Z" creationid="Dirk" creationdate="20170914T134923Z">
+        <seg>U kunt dan het Kaptain opstartscript starten met:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can then switch back to the Search window for the next segment found, for instance to check and, if necessary, correct the terminology.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T171749Z">
@@ -43123,6 +43235,14 @@ Zowel exacte als zoekacties op sleutelwoorden ondersteunen de jokertekens * en ?
       </tuv>
       <tuv lang="NL">
         <seg>You may convey verbatim copies of the Program's source code as you</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may drag the OmegaT application to your dock or to the tool bar of a</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T134752Z" creationid="Dirk" creationdate="20170914T134752Z">
+        <seg>Sleep de toepassing OmegaT naar uw dock of naar de werkbalk van een Finder-venster</seg>
       </tuv>
     </tu>
     <tu>
@@ -47700,6 +47820,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>it from the Spotlight search field.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T134828Z" creationid="Dirk" creationdate="20170914T134828Z">
+        <seg>in het zoekveld van Spotlight.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>it under the terms of the GNU General Public License as published by</seg>
       </tuv>
       <tuv lang="NL">
@@ -49008,6 +49136,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>ne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>need not be entered.)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T135014Z" creationid="Dirk" creationdate="20170914T135014Z">
+        <seg>hoeft niet het volledige pad te worden ingevoerd.)</seg>
       </tuv>
     </tu>
     <tu>
