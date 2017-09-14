@@ -912,6 +912,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Ignore file context when identifying segments with alternate translations</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T122043Z" creationid="Dirk" creationdate="20170914T122043Z">
+        <seg>Bestandscontext bij &amp;identificeren van segmenten met wisselende vertalingen negeren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20140419T143511Z" creationid="Dirk" creationdate="20140419T143439Z">
@@ -11159,6 +11167,26 @@ OmegaT gebruikt de volgende bibliotheken:
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Code has been contributed by:
+{0}
+ 
+Other contributions are detailed in the readme.txt file
+ 
+OmegaT uses the following libraries:
+{1}</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T121831Z" creationid="Dirk" creationdate="20170914T121731Z">
+        <seg>Code is bijgedragen door:
+{0}
+ 
+Andere bijdragen worden gedetailleerd vermeld in het bestand readme.txt
+ 
+OmegaT gebruikt de volgende bibliotheken:
+{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Column Index must be equal to 1</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T190519Z">
@@ -11655,6 +11683,14 @@ OmegaT gebruikt de volgende bibliotheken:
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160906T164101Z" creationid="Dirk" creationdate="20160906T164101Z">
         <seg>Copyright © 2000-2016 Keith Godfrey, Maxym Mykhalchuk en anderen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright © 2000-2017 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T121704Z" creationid="Dirk" creationdate="20170914T121704Z">
+        <seg>Copyright © 2000-2017 Keith Godfrey, Maxym Mykhalchuk en anderen</seg>
       </tuv>
     </tu>
     <tu>
@@ -14997,6 +15033,14 @@ werd project_save.tmx niet echt geüpload en SVN schakelde naar een onstabiele s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External Lin&amp;ks</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T121649Z" creationid="Dirk" creationdate="20170914T121649Z">
+        <seg>Externe &amp;koppelingen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External Post-processing Command</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20130310T121633Z">
@@ -16962,6 +17006,58 @@ werd project_save.tmx niet echt geüpload en SVN schakelde naar een onstabiele s
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T191401Z">
         <seg>HTMLParser 1.6 van Somik Raha, Derrick Oswald en anderen (LGPL License)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTMLParser 1.6 by Somik Raha, Derrick Oswald and others (LGPL License)
+  VLDocking Framework (LGPL License)
+  Jmyspell (LGPL License)
+  SVNKit (TMate License)
+  Sequence Library (Sequence Library License)
+  ANTLR (ANTLR 3 License)
+  SQLJet (GPL License)
+  JGit (Eclipse Distribution License)
+  JSch (JSch License)
+  jsch-agent-proxy (jsch-agent-proxy License)
+  Diff (GPL)
+  trilead-ssh2 (Trilead SSH license)
+  Lucene (Apache License 2.0)
+  Apache Commons (Apache License 2.0)
+  LanguageTool (LGPL License and others)
+  PDFBox (Apache License 2.0)
+  SuperTMXMerge (Apache License 2.0)
+  Groovy (Apache Licence 2.0)
+  slf4j (MIT License)
+  juniversalchardet (GPL)
+  DictZip from JDict (GPL)
+  mALIGNa (MIT License)
+  trie4j (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T121951Z" creationid="Dirk" creationdate="20170914T121951Z">
+        <seg>HTMLParser 1.6 door Somik Raha, Derrick Oswald en anderen (LGPL License)
+  VLDocking Framework (LGPL License)
+  Jmyspell (LGPL License)
+  SVNKit (TMate License)
+  Sequence Library (Sequence Library License)
+  ANTLR (ANTLR 3 License)
+  SQLJet (GPL License)
+  JGit (Eclipse Distribution License)
+  JSch (JSch License)
+  jsch-agent-proxy (jsch-agent-proxy License)
+  Diff (GPL)
+  trilead-ssh2 (Trilead SSH license)
+  Lucene (Apache License 2.0)
+  Apache Commons (Apache License 2.0)
+  LanguageTool (LGPL License and others)
+  PDFBox (Apache License 2.0)
+  SuperTMXMerge (Apache License 2.0)
+  Groovy (Apache Licence 2.0)
+  slf4j (MIT License)
+  juniversalchardet (GPL)
+  DictZip from JDict (GPL)
+  mALIGNa (MIT License)
+  trie4j (Apache License 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -26847,6 +26943,14 @@ of er nog aanvullende stappen moeten worden uitgevoerd.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preserve spaces &amp;for all tags</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T122030Z" creationid="Dirk" creationdate="20170914T122030Z">
+        <seg>Spaties voor a&amp;lle tags behouden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preserve spaces for all tags</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20130411T172737Z">
@@ -27569,6 +27673,14 @@ lokaal project zonder functionaliteit voor team.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>RELAX NG</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T121548Z" creationid="Dirk" creationdate="20170914T121548Z">
+        <seg>RELAX NG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>RTL-LTR switch</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T125550Z">
@@ -28033,6 +28145,14 @@ lokaal project zonder functionaliteit voor team.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove &amp;leading and trailing tags</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T122007Z" creationid="Dirk" creationdate="20170914T122007Z">
+        <seg>Verwijder voor- en achter&amp;liggende tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove HTML comments in translated document</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20121207T201324Z">
@@ -28109,6 +28229,14 @@ lokaal project zonder functionaliteit voor team.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T124617Z">
         <seg>Gedefinieerde fragmenten verwijderen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove leading and trailing &amp;whitespace in non-segmented projects</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T122019Z" creationid="Dirk" creationdate="20170914T122019Z">
+        <seg>Verwijder voor- en achterliggende &amp;witruimte in niet-gesegmenteerde projecten</seg>
       </tuv>
     </tu>
     <tu>
@@ -29447,6 +29575,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T145052Z">
         <seg>Bekijk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See /docs/contributors.txt</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T121840Z" creationid="Dirk" creationdate="20170914T121738Z">
+        <seg>Bekijk /docs/contributors.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -39428,6 +39564,14 @@ Opdrachten:
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>WebVTT Subtitles</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T121627Z" creationid="Dirk" creationdate="20170914T121618Z">
+        <seg>WebVTT Subtitles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Webster's Revised Unabridged Dictionary (1913)</seg>
       </tuv>
       <tuv lang="NL">
@@ -41220,6 +41364,14 @@ Zowel exacte als zoekacties op sleutelwoorden ondersteunen de jokertekens * en ?
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T135230Z">
         <seg>U kunt dan OmegaT starten door dit bestand vanaf de opdrachtregel uit te voeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>YouTube Subtitles</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T121623Z" creationid="Dirk" creationdate="20170914T121606Z">
+        <seg>YouTube Subtitles</seg>
       </tuv>
     </tu>
     <tu>
