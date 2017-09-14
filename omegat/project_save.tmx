@@ -19566,6 +19566,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you need to reproduce text formatting (as well as other things such as drawings) in your translation, there are three ways to try:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T131835Z" creationid="Dirk" creationdate="20170914T131835Z">
+        <seg>Als u ook de opmaak van de tekst wilt reproduceren (net zoals andere dingen zoals tekeningen) in uw vertaling, zijn er drie manieren om dat te proberen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you need to see tags in OmegaT but do not need to retain most of the formatting in the translated document you are free not to include tags in the translation.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T135938Z">
@@ -19850,6 +19858,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>Ilia Vinogradov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Import the source file to &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;, save it as an ODG file, translate, export to PDF as needed.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T132138Z" creationid="Dirk" creationdate="20170914T132138Z">
+        <seg>Importeer het bronbestand in &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;, sla het op als een ODG-bestand, vertaal het en exporteer het naar PDF zoals nodig is.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30703,6 +30719,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See &lt;u0&gt;Howto - Translating PDF files with Iceni Infix and OmegaT&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T132027Z" creationid="Dirk" creationdate="20170914T132027Z">
+        <seg>Zie &lt;u0&gt;Howto - Vertalen van PDF-bestanden met Iceni Infix en OmegaT&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See &lt;u0&gt;Oracle documentation&lt;/u0&gt; for examples of the "SimpleDateFormat" patterns</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T134631Z">
@@ -38221,6 +38245,14 @@ vanaf de server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Thus, PDF files are handled as plain text files, and output files are plain text files.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T131733Z" creationid="Dirk" creationdate="20170914T131733Z">
+        <seg>Dus, PDF-bestanden worden afgehandeld als platte tekstbestanden, en de uitgevoerde bestanden zijn platte tekstbestanden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Thus, for example, rules for Canadian French (FR-CA) should be higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T191720Z">
@@ -40200,6 +40232,14 @@ Opdrachten:
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &lt;a0&gt;OmegaT’s&lt;/a0&gt; default filter (PDF input), translate, create a target file (it will be a plain text file), add relevant formatting and items manually.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T131945Z" creationid="Dirk" creationdate="20170914T131945Z">
+        <seg>Gebruik &lt;a0&gt;OmegaT’s&lt;/a0&gt; standaard filter (PDF invoer), vertaal, maak een doelbestand (het zal een platte tekstbestand zijn), voeg relevante opmaak en items handmatig toe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &lt;g0&gt;Ctrl+L&lt;i1/&gt;&lt;/g0&gt; to open and &lt;k2&gt;Esc&lt;/k2&gt; to close it.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T095553Z">
@@ -40316,6 +40356,14 @@ Opdrachten:
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T141413Z">
         <seg>Gebruik het bestand &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt; dat zich bevindt in &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app/Contents/MacOS/Java/&lt;/e2&gt; om &lt;a4&gt;OmegaT&lt;/a4&gt; vanaf de opdrachtregel te starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the Iceni Infix filter.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T132001Z" creationid="Dirk" creationdate="20170914T132001Z">
+        <seg>Gebruik het filter van Iceni Infix.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46575,6 +46623,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>https://omegat.org/howtos/iceni_infix.html</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T131948Z" creationid="Dirk" creationdate="20170914T131948Z">
+        <seg>https://omegat.org/howtos/iceni_infix.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>https://sourceforge.net/p/omegat/bugs/</seg>
       </tuv>
       <tuv lang="NL">
@@ -46643,6 +46699,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T105246Z" creationid="Dirk" creationdate="20160911T105246Z">
         <seg>https://sourceforge.net/projects/omegatscripts/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://www.libreoffice.org/discover/draw/</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T132029Z" creationid="Dirk" creationdate="20170914T132029Z">
+        <seg>https://www.libreoffice.org/discover/draw/</seg>
       </tuv>
     </tu>
     <tu>
