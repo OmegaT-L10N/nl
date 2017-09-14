@@ -11527,6 +11527,70 @@ OmegaT gebruikt de volgende bibliotheken:
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Command</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T131021Z" creationid="Dirk" creationdate="20170914T131021Z">
+        <seg>Opdracht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command delimiter is empty</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T130809Z" creationid="Dirk" creationdate="20170914T130809Z">
+        <seg>Scheidingsteken voor opdracht is leeg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command does not contain "{0}"</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T130723Z" creationid="Dirk" creationdate="20170914T130723Z">
+        <seg>Opdracht bevat geen "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command is missing command string</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T130714Z" creationid="Dirk" creationdate="20170914T130714Z">
+        <seg>Opdracht mist tekenreeks voor opdracht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command is missing delimiter</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T130758Z" creationid="Dirk" creationdate="20170914T130758Z">
+        <seg>Opdracht mist scheidingsteken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command is missing encoding</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T130742Z" creationid="Dirk" creationdate="20170914T130742Z">
+        <seg>Opdracht mist codering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Command is missing target</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T130733Z" creationid="Dirk" creationdate="20170914T130733Z">
+        <seg>Opdracht mist doel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Commands</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T130824Z" creationid="Dirk" creationdate="20170914T130824Z">
+        <seg>Opdrachten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Comme&amp;nts</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T190706Z">
@@ -11799,6 +11863,14 @@ OmegaT gebruikt de volgende bibliotheken:
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110114T185011Z">
         <seg>Inhoud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Context Menu Priority:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T130953Z" creationid="Dirk" creationdate="20170914T130953Z">
+        <seg>Prioriteit contextmenu:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13163,6 +13235,14 @@ OmegaT gebruikt de volgende bibliotheken:
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Delimiter</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T131028Z" creationid="Dirk" creationdate="20170914T131028Z">
+        <seg>Scheidingsteken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dependable segmentation rules are already available for many languages, so it is likely that you will not need to get involved with writing your own segmentation rules.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T171949Z">
@@ -14445,6 +14525,14 @@ werd project_save.tmx niet echt geüpload en SVN schakelde naar een onstabiele s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit External Search Item</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T131013Z" creationid="Dirk" creationdate="20170914T131013Z">
+        <seg>Item voor Extern zoeken bewerken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit Filter</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T191536Z">
@@ -14713,6 +14801,14 @@ werd project_save.tmx niet echt geüpload en SVN schakelde naar een onstabiele s
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T121134Z" creationid="Dirk" creationdate="20170914T121134Z">
         <seg>Geschiedenis voors&amp;pellen inschakelen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enable project-specific commands</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T130935Z" creationid="Dirk" creationdate="20170914T130935Z">
+        <seg>Projectspecifieke opdrachten inschakelen</seg>
       </tuv>
     </tu>
     <tu>
@@ -15521,6 +15617,14 @@ werd project_save.tmx niet echt geüpload en SVN schakelde naar een onstabiele s
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20130310T120845Z">
         <seg>Externe opdracht nabewerken:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External Search</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T130835Z" creationid="Dirk" creationdate="20170914T130835Z">
+        <seg>Extern zoeken</seg>
       </tuv>
     </tu>
     <tu>
@@ -19718,6 +19822,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In Editor</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T130915Z" creationid="Dirk" creationdate="20170914T130915Z">
+        <seg>In venster Bewerken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In KMenuEditor select &lt;e3&gt;File -&gt; New Item.&lt;/e3&gt;</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T140830Z">
@@ -21371,6 +21483,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20141020T094741Z" creationid="Dirk" creationdate="20141020T094741Z">
         <seg>Item:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Items</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T130852Z" creationid="Dirk" creationdate="20170914T130852Z">
+        <seg>Items</seg>
       </tuv>
     </tu>
     <tu>
@@ -24124,6 +24244,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T095316Z">
         <seg>Naam van de TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Name:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T131033Z" creationid="Dirk" creationdate="20170914T131033Z">
+        <seg>Naam:</seg>
       </tuv>
     </tu>
     <tu>
@@ -27977,6 +28105,14 @@ lokaal project zonder functionaliteit voor team.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T131241Z">
         <seg>menu Project</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project Specific External Search</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T130849Z" creationid="Dirk" creationdate="20170914T130849Z">
+        <seg>Projectspecifiek extern zoeken</seg>
       </tuv>
     </tu>
     <tu>
@@ -32239,6 +32375,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T131106Z" creationid="Dirk" creationdate="20170914T131106Z">
+        <seg>Specificeer een mnemonic met "&amp;": "F&amp;oobar" om O te gebruiken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Specify tag handling behaviour</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20130411T172330Z">
@@ -32715,6 +32859,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="NL">
         <seg>Such new versions will</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Summary</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T130907Z" creationid="Dirk" creationdate="20170914T130907Z">
+        <seg>Overzicht</seg>
       </tuv>
     </tu>
     <tu>
@@ -39248,10 +39400,34 @@ Exacte zoekacties komen overeen met de gehele zoekterm.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>URL does not contain "{0}"</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T130621Z" creationid="Dirk" creationdate="20170914T130621Z">
+        <seg>URL bevat geen "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>URL is missing URL string</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T130613Z" creationid="Dirk" creationdate="20170914T130613Z">
         <seg>URL ontbreekt in tekenreeks van URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL is missing encoding</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T130656Z" creationid="Dirk" creationdate="20170914T130656Z">
+        <seg>URL mist codering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL is missing target</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T130645Z" creationid="Dirk" creationdate="20170914T130645Z">
+        <seg>URL mist doel</seg>
       </tuv>
     </tu>
     <tu>
@@ -39268,6 +39444,14 @@ Exacte zoekacties komen overeen met de gehele zoekterm.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170104T180542Z" creationid="Dirk" creationdate="20170104T180542Z">
         <seg>URL:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URLs</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T130815Z" creationid="Dirk" creationdate="20170914T130815Z">
+        <seg>URL's</seg>
       </tuv>
     </tu>
     <tu>
