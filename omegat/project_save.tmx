@@ -459,6 +459,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>${translationNotice}</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T132715Z" creationid="Dirk" creationdate="20170914T132715Z">
+        <seg>${translationNotice}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;About...</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T185502Z">
@@ -1985,8 +1993,8 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
       <tuv lang="EN">
         <seg>(at your option) any later version.</seg>
       </tuv>
-      <tuv lang="NL">
-        <seg>(at your option) any later version.</seg>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T133117Z">
+        <seg>(naar uw beoordeling) enige latere versie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7456,6 +7464,22 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T140327Z">
         <seg>&lt;u0&gt;Microsoft Terminology Collection&lt;/u0&gt; &lt;i1/&gt;kan worden gedownload in bijna 100 talen en kan dienen als hoeksteen IT-woordenlijst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>===============</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T132717Z" creationid="Dirk" creationdate="20170914T132717Z">
+        <seg>===============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>=====================</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T132942Z" creationid="Dirk" creationdate="20170914T132942Z">
+        <seg>=====================</seg>
       </tuv>
     </tu>
     <tu>
@@ -22659,6 +22683,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Licensing information</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T132941Z" creationid="Dirk" creationdate="20170914T132941Z">
+        <seg>Informatie over Licentie </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Limburgish, Limburgan, Limburger</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T130322Z">
@@ -25904,6 +25936,14 @@ OmegaT 4.0, Lees Mij-bestand</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T132821Z" creationid="Dirk" creationdate="20170914T132748Z">
+        <seg>OmegaT is een gratis, open bron multiplatform vertaalprogramma met vertaalgeheugen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T190803Z">
@@ -25924,6 +25964,14 @@ OmegaT 4.0, Lees Mij-bestand</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T175252Z">
         <seg>OmegaT is in staat om vertalingen op te slaan die identiek aan de bron zijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is available under the terms of the GNU General Public License as</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T133029Z" creationid="Dirk" creationdate="20170914T133029Z">
+        <seg>OmegaT is beschikbaar onder de termen van de GNU General Public License zoals</seg>
       </tuv>
     </tu>
     <tu>
@@ -49964,6 +50012,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>published by the Free Software Foundation, either version 3 of the License, or</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T133053Z" creationid="Dirk" creationdate="20170914T133053Z">
+        <seg>gepubliceerd door de Free Software Foundation, ofwel versie 3 van die License, of</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>purposes of this definition, "control" includes the right to grant</seg>
       </tuv>
       <tuv lang="NL">
@@ -51708,6 +51764,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>tool with fuzzy matching, translation memory, keyword search, glossaries, and</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T132900Z" creationid="Dirk" creationdate="20170914T132806Z">
+        <seg>met fuzzy overeenkomsten, vertaalgeheugen, zoeken op sleutelwoorden, woordenlijsten en</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>tools to manage the linguistic data necessary to build a machine translation system for a given language pair</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T143914Z">
@@ -51808,6 +51872,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T174036Z">
         <seg>vertaling komt overeen met bron (standaard)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>translation leveraging into updated projects.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T132914Z" creationid="Dirk" creationdate="20170914T132914Z">
+        <seg>vertalingsuitbreiding in bijgewerkte projecten.</seg>
       </tuv>
     </tu>
     <tu>
