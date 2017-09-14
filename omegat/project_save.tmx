@@ -11591,6 +11591,14 @@ OmegaT gebruikt de volgende bibliotheken:
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Confirm:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T125412Z" creationid="Dirk" creationdate="20170914T125412Z">
+        <seg>Bevestigen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Conflict resolution</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20140419T144514Z" creationid="Dirk" creationdate="20140419T144514Z">
@@ -13835,6 +13843,14 @@ OmegaT gebruikt de volgende bibliotheken:
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Don't ask before checking issues</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T125229Z" creationid="Dirk" creationdate="20170914T125229Z">
+        <seg>Niet vragen vóór controleren van problemen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Done</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20140419T144503Z" creationid="Dirk" creationdate="20140419T144503Z">
@@ -14793,6 +14809,14 @@ werd project_save.tmx niet echt geüpload en SVN schakelde naar een onstabiele s
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T185519Z">
         <seg>Voer het segmentnummer in:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter your master password.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T125340Z" creationid="Dirk" creationdate="20170914T125340Z">
+        <seg>Voer uw hoofdwachtwoord in.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18328,6 +18352,14 @@ werd project_save.tmx niet echt geüpload en SVN schakelde naar een onstabiele s
       <tuv lang="NL" changeid="Dirk" changedate="20160906T153719Z" creationid="Dirk" creationdate="20160906T153719Z">
         <seg>Indien geactiveerd in een omgeving van GIT of SVN checkout, zullen de resultaten
 		worden opgeslagen/toegevoegd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T125205Z" creationid="Dirk" creationdate="20170914T125205Z">
+        <seg>Als het controleren van problemen traag is, probeer enkele van de optionele controles uit te schakelen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23072,6 +23104,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Master Password</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T125236Z" creationid="Dirk" creationdate="20170914T125236Z">
+        <seg>Hoofdwachtwoord</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Match Statistics</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T190013Z">
@@ -25301,6 +25341,14 @@ OmegaT 4.0, Lees Mij-bestand</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT can generate and store a master password so you don't have to enter it each time, but this is much less secure.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T125605Z" creationid="Dirk" creationdate="20170914T125605Z">
+        <seg>OmegaT kan een hoofdwachtwoord genereren en opslaan zodat u het niet iedere keer behoeft in te voeren, maar dat is veel minder veilig.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT configuration launchers (OmegaT.l4J.ini, omegat.kaptn and Configuration.properties) contain a template entry.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T172332Z" creationid="Dirk" creationdate="20160910T172332Z">
@@ -27107,6 +27155,14 @@ of er nog aanvullende stappen moeten worden uitgevoerd.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please double-check.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T125503Z" creationid="Dirk" creationdate="20170914T125503Z">
+        <seg>Controleer het nog eens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please download and install the latest Java JDK from Oracle.com and try again.";</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T104340Z">
@@ -27143,6 +27199,14 @@ of er nog aanvullende stappen moeten worden uitgevoerd.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T191745Z">
         <seg>Voer uw naam / ID in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please enter your password again for confirmation.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T125444Z" creationid="Dirk" creationdate="20170914T125444Z">
+        <seg>Voer ter bevestiging nogmaals uw wachtwoord in.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30519,6 +30583,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select Issue Types</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T125105Z" creationid="Dirk" creationdate="20170914T125105Z">
+        <seg>Typen problemen selecteren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select Mat&amp;ch</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20130411T171734Z">
@@ -30659,6 +30731,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T123438Z" creationid="Dirk" creationdate="20170914T123438Z">
         <seg>Een scriptbestand selecteren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select issue types to check.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T125130Z" creationid="Dirk" creationdate="20170914T125130Z">
+        <seg>Te controleren typen selecteren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30819,6 +30899,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160906T170036Z" creationid="Dirk" creationdate="20160906T170036Z">
         <seg>Map voor scripts instellen...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set a master password to protect your private data.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T125304Z" creationid="Dirk" creationdate="20170914T125304Z">
+        <seg>Stel een hoofdwachtwoord in om uw private gegevens te beschermen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31227,6 +31315,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T121328Z" creationid="Dirk" creationdate="20170914T121328Z">
         <seg>Grootte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Skip</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T125509Z" creationid="Dirk" creationdate="20170914T125509Z">
+        <seg>Overslaan</seg>
       </tuv>
     </tu>
     <tu>
@@ -35107,6 +35203,30 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="NL">
         <seg>The output from running a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The password cannot be empty.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T125423Z" creationid="Dirk" creationdate="20170914T125423Z">
+        <seg>Het  wachtwoord mag niet leeg zijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The password you entered did not match.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T125402Z" creationid="Dirk" creationdate="20170914T125402Z">
+        <seg>Het wachtwoord dat u invoerde kwam niet overeen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The passwords don't match.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T125456Z" creationid="Dirk" creationdate="20170914T125456Z">
+        <seg>De wachtwoorden komen niet overeen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42048,6 +42168,14 @@ Zowel exacte als zoekacties op sleutelwoorden ondersteunen de jokertekens * en ?
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T133548Z">
         <seg>U vertaalt uw bestanden door van segment naar segment te gaan, waarbij elk segment op zijn beurt wordt bewerkt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You will be prompted to enter this password every time you launch OmegaT.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T125331Z" creationid="Dirk" creationdate="20170914T125331Z">
+        <seg>U zult worden gevraagd om dit wachtwoord elke keer in te voeren wanneer u OmegaT opstart.</seg>
       </tuv>
     </tu>
     <tu>
