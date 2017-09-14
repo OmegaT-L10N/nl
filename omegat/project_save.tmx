@@ -1152,6 +1152,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Preferences...</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T121241Z" creationid="Dirk" creationdate="20170914T121241Z">
+        <seg>&amp;Voorkeuren...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Prefix:</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T191754Z">
@@ -1300,6 +1308,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160906T170111Z" creationid="Dirk" creationdate="20160906T170104Z">
         <seg>&amp;Vervangen...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Reset Options</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T121448Z" creationid="Dirk" creationdate="20170914T121448Z">
+        <seg>Opties he&amp;rstellen</seg>
       </tuv>
     </tu>
     <tu>
@@ -7761,6 +7777,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Access Configurat&amp;ion Folder</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T121229Z" creationid="Dirk" creationdate="20170914T121229Z">
+        <seg>Toegang tot configurat&amp;iemap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Access Configuration Fol&amp;der</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20150914T102041Z" creationid="Dirk" creationdate="20150914T102041Z">
@@ -11215,6 +11239,14 @@ OmegaT gebruikt de volgende bibliotheken:
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Committing source files</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T121304Z" creationid="Dirk" creationdate="20170914T121304Z">
+        <seg>Bronbestanden indienen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Common glossary problems</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T140403Z">
@@ -14205,10 +14237,26 @@ werd project_save.tmx niet echt geüpload en SVN schakelde naar een onstabiele s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enable history &amp;prediction</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T121134Z" creationid="Dirk" creationdate="20170914T121134Z">
+        <seg>Geschiedenis voors&amp;pellen inschakelen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enable them in &lt;b&gt;Options &gt; Saving and Output...&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20130510T162948Z">
         <seg>Schakel ze in via &lt;b&gt;Opties &gt; Opslaan en uitvoer...&lt;/b&gt;.&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enable them in &lt;b&gt;Preferences &gt; Saving and Output...&lt;/b&gt;.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T121407Z" creationid="Dirk" creationdate="20170914T121407Z">
+        <seg>Schakel ze in via &lt;b&gt;Voorkeuren &gt; Opslaan en uitvoer...&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14973,6 +15021,14 @@ werd project_save.tmx niet echt geüpload en SVN schakelde naar een onstabiele s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External Search...</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T121422Z" creationid="Dirk" creationdate="20170914T121422Z">
+        <seg>Extern zoeken...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External TM&amp;Xs...</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T185412Z">
@@ -15097,6 +15153,14 @@ werd project_save.tmx niet echt geüpload en SVN schakelde naar een onstabiele s
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T113213Z">
         <seg>Back-up voor bestand voor verwijzingen mislukt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to commit source file!</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T121259Z" creationid="Dirk" creationdate="20170914T121259Z">
+        <seg>Indienen bronbestand mislukt!</seg>
       </tuv>
     </tu>
     <tu>
@@ -17186,6 +17250,14 @@ werd project_save.tmx niet echt geüpload en SVN schakelde naar een onstabiele s
       </tuv>
       <tuv lang="NL">
         <seg>Hiroshi Miura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>History</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T121143Z" creationid="Dirk" creationdate="20170914T121143Z">
+        <seg>Geschiedenis</seg>
       </tuv>
     </tu>
     <tu>
@@ -26195,6 +26267,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Password-protected PDF files are not supported: {0}</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T121542Z" creationid="Dirk" creationdate="20170914T121542Z">
+        <seg>Met wachtwoord beveiligde PDF-bestanden worden niet ondersteund: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Password:</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T191939Z">
@@ -30483,6 +30563,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Size</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T121328Z" creationid="Dirk" creationdate="20170914T121328Z">
+        <seg>Grootte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Skip PO header</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T134312Z">
@@ -30863,6 +30951,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T134532Z">
         <seg>Patronen voor bronbestandsnamen gebruiken jokertekens die overeenkomen met die in &lt;e2&gt;Zoeken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source files committed</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T121315Z" creationid="Dirk" creationdate="20170914T121315Z">
+        <seg>Bronbestanden ingediend</seg>
       </tuv>
     </tu>
     <tu>
