@@ -27258,6 +27258,22 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Options:
+	None: Launch GUI
+	Project path only: Launch GUI and load specified project
+	team
+		Team project tool.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170914T160729Z" creationid="DiGro (Dick)" creationdate="20170914T160729Z">
+        <seg>Opties:
+	Geen: GUI starten
+	Alleen projectpad: Start GUI en laad gespecificeerde project
+	team
+		Teamproject tool.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Oracle provides JREs for Solaris SPARC/x86 (Java 1.6) and for Linux x64, Solaris x64, Windows x64 (Java 1.6) at &lt;u0&gt;http://www.oracle.com/technetwork/java/archive-139210.html&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T141518Z">
@@ -40604,6 +40620,14 @@ op regel {1}, kolom {2}.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T142648Z">
         <seg>Gebruik: &lt;l0&gt;java -jar &lt;a1&gt;OmegaT&lt;/a1&gt;.jar /pad/naar/project --mode=console-translate --tag-validation=abort&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170914T160609Z" creationid="DiGro (Dick)" creationdate="20170914T160609Z">
+        <seg>Gebruik: java -jar OmegaT.jar [&lt;opties&gt;] [&lt;projectpad&gt;]</seg>
       </tuv>
     </tu>
     <tu>
