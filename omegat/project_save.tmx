@@ -246,6 +246,25 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg># OmegaT.exe runtime configuration
+# To use a parameter, remove the '#' before the '-'
+# Memory 
+-Xmx1024M 
+# Language 
+-Duser.language=FR
+# Country 
+-Duser.country=CA</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T132525Z" creationid="Dirk" creationdate="20170914T132525Z">
+        <seg># OmegaT.exe runtime configuration
+# To use a parameter, remove the '#' before the '-'
+# Memory -Xmx1024M
+# Language -Duser.language=FR
+# Country -Duser.country=CA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg># OmegaT.exe runtime configuration # To use a parameter, remove the '#' before the '-' # Memory -Xmx1024M # Language -Duser.language=FR # Country -Duser.country=CA</seg>
       </tuv>
       <tuv lang="NL">
@@ -4052,6 +4071,14 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T140343Z">
         <seg>&lt;e0&gt;Opmerking: &lt;/e0&gt;Natuurlijk zijn er andere manieren en mogelijkheden om een eenvoudig bestand met tabgescheiden items te maken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Note:&lt;/e0&gt; the above information applies only to PDF files with a text layer.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T132224Z" creationid="Dirk" creationdate="20170914T132224Z">
+        <seg>&lt;e0&gt;Opmerking:&lt;/e0&gt; de bovenstaande informatie is alleen van toepassing voor PDF-bestanden met een tekstlaag.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19450,6 +19477,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T095451Z">
         <seg>Als u de optie TransTips hebt geactiveerd &lt;g0&gt;Opties → Transtips&lt;/g0&gt;), kunt u met rechts klikken op het geaccentueerde woord om een keuzelijst te openen met de voorgestelde vertalingen, zoals die worden aangeboden door uw woordenlijst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have a PDF file made of scanned pages (sometimes such files are referred to as ‘dead’ PDFs), you need to use an OCR (optical character recognition) program to recognize the text and convert it to a format that can be handled by OmegaT.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T132406Z" creationid="Dirk" creationdate="20170914T132406Z">
+        <seg>Indien u een PDF-bestand heeft dat bestaat uit gescande pagina's (soms wordt naar dergelijke bestanden verwezen als ‘dode’ PDFs), dient u een programma met OCR (optical character recognition) te gebruiken om de tekst te herkennen en het te converteren naar een indeling die kan worden afgehandeld door OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38424,6 +38459,14 @@ vanaf de server.</seg>
         <seg>To change the amount of memory available, edit &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; file and change change the content of &lt;string&gt;-Xmx1024M&lt;/string&gt;.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T141305Z" creationid="Dirk" creationdate="20160910T141305Z">
+        <seg>Bewerk het bestand &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; en wijzig de inhoud van &lt;string&gt;-Xmx1024M&lt;/string&gt; om de beschikbare hoeveelheid geheugen te wijzigen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To change the amount of memory available, edit &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; file and change the content of &lt;string&gt;-Xmx1024M&lt;/string&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T132702Z" creationid="Dirk" creationdate="20170914T132702Z">
         <seg>Bewerk het bestand &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; en wijzig de inhoud van &lt;string&gt;-Xmx1024M&lt;/string&gt; om de beschikbare hoeveelheid geheugen te wijzigen.</seg>
       </tuv>
     </tu>
