@@ -1648,6 +1648,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Validate tags when leaving a segment</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T122352Z" creationid="Dirk" creationdate="20170914T122303Z">
+        <seg>Tags bij het verlaten van een segment &amp;valideren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;View</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T192138Z">
@@ -8457,6 +8465,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allo&amp;w tag editing</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T122248Z" creationid="Dirk" creationdate="20170914T122248Z">
+        <seg>Be&amp;werken van tags toestaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allow only unique characters</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20130930T165802Z" creationid="Dirk" creationdate="20130930T165703Z">
@@ -13087,6 +13103,14 @@ OmegaT gebruikt de volgende bibliotheken:
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display &amp;tags</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T122412Z" creationid="Dirk" creationdate="20170914T122412Z">
+        <seg>Tag&amp;s weergeven</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display Font</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T185542Z">
@@ -13905,6 +13929,14 @@ werd project_save.tmx niet echt geüpload en SVN schakelde naar een onstabiele s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>E&amp;xport the segment to text files</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T122230Z" creationid="Dirk" creationdate="20170914T122230Z">
+        <seg>Segment naar tekstbestanden e&amp;xporteren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>E.g., if the project is EN-&gt;FR, alignDir must contain a bundle ending with _fr.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T165616Z">
@@ -14169,10 +14201,26 @@ werd project_save.tmx niet echt geüpload en SVN schakelde naar een onstabiele s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Editor</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T122140Z" creationid="Dirk" creationdate="20170914T122140Z">
+        <seg>venster Bewerken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Editor - {0}</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T192024Z">
         <seg>venster Bewerken - {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Editor Options</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T122122Z" creationid="Dirk" creationdate="20170914T122122Z">
+        <seg>Opties venster Bewerken</seg>
       </tuv>
     </tu>
     <tu>
@@ -19850,6 +19898,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T122454Z" creationid="Dirk" creationdate="20170914T122454Z">
+        <seg>Inclusie&amp;f het eerste niet-unieke segment bij het markeren van niet-unieke segmenten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Include the first non-&amp;unique segment when marking non-unique segments</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120327T162822Z">
@@ -20086,6 +20142,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T191752Z">
         <seg>&amp;Beste overeenkomst invoegen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert the &amp;source text</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T122206Z" creationid="Dirk" creationdate="20170914T122206Z">
+        <seg>De brontek&amp;st invoegen</seg>
       </tuv>
     </tu>
     <tu>
@@ -27513,6 +27577,14 @@ lokaal project zonder functionaliteit voor team.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Proxy Login</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T122536Z" creationid="Dirk" creationdate="20170914T122536Z">
+        <seg>Inloggen proxy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Proxy Login...</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T132744Z">
@@ -29201,6 +29273,14 @@ lokaal project zonder functionaliteit voor team.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save aut&amp;o-populated status</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T122329Z" creationid="Dirk" creationdate="20170914T122329Z">
+        <seg>Status voor aut&amp;omatisch vergroten van vertalingen opslaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save auto-populated status</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20140419T144056Z" creationid="Dirk" creationdate="20140419T144036Z">
@@ -30619,6 +30699,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Simplify &amp;tooltips on protected parts</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T122506Z" creationid="Dirk" creationdate="20170914T122506Z">
+        <seg>Help&amp;tips in beveiligde gedeelten vereenvoudigen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Simplify the original text</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T135930Z">
@@ -31955,6 +32043,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TM Matches</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T122428Z" creationid="Dirk" creationdate="20170914T122428Z">
+        <seg>Overeenkomsten TM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TMX file was created by OmegaT 1.4.x or earlier.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T190446Z">
@@ -32023,6 +32119,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20150417T165408Z" creationid="Dirk" creationdate="20150417T165408Z">
         <seg>Tag verwerk&amp;ing...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag Processing</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T122547Z" creationid="Dirk" creationdate="20170914T122547Z">
+        <seg>Tag verwerken</seg>
       </tuv>
     </tu>
     <tu>
@@ -32391,6 +32495,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T185410Z">
         <seg>Tea&amp;m...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T122056Z" creationid="Dirk" creationdate="20170914T122056Z">
+        <seg>Team</seg>
       </tuv>
     </tu>
     <tu>
@@ -38784,6 +38896,14 @@ Opdrachten:
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110504T162924Z">
         <seg>Als standaard vertaling gebruiken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use custom templates for modification &amp;info</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T122526Z" creationid="Dirk" creationdate="20170914T122526Z">
+        <seg>Aangepaste sjablonen voor &amp;Info over wijzigingen gebruiken</seg>
       </tuv>
     </tu>
     <tu>
