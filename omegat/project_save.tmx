@@ -2873,6 +2873,14 @@ en laad het project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>/docs/OmegaT-license.txt.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T133138Z" creationid="Dirk" creationdate="20170914T133138Z">
+        <seg>/docs/OmegaT-license.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>/images/</seg>
       </tuv>
       <tuv lang="NL">
@@ -7480,6 +7488,30 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T132942Z" creationid="Dirk" creationdate="20170914T132942Z">
         <seg>=====================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>=======================</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T133506Z" creationid="Dirk" creationdate="20170914T133506Z">
+        <seg>=======================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>===========================</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T133441Z" creationid="Dirk" creationdate="20170914T133441Z">
+        <seg>===========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>===================================</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T133226Z" creationid="Dirk" creationdate="20170914T133226Z">
+        <seg>===================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -20961,6 +20993,22 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installing OmegaT (Mac)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T133505Z" creationid="Dirk" creationdate="20170914T133505Z">
+        <seg>Installeren van OmegaT (Mac)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing OmegaT (Windows)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T133440Z" creationid="Dirk" creationdate="20170914T133440Z">
+        <seg>Installeren van OmegaT (Windows)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing and running &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T140625Z">
@@ -22503,6 +22551,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170104T180502Z" creationid="Dirk" creationdate="20170104T180502Z">
         <seg>Lokale server starten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launch the installation program.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T133455Z" creationid="Dirk" creationdate="20170914T133455Z">
+        <seg>Start het installatieprogramma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26122,6 +26178,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT requires the Java Runtime Environment (JRE) version 1.8 or higher to be</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T133302Z" creationid="Dirk" creationdate="20170914T133302Z">
+        <seg>OmegaT vereist dat de Java Runtime Environment (JRE) versie 1.8 of hoger is</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT stores your translations and proposes possible translations from similar segments registered in the translation memory files.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T124946Z">
@@ -26158,6 +26222,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T173733Z">
         <seg>OmegaT neemt dus de tuv-segmenten die overeenkomen met de taalcodes van de bron en het doel in het project en gebruiken ze respectievelijk als de bron- en doelsegmenten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT uses a number of librairies.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T133154Z" creationid="Dirk" creationdate="20170914T133154Z">
+        <seg>OmegaT gebruikt een aantal bibliotheken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27962,6 +28034,14 @@ of er nog aanvullende stappen moeten worden uitgevoerd.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T142405Z">
         <seg>Vooraf vereist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Prerequisites for installing OmegaT</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T133225Z" creationid="Dirk" creationdate="20170914T133225Z">
+        <seg>Vereisten voor installeren van OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -35570,6 +35650,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The license of each library is mentionned</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T133211Z" creationid="Dirk" creationdate="20170914T133211Z">
+        <seg>De licentie van elk bibliotheek is vermeld</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The licenses for most software and other practical works are designed</seg>
       </tuv>
       <tuv lang="NL">
@@ -40035,6 +40123,14 @@ Exacte zoekacties komen overeen met de gehele zoekterm.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unpack the OmegaT .zip archive to obtain a folder that contains a</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T133552Z" creationid="Dirk" creationdate="20170914T133552Z">
+        <seg>Pak het OmegaT .zip-archief uit om een map te krijgen die een</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unpack/untar the downloaded file.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T140819Z">
@@ -41175,6 +41271,14 @@ Opdrachten:
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T130805Z">
         <seg>Garantie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We recommend using OmegaT packages that include the JRE, to save you the</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T133352Z" creationid="Dirk" creationdate="20170914T133352Z">
+        <seg>We bevelen aan OmegaT-pakketten te gebruiken die de JRE bevatten, om u het</seg>
       </tuv>
     </tu>
     <tu>
@@ -42531,6 +42635,14 @@ Zowel exacte als zoekacties op sleutelwoorden ondersteunen de jokertekens * en ?
       <tuv lang="NL" changeid="DiGro" changedate="20110112T185846Z">
         <seg>U vindt gedetailleerde statistische informatie in het bestand:
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can find the text of the license in</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T133137Z" creationid="Dirk" creationdate="20170914T133137Z">
+        <seg>U vindt de tekst van de licentie in</seg>
       </tuv>
     </tu>
     <tu>
@@ -45064,6 +45176,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>documentation file and the OmegaT application.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T133622Z" creationid="Dirk" creationdate="20170914T133622Z">
+        <seg>documentatiebestand en de toepassing OmegaT bevat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>documentation.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T104241Z">
@@ -47018,6 +47138,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>in /lib/licenses/Licenses.txt.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T133212Z" creationid="Dirk" creationdate="20170914T133212Z">
+        <seg>in /lib/licenses/Licenses.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>in a country, would infringe one or more identifiable patents in that</seg>
       </tuv>
       <tuv lang="NL">
@@ -47184,6 +47312,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T103851Z">
         <seg>OmegaT te starten, als u dat wilt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>installed on your system.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T133313Z" creationid="Dirk" creationdate="20170914T133313Z">
+        <seg>geïnstalleerd op uw systeem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51904,6 +52040,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T104144Z" creationid="Dirk" creationdate="20160911T104144Z">
         <seg>trilead-ssh2-1.0.0-build220 (Trilead SSH-licentie)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>trouble of selecting, obtaining and installing it.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T133421Z" creationid="Dirk" creationdate="20170914T133421Z">
+        <seg>probleem van selecteren, verkrijgen en installeren te besparen.</seg>
       </tuv>
     </tu>
     <tu>
