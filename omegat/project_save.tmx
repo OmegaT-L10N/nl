@@ -608,6 +608,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Built-in (LanguageTool {0})</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T123117Z" creationid="Dirk" creationdate="20170914T123117Z">
+        <seg>Inge&amp;bouwd (LanguageTool {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Cancel</seg>
       </tuv>
       <tuv lang="NL">
@@ -988,6 +996,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20130416T150600Z">
         <seg>&amp;Laatste wijzigingen...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Launch local server</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T123125Z" creationid="Dirk" creationdate="20170914T123125Z">
+        <seg>&amp;Lokale server starten</seg>
       </tuv>
     </tu>
     <tu>
@@ -1540,6 +1556,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T185353Z">
         <seg>&amp;Statistieken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Store for this session only</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T123423Z" creationid="Dirk" creationdate="20170914T123423Z">
+        <seg>&amp;Store for this session only</seg>
       </tuv>
     </tu>
     <tu>
@@ -7705,6 +7729,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>API Key:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T123329Z" creationid="Dirk" creationdate="20170914T123329Z">
+        <seg>API-sleutel:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>API keys can be requested using &lt;u0&gt;API key request form&lt;/u0&gt;, and viewed on &lt;u1&gt;My Keys&lt;/u1&gt; page.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T142337Z">
@@ -8273,6 +8305,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aggressive &amp;Font Fallback</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T123219Z" creationid="Dirk" creationdate="20170914T123219Z">
+        <seg>Agressie&amp;f terugvallen op lettertype</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aggressive Font Fallback</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20150914T102154Z" creationid="Dirk" creationdate="20150914T102154Z">
@@ -8637,6 +8677,14 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T134710Z">
         <seg>Alternatieve locaties voor sommige mappen kunnen worden gekozen bij het maken van het project of tijdens de vertaling.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alternative Language</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T123253Z" creationid="Dirk" creationdate="20170914T123253Z">
+        <seg>Alternatieve taal</seg>
       </tuv>
     </tu>
     <tu>
@@ -14325,6 +14373,14 @@ werd project_save.tmx niet echt geüpload en SVN schakelde naar een onstabiele s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Email:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T123323Z" creationid="Dirk" creationdate="20170914T123323Z">
+        <seg>E-mail:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Emptiness of soul&lt;p&gt;Forever aching blackness&lt;p&gt;Your help page not found</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T185904Z">
@@ -14793,6 +14849,14 @@ werd project_save.tmx niet echt geüpload en SVN schakelde naar een onstabiele s
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20140813T173212Z" creationid="Dirk" creationdate="20140813T173212Z">
         <seg>Fout bij bijwerken woordenboekbestand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error while reading MT results</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T123316Z" creationid="Dirk" creationdate="20170914T123316Z">
+        <seg>Fout bij het lezen van resultaten van MT</seg>
       </tuv>
     </tu>
     <tu>
@@ -22656,6 +22720,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark &amp;Auto-Populated Segments</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T123207Z" creationid="Dirk" creationdate="20170914T123207Z">
+        <seg>Segmenten van &amp;Automatisch vergroten van vertalingen markeren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark &amp;Bidirectional Algorithm Control Characters</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20130512T110634Z">
@@ -22724,6 +22796,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T192141Z">
         <seg>Niet-&amp;unieke segmenten markeren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Non-Unique Se&amp;gments</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T123150Z" creationid="Dirk" creationdate="20170914T123150Z">
+        <seg>Niet-unieke se&amp;gmenten markeren</seg>
       </tuv>
     </tu>
     <tu>
@@ -23108,6 +23188,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20121207T201338Z">
         <seg>Microsoft Translator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Microsoft Translator Subscription Key not available.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T123415Z" creationid="Dirk" creationdate="20170914T123415Z">
+        <seg>Microsoft Translator Subscription Key niet beschikbaar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24917,6 +25005,14 @@ OmegaT 4.0, Lees Mij-bestand</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT Javadoc...</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T123447Z" creationid="Dirk" creationdate="20170914T123447Z">
+        <seg>OmegaT Javadoc...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT Project Files</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T190109Z">
@@ -25081,6 +25177,14 @@ OmegaT 4.0, Lees Mij-bestand</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160906T170902Z" creationid="Dirk" creationdate="20160906T170902Z">
         <seg>OmegaT heeft een 2.6-stijl teamproject gedetecteerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT has detected a 3.6-style team project.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T123519Z" creationid="Dirk" creationdate="20170914T123519Z">
+        <seg>OmegaT heeft een 3.6-stijl teamproject gedetecteerd.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27075,6 +27179,14 @@ of er nog aanvullende stappen moeten worden uitgevoerd.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Premium Edition</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T123350Z" creationid="Dirk" creationdate="20170914T123350Z">
+        <seg>Premium Edition</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Prerequisites</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T142405Z">
@@ -27121,6 +27233,14 @@ lokaal project zonder functionaliteit voor team.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160906T170957Z" creationid="Dirk" creationdate="20160906T170957Z">
         <seg>Druk op 'OK' om het project naar een 4.0-stijl teamproject te converteren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press 'OK' to convert the project into a 4.x-style team project.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T123556Z" creationid="Dirk" creationdate="20170914T123556Z">
+        <seg>Druk op 'OK' om het project te converteren naar 4.x-stijl teamproject.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28257,6 +28377,14 @@ lokaal project zonder functionaliteit voor team.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T142842Z">
         <seg>Onthoud waar u het project maakt, omdat u er later naar terug moet keren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remote &amp;server</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T123135Z" creationid="Dirk" creationdate="20170914T123135Z">
+        <seg>Server op af&amp;stand</seg>
       </tuv>
     </tu>
     <tu>
@@ -30327,6 +30455,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select a Script File</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T123438Z" creationid="Dirk" creationdate="20170914T123438Z">
+        <seg>Een scriptbestand selecteren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select it and confirm with OK.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T140842Z">
@@ -31839,6 +31975,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Subscription Key:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T123356Z" creationid="Dirk" creationdate="20170914T123356Z">
+        <seg>Subscription Key:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Subsequent clicks on  OmegaT.jnlp</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T103606Z">
@@ -32123,6 +32267,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T122428Z" creationid="Dirk" creationdate="20170914T122428Z">
         <seg>Overeenkomsten TM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TM Matching Options</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T123238Z" creationid="Dirk" creationdate="20170914T123238Z">
+        <seg>Opties overeenkomsten TM</seg>
       </tuv>
     </tu>
     <tu>
@@ -35251,6 +35403,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160906T170540Z" creationid="Dirk" creationdate="20160906T170540Z">
         <seg>Het gespecificeerde project is een OmegaT 2.6-stijl teamproject.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The specified project is an OmegaT 3.6-style team project.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T123504Z" creationid="Dirk" creationdate="20170914T123504Z">
+        <seg>Het gespecificeerde project is een OmegaT 3.6-stijl teamproject.</seg>
       </tuv>
     </tu>
     <tu>
