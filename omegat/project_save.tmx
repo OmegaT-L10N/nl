@@ -1943,6 +1943,14 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Windows Explorer), change the settings so that file extensions are displayed.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T134411Z" creationid="Dirk" creationdate="20170914T134334Z">
+        <seg>maar niet OmegaT.exe, wijzig dan de instellingen zodat de bestandsextensies worden weergegeven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(X)HTML (*.html, *.xhtml,*.xht)</seg>
       </tuv>
       <tuv lang="NL">
@@ -7492,6 +7500,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>======================</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T134418Z" creationid="Dirk" creationdate="20170914T134418Z">
+        <seg>======================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>=======================</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T133506Z" creationid="Dirk" creationdate="20170914T133506Z">
@@ -7504,6 +7520,14 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T133712Z" creationid="Dirk" creationdate="20170914T133712Z">
         <seg>=========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>==========================</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T134217Z" creationid="Dirk" creationdate="20170914T134217Z">
+        <seg>==========================</seg>
       </tuv>
     </tu>
     <tu>
@@ -7528,6 +7552,14 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T134037Z" creationid="Dirk" creationdate="20170914T134037Z">
         <seg>=========================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>===========================================================</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T134133Z" creationid="Dirk" creationdate="20170914T134133Z">
+        <seg>===========================================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -14182,6 +14214,14 @@ OmegaT gebruikt de volgende bibliotheken:
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Double-click on the OmegaT application.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T134726Z" creationid="Dirk" creationdate="20170914T134726Z">
+        <seg>Dubbelklik op de toepassing OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Double-click on the file OmegaT.app.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T103925Z">
@@ -19425,6 +19465,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you can see the file OmegaT but not OmegaT.exe in your File Manager</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T134330Z" creationid="Dirk" creationdate="20170914T134330Z">
+        <seg>Als u het bestand OmegaT wel in uw bestandsbeheer (Windows Verkenner) kunt zien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you can't run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (no graphical environment available): copy the settings files from some other &lt;a1&gt;OmegaT&lt;/a1&gt; installation on another machine to a specific folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T142434Z">
@@ -19565,6 +19613,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T133942Z" creationid="Dirk" creationdate="20160910T133942Z">
         <seg>Als u een krachtige machine heeft, en/of als u vindt dat de schuifbalk zich niet gedraagt gedurende het progressief laden, kunt u dit aantal verhogen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have already Java installed on your system, one way to install OmegaT</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T134152Z" creationid="Dirk" creationdate="20170914T134152Z">
+        <seg>Als u al Java hebt is één manier om de huidige versie van OmegaT te installeren </seg>
       </tuv>
     </tu>
     <tu>
@@ -19876,6 +19932,14 @@ their defaults as a result of the location change.</seg>
         <seg>If, during installation, you have created a shortcut on the desktop,</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T103912Z">
+        <seg>Als u, gedurende de installatie, een snelkoppeling op het bureaublad hebt gemaakt,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If, during installation, you have created a shortcut on the desktop, double-</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T134226Z" creationid="Dirk" creationdate="20170914T134226Z">
         <seg>Als u, gedurende de installatie, een snelkoppeling op het bureaublad hebt gemaakt,</seg>
       </tuv>
     </tu>
@@ -22599,6 +22663,22 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T103909Z">
         <seg>OmegaT starten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launching OmegaT (Mac)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T134417Z" creationid="Dirk" creationdate="20170914T134343Z">
+        <seg>Starten van OmegaT (Mac)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launching OmegaT (Windows)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T134217Z" creationid="Dirk" creationdate="20170914T134217Z">
+        <seg>Starten van OmegaT (Windows)</seg>
       </tuv>
     </tu>
     <tu>
@@ -26462,6 +26542,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>OmegaT.bat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT.exe to the start menu, the desktop or the quick launch area to link it</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T134302Z" creationid="Dirk" creationdate="20170914T134302Z">
+        <seg>naar het startmenu, op het bureaublad en in het gebied voor snel starten</seg>
       </tuv>
     </tu>
     <tu>
@@ -35641,6 +35729,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The install program can create shortcuts for you in the start menu, on the</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T134244Z" creationid="Dirk" creationdate="20170914T134244Z">
+        <seg>Het installatieprogramma kan voor u snelkoppelingen maken in het menu Start,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The items are not separated with a TAB character.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T140406Z">
@@ -40907,6 +41003,14 @@ Opdrachten:
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using Java Web Start for installing OmegaT (all platforms)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T134132Z" creationid="Dirk" creationdate="20170914T134132Z">
+        <seg>Java Web Start gebruiken voor het installeren van OmegaT (alle platforms)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using TMX with alternative language pairs</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T173953Z">
@@ -42552,6 +42656,14 @@ Zowel exacte als zoekacties op sleutelwoorden ondersteunen de jokertekens * en ?
         <seg>You can also manually drag</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T103947Z">
+        <seg>U kunt ook handmatig het bestand OmegaT.exe slepen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also manually drag the file</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T134253Z" creationid="Dirk" creationdate="20170914T134253Z">
         <seg>U kunt ook handmatig het bestand OmegaT.exe slepen</seg>
       </tuv>
     </tu>
@@ -44768,6 +44880,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>click on that shortcut.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T134236Z" creationid="Dirk" creationdate="20170914T134236Z">
+        <seg>klik dan op die snelkoppeling.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>close the project</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T165700Z">
@@ -45180,6 +45300,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T135629Z">
         <seg>standaard uitvulling, die wordt gedefinieerd door de taal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>desktop and in the quick launch area.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T134250Z" creationid="Dirk" creationdate="20170914T134250Z">
+        <seg>op het bureaublad en in het gebied voor snel starten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46086,6 +46214,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>from the Corresponding Source as a System Library, need not be</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>from there.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T134312Z" creationid="Dirk" creationdate="20170914T134312Z">
+        <seg>om het van daaruit te koppelen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47528,6 +47664,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T170048Z">
         <seg>wordt niet betrokken in de statistieken,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>is to use Java Web Start.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T134201Z" creationid="Dirk" creationdate="20170914T134201Z">
+        <seg>Java Web Start gebruiken</seg>
       </tuv>
     </tu>
     <tu>
