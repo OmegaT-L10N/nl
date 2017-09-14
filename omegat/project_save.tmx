@@ -544,6 +544,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Apply to all</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T124656Z" creationid="Dirk" creationdate="20170914T124656Z">
+        <seg>Op &amp;alles toepassen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Auto-propagation of Translations</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20121207T200800Z">
@@ -3544,6 +3552,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;br&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T125052Z" creationid="Dirk" creationdate="20170914T125052Z">
+        <seg>&lt;br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;c0&gt;&lt;event&gt;&lt;/c0&gt; can be: &lt;e1&gt;typed&lt;/e1&gt;, &lt;e2&gt;pressed&lt;/e2&gt;, &lt;e3&gt;released&lt;/e3&gt;</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T131109Z">
@@ -4524,6 +4540,14 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160906T171411Z" creationid="Dirk" creationdate="20160906T171411Z">
         <seg>&lt;html&gt;URL van opslagplaats of project&lt;br&gt;bestand (omegat.project) :&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;html&gt;Term: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Glossaries:&lt;br&gt;{1}&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T125044Z" creationid="Dirk" creationdate="20170914T125044Z">
+        <seg>&lt;html&gt;Term: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Woordenlijsten:&lt;br&gt;{1}&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13799,6 +13823,14 @@ OmegaT gebruikt de volgende bibliotheken:
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20140813T172912Z" creationid="Dirk" creationdate="20140813T172912Z">
         <seg>Domeinen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Don't Ask What to Check First</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T124809Z" creationid="Dirk" creationdate="20170914T124809Z">
+        <seg>Niet vragen wat als eerste te controleren</seg>
       </tuv>
     </tu>
     <tu>
@@ -32607,6 +32639,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tag Issues</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T124857Z" creationid="Dirk" creationdate="20170914T124826Z">
+        <seg>Problemen met tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tag Process&amp;ing...</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20150417T165408Z" creationid="Dirk" creationdate="20150417T165408Z">
@@ -33107,6 +33147,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T124523Z" creationid="Dirk" creationdate="20170914T124523Z">
         <seg>Terminologie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Terminology Issues</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T124916Z" creationid="Dirk" creationdate="20170914T124916Z">
+        <seg>Problemen met terminologie</seg>
       </tuv>
     </tu>
     <tu>
@@ -34306,6 +34354,14 @@ instead.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T095138Z">
         <seg>De afbeelding hierboven heeft de sjabloon weer voor de standaard weergave van overeenkomsten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The file "{0}" is not supported.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T124721Z" creationid="Dirk" creationdate="20170914T124721Z">
+        <seg>Het bestand "{0}" wordt niet ondersteund.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35667,6 +35723,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20150713T071126Z" creationid="Dirk" creationdate="20150713T071126Z">
         <seg>De gespecificeerde map voor het woordenboek bestaat niet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The specified files are not supported.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T124747Z" creationid="Dirk" creationdate="20170914T124747Z">
+        <seg>De gespecificeerde bestanden worden niet ondersteund.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42153,6 +42217,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T191755Z">
         <seg>[fuzzy]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[{0}] “{1}” in source; expected one of {2} in target</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T125019Z" creationid="Dirk" creationdate="20170914T125019Z">
+        <seg>[{0}] “{1}” in bron; verwacht een van {2} in doel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[{0}] “{1}” in source; expected “{2}” in target</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T124958Z" creationid="Dirk" creationdate="20170914T124958Z">
+        <seg>[{0}] “{1}” in bron; verwacht “{2}” in doel</seg>
       </tuv>
     </tu>
     <tu>
@@ -51713,6 +51793,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{0} toggles orientation between LTR, RTL, and language-dependent</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T124635Z" creationid="Dirk" creationdate="20170914T124635Z">
+        <seg>{0} schakelt de richting tussen LTR, RTL en taalafhankelijk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{0} x{1}</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170104T181220Z" creationid="Dirk" creationdate="20170104T181220Z">
@@ -51745,6 +51833,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{0}.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T125046Z" creationid="Dirk" creationdate="20170914T125046Z">
+        <seg>{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{0}/{1}</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20140419T144556Z" creationid="Dirk" creationdate="20140419T144556Z">
@@ -51765,6 +51861,30 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T192045Z">
         <seg>{1}, uitgevoerd vanaf '{2}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{1}: &lt;b&gt;{2}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T125047Z" creationid="Dirk" creationdate="20170914T125047Z">
+        <seg>{1}: &lt;b&gt;{2}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“{0}”</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T125024Z" creationid="Dirk" creationdate="20170914T125024Z">
+        <seg>“{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“{0}” ({1})</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T125026Z" creationid="Dirk" creationdate="20170914T125026Z">
+        <seg>“{0}” ({1})</seg>
       </tuv>
     </tu>
     <tu>
