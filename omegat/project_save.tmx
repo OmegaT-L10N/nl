@@ -7500,6 +7500,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>=========================</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T133712Z" creationid="Dirk" creationdate="20170914T133712Z">
+        <seg>=========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>===========================</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T133441Z" creationid="Dirk" creationdate="20170914T133441Z">
@@ -7512,6 +7520,14 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T133226Z" creationid="Dirk" creationdate="20170914T133226Z">
         <seg>===================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>=========================================</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T134037Z" creationid="Dirk" creationdate="20170914T134037Z">
+        <seg>=========================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -20993,10 +21009,26 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installing OmegaT (Linux)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T133711Z" creationid="Dirk" creationdate="20170914T133711Z">
+        <seg>Installeren van OmegaT (Linux)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing OmegaT (Mac)</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T133505Z" creationid="Dirk" creationdate="20170914T133505Z">
         <seg>Installeren van OmegaT (Mac)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing OmegaT (Solaris, FreeBSD, ...)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T134035Z" creationid="Dirk" creationdate="20170914T134035Z">
+        <seg>Installeren van OmegaT (Solaris, FreeBSD, ...)</seg>
       </tuv>
     </tu>
     <tu>
@@ -24227,6 +24259,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move the folder to an</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T133633Z" creationid="Dirk" creationdate="20170914T133633Z">
+        <seg>Verplaats de map naar een</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moves one segment back in history</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T162930Z">
@@ -26074,6 +26114,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is then ready</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T133803Z" creationid="Dirk" creationdate="20170914T133803Z">
+        <seg>OmegaT is dan klaar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T103549Z">
@@ -27618,6 +27666,14 @@ everything.</seg>
         <seg>Plaats de bronbestanden in ./source en aanvullend
 materiaal in ./tm, ./glossary, en ./dictionary zoals vereist, dien daarna
 alles in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Place the archive in any suitable folder and unpack it.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T134041Z" creationid="Dirk" creationdate="20170914T133756Z">
+        <seg>Plaats het archief in een geschikte map en pak het uit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39152,6 +39208,14 @@ vanaf de server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To use this script, open a</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T133927Z" creationid="Dirk" creationdate="20170914T133927Z">
+        <seg>Open, om dit script te gebruiken, een</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Toggle Selected</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160906T172921Z" creationid="Dirk" creationdate="20160906T172921Z">
@@ -42679,6 +42743,14 @@ Zowel exacte als zoekacties op sleutelwoorden ondersteunen de jokertekens * en ?
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can however obtain a neater and more user-friendly installation by using</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T133848Z" creationid="Dirk" creationdate="20170914T133848Z">
+        <seg>U kunt echter een meer nette en gebruikersvriendelijker installatie verkrijgen door</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can launch OmegaT from the command line with a script that includes start-up options or you can click on &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt; to launch it directly.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T140848Z">
@@ -43920,6 +43992,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>and the linux-install.sh script, and execute the script with ./linux-</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T134025Z" creationid="Dirk" creationdate="20170914T134025Z">
+        <seg>en het script linux-install.sh, en voer het script uit met ./linux-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>and then start OmegaT.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T103607Z">
@@ -43996,6 +44076,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>apply only to part of the Program, that part may be used separately</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>appropriate location such as the Applications folder.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T133655Z" creationid="Dirk" creationdate="20170914T133655Z">
+        <seg>toepasselijke locatie, zoals de map Applications.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47296,6 +47384,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T103806Z" creationid="Dirk" creationdate="20160911T103806Z">
         <seg>installeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>install.sh.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T134026Z" creationid="Dirk" creationdate="20170914T134026Z">
+        <seg>install.sh.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51244,6 +51340,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>terminal window (console), change folder to the folder containing OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T133957Z" creationid="Dirk" creationdate="20170914T133957Z">
+        <seg>venster voor de terminal (console), wijzig de folder naar de folder die OmegaT.jar bevat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>terms of section 4, provided that you also meet all of these conditions:</seg>
       </tuv>
       <tuv lang="NL">
@@ -51472,6 +51576,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T103948Z">
         <seg>naar het startmenu, op het bureaublad en in het gebied voor snel starten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the installation script (linux-install.sh).</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T133905Z" creationid="Dirk" creationdate="20170914T133905Z">
+        <seg>het script voor installatie (linux-install.sh) te gebruiken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51800,6 +51912,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>to attach them to the start of each source file to most effectively</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>to be launched.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T133813Z" creationid="Dirk" creationdate="20170914T133813Z">
+        <seg>om te worden gestart.</seg>
       </tuv>
     </tu>
     <tu>
