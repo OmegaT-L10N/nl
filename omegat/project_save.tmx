@@ -39699,8 +39699,9 @@ vanaf de server.</seg>
         <seg>Translated file path cannot be identical to the source file path:
 {0}</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20160911T113257Z">
-        <seg>Als standaard heeft het vertaalde bestand dezelfde codering als de codering van het bronbestand.</seg>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T135618Z">
+        <seg>Als standaard heeft het vertaalde bestand dezelfde codering als de codering van het bronbestand:
+{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -40925,8 +40926,8 @@ Opdrachten:
       <tuv lang="EN">
         <seg>Used to display the user manual (open with &lt;k0&gt;F1&lt;/k0&gt;)</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20160910T174205Z" creationid="Dirk" creationdate="20160910T174205Z">
-        <seg>Gebruikt om de gebruikershandleiding weer te geven (openen met &lt;k0&gt;F1&lt;/k0&gt;, sluiten met &lt;k1&gt;Esc&lt;/k1&gt;)</seg>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T135657Z" creationid="Dirk" creationdate="20160910T174205Z">
+        <seg>Gebruikt om de gebruikershandleiding weer te geven (openen met &lt;k0&gt;F1&lt;/k0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
