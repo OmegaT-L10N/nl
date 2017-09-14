@@ -7889,6 +7889,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ASCII Only</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T130351Z" creationid="Dirk" creationdate="20170914T130351Z">
+        <seg>Alleen ASCII</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ASCII text (.txt, etc.)</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T135426Z">
@@ -8597,6 +8605,14 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>All other non-permissive additional terms are considered "further</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All preferences protected by the master password will be reset.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T130231Z" creationid="Dirk" creationdate="20170914T130231Z">
+        <seg>Alle door het hoofdwachtwoord beveiligde voorkeuren worden hersteld.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9393,6 +9409,14 @@ Het TMX-bestand zal niet worden geladen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Are you sure you want to reset the master password?</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T130205Z" creationid="Dirk" creationdate="20170914T130205Z">
+        <seg>Weet u zeker dat u het hoofdwachtwoord wilt herstellen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Arguments are added after the initial &lt;e0&gt;"java"&lt;/e0&gt;, and before the &lt;e1&gt;"-jar &lt;a2&gt;OmegaT&lt;/a2&gt;.jar"&lt;/e1&gt;.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T141958Z">
@@ -10111,6 +10135,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T130055Z">
         <seg>Bosnisch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Both</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T130403Z" creationid="Dirk" creationdate="20170914T130403Z">
+        <seg>Beide</seg>
       </tuv>
     </tu>
     <tu>
@@ -15133,6 +15165,14 @@ werd project_save.tmx niet echt geüpload en SVN schakelde naar een onstabiele s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Escape</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T130337Z" creationid="Dirk" creationdate="20170914T130337Z">
+        <seg>Escape</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Escaped binary char contains malformed data ({0})!</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T190323Z">
@@ -17242,6 +17282,14 @@ werd project_save.tmx niet echt geüpload en SVN schakelde naar een onstabiele s
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T145018Z">
         <seg>Ga naar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to Preferences &gt; External Search to enable.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T130438Z" creationid="Dirk" creationdate="20170914T130438Z">
+        <seg>Ga naar Voorkeuren &gt; Extern zoeken om in te schakelen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21295,6 +21343,30 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Item has neither URLs nor commands.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T130524Z" creationid="Dirk" creationdate="20170914T130524Z">
+        <seg>Item heeft URL's noch opdrachten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Item is missing scope</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T130542Z" creationid="Dirk" creationdate="20170914T130542Z">
+        <seg>Item ontbreekt bereik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Item name is empty or missing</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T130504Z" creationid="Dirk" creationdate="20170914T130504Z">
+        <seg>Naam van het item is leeg of ontbreekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Item:</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20141020T094741Z" creationid="Dirk" creationdate="20141020T094741Z">
@@ -24056,6 +24128,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Name: {0}</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T130531Z" creationid="Dirk" creationdate="20170914T130531Z">
+        <seg>Naam: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Nauru</seg>
       </tuv>
       <tuv lang="NL">
@@ -24384,6 +24464,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Non-ASCII Only</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T130400Z" creationid="Dirk" creationdate="20170914T130400Z">
+        <seg>Alleen geen ASCII</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Non-GUI mode options:
 	--quiet
 		Reduce output to command line stdout.</seg>
@@ -24452,6 +24540,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>None</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T130342Z" creationid="Dirk" creationdate="20170914T130342Z">
+        <seg>Geen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Normal</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160906T173706Z" creationid="Dirk" creationdate="20160906T173706Z">
@@ -24512,6 +24608,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T130400Z">
         <seg>Noors Nynorsk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Not Set</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T130129Z" creationid="Dirk" creationdate="20170914T130129Z">
+        <seg>Niet ingesteld</seg>
       </tuv>
     </tu>
     <tu>
@@ -27637,6 +27741,14 @@ lokaal project zonder functionaliteit voor team.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press the keyboard shortcut you wish to assign, then click OK.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T130330Z" creationid="Dirk" creationdate="20170914T130330Z">
+        <seg>Druk op de toetsencombinatie van de sneltoets die u wilt toewijzen en klik dan op OK.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt; displays the last already opened Search window (instead of opening a new one).</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T155258Z" creationid="Dirk" creationdate="20160910T155258Z">
@@ -27905,6 +28017,14 @@ lokaal project zonder functionaliteit voor team.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T192100Z">
         <seg>Project gesloten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project commands are disabled for security reasons.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T130420Z" creationid="Dirk" creationdate="20170914T130420Z">
+        <seg>Projectopdrachten zijn om veiligheidsredenen uitgeschakeld.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29305,6 +29425,14 @@ lokaal project zonder functionaliteit voor team.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20150413T104942Z" creationid="Dirk" creationdate="20150413T104942Z">
         <seg>&amp;Alle kleuren herstellen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reset Master Password</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T130144Z" creationid="Dirk" creationdate="20170914T130144Z">
+        <seg>Hoofdwachtwoord herstellen</seg>
       </tuv>
     </tu>
     <tu>
@@ -31039,6 +31167,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Set</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T130135Z" creationid="Dirk" creationdate="20170914T130119Z">
+        <seg>Ingesteld</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Set &amp; Stored</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T130108Z" creationid="Dirk" creationdate="20170914T130108Z">
@@ -31203,6 +31339,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20130930T165427Z" creationid="Dirk" creationdate="20130930T165427Z">
         <seg>Sneltoets</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shortcut:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T130236Z" creationid="Dirk" creationdate="20170914T130236Z">
+        <seg>Sneltoets:</seg>
       </tuv>
     </tu>
     <tu>
@@ -39100,6 +39244,14 @@ Exacte zoekacties komen overeen met de gehele zoekterm.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160906T161808Z" creationid="Dirk" creationdate="20160906T161808Z">
         <seg>URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL is missing URL string</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T130613Z" creationid="Dirk" creationdate="20170914T130613Z">
+        <seg>URL ontbreekt in tekenreeks van URL</seg>
       </tuv>
     </tu>
     <tu>
