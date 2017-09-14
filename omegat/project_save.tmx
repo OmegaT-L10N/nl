@@ -584,6 +584,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Automatically fetch translations</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T125925Z" creationid="Dirk" creationdate="20170914T125925Z">
+        <seg>&amp;Automatisch vertalingen ophalen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Back</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T184816Z">
@@ -612,6 +620,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T190041Z">
         <seg>&amp;Bladeren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Browse Online</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T125841Z" creationid="Dirk" creationdate="20170914T125841Z">
+        <seg>Online &amp;bladeren</seg>
       </tuv>
     </tu>
     <tu>
@@ -1392,6 +1408,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Reset Master Password</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T130048Z" creationid="Dirk" creationdate="20170914T130048Z">
+        <seg>Hoofdwachtwoord he&amp;rstellen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Reset Options</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T121448Z" creationid="Dirk" creationdate="20170914T121448Z">
@@ -1676,6 +1700,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T190037Z">
         <seg>&amp;Taal vertaalde documenten:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Undo Changes</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T125726Z" creationid="Dirk" creationdate="20170914T125726Z">
+        <seg>&amp;Wijzigingen ongedaan maken</seg>
       </tuv>
     </tu>
     <tu>
@@ -7689,6 +7721,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A restart is required in order to apply these changes</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T125800Z" creationid="Dirk" creationdate="20170914T125800Z">
+        <seg>Opnieuw opstarten is vereist om deze wijzigingen door te voeren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A search may be limited to 1000 items, so if you search on a common phrase, the editor then shows only those 1000 matching entries, and not all entries that match the search criteria.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T171930Z">
@@ -9269,6 +9309,14 @@ Het TMX-bestand zal niet worden geladen.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T143916Z">
         <seg>Apertium gebruikt een oppervlakkig overdrachtprogramma voor machinevertaling die de invoer in gedeelten verwerkt, zoals in een lopende band: opmaak verwijderen, morfologische analyses, doorverwijzen van spraakgedeelten, oppervlakkige structurele overdracht, lexicografische overdracht, morfologische generatie, en opnieuw opmaken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Appearance</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T125939Z" creationid="Dirk" creationdate="20170914T125939Z">
+        <seg>Uiterlijk</seg>
       </tuv>
     </tu>
     <tu>
@@ -11555,6 +11603,14 @@ OmegaT gebruikt de volgende bibliotheken:
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20121207T201259Z">
         <seg>Witruimte in vertaalde document comprimeren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Con&amp;figure</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T125915Z" creationid="Dirk" creationdate="20170914T125915Z">
+        <seg>Con&amp;figureren</seg>
       </tuv>
     </tu>
     <tu>
@@ -17890,6 +17946,14 @@ werd project_save.tmx niet echt geüpload en SVN schakelde naar een onstabiele s
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>I Understand; Do It Anyway</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T125631Z" creationid="Dirk" creationdate="20170914T125631Z">
+        <seg>Ik begrijp het; doe het toch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>I was not sure&lt;/e0&gt;." should be split into two segments.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T172014Z">
@@ -23112,6 +23176,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Master Password:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T130034Z" creationid="Dirk" creationdate="20170914T130034Z">
+        <seg>Hoofdwachtwoord:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Match Statistics</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T190013Z">
@@ -25365,6 +25437,14 @@ OmegaT 4.0, Lees Mij-bestand</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T130026Z" creationid="Dirk" creationdate="20170914T130026Z">
+        <seg>OmegaT versleutelt gevoelige wachtwoorden en API-sleutels met een hoofdwachtwoord.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT exports version 1.4 TMX files (both level 1 and level 2).</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T173823Z">
@@ -27347,6 +27427,14 @@ of er nog aanvullende stappen moeten worden uitgevoerd.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Plugins</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T125830Z" creationid="Dirk" creationdate="20170914T125830Z">
+        <seg>Plug-ins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Poisson</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160906T173710Z" creationid="Dirk" creationdate="20160906T173710Z">
@@ -27415,6 +27503,22 @@ of er nog aanvullende stappen moeten worden uitgevoerd.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160906T171600Z" creationid="Dirk" creationdate="20160906T171600Z">
         <seg>Vooraf gedefinieerde inloggegevens niet doorgegeven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preferences</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T125637Z" creationid="Dirk" creationdate="20170914T125637Z">
+        <seg>Voorkeuren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preferences - {0}</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T125648Z" creationid="Dirk" creationdate="20170914T125648Z">
+        <seg>Voorkeuren - {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -28017,6 +28121,14 @@ lokaal project zonder functionaliteit voor team.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>Protecting Users' Legal Rights From Anti-Circumvention Law.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Provider</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T125931Z" creationid="Dirk" creationdate="20170914T125931Z">
+        <seg>Provider</seg>
       </tuv>
     </tu>
     <tu>
@@ -29221,6 +29333,14 @@ lokaal project zonder functionaliteit voor team.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Restore &amp;Defaults</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T125740Z" creationid="Dirk" creationdate="20170914T125740Z">
+        <seg>Stan&amp;daarden herstellen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Restore De&amp;faults</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T184826Z">
@@ -29959,6 +30079,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search ({0})</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T125656Z" creationid="Dirk" creationdate="20170914T125656Z">
+        <seg>Zoeken ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search Project</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T163003Z">
@@ -30107,6 +30235,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120513T145130Z">
         <seg>Seconden:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Secure Store</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T125951Z" creationid="Dirk" creationdate="20170914T125951Z">
+        <seg>Veilig opslaan</seg>
       </tuv>
     </tu>
     <tu>
@@ -30727,6 +30863,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select a Category</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T125708Z" creationid="Dirk" creationdate="20170914T125708Z">
+        <seg>Een categorie selecteren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select a Script File</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T123438Z" creationid="Dirk" creationdate="20170914T123438Z">
@@ -30891,6 +31035,22 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170104T180516Z" creationid="Dirk" creationdate="20170104T180516Z">
         <seg>Type service</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set &amp; Stored</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T130108Z" creationid="Dirk" creationdate="20170914T130108Z">
+        <seg>Ingesteld &amp; opgeslagen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set My Own Password</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T125617Z" creationid="Dirk" creationdate="20170914T125617Z">
+        <seg>Mijn eigen wachtwoord instellen</seg>
       </tuv>
     </tu>
     <tu>
@@ -34238,6 +34398,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The current project must be reloaded in order to apply these changes</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T125825Z" creationid="Dirk" creationdate="20170914T125825Z">
+        <seg>Het huidige project moet opnieuw worden geladen om deze wijzigingen door te voeren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The current version of the service is based on usage, with the price of 20 USD per million characters at the time of writing.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T143758Z">
@@ -36387,6 +36555,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T172149Z">
         <seg>Er bestaan in essentie twee manieren waarop u dit kunt doen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are many plugins available for OmegaT online.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T125908Z" creationid="Dirk" creationdate="20170914T125908Z">
+        <seg>Er zijn online vele plug-ins beschikbaar voor OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39328,6 +39504,14 @@ op regel {1}, kolom {2}.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20141020T094531Z" creationid="Dirk" creationdate="20141020T094531Z">
         <seg>Niet-vertaalde segmenten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Untranslated segments &amp;only</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20170914T125929Z" creationid="Dirk" creationdate="20170914T125929Z">
+        <seg>&amp;Alleen niet-vertaalde segmenten</seg>
       </tuv>
     </tu>
     <tu>
