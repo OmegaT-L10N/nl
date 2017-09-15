@@ -10240,6 +10240,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After downloading the zip archive of the full or minimal package or the website localization package, unpack the archive.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T162028Z" creationid="DiGro (Dick)" creationdate="20170915T162028Z">
+        <seg>Na het downloaden van het zip-archief van het pakket Full of Minimal of het pakket website localization, pak het archief uit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After downloading, place the file in the main OmegaT folder (the folder containing the file OmegaT.jar).</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131228T111905Z" creationid="Dirk" creationdate="20131228T111905Z">
@@ -20350,6 +20358,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Finally, there is the &lt;s0&gt;Beginner's Tutorial&lt;/s0&gt;, available &lt;a1&gt;here&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T161915Z" creationid="DiGro (Dick)" creationdate="20170915T161915Z">
+        <seg>Tenslotte is er de &lt;s0&gt;Beginner's Tutorial&lt;/s0&gt;, &lt;a1&gt;hier&lt;/a1&gt; beschikbaar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Find the file OmegaT.app/Contents/MacOS/OmegaT.sh and select your preferred editor to open the file.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T160633Z" creationid="DiGro (Dick)" creationdate="20170915T160633Z">
@@ -21362,6 +21378,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T110640Z">
         <seg>Voor het hier weergegeven voorbeeld besloten we tot het enkele project in OmegaT - één enkele opslagplaats om redenen van eenvoud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the full and minimal packages (user interface and documentation), you do not need to create an OmegaT project as you normally would in OmegaT: when unpacked, the files for localization of the OmegaT program are a ready-to-use OmegaT project.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T162221Z" creationid="DiGro (Dick)" creationdate="20170915T162221Z">
+        <seg>Voor de pakketten Full en Minimal (gebruikersinterface en documentatie), hoeft u niet zoals gewoonlijk een nieuw project te maken voor OmegaT, zoals u normaal gesproken zou doen in OmegaT: uitgepakt zijn de bestanden voor het vertalen van het programma OmegaT al een direct te gebruiken project van OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25355,6 +25379,14 @@ het gebruiken van Java Web Start.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T142929Z">
         <seg>Als u bestanden van vertaalgeheugens plaats in de submap &lt;f6&gt;/tm/&lt;/f6&gt; van uw projectmap, zal OmegaT automatisch daarin zoeken naar overeenkomstige segmenten, genaamd "fuzzy overeenkomsten".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you prefer to translate from a different language into which OmegaT has already been localized, please contact the &lt;a2&gt;OmegaT webmaster&lt;/a2&gt;.)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T161741Z" creationid="DiGro (Dick)" creationdate="20170915T161741Z">
+        <seg>Indien de voorkeur heeft om direct te vertalen vanuit een andere taal waarin OmegaT als is vertaald, neem dan contact op met de &lt;a2&gt;OmegaT webmaster&lt;/a2&gt;.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -30122,6 +30154,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>Bronnen voor lokaliseren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Localizations of the OmegaT user interface and documentation are generally updated in step with new releases of OmegaT.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T161842Z" creationid="DiGro (Dick)" creationdate="20170915T161842Z">
+        <seg>Vertalingen van de OmegaT gebruikersinterface en documentatie worden over het algemeen bijgewerkt in lijn met nieuwe uitgaven van OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
