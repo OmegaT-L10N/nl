@@ -2495,6 +2495,14 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(This is not the case for the website localization files.)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T162242Z" creationid="DiGro (Dick)" creationdate="20170915T162242Z">
+        <seg>(Dat is niet het geval voor de bestanden van de vertaling voor de website.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Windows Explorer), change the settings so that file extensions are displayed.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T134411Z" creationid="Dirk" creationdate="20170914T134334Z">
@@ -16910,6 +16918,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Deliver your file to the localization co-ordinator, who will pass it on to the development team for inclusion in the next release of OmegaT (user interface and documentation) or upload it to the website (website pages).</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T162745Z" creationid="DiGro (Dick)" creationdate="20170915T162745Z">
+        <seg>Lever uw bestand in bij de coördinator voor de vertaling, die het zal doorsturen naar het ontwikkelteam om het op te nemen in de volgende uitgave van OmegaT (gebruikersinterface en documentatie) of het uploaden naar de website (pagina's voor de website).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dependable segmentation rules are already available for many languages, so it is likely that you will not need to get involved with writing your own segmentation rules.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T171949Z">
@@ -25195,6 +25211,14 @@ het gebruiken van Java Web Start.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T140326Z">
         <seg>Als u een bestaand systeem hebt voor de afhandeling van terminologie is het zeer wel mogelijk dat het de mogelijkheid biedt om gegevens van terminologie in TBX-formaat te exporteren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have any questions, the &lt;a0&gt;OmT-l10n list&lt;/a0&gt; is the best place to post them.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T162320Z" creationid="DiGro (Dick)" creationdate="20170915T162320Z">
+        <seg>Als u vragen hebt is de &lt;a0&gt;OmT-l10n lijst&lt;/a0&gt; de beste plaats om ze te stellen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36560,6 +36584,14 @@ of er nog aanvullende stappen moeten worden uitgevoerd.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please keep translations of files in their original format, and do not change the file names.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T162514Z" creationid="DiGro (Dick)" creationdate="20170915T162514Z">
+        <seg>Behoud vertalingen van bestanden in hun originele opmaak, en wijzig de namen van de bestanden niet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please make sure that a build.xml file is present in that folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T142825Z">
@@ -37257,6 +37289,14 @@ lokaal project zonder functionaliteit voor team.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20140419T144520Z" creationid="Dirk" creationdate="20140419T144520Z">
         <seg>Verwerken...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Produce a screenshot of OmegaT in your language (after translating the user interface).</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T162600Z" creationid="DiGro (Dick)" creationdate="20170915T162600Z">
+        <seg>Produceer een schermafdruk van OmegaT in uw taal (na het vertalen van de gebruikersinterface).</seg>
       </tuv>
     </tu>
     <tu>
@@ -40179,6 +40219,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T171146Z">
         <seg>Zoeken naar &lt;l0&gt;geopend bestand&lt;/l0&gt; zal dus alle entiteiten van de tekenreeks &lt;e1&gt;&lt;l2&gt;geopend bestand&lt;/l2&gt;&lt;/e1&gt; vinden, maar niet &lt;e3&gt;&lt;l4&gt;bestand geopend&lt;/l4&gt;&lt;/e3&gt; of &lt;e5&gt;&lt;l6&gt;geopend invoerbestand&lt;/l6&gt;&lt;/e5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Secondly, unless yours is a very uncommon language, both documents have in all probability already been translated.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T162427Z" creationid="DiGro (Dick)" creationdate="20170915T162427Z">
+        <seg>Ten tweede, tenzij u een zeer ongewone taal beheerst, zijn beide documenten waarschijnlijk al vertaald.</seg>
       </tuv>
     </tu>
     <tu>
