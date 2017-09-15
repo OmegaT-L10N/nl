@@ -24667,6 +24667,16 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have already Java installed on your system, one way to install OmegaT
+is to use Java Web Start.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T143824Z" creationid="DiGro (Dick)" creationdate="20170915T143824Z">
+        <seg>Als u al Java hebt is één manier om de huidige versie van OmegaT te installeren
+het gebruiken van Java Web Start.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have already Java, one way to install the current version of</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T103548Z">
@@ -25119,6 +25129,16 @@ material under section 10.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T134226Z" creationid="Dirk" creationdate="20170914T134226Z">
         <seg>Als u, gedurende de installatie, een snelkoppeling op het bureaublad hebt gemaakt,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If, during installation, you have created a shortcut on the desktop, double-
+click on that shortcut.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T143930Z" creationid="DiGro (Dick)" creationdate="20170915T143904Z">
+        <seg>Als u, gedurende de installatie, een snelkoppeling op het bureaublad hebt gemaakt,
+dubbelklik dan op die snelkoppeling.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26783,6 +26803,16 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installing OmegaT (Solaris, FreeBSD, ...)
+=========================================</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T143743Z" creationid="DiGro (Dick)" creationdate="20170915T143743Z">
+        <seg>Installeren van OmegaT (Solaris, FreeBSD, ...)
+=========================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing OmegaT (Windows)</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T133440Z" creationid="Dirk" creationdate="20170914T133440Z">
@@ -27772,6 +27802,16 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T103553Z">
         <seg>Het zal de juiste omgeving voor uw computer installeren en de toepassing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It will install the correct environment for your computer and the application
+itself on the first run.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T143846Z" creationid="DiGro (Dick)" creationdate="20170915T143846Z">
+        <seg>Het zal de juiste omgeving voor uw computer installeren en de toepassing
+zelf bij de eerste keer dat het wordt uitgevoerd.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28903,6 +28943,16 @@ permissions.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T134217Z" creationid="Dirk" creationdate="20170914T134217Z">
         <seg>Starten van OmegaT (Windows)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launching OmegaT (Windows)
+==========================</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T143908Z" creationid="DiGro (Dick)" creationdate="20170915T143902Z">
+        <seg>Starten van OmegaT (Windows)
+==========================</seg>
       </tuv>
     </tu>
     <tu>
@@ -45563,6 +45613,16 @@ modification has been made.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The install program can create shortcuts for you in the start menu, on the
+desktop and in the quick launch area.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T144000Z" creationid="DiGro (Dick)" creationdate="20170915T144000Z">
+        <seg>Het installatieprogramma kan voor u snelkoppelingen maken in het menu Start,
+naar het startmenu, op het bureaublad en in het gebied voor snel starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The installation script provides added convenience, but you can still install OmegaT on Linux manually if you prefer.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131225T140558Z" creationid="Dirk" creationdate="20131225T140558Z">
@@ -53026,6 +53086,16 @@ Opdrachten:
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using Java Web Start for installing OmegaT (all platforms)
+===========================================================</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T143801Z" creationid="DiGro (Dick)" creationdate="20170915T143801Z">
+        <seg>Java Web Start gebruiken voor het installeren van OmegaT (alle platforms)
+===========================================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using OmegaT in conjunction with Google Translate.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120401T131407Z">
@@ -55262,6 +55332,18 @@ for enforcing compliance by third parties with this License.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T134253Z" creationid="Dirk" creationdate="20170914T134253Z">
         <seg>U kunt ook handmatig het bestand OmegaT.exe slepen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also manually drag the file
+OmegaT.exe to the start menu, the desktop or the quick launch area to link it
+from there.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T144159Z" creationid="DiGro (Dick)" creationdate="20170915T144159Z">
+        <seg>U kunt ook handmatig het bestand OmegaT.exe slepen
+naar het startmenu, op het bureaublad en in het gebied voor snel starten om het
+van daaruit te koppelen.</seg>
       </tuv>
     </tu>
     <tu>
