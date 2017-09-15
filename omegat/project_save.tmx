@@ -22103,6 +22103,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>HTML user manual online</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T145844Z" creationid="DiGro (Dick)" creationdate="20170915T145844Z">
+        <seg>Online HTML-gebruikershandleiding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HTML, XHTML, ODF and Infix segmentation</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110604T124350Z">
@@ -24305,6 +24313,14 @@ where to find the applicable terms.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>Indien u er zeker van bent dat een geschikte versie van de JRE al is geïnstalleerd op uw computer, kunt u een versie van OmegaT zonder de JRE downloaden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are confused about which version to download, you can use the &lt;a0&gt;Download selector&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T150138Z" creationid="DiGro (Dick)" creationdate="20170915T150138Z">
+        <seg>Indien u twijfelt over welke versie u moet downloaden kunt u de &lt;a0&gt;Download selector&lt;/a0&gt; gebruiken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29810,6 +29826,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MS Translator</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T145910Z" creationid="DiGro (Dick)" creationdate="20170915T145910Z">
+        <seg>MS Translator</seg>
       </tuv>
     </tu>
     <tu>
@@ -35856,8 +35880,16 @@ om de bron van de fout te bepalen en probeer het opnieuw.</seg>
       <tuv lang="EN">
         <seg>Please contact the &lt;a0&gt;OmegaT project manager&lt;/a0&gt; regarding any point not covered above.&lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T145626Z" creationid="DiGro (Dick)" creationdate="20170915T145626Z">
-        <seg>Neem contact op met de &lt;a0&gt;OmegaT-projectbeheerder&lt;/a0&gt; met betrekking punten die hierboven niet behandeld zijn.</seg>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T145659Z" creationid="DiGro (Dick)" creationdate="20170915T145626Z">
+        <seg>Neem contact op met de &lt;a0&gt;OmegaT-projectbeheerder&lt;/a0&gt; met betrekking punten die hierboven niet behandeld zijn.&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please contact the &lt;a2&gt;webmaster&lt;/a2&gt; for any point regarding specifically the website.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T145746Z" creationid="DiGro (Dick)" creationdate="20170915T145634Z">
+        <seg>Neem contact op met de &lt;a2&gt;webmaster&lt;/a2&gt; voor alle punten die specifiek betrekking hebben op de website.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36601,6 +36633,14 @@ lokaal project zonder functionaliteit voor team.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>Procedure</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Procedure for configuring Microsoft Translator.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T145926Z" creationid="DiGro (Dick)" creationdate="20170915T145926Z">
+        <seg>Procedure voor het configureren van Microsoft Translator.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40487,6 +40527,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Self-paced online training course in English (for purchase)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T150022Z" creationid="DiGro (Dick)" creationdate="20170915T150022Z">
+        <seg>Online trainingscursus voor in uw eigen tempo in het Engels (te koop)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sentence level segmentation</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T172002Z">
@@ -44131,6 +44179,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The HTML user manual for OmegaT standard version.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T145906Z" creationid="DiGro (Dick)" creationdate="20170915T145906Z">
+        <seg>De HTML-gebruikershandleiding voor OmegaT, standaard versie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The JRE is now supplied with OmegaT and need not be obtained separately.</seg>
       </tuv>
       <tuv lang="NL">
@@ -47620,6 +47676,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>De gebruikersinterface en documentatie werden origineel geschreven in het Engels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The user manual for OmegaT in PDF format (OmegaT version 3.6.0 update 5).</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T145832Z" creationid="DiGro (Dick)" creationdate="20170915T145832Z">
+        <seg>De gebruikershandleiding voor OmegaT als PDF (OmegaT versie 3.6.0 update 5).</seg>
       </tuv>
     </tu>
     <tu>
@@ -51380,6 +51444,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Training</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T145937Z" creationid="DiGro (Dick)" creationdate="20170915T145937Z">
+        <seg>Training</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Training course</seg>
       </tuv>
       <tuv lang="NL">
@@ -53120,6 +53192,14 @@ Opdrachten:
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T104350Z">
         <seg>Taal van de gebruikersinterface voor OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User manual online</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T145804Z" creationid="DiGro (Dick)" creationdate="20170915T145804Z">
+        <seg>Online gebruikershandleiding</seg>
       </tuv>
     </tu>
     <tu>
