@@ -481,11 +481,31 @@ License.</seg>
     <tu>
       <tuv lang="EN">
         <seg># Google Translate v2 API key
+#GOOGLE_API_KEY="-Dgoogle.api.key=0123456789A0123456789B0123456789C0123456789D"</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T160639Z" creationid="DiGro (Dick)" creationdate="20170915T160639Z">
+        <seg># Google Translate v2 API key
+#GOOGLE_API_KEY="-Dgoogle.api.key=0123456789A0123456789B0123456789C0123456789D"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg># Google Translate v2 API key
 -Dgoogle.api.key=xxxxx</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T160518Z" creationid="DiGro (Dick)" creationdate="20170915T160518Z">
         <seg># Google Translate v2 API key
 -Dgoogle.api.key=xxxxx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg># Google Translate v2 API key
+GOOGLE_API_KEY="-Dgoogle.api.key=XXXXXXXX"</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T160720Z" creationid="DiGro (Dick)" creationdate="20170915T160720Z">
+        <seg># Google Translate v2 API key
+GOOGLE_API_KEY="-Dgoogle.api.key=XXXXXXXX"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2677,6 +2697,22 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>* The Beginner's Tutorial&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T161050Z" creationid="DiGro (Dick)" creationdate="20170915T161050Z">
+        <seg>* De tutorial OmegaT for Beginner&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* The Instant Start guide (a short introduction to using OmegaT)&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T161005Z" creationid="DiGro (Dick)" creationdate="20170915T161005Z">
+        <seg>* De Gids Snel starten (een korte introductie om OmegaT te gebruiken)&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>* The OmegaT web pages (probably where you are reading this)</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131227T170519Z" creationid="Dirk" creationdate="20131227T170519Z">
@@ -2687,8 +2723,8 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
       <tuv lang="EN">
         <seg>* The readme file (a document that contains general information about OmegaT)&lt;br3/&gt;</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20131227T170505Z" creationid="Dirk" creationdate="20131227T170505Z">
-        <seg>* Het bestand LeesMij (een document dat algemene informatie over OmegaT bevat)&lt;br3/&gt;</seg>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T161021Z" creationid="Dirk" creationdate="20131227T170505Z">
+        <seg>* Het bestand Readme (een document dat algemene informatie over OmegaT bevat)&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11336,6 +11372,14 @@ to receive a copy likewise does not require acceptance.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T160455Z" creationid="DiGro (Dick)" creationdate="20170915T160455Z">
         <seg>en verwijder de "#" aan het begin van de regel -Dgoogle.api.key.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>And remove "#" at the line head.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T160658Z" creationid="DiGro (Dick)" creationdate="20170915T160658Z">
+        <seg>en verwijder de "#" aan het begin van de regel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22943,6 +22987,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, since we are not a commercial project, we have no budget for the commissioning of translations.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T160934Z" creationid="DiGro (Dick)" creationdate="20170915T160934Z">
+        <seg>Echter, omdat we geen commercieel project zijn, hebben we geen budget om vertalingen uit te besteden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, some users may face restrictions (imposed by their operating systems or Java version) that may result in a preference for an older version.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131227T161819Z" creationid="Dirk" creationdate="20131227T161813Z">
@@ -26215,6 +26267,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T165638Z">
         <seg>In het bijzonder, als u vertaalt tussen twee talen met verschillende alfabet/schrijfsystemen (zoals Russisch en Japans), selecteer een lettertype dat voor beide gebruikt kan worden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In particular, the main user manual is likely to take around two weeks to translate, and several translators may wish to share the work.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T161213Z" creationid="DiGro (Dick)" creationdate="20170915T161213Z">
+        <seg>In het bijzonder, de belangrijkste gebruikershandleiding vraagt ongeveer twee weken om te vertalen, en verscheidene vertalers zouden misschien het werk willen verdelen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39545,6 +39605,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save OmegaT.sh.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T160738Z" creationid="DiGro (Dick)" creationdate="20170915T160738Z">
+        <seg>Sla OmegaT.sh op.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save Script</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120103T175451Z">
@@ -44831,6 +44899,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The OmegaT project team is not a company or formal legal body, just a group of volunteers involved in the OmegaT project.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T160839Z" creationid="DiGro (Dick)" creationdate="20170915T160839Z">
+        <seg>Het projectteam van OmegaT is geen bedrijf of formele wettelijke entiteit, slechts een groep vrijwilligers die betrokken zijn bij het project OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The OmegaT project would benefit from greater support from volunteers in almost all areas.</seg>
       </tuv>
       <tuv lang="NL">
@@ -50016,6 +50092,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T135214Z">
         <seg>Deze licentie behandelt de documentatie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This line defines GOOGLE_API_KEY.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T160710Z" creationid="DiGro (Dick)" creationdate="20170915T160710Z">
+        <seg>Deze regel definieert GOOGLE_API_KEY.</seg>
       </tuv>
     </tu>
     <tu>
