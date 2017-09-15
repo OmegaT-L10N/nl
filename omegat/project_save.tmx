@@ -3797,8 +3797,8 @@ Bekijk "Hoofdstuk 3.</seg>
       <tuv lang="EN">
         <seg>2nd example modification: increasing the number of fuzzy matches displayed from five to ten</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20131225T132321Z" creationid="Dirk" creationdate="20131225T132321Z">
-        <seg>2de voorbeeld aanpassing: verhogen van het aantal weergegeven fuzzy overeenkomsten van vijf naar tien</seg>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T160128Z" creationid="Dirk" creationdate="20131225T132321Z">
+        <seg>2e voorbeeld aanpassing: verhogen van het aantal weergegeven fuzzy overeenkomsten van vijf naar tien</seg>
       </tuv>
     </tu>
     <tu>
@@ -3935,6 +3935,22 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>31175</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3a.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T155849Z" creationid="DiGro (Dick)" creationdate="20170915T155849Z">
+        <seg>3a.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3b.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T160113Z" creationid="DiGro (Dick)" creationdate="20170915T160113Z">
+        <seg>3b.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20224,8 +20240,8 @@ propagate that work, subject to this License.</seg>
       <tuv lang="EN">
         <seg>Find the lines:</seg>
       </tuv>
-      <tuv lang="NL" changeid="DiGro" changedate="20120401T141520Z">
-        <seg>Zoek de regels:</seg>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T155955Z">
+        <seg>Zoek naar de regels:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21482,6 +21498,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>Van de YouTube OmegaT-series door Miguel Navarro (in het Spaans).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From within the root folder, execute Apache Ant by entering the ant executable.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T155800Z" creationid="DiGro (Dick)" creationdate="20170915T155800Z">
+        <seg>Voer, vanuit de hoofdmap, Apache Ant uit door het uitvoerbare bestand van ant in te voeren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24017,6 +24041,14 @@ to choose that version for the Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the code compiles successfully, you will see the &lt;c0&gt;BUILD SUCCESSFUL&lt;/c0&gt; message.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T155831Z" creationid="DiGro (Dick)" creationdate="20170915T155831Z">
+        <seg>Als de code succesvol compileert, zult u het bericht &lt;c0&gt;BUILD SUCCESSFUL&lt;/c0&gt; zien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the current segment is the first one in a file, it moves to the last segment of the previous file.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T155650Z">
@@ -26339,6 +26371,22 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131225T152044Z" creationid="Dirk" creationdate="20131225T152044Z">
         <seg>In de map /src/org/omegat, open het bestand Bundle.properties in een tekstbewerker en zoek de regels</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the folder &lt;c0&gt;src/org/omegat/gui/editor&lt;/c0&gt; open the file &lt;c1&gt;SegmentBuilder.java&lt;/c1&gt; in a text editor.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T155950Z" creationid="DiGro (Dick)" creationdate="20170915T155950Z">
+        <seg>Open, in de map &lt;c0&gt;src/org/omegat/gui/editor&lt;/c0&gt;, het bestand &lt;c1&gt;SegmentBuilder.java&lt;/c1&gt; in een tekstbewerker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the folder &lt;c0&gt;src/org/omegat/util/gui&lt;/c0&gt; open the file &lt;c1&gt;Styles.java&lt;/c1&gt; in a text editor.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T160045Z" creationid="DiGro (Dick)" creationdate="20170915T160045Z">
+        <seg>Open, in de map &lt;c0&gt;src/org/omegat/util/gui&lt;/c0&gt;, het bestand &lt;c1&gt;Styles.java&lt;/c1&gt; in een tekstbewerker.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33296,6 +33344,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Older versions of OmegaT</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T155720Z" creationid="DiGro (Dick)" creationdate="20170915T155720Z">
+        <seg>Oudere versies van OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmT-l10n</seg>
       </tuv>
       <tuv lang="NL">
@@ -34472,6 +34528,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT_&lt;version&gt;_Beta_Source\dist</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T155837Z" creationid="DiGro (Dick)" creationdate="20170915T155837Z">
+        <seg>OmegaT_&lt;versie&gt;_Beta_Source\dist</seg>
       </tuv>
     </tu>
     <tu>
@@ -38421,6 +38485,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T120837Z" creationid="Dirk" creationdate="20170914T120837Z">
         <seg>Hits in woordenlijst ve&amp;rvangen bij invoegen brontekst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace &lt;c0&gt;COLOR_GREEN&lt;/c0&gt; with &lt;c1&gt;COLOR_BLUE&lt;/c1&gt; and &lt;c2&gt;192, 255, 192&lt;/c2&gt; with &lt;c3&gt;225, 225, 255&lt;/c3&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T160112Z" creationid="DiGro (Dick)" creationdate="20170915T160112Z">
+        <seg>Vervang &lt;c0&gt;COLOR_GREEN&lt;/c0&gt; door &lt;c1&gt;COLOR_BLUE&lt;/c1&gt; en &lt;c2&gt;192, 255, 192&lt;/c2&gt; door &lt;c3&gt;225, 225, 255&lt;/c3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47184,6 +47256,14 @@ earlier work or a work "based on" the earlier work.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T140354Z">
         <seg>De resultaten van de prioriteit woordenlijst (standaard glossary/glossary.txt) verschijnt op de eerste plaats in het venster Woordenlijst en in TransTips.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The results will be in the &lt;c0&gt;build\install\OmegaT&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T155712Z" creationid="DiGro (Dick)" creationdate="20170915T155712Z">
+        <seg>De resultaten zijn te vinden in de &lt;c0&gt;build\install\OmegaT&lt;/c0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58040,6 +58120,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>and replace &lt;c0&gt;COLOR_GREEN&lt;/c0&gt; with &lt;c1&gt;COLOR_BLUE&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T160013Z" creationid="DiGro (Dick)" creationdate="20170915T160013Z">
+        <seg>en vervang &lt;c0&gt;COLOR_GREEN&lt;/c0&gt; door &lt;c1&gt;COLOR_BLUE&lt;/c1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>and the Corresponding Source of the work is not available for anyone</seg>
       </tuv>
       <tuv lang="NL">
@@ -58780,6 +58868,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T155500Z" creationid="DiGro (Dick)" creationdate="20170915T155500Z">
         <seg>cd C:\My Documents\MyOmegat\OmegaT_&lt;versie&gt;_Beta_Source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cd C:\My Documents\MyOmegat\OmegaT_&lt;version&gt;_Beta_Source\dist</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T155845Z" creationid="DiGro (Dick)" creationdate="20170915T155845Z">
+        <seg>cd C:\My Documents\MyOmegat\OmegaT_&lt;versie&gt;_Beta_Source\dist</seg>
       </tuv>
     </tu>
     <tu>
@@ -60574,6 +60670,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>governed by this License along with a term that is a further</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gradlew installDist</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T155652Z" creationid="DiGro (Dick)" creationdate="20170915T155652Z">
+        <seg>gradlew installDist</seg>
       </tuv>
     </tu>
     <tu>
