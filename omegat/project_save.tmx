@@ -8508,10 +8508,26 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;Linux users&lt;/s0&gt;: most Linux distributions are supplied with a Java Runtime Environment, but some open-source implementations do not work properly with OmegaT (although this may not be immediately apparent).</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T151421Z" creationid="DiGro (Dick)" creationdate="20170915T151410Z">
+        <seg>&lt;s0&gt;Linux-gebruikers&lt;/s0&gt;: de meeste Linux-distributies zijn uitgerust met een Java Runtime Environment, maar sommige open-bron implementaties werken niet goed met OmegaT (hoewel dit niet direct zou hoeven te blijken).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;Linux versions/systems&lt;/s0&gt;: locate your OmegaT launch script file (OmegaT or OmegaT.sh).</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131228T112013Z" creationid="Dirk" creationdate="20131228T112013Z">
         <seg>&lt;s0&gt;Linux-versies/systemen&lt;/s0&gt;: lokaliseer uw opstarbestand voor OmegaT (OmegaT of OmegaT.sh).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;Mac OS X users&lt;/s0&gt;: the JRE is installed on Mac OS X by default; there is therefore no version for Mac OS X with the JRE.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T151343Z" creationid="DiGro (Dick)" creationdate="20170915T151343Z">
+        <seg>&lt;s0&gt;Mac OS X-gebruikers&lt;/s0&gt;: de JRE is standaard geïnstalleerd op Mac OS X; er is daarom geen versie voor Mac OS X met de JRE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24999,6 +25015,14 @@ het gebruiken van Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you install the OmegaT version with JRE even though the JRE is already installed on your computer, OmegaT's JRE will be installed separately and will not conflict with it.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T151348Z" creationid="DiGro (Dick)" creationdate="20170915T151254Z">
+        <seg>Als u de versie van OmegaT met JRE installeert, zelfs als de JRE al is geïnstalleerd op uw computer, zal OmegaT's JRE afzonderlijk worden geïnstalleerd en zal er geen conflicten mee veroorzaken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you later change filters, only the project filters will be updated, while the user filters stay unchanged.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T134202Z">
@@ -29974,6 +29998,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mac OS X has a feature called Gatekeeper that increases security by making it difficult to run unsigned programs.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T151529Z" creationid="DiGro (Dick)" creationdate="20170915T151529Z">
+        <seg>Mac OS X heeft een mogelijkheid, genaamd Gatekeeper, die de veiligheid verhoogt door het moeilijk te maken om niet ondertekende programma's uit te voeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mac OS X users can convert directly from Office Open XML to OpenDocument Format and back in &lt;a0&gt;NeoOffice&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="NL">
@@ -33477,6 +33509,14 @@ OmegaT 4.0, Lees Mij-bestand</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120401T130743Z">
         <seg>OmegaT for Beginners tutorial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT for Mac OS X is available in both signed and unsigned versions; they are functionally identical, but the signed version is preferred as it is recognized by the system as being published by a known developer.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T151704Z" creationid="DiGro (Dick)" creationdate="20170915T151704Z">
+        <seg>OmegaT voor Mac OS X is beschikbaar in zowel ondertekende als niet ondertekende versies; functioneel zijn zij identiek, maar de voorkeur gata uit naar de ondertekende versie omdat die door het systeem wordt herkend als zijnde afkomstig van ene bekende ontwikkelaar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41139,6 +41179,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T110622Z">
         <seg>Log eerst in op de site of - als het uw eerste keer is dat u de site bezoekt: registreer uzelf er voor en noteer uw gebruikersnaam en wachtwoord voor de toekomstige projecten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Signed/Unsigned</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T151435Z" creationid="DiGro (Dick)" creationdate="20170915T151435Z">
+        <seg>Ondertekend/Niet ondertekend</seg>
       </tuv>
     </tu>
     <tu>
