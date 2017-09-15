@@ -555,6 +555,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>$ &lt;s0&gt;java -version&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T150529Z" creationid="DiGro (Dick)" creationdate="20170915T150529Z">
+        <seg>$ &lt;s0&gt;java -version&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>$ ant jar release</seg>
       </tuv>
       <tuv lang="NL">
@@ -5731,6 +5739,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;i1&gt;OmegaT can be installed on any operating system capable of running version 1.6 of the Java runtime environment.&lt;/i1&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T150440Z" creationid="DiGro (Dick)" creationdate="20170915T150440Z">
+        <seg>&lt;i1&gt;OmegaT kan worden geïnstalleerd op elk besturingssysteem dat in staat is versie 1.6 van de Java runtime environment uit te voeren.&lt;/i1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;i2/&gt;The options for the program start-up in this case will be read from the &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.l4J.ini &lt;/e3&gt;file, which resides in the same folder as the exe file and which you can edit to reflect your setup.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T140645Z">
@@ -8536,6 +8552,22 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131227T170755Z" creationid="Dirk" creationdate="20131227T170755Z">
         <seg>&lt;s1&gt;Het is daarom zeer belangrijk om een item in het lokalisatieplan te maken als u begint met het werken aan een vertaling om te voorkomen dat twee of meer vertalers werken aan dezelfde vertaling.&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s1&gt;The benefit&lt;/s1&gt;: once launched, future updates of the Web Start version will be installed automatically on your computer.&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T150311Z" creationid="DiGro (Dick)" creationdate="20170915T150311Z">
+        <seg>&lt;s1&gt;Het voordeel&lt;/s1&gt;: indien eenmaal gestart, zullen toekomstige updates van de versie Web Start automatisch op uw computer worden geïnstalleerd.&lt;br2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s3&gt;The drawback&lt;/s3&gt;: at present, this version cannot be used in conjunction with plug-ins, so not all functions are available.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T150333Z" creationid="DiGro (Dick)" creationdate="20170915T150333Z">
+        <seg>&lt;s3&gt;Het nadeel&lt;/s3&gt;: momenteel kan deze versie niet worden gebruikt in samenwerking met plug-ins, dus zijn niet alle functies beschikbaar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20842,6 +20874,14 @@ sale, or importing the Program or any portion of it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For installation on Windows System.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T150357Z" creationid="DiGro (Dick)" creationdate="20170915T150357Z">
+        <seg>Voor installatie op systemen van Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For installation on other operating systems (such as FreeBSD and Solaris).&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131227T165915Z" creationid="Dirk" creationdate="20131227T165915Z">
@@ -24319,8 +24359,8 @@ where to find the applicable terms.</seg>
       <tuv lang="EN">
         <seg>If you are confused about which version to download, you can use the &lt;a0&gt;Download selector&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T150138Z" creationid="DiGro (Dick)" creationdate="20170915T150138Z">
-        <seg>Indien u twijfelt over welke versie u moet downloaden kunt u de &lt;a0&gt;Download selector&lt;/a0&gt; gebruiken.</seg>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T150151Z" creationid="DiGro (Dick)" creationdate="20170915T150138Z">
+        <seg>Indien u twijfelt over welke versie u moet downloaden kunt u &lt;a0&gt;Download selecteren&lt;/a0&gt; gebruiken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26873,6 +26913,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installation Type</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T150200Z" creationid="DiGro (Dick)" creationdate="20170915T150200Z">
+        <seg>Type installatie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installation and Use</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T130706Z">
@@ -28046,6 +28094,14 @@ zelf bij de eerste keer dat het wordt uitgevoerd.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120708T190730Z">
         <seg>JGit (Eclipse Distribution License)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>JRE</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T150218Z" creationid="DiGro (Dick)" creationdate="20170915T150218Z">
+        <seg>JRE</seg>
       </tuv>
     </tu>
     <tu>
@@ -33273,6 +33329,14 @@ OmegaT 4.0, Lees Mij-bestand</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT currently requires version 1.6 of the JRE or later.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T150501Z" creationid="DiGro (Dick)" creationdate="20170915T150501Z">
+        <seg>OmegaT vereist momenteel versie 1.6 van de JRE of later.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT displays a list of all segments containing all of the words specified.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T171154Z">
@@ -34952,6 +35016,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131225T153906Z" creationid="Dirk" creationdate="20131225T153906Z">
         <seg>Opera:&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Operating System</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T150213Z" creationid="DiGro (Dick)" creationdate="20170915T150213Z">
+        <seg>Besturingssysteem</seg>
       </tuv>
     </tu>
     <tu>
@@ -45801,6 +45873,14 @@ parts of the General Public License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The included JRE is the 64-bit version.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T150609Z" creationid="DiGro (Dick)" creationdate="20170915T150609Z">
+        <seg>De meegeleverde JRE is de versie 64-bit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The individual bilingual file formats are described below.</seg>
       </tuv>
       <tuv lang="NL">
@@ -53679,6 +53759,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Version</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T150206Z" creationid="DiGro (Dick)" creationdate="20170915T150206Z">
+        <seg>Versie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Version 3, 29 June 2007</seg>
       </tuv>
       <tuv lang="NL">
@@ -54863,6 +54951,14 @@ Zowel exacte als zoekacties op sleutelwoorden ondersteunen de jokertekens * en ?
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120401T163532Z">
         <seg>Windows-gebruikers:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With 64-bit JRE</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T150541Z" creationid="DiGro (Dick)" creationdate="20170915T150541Z">
+        <seg>Met 64-bit JRE</seg>
       </tuv>
     </tu>
     <tu>
