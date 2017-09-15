@@ -12322,6 +12322,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Based on your choices, we recommand you use:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T150645Z" creationid="DiGro (Dick)" creationdate="20170915T150645Z">
+        <seg>Gebaseerd op uw keuzes, bevelen wij aan om te gebruiken:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bashkir</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T130043Z">
@@ -16894,6 +16902,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Detailed instructions</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T150835Z" creationid="DiGro (Dick)" creationdate="20170915T150835Z">
+        <seg>Gedetailleerde instructies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Detailed technical discussion of changes is best conducted directly with OmegaT's developers.</seg>
       </tuv>
       <tuv lang="NL">
@@ -16914,6 +16930,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20140813T172646Z" creationid="Dirk" creationdate="20140813T172646Z">
         <seg>Detecteren...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Developer Version</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T150915Z" creationid="DiGro (Dick)" creationdate="20170915T150915Z">
+        <seg>Ontwikkelversie</seg>
       </tuv>
     </tu>
     <tu>
@@ -17806,6 +17830,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131226T160037Z" creationid="Dirk" creationdate="20131226T160037Z">
         <seg>Doublet KK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T150706Z" creationid="DiGro (Dick)" creationdate="20170915T150706Z">
+        <seg>Downloaden</seg>
       </tuv>
     </tu>
     <tu>
@@ -24287,6 +24319,14 @@ Public License instead of this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If this version is not available, you can try to &lt;a0&gt;download the unsigned version&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T150755Z" creationid="DiGro (Dick)" creationdate="20170915T150755Z">
+        <seg>Als deze versie niet beschikbaar is, kunt u proberen &lt;a0&gt;de niet-ondertekende versie te downloaden&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If used, neither the user's decision to accept the translation nor the final translation are made available to Google.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T143828Z">
@@ -25923,6 +25963,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131226T145350Z" creationid="Dirk" creationdate="20131226T145350Z">
         <seg>Elk script voert essentieel slechts één functie uit om de werking van de code in het scripte duidelijker te maken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In order to run, OmegaT requires the Java Runtime Environment (JRE) to be installed on your computer.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T151129Z" creationid="DiGro (Dick)" creationdate="20170915T151129Z">
+        <seg>OmegaT vereist dat de Java Runtime Environment (JRE) is geïnstalleerd op uw computer om te kunnen worden uitgevoerd.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29005,6 +29053,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Latest Version - {{site.data.versions.latest.name '}}</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T150901Z" creationid="DiGro (Dick)" creationdate="20170915T150901Z">
+        <seg>Laatste versie - {{site.data.versions.latest.name '}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Latin</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T130315Z">
@@ -31856,6 +31912,14 @@ toepasselijke locatie, zoals de map Applications.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T142845Z">
         <seg>Vervolgens opent het dialoogvenster &lt;g0&gt;Projectbestanden&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nightly Builds</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T151018Z" creationid="DiGro (Dick)" creationdate="20170915T151018Z">
+        <seg>Nightly Builds</seg>
       </tuv>
     </tu>
     <tu>
@@ -35888,6 +35952,14 @@ alles in.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Platform</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T150825Z" creationid="DiGro (Dick)" creationdate="20170915T150825Z">
+        <seg>Platformen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Platform-independent; require tcl/tk.</seg>
       </tuv>
       <tuv lang="NL">
@@ -36292,6 +36364,14 @@ of er nog aanvullende stappen moeten worden uitgevoerd.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>Power Point</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pre-built binaries, are available as Nightly Builds.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T151008Z" creationid="DiGro (Dick)" creationdate="20170915T151008Z">
+        <seg>Vooraf gebouwde binaries zijn beschikbaar als Nightly Builds.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42115,6 +42195,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Standard Version - {{site.data.versions.standard.name '}}</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T150818Z" creationid="DiGro (Dick)" creationdate="20170915T150818Z">
+        <seg>Standaard versie - {{site.data.versions.standard.name '}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Start OmegaT again, download the team project, close OmegaT</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160906T170406Z" creationid="Dirk" creationdate="20160906T170406Z">
@@ -43793,6 +43881,14 @@ work thus licensed is called the contributor's "contributor version".</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T142836Z" creationid="DiGro (Dick)" creationdate="20170915T142836Z">
         <seg>[DG]work thus licensed is called the contributor's "contributor version".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The "/trunk" version is a cutting-edge, "alpha" version, still in development.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T150944Z" creationid="DiGro (Dick)" creationdate="20170915T150944Z">
+        <seg>De versie "/trunk" is een allernieuwste, "alfa"-versie, nog in ontwikkeling.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56237,6 +56333,14 @@ installatie krijgen door het installatiescript te gebruiken (linux-install.sh).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can still find &lt;a0&gt;older, superseded versions&lt;/a0&gt; of OmegaT.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T151102Z" creationid="DiGro (Dick)" creationdate="20170915T151102Z">
+        <seg>U kunt nog steeds &lt;a0&gt;oudere, vervangen versies&lt;/a0&gt; van OmegaT vinden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can still use the browser solution described above to preview the translations of these files, but you will then also need a) a converter to convert the file to .html format, and b) a utility to launch the converter automatically so that you don't have to convert the files manually.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131225T160111Z" creationid="Dirk" creationdate="20131225T155844Z">
@@ -65548,6 +65652,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>some version</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T150700Z" creationid="DiGro (Dick)" creationdate="20170915T150700Z">
+        <seg>willekeurige versie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>sot</seg>
       </tuv>
       <tuv lang="NL">
@@ -67736,6 +67848,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170914T161740Z" creationid="DiGro (Dick)" creationdate="20170914T161740Z">
         <seg>{</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{% else %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T150846Z" creationid="DiGro (Dick)" creationdate="20170915T150846Z">
+        <seg>{% else %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{% if platform.link != null %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T150844Z" creationid="DiGro (Dick)" creationdate="20170915T150844Z">
+        <seg>{% if platform.link != null %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
