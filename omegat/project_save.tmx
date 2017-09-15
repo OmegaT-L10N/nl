@@ -326,10 +326,34 @@ License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"This application requires that Java %d or later be installed on your computer.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T145116Z" creationid="DiGro (Dick)" creationdate="20170915T145116Z">
+        <seg>"Deze toepassing vereist dat Java %d of later moet zijn geïnstalleerd op uw computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"This is a source term, which contains a comma","c'est un terme, qui contient une virgule"</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T140317Z">
         <seg>"This is a source term, which contains a comma","Dit is een bronterm, die een komma bevat"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"Unable to load Java Runtime Environment.";</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T145029Z" creationid="DiGro (Dick)" creationdate="20170915T145029Z">
+        <seg>"Niet mogelijk Java Runtime Environment te laden.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"Unable to load a Java %d Runtime Environment.";</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T145058Z" creationid="DiGro (Dick)" creationdate="20170915T145058Z">
+        <seg>"Niet mogelijk Java %d Runtime Environment te laden.";</seg>
       </tuv>
     </tu>
     <tu>
@@ -2207,6 +2231,16 @@ for which you have or can give appropriate copyright permission.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T135057Z" creationid="Dirk" creationdate="20170914T135057Z">
         <seg>(Als u denkt dat u een significante bijdrage heeft geleverd aan het OmegaT-project,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(If you think you have significantly contributed to the OmegaT Project but you
+(don't see your name on the lists, feel free to contact us.)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T144825Z" creationid="DiGro (Dick)" creationdate="20170915T144825Z">
+        <seg>(Als u denkt dat u een significante bijdrage heeft geleverd aan het OmegaT-project,
+maar ziet u uw naam niet op deze lijst, neem dan alstublieft contact met ons op.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14950,6 +14984,16 @@ OmegaT gebruikt de volgende bibliotheken:
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contributors
+============</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T144719Z" creationid="DiGro (Dick)" creationdate="20170915T144719Z">
+        <seg>Bijdragen
+============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Convenient alternative functions or solutions may also exist.</seg>
       </tuv>
       <tuv lang="NL">
@@ -23011,6 +23055,16 @@ menu, a prominent item in the list meets this criterion.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If Java is installed at system level and is in the command path, the full path
+need not be entered.)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T144706Z" creationid="DiGro (Dick)" creationdate="20170915T144706Z">
+        <seg>Indien Java is geïnstalleerd op systeemniveau en in het pad voor de opdracht staat,
+hoeft niet het volledige pad te worden ingevoerd.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If Options &gt; Editing Behaviour &gt; "Go To Next Untranslated Segment stops when there is at least one alternative translation" is selected however and at least one alternative translation of a non-unique segment has been created, this function treats all instances of that segment (whether default or alternative translations) as untranslated, i.e. does not skip them.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131226T133658Z" creationid="Dirk" creationdate="20131226T133658Z">
@@ -29017,6 +29071,16 @@ permissions.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T134954Z" creationid="Dirk" creationdate="20170914T134954Z">
         <seg>Starten van OmegaT vanaf de opdrachtregel (alle systemen)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launching OmegaT from the command line (all systems)
+====================================================</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T144630Z" creationid="DiGro (Dick)" creationdate="20170915T144630Z">
+        <seg>Starten van OmegaT vanaf de opdrachtregel (alle systemen)
+====================================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -36343,6 +36407,16 @@ lokaal project zonder functionaliteit voor team.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T104022Z">
         <seg>Eerdere bijdragen van:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Previous contributors include:
+(alphabetical order)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T144754Z" creationid="DiGro (Dick)" creationdate="20170915T144754Z">
+        <seg>Eerdere bijdragen van:
+(alfabetische volgorde)</seg>
       </tuv>
     </tu>
     <tu>
@@ -52888,6 +52962,16 @@ Opdrachten:
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Useful links
+============</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T144838Z" creationid="DiGro (Dick)" creationdate="20170915T144838Z">
+        <seg>Nuttige links
+============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User Group&lt;/u3&gt;.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T110813Z">
@@ -53012,6 +53096,15 @@ Opdrachten:
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T103417Z">
         <seg>Gebruikersondersteuning op de Yahoo! gebruikersgroep (meertalig), waar zonder abonnement de archieven</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User support, at the Yahoo user group (multilingual), where the archives are
+searchable without subscription:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T144916Z" creationid="DiGro (Dick)" creationdate="20170915T144916Z">
+        <seg>Gebruikersondersteuning op de Yahoo! gebruikersgroep (meertalig), waar zonder abonnement de archieven kunnen worden doorzocht:</seg>
       </tuv>
     </tu>
     <tu>
