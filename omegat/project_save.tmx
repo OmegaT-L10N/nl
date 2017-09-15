@@ -48,6 +48,14 @@ License by making exceptions from one or more of its conditions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"Cannot launch from folder that contains a \"/\" in its name.";</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T145220Z" creationid="DiGro (Dick)" creationdate="20170915T145220Z">
+        <seg>"Kan niet starten vanuit een map die een \"/\" in zijn naam heeft.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"Copyright" also means copyright-like laws that apply to other kinds of</seg>
       </tuv>
       <tuv lang="NL">
@@ -242,6 +250,14 @@ country that you have reason to believe are valid.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"Main class name is required.";</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T145153Z" creationid="DiGro (Dick)" creationdate="20170915T145153Z">
+        <seg>"Naam voor hoofdklasse is vereist.";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"MainClassNameRequired" = "Main class name is required.";</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T104342Z">
@@ -334,10 +350,26 @@ License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"This application requires that a Java %d JDK or later be installed on your computer.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T145137Z" creationid="DiGro (Dick)" creationdate="20170915T145137Z">
+        <seg>"Deze toepassing vereist dat Java %d JDK of later moet zijn geïnstalleerd op uw computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"This is a source term, which contains a comma","c'est un terme, qui contient une virgule"</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T140317Z">
         <seg>"This is a source term, which contains a comma","Dit is een bronterm, die een komma bevat"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"Unable to enumerate Java directory contents.";</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T145206Z" creationid="DiGro (Dick)" creationdate="20170915T145206Z">
+        <seg>"Niet mogelijk inhoud van map Java te nummeren.";</seg>
       </tuv>
     </tu>
     <tu>
@@ -18726,6 +18758,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>English version translators</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T145427Z" creationid="DiGro (Dick)" creationdate="20170915T145427Z">
+        <seg>Vertalers Engelse versie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>English: the same check as above, but concerning consonants ("a", not "an")</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T170440Z">
@@ -33297,6 +33337,14 @@ OmegaT 4.0, Lees Mij-bestand</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has a very active, supportive and multilingual user group &lt;a0&gt;here&lt;/a0&gt;, which users are strongly encouraged to join.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T145540Z" creationid="DiGro (Dick)" creationdate="20170915T145540Z">
+        <seg>OmegaT heeft &lt;a0&gt;hier&lt;/a0&gt; een zeer actieve, ondersteunende en meertalige gebruikersgroep, waarvoor gebruikers sterk wordt aangeraden om aan deel te nemen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has an inline spelling checker.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131226T133748Z" creationid="Dirk" creationdate="20131226T133748Z">
@@ -34996,6 +35044,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Original author of the OmegaT application</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T145452Z" creationid="DiGro (Dick)" creationdate="20170915T145452Z">
+        <seg>Originele auteur van de toepassing OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Originally, these bilingual file formats may have been a by-product of the tool's architecture.</seg>
       </tuv>
       <tuv lang="NL">
@@ -35794,6 +35850,14 @@ to determine the source of the error and try again.</seg>
         <seg>Raadpleeg het log
 ({1})
 om de bron van de fout te bepalen en probeer het opnieuw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please contact the &lt;a0&gt;OmegaT project manager&lt;/a0&gt; regarding any point not covered above.&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T145626Z" creationid="DiGro (Dick)" creationdate="20170915T145626Z">
+        <seg>Neem contact op met de &lt;a0&gt;OmegaT-projectbeheerder&lt;/a0&gt; met betrekking punten die hierboven niet behandeld zijn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41351,6 +41415,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T173630Z">
         <seg>Soms is het handig om onderscheid te maken tussen vertaalgeheugens van hoge kwaliteit en die welke, vanwege het onderwerp, cliënt, revisiestatus, etc., minder betrouwbaar zijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sorry</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T145228Z" creationid="DiGro (Dick)" creationdate="20170915T145228Z">
+        <seg>Sorry</seg>
       </tuv>
     </tu>
     <tu>
@@ -53817,6 +53889,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We could not find the page you are looking for.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T145247Z" creationid="DiGro (Dick)" creationdate="20170915T145247Z">
+        <seg>We konden de pagina waar u naar zoekt niet vinden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We recommend using OmegaT packages that include the JRE, to save you the</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T133352Z" creationid="Dirk" creationdate="20170914T133352Z">
@@ -53875,6 +53955,22 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T121627Z" creationid="Dirk" creationdate="20170914T121618Z">
         <seg>WebVTT Subtitles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Website content authors</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T145357Z" creationid="DiGro (Dick)" creationdate="20170915T145357Z">
+        <seg>Auteurs van inhoud van de website:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Website design</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T145411Z" creationid="DiGro (Dick)" creationdate="20170915T145411Z">
+        <seg>Ontwerp van de website</seg>
       </tuv>
     </tu>
     <tu>
@@ -55759,6 +55855,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131225T140203Z" creationid="Dirk" creationdate="20131225T140203Z">
         <seg>U kunt het bijvoorbeeld gebruiken om de tal voor de gebruikersinterface te selecteren, meer geheugen aan OmegaT toe te wijzen, of een wachtwoord voor Google Translate in te voeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can go to the &lt;a0&gt;home page&lt;/a0&gt; and hopefully find the information you need from there.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T145331Z" creationid="DiGro (Dick)" creationdate="20170915T145331Z">
+        <seg>U kunt naar de &lt;a0&gt;homepage&lt;/a0&gt; gaan en hopelijk vindt u van daaruit de informatie die u nodig hebt.</seg>
       </tuv>
     </tu>
     <tu>
