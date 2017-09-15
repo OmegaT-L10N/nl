@@ -470,6 +470,26 @@ License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg># Google Translate v2 API key
+#-Dgoogle.api.key=xxxxx</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T160415Z" creationid="DiGro (Dick)" creationdate="20170915T160415Z">
+        <seg># Google Translate v2 API key
+#-Dgoogle.api.key=xxxxx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg># Google Translate v2 API key
+-Dgoogle.api.key=xxxxx</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T160518Z" creationid="DiGro (Dick)" creationdate="20170915T160518Z">
+        <seg># Google Translate v2 API key
+-Dgoogle.api.key=xxxxx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg># HelpAndManualFilter.java&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131225T152047Z" creationid="Dirk" creationdate="20131225T152047Z">
@@ -2609,6 +2629,14 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(where "xxxxx" is the API key provided by Google).</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T160539Z" creationid="DiGro (Dick)" creationdate="20170915T160539Z">
+        <seg>(waar "xxxxx" de API-sleutel is die door Google werd verschaft).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>* From the command line (all systems):</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T103931Z">
@@ -3555,6 +3583,14 @@ en laad het project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>/** Number of fuzzy matches to display */</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T160224Z" creationid="DiGro (Dick)" creationdate="20170915T160224Z">
+        <seg>/** Number of fuzzy matches to display */</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>/docs/</seg>
       </tuv>
       <tuv lang="NL">
@@ -3899,10 +3935,26 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>3.6.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T160549Z" creationid="DiGro (Dick)" creationdate="20170915T160549Z">
+        <seg>3.6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>3.6.0</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T100117Z" creationid="Dirk" creationdate="20160911T100117Z">
         <seg>4.0.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.7.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T160553Z" creationid="DiGro (Dick)" creationdate="20170915T160553Z">
+        <seg>3.7.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11276,6 +11328,14 @@ to receive a copy likewise does not require acceptance.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T165908Z">
         <seg>Indien u echter op zeker wilt spelen kunt u overwegen om dit soort bestanden te converteren naar Unicode, d.i. naar de bestandsindeling &lt;l6&gt;.utf8&lt;/l6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>And remove "#" at the line head of -Dgoogle.api.key.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T160455Z" creationid="DiGro (Dick)" creationdate="20170915T160455Z">
+        <seg>en verwijder de "#" aan het begin van de regel -Dgoogle.api.key.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20230,6 +20290,22 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Find the file OmegaT.app/Contents/MacOS/OmegaT.sh and select your preferred editor to open the file.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T160633Z" creationid="DiGro (Dick)" creationdate="20170915T160633Z">
+        <seg>Zoek naar het bestand OmegaT.app/Contents/MacOS/OmegaT.sh en selecteer uw favoriete tekstbewerker om het bestand te openen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Find the following lines;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T160413Z" creationid="DiGro (Dick)" creationdate="20170915T160413Z">
+        <seg>Zoek naar de volgende regels;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Find the line</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120401T141617Z">
@@ -26371,6 +26447,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131225T152044Z" creationid="Dirk" creationdate="20131225T152044Z">
         <seg>In de map /src/org/omegat, open het bestand Bundle.properties in een tekstbewerker en zoek de regels</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the folder &lt;c0&gt;/src/org/omegat/util&lt;/c0&gt; open the file &lt;c1&gt;OConsts.java&lt;/c1&gt; in a text editor.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T160202Z" creationid="DiGro (Dick)" creationdate="20170915T160202Z">
+        <seg>Open, in de map &lt;c0&gt;/src/org/omegat/util&lt;/c0&gt;, het bestand &lt;c1&gt;OConsts.java&lt;/c1&gt; in een tekstbewerker.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39455,8 +39539,8 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Save OmegaT.l4J.ini (and if necessary, move it back to the OmegaT folder).</seg>
       </tuv>
-      <tuv lang="NL" changeid="DiGro" changedate="20120401T163854Z">
-        <seg>Sla OmegaT.l4J.ini op (en, indine nodig, verplaats het terug naar de map van OmegaT).</seg>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T160547Z">
+        <seg>Sla OmegaT.l4J.ini op (en, indien nodig, verplaats het terug naar de map van OmegaT).</seg>
       </tuv>
     </tu>
     <tu>
@@ -49074,6 +49158,14 @@ vanaf de server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This HowTo provides tips on translating MS Office 2007 and later (Office Open XML, .docx) files in OmegaT.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T160332Z" creationid="DiGro (Dick)" creationdate="20170915T160332Z">
+        <seg>Deze HowTo verschaft tips over het vertalen van bestanden van MS Office 2007 en later (Office Open XML, .docx) in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This ID is already being used.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170104T180628Z" creationid="Dirk" creationdate="20170104T180628Z">
@@ -58116,6 +58208,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T104057Z">
         <seg>en vele, vele andere zeer behulpzame mensen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>and replace &lt;c0&gt;= 5&lt;/c0&gt; with &lt;c1&gt;= 10&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T160246Z" creationid="DiGro (Dick)" creationdate="20170915T160246Z">
+        <seg>en vervang &lt;c0&gt;= 5&lt;/c0&gt; door &lt;c1&gt;= 10&lt;/c1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
