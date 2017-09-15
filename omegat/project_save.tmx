@@ -17922,6 +17922,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Don't forget to &lt;s0&gt;update the OmegaT Localization Plan&lt;/s0&gt; (see Step 2 of the procedure) to show that you have completed translation of a particular document/version.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T163018Z" creationid="DiGro (Dick)" creationdate="20170915T163018Z">
+        <seg>Vergeet niet om &lt;s0&gt;het OmegaT Localization Plan bij te werken&lt;/s0&gt; (zie Stap 2 van de procedure) om te laten zien dat u de vertaling hebt voltooid van een bepaald document/versie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Donations</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131226T153324Z" creationid="Dirk" creationdate="20131226T153324Z">
@@ -25077,6 +25085,14 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you discontinue before completing the translation, please do create the tmx files for the you have done and upload them to the translation memory repository.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T163127Z" creationid="DiGro (Dick)" creationdate="20170915T163127Z">
+        <seg>Als u stopt voordat de vertaling compleet is, maak dan de TMX-bestanden voor het gedeelte dat u hebt gedaan en upload ze naar de opslagplaats voor vertaalgeheugens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you do not already have an Azure Marketplace account you will need to register one first.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T144841Z">
@@ -25459,6 +25475,14 @@ het gebruiken van Java Web Start.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T165457Z">
         <seg>Indien u &lt;a1&gt;OmegaT&lt;/a1&gt; in console-modus start, zal het de instellingen gebruiken die u hebt geconfigureerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you used OmegaT or another CAT tool for the work, please also upload your translation memory (TMX file) to the &lt;a0&gt;translation memory repository in the online user group&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T162915Z" creationid="DiGro (Dick)" creationdate="20170915T162915Z">
+        <seg>Als u OmegaT of een ander CAT-programma gebruikte voor het werk, upload dan ook uw vertaalgeheugen (TMX-bestand) naar de &lt;a0&gt;opslagplaats voor gvertaal;geheugens in de online gebruikersgroep&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
