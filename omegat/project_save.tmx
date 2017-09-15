@@ -26365,6 +26365,14 @@ sue for patent infringement).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the same way, users of CAT tools, including OmegaT, who do not possess Déjà Vu can translate files prepared by a Déjà Vu user.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T155121Z" creationid="DiGro (Dick)" creationdate="20170915T155121Z">
+        <seg>Op dezelfde manier kunnen gebruikers van CAT-programma's, inclusief OmegaT, die Déjà Vu niet bezitten, bestanden vertalen die zijn geprepareerd door een Déjà Vu-gebruiker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the target document, nothing will appear for this segment.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T155534Z">
@@ -27581,6 +27589,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>Het vertaalt niet voor u!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It enables editors who do not possess Déjà Vu to edit translations produced in Déjà Vu in such a way that amendments can be reincorporated easily.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T155103Z" creationid="DiGro (Dick)" creationdate="20170915T155103Z">
+        <seg>Het stelt bewerkers, die Déjà Vu niet bezitten, in staat om vertalingen, die zijn gemaakt in Déjà Vu, zodanig te bewerken dat aanpassingen daarin eenvoudig kunnen worden opgenomen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35864,6 +35880,14 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T170447Z">
         <seg>Punt, gevolgd door een hoofdletter - mogelijk ontbreekt er een spatie tussen de punt en het begin van een nieuwe regel?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Periodic builds are available on CloudBees.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T154933Z" creationid="DiGro (Dick)" creationdate="20170915T154933Z">
+        <seg>Periodieke builds zijn beschikbaar op CloudBees.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44301,6 +44325,14 @@ Source.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Déjà Vu "External View" file format is a feature of Déjà Vu DVX.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T155049Z" creationid="DiGro (Dick)" creationdate="20170915T155049Z">
+        <seg>De Déjà Vu "External View"-bestandsindeling is een mogelijkheid van Déjà Vu DVX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Edit Pattern Dialog offers among others the following options:</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T134620Z">
@@ -44985,6 +45017,14 @@ Probeer alstublieft de fout te corrigeren en herlaad het project.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T103558Z">
         <seg>Het certificaat is van "PnS Concept".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The certificate is signed by &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt;, a French registered company.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T154913Z" creationid="DiGro (Dick)" creationdate="20170915T154913Z">
+        <seg>Het certificaat is ondertekend door &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt;, een Frans geregistreerd bedrijf.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48322,8 +48362,8 @@ combination as such.</seg>
       <tuv lang="EN">
         <seg>There may be a delay in publishing signed versions.</seg>
       </tuv>
-      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T151737Z" creationid="DiGro (Dick)" creationdate="20170915T151737Z">
-        <seg>Er kan ene vertraging optreden bij het publiceren van ondertekende versies.</seg>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T154630Z" creationid="DiGro (Dick)" creationdate="20170915T151737Z">
+        <seg>Er kan een vertraging optreden bij het publiceren van ondertekende versies.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49010,6 +49050,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T192053Z">
         <seg>Deze aanroep MOET in swing-thread zijn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This can be achieved (for Déjà Vu DVX) by use of Déjà Vu's "External View" file format.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T155034Z" creationid="DiGro (Dick)" creationdate="20170915T155034Z">
+        <seg>Dit kan worden bereikt (voor Déjà Vu DVX) door het gebruiken van Déjà Vu's "External View"-bestandsindeling.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53527,8 +53575,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Users in a hurry can use the unsigned version instead; if you have difficulty launching the app, see &lt;a0&gt;how to open an app from an unidentified developer&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T154625Z" creationid="DiGro (Dick)" creationdate="20170915T154625Z">
-        <seg>Users in a hurry can use the unsigned version instead; if you have difficulty launching the app, see &lt;a0&gt;how to open an app from an unidentified developer&lt;/a0&gt;.</seg>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T154824Z" creationid="DiGro (Dick)" creationdate="20170915T154625Z">
+        <seg>Gebruikers die haast hebben kunnen in plaats daarvan de niet ondertekende versie; als u moeilijkheden ondervindt bij het starten van de app, bekijk dan &lt;a0&gt;How to open een app van een niet bekende ontwikkelaar&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58436,6 +58484,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>bs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>built on DEV@cloud</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T154944Z" creationid="DiGro (Dick)" creationdate="20170915T154944Z">
+        <seg>gebouwd op DEV@cloud</seg>
       </tuv>
     </tu>
     <tu>
@@ -65968,6 +66024,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>sv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>svn checkout svn://svn.code.sf.net/p/omegat/svn/trunk omegat-svn</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T154917Z" creationid="DiGro (Dick)" creationdate="20170915T154917Z">
+        <seg>svn checkout svn://svn.code.sf.net/p/omegat/svn/trunk omegat-svn</seg>
       </tuv>
     </tu>
     <tu>
