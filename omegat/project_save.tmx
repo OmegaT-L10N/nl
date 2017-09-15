@@ -8884,6 +8884,14 @@ on the Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A Déjà Vu "External View" file takes the form of an RTF file containing a multi-column table, including columns for the source and target text in which each segment occupies a table cell.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T155142Z" creationid="DiGro (Dick)" creationdate="20170915T155142Z">
+        <seg>Een Déjà Vu "External View"-bestand neemt de vorm aan van een RTF-bestand met een multi-kolom tabel, inclusief kolommen voor de bron- en doeltekst, waarin elk segment een tabelcel bezet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A European Commission press release (in .odt format) in OmegaT and below it the instantaneous target text displayed in Opera.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131225T172739Z" creationid="Dirk" creationdate="20131225T172739Z">
@@ -10076,6 +10084,14 @@ the above requirements apply either way.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T135850Z">
         <seg>Na een slechte bewerking:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After completing the translation and creating the translated documents, copy the translated column from the translated file back into the &lt;i0&gt;target&lt;/i0&gt; column of the original file.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T155202Z" creationid="DiGro (Dick)" creationdate="20170915T155202Z">
+        <seg>Na het voltooien van de vertaling en het maken van de vertaalde documenten, kopieer de vertaalde kolom vanuit het vertaalde bestand terug naar de &lt;i0&gt;doel&lt;/i0&gt;-kolom van het originele bestand.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17914,6 +17930,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download and install the Java Development Kit (JDK)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T155217Z" creationid="DiGro (Dick)" creationdate="20170915T155217Z">
+        <seg>Download en installeer de Java Development Kit (JDK)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download collection {0}</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20140813T173058Z" creationid="Dirk" creationdate="20140813T173058Z">
@@ -18330,6 +18354,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>Each version is given a distinguishing version number.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Earlier versions of OmegaT require &lt;a0&gt;Apache Ant&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T155303Z" creationid="DiGro (Dick)" creationdate="20170915T155303Z">
+        <seg>Eerdere versies van OmegaT vereisen &lt;a0&gt;Apache Ant&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20416,6 +20448,14 @@ this License.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T110609Z">
         <seg>Voor Mac kunt u de cliënt bijvoorbeeld downloaden van &lt;u1&gt;SourceForge&lt;/u1&gt;, Voor Linux: zie &lt;u2&gt;Subversion opdrachten en scripts&lt;/u2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For OmegaT 4.0 and later, no additional software is required.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T155246Z" creationid="DiGro (Dick)" creationdate="20170915T155246Z">
+        <seg>Voor OmegaT 4.0 en later is geen aanvullende software vereist.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24297,6 +24337,14 @@ notice like this when it starts in an interactive mode:</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T131239Z">
         <seg>Als zij niet conflicteren met sneltoetsen van het systeem, zouden zij beschikbaar moeten zijn binnen OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If this is all you're interested in, you can skip to step 3a.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T155601Z" creationid="DiGro (Dick)" creationdate="20170915T155601Z">
+        <seg>Al dit alles is waar u in geïnteresseerd bent, kunt u doorgaan met stap 3a.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31756,6 +31804,14 @@ toepasselijke locatie, zoals de map Applications.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Navigate to the root of the OmegaT source code (the folder containing the file &lt;c0&gt;build.gradle&lt;/c0&gt;), e.g.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T155450Z" creationid="DiGro (Dick)" creationdate="20170915T155450Z">
+        <seg>Navigeer naar de hoofdmap van de broncode van OmegaT (de map die het bestand &lt;c0&gt;build.gradle&lt;/c0&gt; bevat), bijv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ndonga</seg>
       </tuv>
       <tuv lang="NL">
@@ -33268,6 +33324,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T165742Z" creationid="Dirk" creationdate="20160910T165742Z">
         <seg>OmegaT 3.5 - Gebruikershandleiding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT 4.0 or later</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T155504Z" creationid="DiGro (Dick)" creationdate="20170915T155504Z">
+        <seg>OmegaT 4.0 of later</seg>
       </tuv>
     </tu>
     <tu>
@@ -44143,6 +44207,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;a0&gt;Java Development Kit&lt;/a0&gt; is required.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T155228Z" creationid="DiGro (Dick)" creationdate="20170915T155228Z">
+        <seg>De &lt;a0&gt;Java Development Kit&lt;/a0&gt; is vereist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;a0&gt;OmegaT&lt;/a0&gt; file includes &lt;a1&gt;OmegaT&lt;/a1&gt; specific formatting tags so that the file can be used in other &lt;a2&gt;OmegaT&lt;/a2&gt; projects</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T172414Z">
@@ -50560,6 +50632,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To build the OmegaT program and all associated files, instead do</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T155651Z" creationid="DiGro (Dick)" creationdate="20170915T155651Z">
+        <seg>Doe, om het programma OmegaT en alle daarmee geassocieerde bestanden te bouwen, in plaats daarvan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To call up the manual from within OmegaT, simply select Help &gt; Users manual, or press F1.</seg>
       </tuv>
       <tuv lang="NL">
@@ -56405,6 +56485,14 @@ installatie krijgen door het installatiescript te gebruiken (linux-install.sh).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can run OmegaT directly from the command line with</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T155529Z" creationid="DiGro (Dick)" creationdate="20170915T155529Z">
+        <seg>U kunt OmegaT direct starten vanaf de opdrachtregel met</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can select a file with &lt;k0&gt;Up&lt;/k0&gt; and &lt;k1&gt;Down&lt;/k1&gt; keys, and open it for translation by pressing &lt;k2&gt;Enter&lt;/k2&gt;</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T095812Z" creationid="Dirk" creationdate="20160911T095812Z">
@@ -56811,6 +56899,14 @@ om het vanaf elke locatie te kunnen starten.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T171905Z">
         <seg>U kunt meerdere vensters Tekst zoeken tegelijkertijd geopend hebben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may have to set your &lt;c0&gt;JAVA_HOME&lt;/c0&gt; environment variable to point to the location of the JDK.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T155346Z" creationid="DiGro (Dick)" creationdate="20170915T155346Z">
+        <seg>U mag uw omgevingsvariabele &lt;c0&gt;JAVA_HOME&lt;/c0&gt; hebben ingesteld om te verwijzen naar de locatie van de JDK.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58680,6 +58776,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>cd C:\My Documents\MyOmegat\OmegaT_&lt;version&gt;_Beta_Source</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T155500Z" creationid="DiGro (Dick)" creationdate="20170915T155500Z">
+        <seg>cd C:\My Documents\MyOmegat\OmegaT_&lt;versie&gt;_Beta_Source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>cd C:\Program Files\&lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="NL">
@@ -60470,6 +60574,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>governed by this License along with a term that is a further</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gradlew run</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T155531Z" creationid="DiGro (Dick)" creationdate="20170915T155531Z">
+        <seg>gradlew run</seg>
       </tuv>
     </tu>
     <tu>
