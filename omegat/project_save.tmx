@@ -20280,6 +20280,16 @@ this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For a more user-friendly way of launching OmegaT, you can use the Kaptain
+script provided (omegat.kaptn).</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T144515Z" creationid="DiGro (Dick)" creationdate="20170915T144515Z">
+        <seg>Voor een meer gebruikersvriendelijker manier om OmegaT op te starten,
+kunt u het meegeleverde script van Kaptain gebruiken (omegat.kaptn).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For a particular</seg>
       </tuv>
       <tuv lang="NL">
@@ -24417,6 +24427,16 @@ where to find the applicable terms.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T134330Z" creationid="Dirk" creationdate="20170914T134330Z">
         <seg>Als u het bestand OmegaT wel in uw bestandsbeheer (Windows Verkenner) kunt zien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you can see the file OmegaT but not OmegaT.exe in your File Manager
+(Windows Explorer), change the settings so that file extensions are displayed.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T144232Z" creationid="DiGro (Dick)" creationdate="20170915T144232Z">
+        <seg>Als u het bestand OmegaT wel in uw bestandsbeheer (Windows Verkenner) kunt zien
+maar niet OmegaT.exe, wijzig dan de instellingen zodat de bestandsextensies worden weergegeven.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28931,10 +28951,30 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Launching OmegaT (Linux)
+========================</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T144401Z" creationid="DiGro (Dick)" creationdate="20170915T144401Z">
+        <seg>Starten van OmegaT (Linux)
+========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Launching OmegaT (Mac)</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T134417Z" creationid="Dirk" creationdate="20170914T134343Z">
         <seg>Starten van OmegaT (Mac)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launching OmegaT (Mac)
+======================</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T144254Z" creationid="DiGro (Dick)" creationdate="20170915T144254Z">
+        <seg>Starten van OmegaT (Mac)
+======================</seg>
       </tuv>
     </tu>
     <tu>
@@ -50906,6 +50946,16 @@ these rights or asking you to surrender the rights.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To use this script you must first install
+Kaptain.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T144609Z" creationid="DiGro (Dick)" creationdate="20170915T144609Z">
+        <seg>U moet eerst Kaptain installeren
+om het te kunnen gebruiken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To use this script, open a</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T133927Z" creationid="Dirk" creationdate="20170914T133927Z">
@@ -55320,6 +55370,16 @@ for enforcing compliance by third parties with this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also launch
+it from the Spotlight search field.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T144348Z" creationid="DiGro (Dick)" creationdate="20170915T144348Z">
+        <seg>U kunt het ook starten
+in het zoekveld van Spotlight.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also manually drag</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T103947Z">
@@ -56120,6 +56180,16 @@ recipients a copy of this License along with the Program.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T134752Z" creationid="Dirk" creationdate="20170914T134752Z">
         <seg>Sleep de toepassing OmegaT naar uw dock of naar de werkbalk van een Finder-venster</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may drag the OmegaT application to your dock or to the tool bar of a
+Finder window to be able to launch it from any location.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T144326Z" creationid="DiGro (Dick)" creationdate="20170915T144326Z">
+        <seg>Sleep de toepassing OmegaT naar uw dock of naar de werkbalk van een Finder-venster
+om het vanaf elke locatie te kunnen starten.</seg>
       </tuv>
     </tu>
     <tu>
