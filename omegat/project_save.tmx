@@ -15072,6 +15072,14 @@ OmegaT gebruikt de volgende bibliotheken:
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contact the relevant co-ordinator for the translation work:&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T161300Z" creationid="DiGro (Dick)" creationdate="20170915T161300Z">
+        <seg>Neem contact op met de relevante coördinator voor het werken aan de vertaling:&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contains Java files, necessary to the operation of &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T135156Z">
@@ -18086,6 +18094,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T141850Z">
         <seg>Download het bestand&lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt;.jnlp&lt;/e0&gt; en klik er dan op.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download the files for translation.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T161455Z" creationid="DiGro (Dick)" creationdate="20170915T161455Z">
+        <seg>Download de te vertalen bestanden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21284,6 +21300,14 @@ sale, or importing the Program or any portion of it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For the &lt;s0&gt;OmegaT program and documentation&lt;/s0&gt;, these are either the &lt;a1&gt;"Full" package&lt;/a1&gt; or the &lt;a2&gt;"Minimal" package&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T161605Z" creationid="DiGro (Dick)" creationdate="20170915T161605Z">
+        <seg>Voor het &lt;s0&gt;OmegaT programma en documentatie&lt;/s0&gt; zijn dat ofwel het pakket &lt;a1&gt;"Full"&lt;/a1&gt; of het pakket &lt;a2&gt;"Minimal"&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For the application</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T130810Z">
@@ -21370,6 +21394,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131226T141145Z" creationid="Dirk" creationdate="20131226T141145Z">
         <seg>U moet het eerst in OmegaT zelf inschakelen om de functie tekst exporteren te kunnen gebruiken:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the user interface, user manual, Instant Start guide and/or the readme file, please contact the &lt;a1&gt;OmegaT Localization Co-ordinator&lt;/a1&gt;.&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T161356Z" creationid="DiGro (Dick)" creationdate="20170915T161356Z">
+        <seg>Voor de gebruikersinterface, gebruikershandleiding, Gids Snel starten en/of het bestand readme, neem contact op met de &lt;a1&gt;OmegaT Localization Coördinator&lt;/a1&gt;.&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25427,6 +25459,22 @@ het gebruiken van Java Web Start.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T134616Z">
         <seg>Klik op &lt;e2&gt;Standaardinstellingen&lt;/e2&gt; als u terug wilt keren naar de standaard configuratie van het filter. U kunt de naam ook direct aanpassen in het veld voor het patroon van het doelbestand of het dialoogvenster Bestandsfilters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you wish to translate the &lt;s0&gt;OmegaT web pages&lt;/s0&gt;, download the &lt;a1&gt;website localization package&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T161644Z" creationid="DiGro (Dick)" creationdate="20170915T161644Z">
+        <seg>Als u de &lt;s0&gt;OmegaT webpagina's&lt;/s0&gt; wilt vertalen, download dan het pakket &lt;a1&gt;website localization&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you wish to translate the OmegaT website and/or the Beginner's Tutorial, please contact the &lt;a3&gt;OmegaT Website Manager&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T161431Z" creationid="DiGro (Dick)" creationdate="20170915T161431Z">
+        <seg>Als u de OmegaT website en/of de Beginner's Tutorial wilt vertalen, neem dan contact op met de &lt;a3&gt;OmegaT Website Manager&lt;/a3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
