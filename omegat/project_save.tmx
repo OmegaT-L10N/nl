@@ -26747,10 +26747,30 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installing OmegaT (Linux)
+=========================</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T143509Z" creationid="DiGro (Dick)" creationdate="20170915T143509Z">
+        <seg>Installeren van OmegaT (Linux)
+=========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing OmegaT (Mac)</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T133505Z" creationid="Dirk" creationdate="20170914T133505Z">
         <seg>Installeren van OmegaT (Mac)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing OmegaT (Mac)
+=======================</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T143347Z" creationid="DiGro (Dick)" creationdate="20170915T143347Z">
+        <seg>Installeren van OmegaT (Mac)
+========================</seg>
       </tuv>
     </tu>
     <tu>
@@ -26767,6 +26787,16 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T133440Z" creationid="Dirk" creationdate="20170914T133440Z">
         <seg>Installeren van OmegaT (Windows)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing OmegaT (Windows)
+===========================</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T143327Z" creationid="DiGro (Dick)" creationdate="20170915T143327Z">
+        <seg>Installeren van OmegaT (Windows)
+===========================</seg>
       </tuv>
     </tu>
     <tu>
@@ -31026,6 +31056,16 @@ your receipt of the notice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move the folder to an
+appropriate location such as the Applications folder.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T143455Z" creationid="DiGro (Dick)" creationdate="20170915T143455Z">
+        <seg>Verplaats de map naar een
+toepasselijke locatie, zoals de map Applications.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moves one segment back in history</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T162930Z">
@@ -33413,6 +33453,16 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is then ready
+to be launched.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T143532Z" creationid="DiGro (Dick)" creationdate="20170915T143532Z">
+        <seg>OmegaT is dan gereed
+om te worden opgestart.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T103549Z">
@@ -33553,6 +33603,15 @@ your home folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T133302Z" creationid="Dirk" creationdate="20170914T133302Z">
         <seg>OmegaT vereist dat de Java Runtime Environment (JRE) versie 1.8 of hoger is</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT requires the Java Runtime Environment (JRE) version 1.8 or higher to be
+installed on your system.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T143216Z" creationid="DiGro (Dick)" creationdate="20170915T143216Z">
+        <seg>OmegaT vereist dat de Java Runtime Environment (JRE) versie 1.8 of hoger is geïnstalleerd op uw systeem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35990,6 +36049,15 @@ of er nog aanvullende stappen moeten worden uitgevoerd.</seg>
         <seg>Prerequisites for installing OmegaT</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T133225Z" creationid="Dirk" creationdate="20170914T133225Z">
+        <seg>Vereisten voor installeren van OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Prerequisites for installing OmegaT
+===================================</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T143142Z" creationid="DiGro (Dick)" creationdate="20170915T143142Z">
         <seg>Vereisten voor installeren van OmegaT</seg>
       </tuv>
     </tu>
@@ -45616,6 +45684,16 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The license of each library is mentionned
+in /lib/licenses/Licenses.txt.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T143138Z" creationid="DiGro (Dick)" creationdate="20170915T143138Z">
+        <seg>De licentie van elk bibliotheek is vermeld
+in /lib/licenses/Licenses.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The licenses for most software and other practical works are designed</seg>
       </tuv>
       <tuv lang="NL">
@@ -50776,6 +50854,20 @@ these rights or asking you to surrender the rights.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To use this script, open a
+terminal window (console), change folder to the folder containing OmegaT.jar
+and the linux-install.sh script, and execute the script with ./linux-
+install.sh.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T143730Z" creationid="DiGro (Dick)" creationdate="20170915T143730Z">
+        <seg>Open, om dit script te gebruiken, een
+terminalvenster (console), wijzig de folder naar de folder die OmegaT.jar bevat
+en het script linux-install.sh, en voer het script uit met ./linux-
+install.sh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Toggle Selected</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160906T172921Z" creationid="Dirk" creationdate="20160906T172921Z">
@@ -52048,6 +52140,16 @@ Exacte zoekacties komen overeen met de gehele zoekterm.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T133552Z" creationid="Dirk" creationdate="20170914T133552Z">
         <seg>Pak het OmegaT .zip-archief uit om een map te krijgen die een</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unpack the OmegaT .zip archive to obtain a folder that contains a
+documentation file and the OmegaT application.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T143426Z" creationid="DiGro (Dick)" creationdate="20170915T143426Z">
+        <seg>Pak het OmegaT .zip-archief uit om een map te krijgen die een
+documentatiebestand en de toepassing OmegaT bevat</seg>
       </tuv>
     </tu>
     <tu>
@@ -53506,6 +53608,16 @@ Opdrachten:
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T133352Z" creationid="Dirk" creationdate="20170914T133352Z">
         <seg>We bevelen aan OmegaT-pakketten te gebruiken die de JRE bevatten, om u het</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We recommend using OmegaT packages that include the JRE, to save you the
+trouble of selecting, obtaining and installing it.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T143255Z" creationid="DiGro (Dick)" creationdate="20170915T143255Z">
+        <seg>We bevelen aan OmegaT-pakketten te gebruiken die de JRE bevatten,
+om u het probleem van selecteren, verkrijgen en installeren te besparen</seg>
       </tuv>
     </tu>
     <tu>
@@ -55398,6 +55510,16 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can find the text of the license in
+/docs/OmegaT-license.txt.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T143123Z" creationid="DiGro (Dick)" creationdate="20170915T143123Z">
+        <seg>U vindt de tekst van de licentie in
+/docs/OmegaT-license.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can for example use it to select the user interface language, assign more memory to OmegaT, or enter a Google Translate password.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131225T140203Z" creationid="Dirk" creationdate="20131225T140203Z">
@@ -55450,6 +55572,16 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T133848Z" creationid="Dirk" creationdate="20170914T133848Z">
         <seg>U kunt echter een meer nette en gebruikersvriendelijker installatie verkrijgen door</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can however obtain a neater and more user-friendly installation by using
+the installation script (linux-install.sh).</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T143554Z" creationid="DiGro (Dick)" creationdate="20170915T143554Z">
+        <seg>U kunt echter een meer nette en gebruikersvriendelijker installatie verkrijgen door
+installatie krijgen door het installatiescript te gebruiken (linux-install.sh).</seg>
       </tuv>
     </tu>
     <tu>
