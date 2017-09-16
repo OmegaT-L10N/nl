@@ -4603,6 +4603,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Documentation&lt;/a0&gt; is very important.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T115942Z" creationid="DiGro (Dick)" creationdate="20170916T115942Z">
+        <seg>&lt;a0&gt;Documentatie&lt;/a0&gt; is zeer belangrijk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Download Abiword here&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131225T160516Z" creationid="Dirk" creationdate="20131225T160516Z">
@@ -9910,6 +9918,14 @@ included in conveying the object code work.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T173729Z">
         <seg>Een vertaaleenheid bestaat uit ten minste twee variaties van een vertaaleenheid (tuv).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A vast range of functions, an uncluttered interface, and, most importantly, constant, regular open-source development!</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T115846Z" creationid="DiGro (Dick)" creationdate="20170916T115846Z">
+        <seg>Een groot bereik aan functies, een overzichtelijke interface en, meest belangrijk, constante, regelmatige ontwikkeling in open bron!</seg>
       </tuv>
     </tu>
     <tu>
@@ -25735,6 +25751,14 @@ het gebruiken van Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have found OmegaT useful and would like to express your gratitude by making a &lt;a0&gt;donation&lt;/a0&gt; on our Paypal account.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T120050Z" creationid="DiGro (Dick)" creationdate="20170916T120050Z">
+        <seg>Indien u vindt dat OmegaT nuttig is en uw dankbaarheid zou willen tonen door een &lt;a0&gt;donatie&lt;/a0&gt; te doen op ons account van PayPal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have installed a version of OmegaT with JRE supplied, the launch script supplied already contains this path for you.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131225T141310Z" creationid="Dirk" creationdate="20131225T141310Z">
@@ -26091,6 +26115,14 @@ het gebruiken van Java Web Start.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T110845Z">
         <seg>Als u de voortgaande ontwikkeling van OmegaT wilt helpen ondersteunen, zou het zeer op prijs worden gesteld - klik op deze koppeling om naar de &lt;u0&gt; OmegaT PayPalrekening&lt;/u0&gt; te gaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you're a programmer and you happen to know Java, please check the documentation in the &lt;a0&gt;source code&lt;/a0&gt; under /docs_devel for information on how to get started.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T120149Z" creationid="DiGro (Dick)" creationdate="20170916T120149Z">
+        <seg>Als u een programmeur bent en Java kent, bekijk dan de documentatie in de &lt;a0&gt;broncode&lt;/a0&gt; onder /docs_devel voor informatie over hoe te beginnen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39955,6 +39987,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Robert Corner, Institut Laue-Langevin, France</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T115852Z" creationid="DiGro (Dick)" creationdate="20170916T115852Z">
+        <seg>Robert Corner, Institut Laue-Langevin, Frankrijk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Romanian, Moldavian, Moldovan</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T130447Z">
@@ -43701,6 +43741,14 @@ makes it unnecessary.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Such auxiliary code has already been written in Javascript, Groovy and Tcl/Tk, for instance.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T120221Z" creationid="DiGro (Dick)" creationdate="20170916T120221Z">
+        <seg>Zulke hulpcode is bijvoorbeeld al geschreven in Javascript, Groovy en Tcl/Tk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Such file formats are designed to hold formatting information.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T135450Z">
@@ -45647,6 +45695,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>Het OmegaT-project</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT project and you</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T115918Z" creationid="DiGro (Dick)" creationdate="20170916T115918Z">
+        <seg>Het project OmegaT en U</seg>
       </tuv>
     </tu>
     <tu>
