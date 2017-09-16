@@ -2771,8 +2771,8 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
       <tuv lang="EN">
         <seg>*If you do not already have an Microsoft account, you will need to register one first.&lt;br5/&gt;</seg>
       </tuv>
-      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T102210Z" creationid="DiGro (Dick)" creationdate="20170916T102210Z">
-        <seg>*Indien u nog geen account hebt voor Azure Marketplace dient u er eerst een te registreren.</seg>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T102241Z" creationid="DiGro (Dick)" creationdate="20170916T102210Z">
+        <seg>*Indien u nog geen account hebt voor Azure Marketplace dient u er eerst een te registreren&lt;br5/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2833,6 +2833,14 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- After signing in Microsoft Azure Marketplace, you can get subscription to use Microsoft Translator.&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T102320Z" creationid="DiGro (Dick)" creationdate="20170916T102320Z">
+        <seg>- Na het inloggen op Microsoft Azure Marketplace kunt u een abonnement nemen om Microsoft Translator te gebruiken.&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Android resource (*.xml)</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T103504Z">
@@ -2853,6 +2861,30 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T103511Z">
         <seg>- Camtasia voor Windows (*.camproj)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Click [DEVELOPERS] in the left "my account" menu.&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T102610Z" creationid="DiGro (Dick)" creationdate="20170916T102610Z">
+        <seg>- Klik op [DEVELOPERS] aan de linkerzijde van het menu "my account".&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Click [My Account] on the top of the page.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T102550Z" creationid="DiGro (Dick)" creationdate="20170916T102550Z">
+        <seg>- Klik op [My Account] bovenaan de pagina.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Click [REGISTER] shown below "Registered Applications."&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T102633Z" creationid="DiGro (Dick)" creationdate="20170916T102633Z">
+        <seg>- Klik op [REGISTER] weergegeven onder "Registered Applications."&lt;br6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3049,6 +3081,14 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Register an application with the following infomation:&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T102653Z" creationid="DiGro (Dick)" creationdate="20170916T102653Z">
+        <seg>- Registreer een toepassing met de volgende infomatie:&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- ResX files (*.resx)</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T103503Z">
@@ -3165,6 +3205,14 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
       </tuv>
       <tuv lang="NL">
         <seg>- Wordfast TXML (*.txml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- You may pick from any of the available subscription offers, shown in the right area of the page.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T102419Z" creationid="DiGro (Dick)" creationdate="20170916T102419Z">
+        <seg>- U kunt een van de beschikbare aanbiedingen voor abonnementen uitkiezen, zij worden weergegeven aan de rechterzijde van de pagina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4639,6 +4687,14 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131226T152907Z" creationid="Dirk" creationdate="20131226T152907Z">
         <seg>&lt;a2&gt;www.tcl.tk/man/tcl8.5/tutorial/tcltutorial.html&lt;/a2&gt;&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a3&gt;https://datamarket.azure.com/developer/applications&lt;/a3&gt; &lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T102615Z" creationid="DiGro (Dick)" creationdate="20170916T102615Z">
+        <seg>&lt;a3&gt;https://datamarket.azure.com/developer/applications&lt;/a3&gt; &lt;br4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25567,6 +25623,14 @@ het gebruiken van Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want to select Basic subscription (free, up to 2 million characters a month,) click [SIGN UP] at the top of the subscription list.&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T102525Z" creationid="DiGro (Dick)" creationdate="20170916T102525Z">
+        <seg>Als u het abonnement Basic (gratis, tot 2 miljoen tekens per maand) wilt selecteren, klik op [SIGN UP] bovenaan de lijst met abonnementen.&lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; to open a project, modify your &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; as follows:</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T131230Z">
@@ -38365,6 +38429,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T132040Z">
         <seg>Identieke vertaling registreren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Register your application</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T102535Z" creationid="DiGro (Dick)" creationdate="20170916T102535Z">
+        <seg>Uw toepassing registreren</seg>
       </tuv>
     </tu>
     <tu>
