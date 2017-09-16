@@ -9102,8 +9102,8 @@ Bekijk "Hoofdstuk 3.</seg>
       <tuv lang="EN">
         <seg>&lt;s1&gt;The benefit&lt;/s1&gt;: once launched, future updates of the Web Start version will be installed automatically on your computer.&lt;br2/&gt;</seg>
       </tuv>
-      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T150311Z" creationid="DiGro (Dick)" creationdate="20170915T150311Z">
-        <seg>&lt;s1&gt;Het voordeel&lt;/s1&gt;: indien eenmaal gestart, zullen toekomstige updates van de versie Web Start automatisch op uw computer worden geïnstalleerd.&lt;br2&gt;</seg>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T121326Z" creationid="DiGro (Dick)" creationdate="20170915T150311Z">
+        <seg>&lt;s1&gt;Het voordeel&lt;/s1&gt;: indien eenmaal gestart zullen toekomstige updates van de versie Web Start automatisch op uw computer worden geïnstalleerd.&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -51728,8 +51728,8 @@ computer or modifying a private copy.</seg>
       <tuv lang="EN">
         <seg>To access &lt;a0&gt;&lt;e1&gt;Configuration.properties&lt;/e1&gt;&lt;/a0&gt;, right-click on &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app&lt;/e2&gt; and select "Show Package Contents", then open the file in Contents/Resources by right-clicking on it and selecting your text editor of choice.</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20160910T141046Z" creationid="Dirk" creationdate="20160910T141046Z">
-        <seg>Klik met rechts op &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app&lt;/e2&gt; en selecteer "Pakketinhoud weergeven" om toegang te krijgen tot &lt;a0&gt;&lt;e1&gt;Configuration.properties&lt;/e1&gt;&lt;/a0&gt;, en open dan het bestand door er met rechts op te klikken en selecteer uw tekstverwerker van uw keuze.</seg>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T121406Z" creationid="Dirk" creationdate="20160910T141046Z">
+        <seg>Klik met rechts op &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app&lt;/e2&gt; en selecteer "Pakketinhoud weergeven" om toegang te krijgen tot &lt;a0&gt;&lt;e1&gt;Configuration.properties&lt;/e1&gt;&lt;/a0&gt;, en open dan het bestand door er met rechts op te klikken en selecteer de tekstverwerker van uw keuze.</seg>
       </tuv>
     </tu>
     <tu>
