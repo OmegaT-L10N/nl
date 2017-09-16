@@ -2833,6 +2833,14 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- After registering, check if your application has been displayed on the "Registered Applications" in the page.&lt;br12/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T102942Z" creationid="DiGro (Dick)" creationdate="20170916T102942Z">
+        <seg>- Controleer, na het registreren, of uw toepassing wordt weergegeven bij de "Registered Applications" op de pagina.&lt;br12/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- After signing in Microsoft Azure Marketplace, you can get subscription to use Microsoft Translator.&lt;br7/&gt;</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T102320Z" creationid="DiGro (Dick)" creationdate="20170916T102320Z">
@@ -3029,6 +3037,14 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
       </tuv>
       <tuv lang="NL">
         <seg>- Microsoft Open XML (*.docx, *.xlsx, *.pptx)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- OmegaT uses "Client ID" and "Client secret" information of which you registered.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T103112Z" creationid="DiGro (Dick)" creationdate="20170916T103112Z">
+        <seg>- OmegaT gebruikt de informatie "Client ID" en "Client secret"  waarmee u zich hebt geregistreerd.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4627,6 +4643,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a14&gt;https://datamarket.azure.com/developer/applications&lt;/a14&gt; &lt;br15/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T102952Z" creationid="DiGro (Dick)" creationdate="20170916T102952Z">
+        <seg>&lt;a14&gt;https://datamarket.azure.com/developer/applications&lt;/a14&gt; &lt;br15/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a1&gt;Anaphraseus&lt;/a1&gt; can also be used for this purpose.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120401T134514Z">
@@ -4871,6 +4895,14 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>&lt;b2&gt;&lt;Enter&gt;&lt;/b2&gt;&lt;segment 2132&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br13/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T102943Z" creationid="DiGro (Dick)" creationdate="20170916T102943Z">
+        <seg>&lt;br13/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -34554,6 +34586,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT setting</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T103038Z" creationid="DiGro (Dick)" creationdate="20170916T103038Z">
+        <seg>Instellen OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT shares this problem with other CAT tools that handle the .docx format, and the solutions are similar or the same.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120401T144844Z">
@@ -34644,8 +34684,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>OmegaT uses "Client ID" and "Client secret" information of which you registered.&lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T101927Z" creationid="DiGro (Dick)" creationdate="20170916T101927Z">
-        <seg>OmegaT gebruikt "Client ID" en "Client secret" informatie waarmee u zich hebt geregistreerd.&lt;br1/&gt;</seg>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T103145Z" creationid="DiGro (Dick)" creationdate="20170916T101927Z">
+        <seg>OmegaT gebruikt de informatie "Client ID" en "Client secret" waarmee u zich hebt geregistreerd.&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -68936,6 +68976,38 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>     java -jar OmegaT.jar resource-bundle=[naam van de bundel met het volledige pad]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   - Client ID: Any string ex.) my_clientid1&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T102722Z" creationid="DiGro (Dick)" creationdate="20170916T102722Z">
+        <seg>   - Client ID: Een willekeurige tekenreeks, bijv. myn_clientid1&lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   - Client secret: Use string displayed by default&lt;br10/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T102809Z" creationid="DiGro (Dick)" creationdate="20170916T102809Z">
+        <seg>   - Client secret: Gebruik de standaard weergegeven tekenreeks&lt;br10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   - Name: Any string ex.) my_application01&lt;br9/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T102753Z" creationid="DiGro (Dick)" creationdate="20170916T102753Z">
+        <seg>   - Name: Een willekeurige tekenreeks, bijv. myn_toepassing01&lt;br9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   - Redirect URI: Any URI (Invalid URL required when using Microsoft Translator) ex.) http://dummy/&lt;br11/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T102902Z" creationid="DiGro (Dick)" creationdate="20170916T102902Z">
+        <seg>   - Redirect URI: Een URI (Ongeldige URL vereist bij het gebruiken van Microsoft Translator) bijv. http://dummy/&lt;br11/&gt;</seg>
       </tuv>
     </tu>
     <tu>
