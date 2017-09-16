@@ -2881,6 +2881,14 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Add the following options to launch OmegaT (where Client ID: my_clientid1)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T103729Z" creationid="DiGro (Dick)" creationdate="20170916T103729Z">
+        <seg>- Voeg de volgende opties toe voor het opstarten van OmegaT (waar Client ID: myn_clientid1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- After editing OmegaT.l4J.ini (where Client ID: my_clientid1)&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T103332Z" creationid="DiGro (Dick)" creationdate="20170916T103332Z">
@@ -2953,6 +2961,14 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Check [Microsoft Translator]&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T103842Z" creationid="DiGro (Dick)" creationdate="20170916T103842Z">
+        <seg>- Selecteer [Microsoft Translator]&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Click [DEVELOPERS] in the left "my account" menu.&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T102610Z" creationid="DiGro (Dick)" creationdate="20170916T102610Z">
@@ -2973,6 +2989,14 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T102633Z" creationid="DiGro (Dick)" creationdate="20170916T102633Z">
         <seg>- Klik op [REGISTER] weergegeven onder "Registered Applications."&lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Ctrl+M (or Command+M on Mac) will replace the current segment translation with that machine translation.&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T104100Z" creationid="DiGro (Dick)" creationdate="20170916T104100Z">
+        <seg>- Ctrl+M (of Command+M op Mac) zullen de vertaling van het huidige segment vervangen door dat van de machinevertaling.&lt;br5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3113,6 +3137,14 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Launch OmegaT and open your project.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T103806Z" creationid="DiGro (Dick)" creationdate="20170916T103806Z">
+        <seg>- Start OmegaT en open uw project.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Locate the file OmegaT.l4J.ini (in the OmegaT program folder) and edit the following lines with your preferred plain-text editor:&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T103249Z" creationid="DiGro (Dick)" creationdate="20170916T103249Z">
@@ -3241,6 +3273,14 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Select [Options] &gt; [Machine Translate]&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T103837Z" creationid="DiGro (Dick)" creationdate="20170916T103837Z">
+        <seg>- Selecteer [Opties] &gt; [Machinevertaling]&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Steps to reproduce,</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T104256Z">
@@ -3337,6 +3377,14 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- When you select any segments, its translation will be displayed in Machine Translation window of OmegaT.&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T103923Z" creationid="DiGro (Dick)" creationdate="20170916T103923Z">
+        <seg>- Wanneer u segmenten selecteert zal de vertaling ervan worden weergegeven in het venster Machinevertaling van OmegaT.&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- WiX Localization (*.wxl)</seg>
       </tuv>
       <tuv lang="NL">
@@ -3349,6 +3397,14 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
       </tuv>
       <tuv lang="NL">
         <seg>- Wordfast TXML (*.txml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- You can check your usage limit in your account by accessing the above page.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T104209Z" creationid="DiGro (Dick)" creationdate="20170916T104209Z">
+        <seg>- U kunt uw gebruikslimiet in uw account controleren op de bovenstaande pagina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4751,6 +4807,14 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T135416Z">
         <seg>&lt;a0&gt;U kunt OmegaT gebruiken&lt;/a0&gt; om bestanden te vertalen in een aantal bestandsformaten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;https://datamarket.azure.com/account/datasets&lt;/a0&gt; &lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T104129Z" creationid="DiGro (Dick)" creationdate="20170916T104129Z">
+        <seg>&lt;a0&gt;https://datamarket.azure.com/account/datasets&lt;/a0&gt; &lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23231,6 +23295,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131227T162713Z" creationid="Dirk" creationdate="20131227T162713Z">
         <seg>Hoe Wordpress XLIFF-bestanden te vertalen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How will I know when I reach my monthly usage limit?</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T104125Z" creationid="DiGro (Dick)" creationdate="20170916T104125Z">
+        <seg>Hoe weet ik wanneer ik mijn maandelijkse gebruikslimiet heb bereikt?</seg>
       </tuv>
     </tu>
     <tu>
@@ -54495,6 +54567,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using Microsoft Translator machine translation in OmegaT</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T103755Z" creationid="DiGro (Dick)" creationdate="20170916T103755Z">
+        <seg>Microsoft Translator machinevertaling gebruiken in OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using OmegaT in conjunction with Google Translate.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120401T131407Z">
@@ -62884,6 +62964,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>java -jar -Dmicrosoft.api.client_id=my_clientid1 -Dmicrosoft.api.client_secret=your Client secret OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T103740Z" creationid="DiGro (Dick)" creationdate="20170916T103740Z">
+        <seg>java -jar -Dmicrosoft.api.client_id=myn_clientid1 -Dmicrosoft.api.client_secret=uw Client secret OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>java -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar</seg>
       </tuv>
       <tuv lang="NL">
@@ -69128,6 +69216,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T102809Z" creationid="DiGro (Dick)" creationdate="20170916T102809Z">
         <seg>   - Client secret: Gebruik de standaard weergegeven tekenreeks&lt;br10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   - If you find a message including "Bad Request" in Machine Translation window, check if the values "Client ID" and "Client secret" are appropriate.&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T104022Z" creationid="DiGro (Dick)" creationdate="20170916T104022Z">
+        <seg>   - Als u een bericht krijgt met de tekst "Bad Request" erin in het venster van Machinevertaling, controleer dan of de waarden "Client ID" en "Client secret" kloppen.&lt;br4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
