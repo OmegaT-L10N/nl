@@ -518,6 +518,54 @@ GOOGLE_API_KEY="-Dgoogle.api.key=XXXXXXXX"</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg># Microsoft Translator credentials
+#-Dmicrosoft.api.client_id=xxxxx
+#-Dmicrosoft.api.client_secret=xxxxx</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T103309Z" creationid="DiGro (Dick)" creationdate="20170916T103309Z">
+        <seg># Microsoft Translator credentials
+#-Dmicrosoft.api.client_id=xxxxx
+#-Dmicrosoft.api.client_secret=xxxxx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg># Microsoft Translator credentials
+#MS_CLIENT_ID="-Dmicrosoft.api.client_id=xxxxx"
+#MS_CLIENT_SECRET="-Dmicrosoft.api.client_secret=xxxxx"</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T103608Z" creationid="DiGro (Dick)" creationdate="20170916T103608Z">
+        <seg># Microsoft Translator credentials
+#MS_CLIENT_ID="-Dmicrosoft.api.client_id=xxxxx"
+#MS_CLIENT_SECRET="-Dmicrosoft.api.client_secret=xxxxx"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg># Microsoft Translator credentials
+-Dmicrosoft.api.client_id=my_clientid1
+-Dmicrosoft.api.client_secret=your Client secret</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T103432Z" creationid="DiGro (Dick)" creationdate="20170916T103432Z">
+        <seg># Microsoft Translator credentials
+-Dmicrosoft.api.client_id=myn_clientid1
+-Dmicrosoft.api.client_secret=uw Client secret</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg># Microsoft Translator credentials
+MS_CLIENT_ID="-Dmicrosoft.api.client_id=my_clientid1"
+MS_CLIENT_SECRET="-Dmicrosoft.api.client_secret=your Client secret"</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T103644Z" creationid="DiGro (Dick)" creationdate="20170916T103644Z">
+        <seg># Microsoft Translator credentials
+MS_CLIENT_ID="-Dmicrosoft.api.client_id=myn_clientid1"
+MS_CLIENT_SECRET="-Dmicrosoft.api.client_secret=uw Client secret"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg># MyMemory email</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T105141Z" creationid="Dirk" creationdate="20160911T105141Z">
@@ -2833,6 +2881,22 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- After editing OmegaT.l4J.ini (where Client ID: my_clientid1)&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T103332Z" creationid="DiGro (Dick)" creationdate="20170916T103332Z">
+        <seg>- Na het bewerken van OmegaT.l4J.ini (waar Client ID: myn_clientid1)&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- After editing OmegaT.sh (where Client ID: my_clientid1)&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T103625Z" creationid="DiGro (Dick)" creationdate="20170916T103625Z">
+        <seg>- Na het bewerken van OmegaT.sh (waar Client ID: myn_clientid1)&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- After registering, check if your application has been displayed on the "Registered Applications" in the page.&lt;br12/&gt;</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T102942Z" creationid="DiGro (Dick)" creationdate="20170916T102942Z">
@@ -2853,6 +2917,22 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T103504Z">
         <seg>- Android-bronbestanden (*.xml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Before editing OmegaT.l4J.ini&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T103304Z" creationid="DiGro (Dick)" creationdate="20170916T103304Z">
+        <seg>- Vóór het bewerken van OmegaT.l4J.ini&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Before editing OmegaT.sh&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T103605Z" creationid="DiGro (Dick)" creationdate="20170916T103605Z">
+        <seg>- Vóór het bewerken van OmegaT.sh&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2925,6 +3005,14 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T103449Z">
         <seg>- Gecodeerde tekst (*.UTF8)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Find the file OmegaT.app/Contents/MacOS/OmegaT.sh and edit the following lines with your preferred plain-text editor:&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T103553Z" creationid="DiGro (Dick)" creationdate="20170916T103553Z">
+        <seg>- Zoek het bestand OmegaT.app/Contents/MacOS/OmegaT.sh op en bewerk de volgende regels met uw favoriete tekstbewerker:&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3025,6 +3113,14 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Locate the file OmegaT.l4J.ini (in the OmegaT program folder) and edit the following lines with your preferred plain-text editor:&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T103249Z" creationid="DiGro (Dick)" creationdate="20170916T103249Z">
+        <seg>- Lokaliseer het bestand file OmegaT.l4J.ini (in de programmamap van OmegaT) en bewerk de volgende regels met uw favoriete tekstbewerker:&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Magento CE Locale CSV (*.csv)</seg>
       </tuv>
       <tuv lang="NL">
@@ -3105,10 +3201,42 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Remove "#" at the line heads, and replace "xxxxx" with your "Client ID" and "Client secret."&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T103409Z" creationid="DiGro (Dick)" creationdate="20170916T103409Z">
+        <seg>- Verwijder de "#" aan het begin van de regels en vervang "xxxxx" door uw "Client ID" en "Client secret."&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- ResX files (*.resx)</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T103503Z">
         <seg>- ResX-bestanden (*.resx)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Right-click on OmegaT.app and select "Show Package Contents."&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T103512Z" creationid="DiGro (Dick)" creationdate="20170916T103512Z">
+        <seg>Klik met rechts op OmegaT.app en selecteer "Pakketinhoud weergeven".&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Save OmegaT.l4J.ini.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T103444Z" creationid="DiGro (Dick)" creationdate="20170916T103444Z">
+        <seg>- Sla OmegaT.l4J.ini op.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Save OmegaT.sh.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T103656Z" creationid="DiGro (Dick)" creationdate="20170916T103656Z">
+        <seg>- Sla OmegaT.sh op.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4895,6 +5023,14 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>&lt;b2&gt;&lt;Enter&gt;&lt;/b2&gt;&lt;segment 2132&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T103250Z" creationid="DiGro (Dick)" creationdate="20170916T103250Z">
+        <seg>&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30592,8 +30728,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Mac users:</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20160911T103653Z">
-        <seg>Macgebruikers</seg>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T103451Z">
+        <seg>Macgebruikers:</seg>
       </tuv>
     </tu>
     <tu>
