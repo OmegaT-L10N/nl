@@ -4611,6 +4611,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Download&lt;/a0&gt; &lt;a1&gt;Get Started&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T104514Z" creationid="DiGro (Dick)" creationdate="20170916T104514Z">
+        <seg>&lt;a0&gt;Downloaden&lt;/a0&gt; &lt;a1&gt;Get Started&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Firefox&lt;/a0&gt; together with the &lt;a1&gt;"ReloadEvery" add-on for Firefox&lt;/a1&gt;&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131225T170731Z" creationid="Dirk" creationdate="20131225T170731Z">
@@ -6607,6 +6615,22 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T145008Z">
         <seg>&lt;k1&gt;Ctrl&lt;/k1&gt; wordt gebruikt op Windows, UNIX en UNIX-achtige besturingssystemen die een toetsenbord hebben met de &lt;k2&gt;Ctrl&lt;/k2&gt;- of &lt;k3&gt;Control&lt;/k3&gt;-toets.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;k3&gt;abiword --to=html &lt;i4&gt;file&lt;/i4&gt;&lt;/k3&gt;&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T104308Z" creationid="DiGro (Dick)" creationdate="20170916T104308Z">
+        <seg>&lt;k3&gt;abiword --to=html &lt;i4&gt;file&lt;/i4&gt;&lt;/k3&gt;&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;k7&gt;unoconv -f html &lt;i8&gt;file&lt;/i8&gt;&lt;/k7&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T104324Z" creationid="DiGro (Dick)" creationdate="20170916T104324Z">
+        <seg>&lt;k7&gt;unoconv -f html &lt;i8&gt;file&lt;/i8&gt;&lt;/k7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15926,6 +15950,14 @@ the conditions stated below.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright Will Helton and OmegaT Japanese Localization Team 2012-2015&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T104256Z" creationid="DiGro (Dick)" creationdate="20170916T104256Z">
+        <seg>Copyright Will Helton en OmegaT Japanese Localization Team 2012-2015&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copyright information</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T163138Z" creationid="DiGro (Dick)" creationdate="20170915T163138Z">
@@ -18458,6 +18490,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download the &lt;a0&gt;tokenizer zip package (for OmegaT version 2.1.1 and later)&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T104407Z" creationid="DiGro (Dick)" creationdate="20170916T104407Z">
+        <seg>Download het pakket &lt;a0&gt;tokenizer zip (voor OmegaT versie 2.1.1 en later)&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download the file - it should be a &lt;f0&gt;tarball&lt;/f0&gt; archive (extension &lt;e1&gt;tar.bz&lt;/e1&gt; or &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T133504Z">
@@ -20980,6 +21020,14 @@ this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For LibreOffice+Unoconv:&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T104315Z" creationid="DiGro (Dick)" creationdate="20170916T104315Z">
+        <seg>Voor LibreOffice+Unoconv:&lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For Mac you can download the client for instance from &lt;u1&gt;SourceForge&lt;/u1&gt;, For Linux see &lt;u2&gt;Subversion Commands and Scripts&lt;/u2&gt;.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T110609Z">
@@ -22290,6 +22338,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T124436Z" creationid="Dirk" creationdate="20170914T124436Z">
         <seg>API-sleutel ophalen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Get Started with OmegaT</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T114700Z" creationid="DiGro (Dick)" creationdate="20170916T114700Z">
+        <seg>Beginnen met OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -34041,6 +34097,14 @@ OmegaT 4.0, Lees Mij-bestand</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT &lt;s0&gt;the free translation memory tool&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T104439Z" creationid="DiGro (Dick)" creationdate="20170916T104439Z">
+        <seg>OmegaT, &lt;s0&gt;het gratis programma met vertaalgeheugen&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT Download Selector</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131227T163115Z" creationid="Dirk" creationdate="20131227T163115Z">
@@ -44863,6 +44927,14 @@ control those activities.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131227T163819Z" creationid="Dirk" creationdate="20131227T163819Z">
         <seg>De versie "Standaard" van OmegaT bevat een volledige gebruikershandleiding (tenminste in het Engels) en zal gewoonlijk al gedurende enige tijd zijn getest om eventuele problemen te elimineren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The "Status" field displays the limit like as "1,998,890 Characters remaining" for example.&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T104242Z" creationid="DiGro (Dick)" creationdate="20170916T104242Z">
+        <seg>Het  veld "Status" geeft de limiet aan als bijvoorbeeld "1,998,890 Characters remaining".&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -61914,6 +61986,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://planetmirror.com/pub/OpenOffice/contrib/dictionaries/&lt;br12/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T104339Z" creationid="DiGro (Dick)" creationdate="20170916T104339Z">
+        <seg>http://planetmirror.com/pub/OpenOffice/contrib/dictionaries/&lt;br12/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://projectlocker.com/</seg>
       </tuv>
       <tuv lang="NL">
@@ -69376,6 +69456,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131225T151809Z" creationid="Dirk" creationdate="20131225T151809Z">
         <seg>   });</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>×</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T104515Z" creationid="DiGro (Dick)" creationdate="20170916T104515Z">
+        <seg>×</seg>
       </tuv>
     </tu>
     <tu>
