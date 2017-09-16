@@ -2769,6 +2769,14 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>*If you do not already have an Microsoft account, you will need to register one first.&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T102210Z" creationid="DiGro (Dick)" creationdate="20170916T102210Z">
+        <seg>*Indien u nog geen account hebt voor Azure Marketplace dient u er eerst een te registreren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>+{0} more</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20140813T171745Z" creationid="Dirk" creationdate="20140813T171745Z">
@@ -2817,10 +2825,26 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Access the above website and [Sign in] to Microsoft Azure Marketplace.&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T102143Z" creationid="DiGro (Dick)" creationdate="20170916T102143Z">
+        <seg>- Ga naar de bovengenoemde website en [Sign in] op Microsoft Azure Marketplace.&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Android resource (*.xml)</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T103504Z">
         <seg>- Android-bronbestanden (*.xml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- By using Microsoft Translator API, you can utilize Microsoft Translator machine translation in the Machine Translation window of OmegaT.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T101805Z" creationid="DiGro (Dick)" creationdate="20170916T101805Z">
+        <seg>- Door de Microsoft Translator API te gebruiken kunt u Microsoft Translator machinevertaling gebruiken in het venster Machinevertaling van OmegaT.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3085,6 +3109,14 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131226T152739Z" creationid="Dirk" creationdate="20131226T152739Z">
         <seg>- Er bestaan vele goede boeken en andere beschikbare bronnen voor (tenminste in het Engels)&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- To use Microsoft Translator API, you need to register your Application in Microsoft Azure Marketplace.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T101859Z" creationid="DiGro (Dick)" creationdate="20170916T101859Z">
+        <seg>- U dient uw toepassing te registreren op de Microsoft Azure Marketplace om de Microsoft Translator API te kunnen gebruiken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4531,6 +4563,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;https://datamarket.azure.com/dataset/bing/microsofttranslator&lt;/a0&gt; &lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T102118Z" creationid="DiGro (Dick)" creationdate="20170916T102118Z">
+        <seg>&lt;a0&gt;https://datamarket.azure.com/dataset/bing/microsofttranslator&lt;/a0&gt; &lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;www.dci.clrc.ac.uk/Publications/Cookbook/index.html&lt;/a0&gt;&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131226T152906Z" creationid="Dirk" creationdate="20131226T152906Z">
@@ -4783,6 +4823,14 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>&lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T102119Z" creationid="DiGro (Dick)" creationdate="20170916T102119Z">
+        <seg>&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -34530,6 +34578,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT uses "Client ID" and "Client secret" information of which you registered.&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T101927Z" creationid="DiGro (Dick)" creationdate="20170916T101927Z">
+        <seg>OmegaT gebruikt "Client ID" en "Client secret" informatie waarmee u zich hebt geregistreerd.&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT uses a number of librairies.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T133154Z" creationid="Dirk" creationdate="20170914T133154Z">
@@ -43073,6 +43129,14 @@ makes it unnecessary.</seg>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T142736Z" creationid="DiGro (Dick)" creationdate="20170915T142736Z">
         <seg>Sublicensing is not allowed; section 10
 makes it unnecessary.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Subscription</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T102117Z" creationid="DiGro (Dick)" creationdate="20170916T102117Z">
+        <seg>Abonneren</seg>
       </tuv>
     </tu>
     <tu>
