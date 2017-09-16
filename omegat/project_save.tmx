@@ -10392,10 +10392,26 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add numbers to all segments, making them all "unique"</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T120946Z" creationid="DiGro (Dick)" creationdate="20170916T120946Z">
+        <seg>Nummers toevoegen aan alle segmenten, hetgeen ze allemaal "uniek" maakt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add or rewrite encoding declaration in HTML and XHTML files:</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T191628Z">
         <seg>Codering-declaratie aan HTML- en XHTML-bestanden toevoegen of herschrijven:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add terms to a glossary whilst translating in OmegaT</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T120933Z" creationid="DiGro (Dick)" creationdate="20170916T120933Z">
+        <seg>Termen toevoegen aan een woordenlijst terwijl u vertaalt in OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -14344,6 +14360,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check spelling (various procedures)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T121004Z" creationid="DiGro (Dick)" creationdate="20170916T121004Z">
+        <seg>Spellingscontrole (diverse procedures)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check start case</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T124512Z">
@@ -16306,6 +16330,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T112908Z">
         <seg>Een nieuw project maken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create a TMX file containing all strings, with identical source and target</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T120924Z" creationid="DiGro (Dick)" creationdate="20170916T120924Z">
+        <seg>Een TMX-bestand maken dat alle tekenreeksen bevat, met identieke bron en doel</seg>
       </tuv>
     </tu>
     <tu>
@@ -20390,6 +20422,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Extract all source text from the project files into a single, large text file</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T120914Z" creationid="DiGro (Dick)" creationdate="20170916T120914Z">
+        <seg>Alle brontekst uit de projectbestanden uitnemen naar één enkel, groot tekstbestand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Extracted comments:</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120103T175707Z">
@@ -22859,6 +22899,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>Groups.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Grup de Recerca Tradumàtica</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T121031Z" creationid="DiGro (Dick)" creationdate="20170916T121031Z">
+        <seg>Grup de Recerca Tradumàtica</seg>
       </tuv>
     </tu>
     <tu>
@@ -34945,6 +34993,14 @@ om te worden opgestart.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT on Wikipedia &lt;s0&gt;25 languages&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T121020Z" creationid="DiGro (Dick)" creationdate="20170916T121020Z">
+        <seg>OmegaT op Wikipedia &lt;s0&gt;25 talen&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT on the web</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T110801Z">
@@ -38103,8 +38159,8 @@ lokaal project zonder functionaliteit voor team.</seg>
       <tuv lang="EN">
         <seg>Project autosaved on {0}</seg>
       </tuv>
-      <tuv lang="NL" changeid="DiGro" changedate="20110112T191603Z">
-        <seg>Project automatisch opgeslagen op {0}</seg>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T121123Z">
+        <seg>Project automatisch opgeslagen om {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -39229,6 +39285,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T155528Z">
         <seg>Vertaling verwijderen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove all text except tags, or all tags except text</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T120955Z" creationid="DiGro (Dick)" creationdate="20170916T120955Z">
+        <seg>Alle tekst, behalve tags, verwijderen, of alle tags behalve tekst</seg>
       </tuv>
     </tu>
     <tu>
@@ -42531,6 +42595,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T134312Z">
         <seg>PO-koptekst overslaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Skip segments containing a certain set of characters</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T120850Z" creationid="DiGro (Dick)" creationdate="20170916T120850Z">
+        <seg>Segmenten overslaan die een bepaalde verzameling tekens bevatten</seg>
       </tuv>
     </tu>
     <tu>
@@ -59876,6 +59948,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>c) You must license the entire work, as a whole, under this</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cApStAn</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T121023Z" creationid="DiGro (Dick)" creationdate="20170916T121023Z">
+        <seg>cApStAn</seg>
       </tuv>
     </tu>
     <tu>
