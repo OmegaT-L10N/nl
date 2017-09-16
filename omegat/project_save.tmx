@@ -8988,6 +8988,22 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.latest.name}}&lt;/a1&gt;&lt;/s0&gt; Latest Version</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T115301Z" creationid="DiGro (Dick)" creationdate="20170916T115301Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.latest.name}}&lt;/a1&gt;&lt;/s0&gt; Laatste versie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Standard Version</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T115249Z" creationid="DiGro (Dick)" creationdate="20170916T115249Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Standaard versie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;Linux users&lt;/s0&gt;: most Linux distributions are supplied with a Java Runtime Environment, but some open-source implementations do not work properly with OmegaT (although this may not be immediately apparent).</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T151421Z" creationid="DiGro (Dick)" creationdate="20170915T151410Z">
@@ -17730,6 +17746,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Diego Merino - Translator EN &gt; ES</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T115529Z" creationid="DiGro (Dick)" creationdate="20170916T115529Z">
+        <seg>Diego Merino - Vertaler EN &gt; ES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Diff (GPL)</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20121207T201229Z">
@@ -18478,6 +18502,22 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T131308Z">
         <seg>Pagina van MediaWiki downloaden...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download Overview</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T115239Z" creationid="DiGro (Dick)" creationdate="20170916T115239Z">
+        <seg>Download overzicht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download Selector</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T115226Z" creationid="DiGro (Dick)" creationdate="20170916T115226Z">
+        <seg>Download selecteren</seg>
       </tuv>
     </tu>
     <tu>
@@ -23591,6 +23631,14 @@ later version.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T185250Z">
         <seg>Bro&amp;n invoegen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I've been using OmegaT as a professional translator for over 10 years, benefiting in the early days from its ease of use and extremely helpful forum.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T115751Z" creationid="DiGro (Dick)" creationdate="20170916T115751Z">
+        <seg>Ik gebruik gedurende meer dan 10 jaar OmegaT als professioneel vertaler, vanaf het begin voordeel trekkend uit het gebruiksgemak en bijzonder behulpzame forum.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33946,6 +33994,14 @@ combined work, and to convey the resulting work.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>ODF - OASIS Open Document Format (*.ods, *.ots, *.odt, *.ott, *.odp, *.otp)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ODFAuthors and LibreOffice's Italian translators are proud to use such a good tool for their hard work within the LibreOffice Community.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T115625Z" creationid="DiGro (Dick)" creationdate="20170916T115625Z">
+        <seg>ODFAuthors en LibreOffice's Italiaanse vertalers zijn er trots op een dergelijk goed stuk gereedschap te gebruiken voor hun harde werk binnen de gemeenschap van LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47738,6 +47794,14 @@ content, constitutes a covered work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The perfect companion for those of us who don't need complexity but efficiency; glossaries, auto-complete and automatic translation makes my work in literary translation so much efficient</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T115519Z" creationid="DiGro (Dick)" creationdate="20170916T115519Z">
+        <seg>De perfecte partner voor hen die geen complexiteit nodig hebben maar efficiëntie; woordenlijsten, automatisch aanvullen en automatisch vertalen maakt mijn werk in letterlijk vertalen zo veel efficiënter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The permissions you give to this version (which may appear as "unrestricted access to the computer") are identical to the permissions you give to the local version, i.e., they allow access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T141904Z">
@@ -54540,6 +54604,14 @@ Opdrachten:
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>User portrait</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T115319Z" creationid="DiGro (Dick)" creationdate="20170916T115319Z">
+        <seg>Portret van gebruiker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User requirements</seg>
       </tuv>
       <tuv lang="NL">
@@ -54963,6 +55035,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120301T173956Z">
         <seg>Tags valideren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Valter Mura - Translator EN &gt; IT</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T115632Z" creationid="DiGro (Dick)" creationdate="20170916T115632Z">
+        <seg>Valter Mura - Vertaler EN &gt; IT</seg>
       </tuv>
     </tu>
     <tu>
