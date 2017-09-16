@@ -4811,6 +4811,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OpenOffice.org&lt;/a0&gt; &lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T120507Z" creationid="DiGro (Dick)" creationdate="20170916T120507Z">
+        <seg>&lt;a0&gt;OpenOffice.org&lt;/a0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Opera&lt;/a0&gt;&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131225T170701Z" creationid="Dirk" creationdate="20131225T170701Z">
@@ -15476,6 +15484,14 @@ OmegaT gebruikt de volgende bibliotheken:
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Consists of a model student's manual with instructions to trainers for adaptation, and sample resources.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T120439Z" creationid="DiGro (Dick)" creationdate="20170916T120439Z">
+        <seg>Bestaat uit een modelhandleiding voor studenten en instructies voor de trainers die kunnen worden aangepast en voorbeelden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Console-align mode:
 	--alignDir=&lt;path&gt;
 		A directory containing the translated files.</seg>
@@ -15586,8 +15602,8 @@ OmegaT gebruikt de volgende bibliotheken:
       <tuv lang="EN">
         <seg>Continuing Professional Development is the current buzzword!</seg>
       </tuv>
-      <tuv lang="NL">
-        <seg>Voortgaande Professionele Ontwikkeling is het huidige thema!</seg>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T120318Z">
+        <seg>Voortgaande professionele ontwikkeling is het huidige thema!</seg>
       </tuv>
     </tu>
     <tu>
@@ -25193,6 +25209,14 @@ where to find the applicable terms.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T134749Z">
         <seg>Als u al woorden hebt verzameld waarvan u wilt dat de spellingscontrole die negeert / accepteert, hoeft u slechts de corresponderende twee bestanden naar de submap &lt;f0&gt;omegat&lt;/f0&gt; van uw huidige project te kopiëren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are already reasonably familiar with computers in general and choose a straightforward scripting language like Javascript or Tcl/Tk, you could teach yourself enough to be able to write simple but useful scripts within just a couple of weeks.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T120305Z" creationid="DiGro (Dick)" creationdate="20170916T120305Z">
+        <seg>Als u al redelijk thuis bent met computers in het algemeen en een eenvoudige scripttaal zoals javascript of Tcl/Tk kiest, kunt u zichzelf binnen enkele weken genoeg leren om in staat te zijn eenvoudige maar nuttige scripts te schrijven.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40703,6 +40727,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Scripts/procedures are available to enable you to do the following:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T120837Z" creationid="DiGro (Dick)" creationdate="20170916T120837Z">
+        <seg>Scripts/procedures zijn beschikbaar om u het volgende te laten doen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Se&amp;t</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T131150Z" creationid="Dirk" creationdate="20170914T131150Z">
@@ -42219,6 +42251,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160906T162052Z" creationid="Dirk" creationdate="20160906T162052Z">
         <seg>Gevorderde &amp;opties weergeven</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show English Version</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T120340Z" creationid="DiGro (Dick)" creationdate="20170916T120340Z">
+        <seg>Engelse versie weergeven</seg>
       </tuv>
     </tu>
     <tu>
@@ -51236,6 +51276,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T125458Z">
         <seg>Deze korte tekst beschrijft het gedrag van de toetsen in het bewerkingsvenster.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This site is also available in English!</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T120400Z" creationid="DiGro (Dick)" creationdate="20170916T120400Z">
+        <seg>Deze site is ook in het Engels beschikbaar!</seg>
       </tuv>
     </tu>
     <tu>
