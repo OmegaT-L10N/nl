@@ -2,122 +2,114 @@
 <div class="container">
 
 
-<h3>Background and principles</h3>
+<h3>Achtergrond en principes</h3>
 
-<p>Priorview is a small utility that provides a preview function for use with OmegaT. For the background and principles, refer to the <a href="preview.html">Preview Howto</a>. This HowTo describes the use of Priorview for <b>Windows and Linux</b>. If you are using Mac OSX, you can <a href="{{ '/files/priorview_for_mac.zip' | prepend: site.baseurl_root }}">download a version of Priorview for Mac here</a>. The Mac OSX version is not yet documented and the information below does <b>not</b> apply to it.</p>
+<p>Priorview is een klein programma dat een functie Voorbeeld verschaft om te gebruiken met OmegaT. Bekijk de <a href="preview.html">Preview Howto</a> voor de achtergrond en principes. Deze HowTo beschrijft het gebruik van Priorview voor <b>Windows en Linux</b>. Als u Mac OSX gebruikt, kunt u <a href="{{ '/files/priorview_for_mac.zip' | prepend: site.baseurl_root }}">hier een versie van Priorview voor Mac downloaden</a>. De versie Mac OSX is nog niet gedocumenteerd en de informatie hieronder is daarop <b>niet</b> van toepassing.</p>
 
-<h3>Software required</h3>
+<h3>Vereiste software</h3>
 
-<p>To use Priorview on Windows or Linux, you need the following:</p>
+<p>U heeft het volgende nodig om Priorview te gebruiken op Windows of Linux:</p>
 
-<p>1. <b>A browser</b>, specifically either:</p>
+<p>1. <b>Een browser</b>, specifiek ofwel:</p>
 
 <ul>
 
 <li><a href="http://www.opera.com">Opera</a><br/>or</li>
 
-<li><a href="http://www.mozilla.org">Firefox</a> together with the <a href="http://addons.mozilla.org/de/firefox/addon/reloadevery/">"ReloadEvery" add-on for Firefox</a><br/> Install Firefox first (if you do not already have it installed), then ReloadEvery.</li>
+<li><a href="http://www.mozilla.org">Firefox</a> tezamen met de add-on <a href="http://addons.mozilla.org/de/firefox/addon/reloadevery/">"ReloadEvery" voor Firefox</a><br/> Installeer eerst Firefox (indien u deze al nog niet geïnstalleerd hebt), dan ReloadEvery.</li>
 
-<li><i>(Download from the links provided; Linux users may prefer to install from their distribution's repositories, where this is possible)</i></li>
+<li><i>(Downloaden vanaf de verschafte koppelingen; Linux-gebruikers zouden kunnen prefereren om vanuit de repositories van hun distributie te installeren, waar dit mogelijk is)</i></li>
 
 </ul>
 
-<p>2. <b>A conversion utility</b>, specifically either:</p>
+<p>2. <b>Een programma om te converteren</b>, specifiek ofwel:</p>
 
 <ul>
 
 <li><a href="http://www.abisource.com/download/">Abiword</a><br/>or</li>
 
-<li><a href="http://www.libreoffice.org/">LibreOffice</a> together with the <a href="http://dag.wieers.com/home-made/unoconv/">Unoconv plug-in</a></li>
+<li><a href="http://www.libreoffice.org/">LibreOffice</a> tezamen met de <a href="http://dag.wieers.com/home-made/unoconv/">plug-in Unoconv</a></li>
 
 </ul>
 
 <p>3. <b><a href="http://www.tcl.tk/software/tcltk/">Tcl/Tk</a></b></p>
 
-<p>Almost any current version of Tcl/Tk will probably be suitable, but you must have both Tcl (the scripting interpreter) and Tk (the graphical component).</p>
+<p>Bijna elke huidige versie van Tcl/Tk zal waarschijnlijk geschikt zijn, maar u moet zowel Tcl (de scripting interpreter) als Tk (de grafische component) hebben.</p>
 
 <p>4. <b><a href="{{ '/files/priorview.zip' | prepend: site.baseurl_root }}">Priorview</a></b></p>
 
-<p>To install Priorview, simply unpack the zip archive at any suitable location on your hard drive. To launch Priorview, open a command prompt/terminal/console and type in:</p>
+<p>Pak eenvoudigweg het zip-archief uit op een geschikte locatie op uw harde schijf om Priorview te installeren. Open, om Priorview te starten, een command prompt/terminal/console en typ:</p>
 
-<p>cd <i>path</i></p>
+<p>cd <i>pad</i></p>
 
-<p>where <i>path</i> is the full pathname of the folder in which you placed preview.tcl. Then type in:</p>
+<p>waar <i>pad</i> de volledige padnaam is van de map waarin u preview.tcl hebt geplaatst. Typ dan:</p>
 
 <p>wish priorview.tcl</p>
 
-<p>You can simplify launching by writing a script file, i.e. a plain-text file containing these two lines.</p>
+<p>U kunt eenvoudig starten door een scriptbestand te schrijven,d.i. een platte-tekstbestand dat deze twee regels bevat.</p>
 
-<h3>Using Priorview</h3>
+<h3>Priorview gebruiken</h3>
 
-<p>All being well, Priorview should appear when launched as described above. On this, select:</p>
-
-<ul>
-
-<li>the name of the target file (in /target in your OmegaT project);</li>
-
-<li>the browser you have installed;</li>
-
-<li>the frequency with which the script is to check whether this file has changed (polling interval);</li>
-
-<li>the file conversion utility that you have installed.</li>
-
-</ul>
-
-<p>When you have selected all of these, the Start button appears. When actuated, this launches your browser with a dummy page instructing you to set the automatic refresh function, which you should then do, and then to hit Ctrl+s, Ctrl+d in OmegaT to launch automatic updating of the browser.</p>
-
-<p>Whilst Priorview is running, you can:</p>
+<p>Als alles goed is zou Priorview moeten verschijnen als het is opgestart zoals hierboven vermeld. Hierop, selecteer:</p>
 
 <ul>
 
-<li>interrupt and restart it;</li>
+<li>de naam van het doelbestand (in /target in uw project van OmegaT);</li>
 
-<li>select a new file (if you are working in a project containing several files, you do not have to relaunch Priorview when you reach the end of one file; you can simply select the next);</li>
+<li>de browser die u hebt geïnstalleerd;</li>
 
-<li>change the polling interval.</li>
+<li>de frequentie waarmee het script moet controleren of dit bestand is gewijzigd (polling-interval);</li>
+
+<li>het programma voor bestandsconversie dat u hebt geïnstalleerd.</li>
 
 </ul>
 
-<p>Once Priorview has been launched, however, you cannot select a different browser or conversion utility; these options are therefore hidden after launch. To select a different browser or conversion utility, you must close Priorview and relaunch it.</p>
+<p>Wanneer u al deze hebt geselecteerd, zal de knop Start verschijnen. Indien geactiveerd start dit uw browser met een dummy-pagina die u instrueert om de functie automatisch vernieuwen in te stellen, wat u dan ook zou moeten doen, en om dan op Ctrl+s, Ctrl+d in OmegaT te drukken om automatisch bijwerken van de browser te starten.</p>
 
-<p>The Quit button closes Priorview and also deletes the temporary files that it creates. (Other methods of closing Priorview will not delete the temporary files.)</p>
+<p>Terwijl Priorview wordt uitgevoerd, kunt u:</p>
+
+<ul>
+
+<li>onderbreken en het opnieuw starten;</li>
+
+<li>een nieuw bestand selecteren (als u werkt in een project dat meerdere bestanden bevat, hoeft u Priorview niet opnieuw te starten als u het einde van één bestand bereikt; u kunt eenvoudigweg het volgende selecteren);</li>
+
+<li>de polling-interval wijzigen.</li>
+
+</ul>
+
+<p>Als Priorview echter eenmaal is gestart kunt u geen andere browser of programma voor conversie kiezen; deze opties zijn daarom na het starten verborgen. U moet Priorview sluiten en het opnieuw starten om een andere browser of programma voor conversie te selecteren.</p>
+
+<p>De knop Quit sluit Priorview en verwijdert ook de tijdelijke bestanden die het maakt. (Andere methoden voor het sluiten van Priorview zullen de tijdelijke bestanden niet verwijderen.)</p>
 
 <p><img src="{{ '/img/preview_ss.png' | prepend: site.baseurl_root }}" alt="preview_ss.png"></img></p>
 
-<p><i>A European Commission press release (in .odt format) in OmegaT and below it the instantaneous target text displayed in Opera. Bottom right: the Priorview utility. The layout shown here is just for the sake of example; you can of course arrange the windows as you like.</i></p>
+<p><i>Een persbericht van de Europese Commissie (in indeling .odt) in OmegaT en daaronder de directe doeltekst weergegeven in Opera. Rechtsonder: het programma Priorview. De hier getoonde lay-out dient slechts als voorbeeld; u kunt natuurlijk de vensters schikken zoals u dat wilt.</i></p>
 
 
-<h3>Troubleshooting</h3>
+<h3>Probleemoplossing</h3>
 
-<p>If the path to the location of priorview.tcl contains spaces, put it in quotes, e.g.:</p>
+<p>Als het pad naar de locatie van priorview.tcl spaties bevat, plaats het dan tussen aanhalingstekens, bijv.:</p>
 
 <p>cd "C:\My Files\priorview"</p>
 
-<p>If Priorview fails to launch:</p>
+<p>Als Priorview niet wil starten:</p>
 
-<p>Depending upon the version of Tcl/Tk that you have installed, you may have to add the version number to the wish command, e.g.:</p>
+<p>Afhankelijk van de versie van Tcl/Tk die u hebt geïnstalleerd, dient u mogelijk het versienummer toe te voegen aan de opdracht wish, bijv.:</p>
 
 <p>wish8.5 priorview.tcl</p>
 
-<p>Pay attention to lower/upper case.</p>
+<p>Let op Hoofd-/kleine letters.</p>
 
-<p>If the file displayed in the browser is not being updated, check the following:</p>
+<p>Als het bestand dat wordt weergegeven in de browser niet wordt bijgewerkt, controleer dan het volgende:</p>
 
 <ul>
 
-<li>That you are remembering to hit Ctrl+s, Ctrl+d in OmegaT. Until/unless you do, there will be no changes to detect/display!</li>
+<li>Dat u heeft onthouden om Ctrl+s, Ctrl+d in te drukken in OmegaT. Totdat/Tenzij u dat doet, zullen er geen wijzigingen zijn om te detecteren/weer te geven!</li>
 
-<li>That the file conversion utility is installed properly and is working. You can test this with the relevant command below on the command line (terminal/console/DOS prompt). In each case, <i>file</i> is the name of a .docx or .odt file. If all is well, an .html version of the file will be produced:<br/>
+<li>Dat het programma voor bestandsconversie juist is geïnstalleerd en werkt. U kunt dit testen met de relevante opdracht hieronder op de opdrachtregel (terminal/console/DOS prompt). In elk geval is <i>bestand</i> de naam van een .docx- of .odt-bestand. Als alles goed is zal een .html-versie van het bestand worden geproduceerd:<br/> Voor Abiword:<br/> <kbd>abiword --to=html <i>file</i></kbd><br/> Voor LibreOffice+Unoconv:<br/> <kbd>unoconv -f html <i>file</i></kbd></li>
 
-For Abiword:<br/>
-
-<kbd>abiword --to=html <i>file</i></kbd><br/>
-
-For LibreOffice+Unoconv:<br/>
-
-<kbd>unoconv -f html <i>file</i></kbd></li>
-
-<li>That you have set the auto-refresh interval in the browser.</li>
+<li>Dat u de interval voor automatisch vernieuwen hebt ingesteld in de browser.</li>
 
 </ul>
 
