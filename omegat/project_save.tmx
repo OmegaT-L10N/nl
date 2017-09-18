@@ -4627,6 +4627,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Download&lt;/a0&gt; &lt;a1&gt;Get Started&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="briac" changedate="20170918T132132Z" creationid="briac" creationdate="20170918T132132Z">
+        <seg>&lt;a0&gt;Download&lt;/a0&gt; &lt;a1&gt;Get Started&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Firefox&lt;/a0&gt; together with the &lt;a1&gt;"ReloadEvery" add-on for Firefox&lt;/a1&gt;&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131225T170731Z" creationid="Dirk" creationdate="20131225T170731Z">
@@ -22474,6 +22482,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T124436Z" creationid="Dirk" creationdate="20170914T124436Z">
         <seg>API-sleutel ophalen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Get Started with OmegaT</seg>
+      </tuv>
+      <tuv lang="NL" changeid="briac" changedate="20170918T132134Z" creationid="briac" creationdate="20170918T132134Z">
+        <seg>Get Started with OmegaT</seg>
       </tuv>
     </tu>
     <tu>
