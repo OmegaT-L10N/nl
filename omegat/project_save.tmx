@@ -13498,6 +13498,14 @@ been installed in ROM).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By Sheila Gomes (in Brasilian Portuguese).</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170923T100433Z" creationid="DiGro (Dick)" creationdate="20170923T100433Z">
+        <seg>Door Sheila Gomes (in Braziliaans Portuguees).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By Susan Welsh (Open Document Format).</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120401T130734Z">
@@ -13518,6 +13526,14 @@ been installed in ROM).</seg>
       </tuv>
       <tuv lang="NL">
         <seg>Door Takashi Miyamoto (in het Japans).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Vladimir Zhdanov (in Russian).</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170923T100404Z" creationid="DiGro (Dick)" creationdate="20170923T100404Z">
+        <seg>Door Vladimir Zhdanov (in het Russisch).</seg>
       </tuv>
     </tu>
     <tu>
@@ -38825,6 +38841,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Recursos do OmegaT: primeiros passos</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170923T100408Z" creationid="DiGro (Dick)" creationdate="20170923T100408Z">
+        <seg>Recursos do OmegaT: primeiros passos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Redo Last Action</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T131642Z">
@@ -49228,6 +49252,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T145832Z" creationid="DiGro (Dick)" creationdate="20170915T145832Z">
         <seg>De gebruikershandleiding voor OmegaT als PDF (OmegaT versie 3.6.0 update 5).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The user manual for OmegaT in PDF format ({{ site.data.versions.standard.name }}).</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170923T100337Z" creationid="DiGro (Dick)" creationdate="20170923T100337Z">
+        <seg>De gebruikershandleiding voor OmegaT als PDF ({{ site.data.versions.standard.name }}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -69904,6 +69936,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T104515Z" creationid="DiGro (Dick)" creationdate="20170916T104515Z">
         <seg>×</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>В помощь переводчику: 10 советов по OmegaT</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170923T100353Z" creationid="DiGro (Dick)" creationdate="20170923T100353Z">
+        <seg>В помощь переводчику: 10 советов по OmegaT</seg>
       </tuv>
     </tu>
     <tu>
