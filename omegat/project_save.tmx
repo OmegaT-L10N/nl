@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10092M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_2_10096:10098" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -30774,6 +30774,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Local working copies cleaned up: {0}</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170923T100205Z" creationid="DiGro (Dick)" creationdate="20170923T100205Z">
+        <seg>Lokale werkkopieën opgeschoond: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Localization</seg>
       </tuv>
       <tuv lang="NL">
@@ -40309,6 +40317,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SVN - Cleanup (recursive)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170923T100018Z" creationid="DiGro (Dick)" creationdate="20170923T100018Z">
+        <seg>SVN - Cleanup (recursive)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SVNKit (TMate License)</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170914T161223Z" creationid="DiGro (Dick)" creationdate="20170914T161223Z">
@@ -48436,6 +48452,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The script will quit now.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170923T100135Z" creationid="DiGro (Dick)" creationdate="20170923T100135Z">
+        <seg>Het script wordt nu afgebroken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The search string - [a-zA-Z]+[öäüqwß] - in the example above for instance looks for words in the target segment, containing questionable characters from German keyboard.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T171206Z">
@@ -49524,6 +49548,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T125908Z" creationid="Dirk" creationdate="20170914T125908Z">
         <seg>Er zijn online vele plug-ins beschikbaar voor OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are no local working copies in {0}.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170923T100121Z" creationid="DiGro (Dick)" creationdate="20170923T100121Z">
+        <seg>Er staan geen lokale werkkopieën in {0}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51316,6 +51348,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131226T151941Z" creationid="Dirk" creationdate="20131226T151941Z">
         <seg>Dit script geeft het doelsegment weer in een bijzonder lettertype (hard-gecodeerd in het script, maar het kan worden bewerkt) in plaats van het standaard lettertype.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This script is intended to run in OmegaT 3.6 and newer.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170923T100255Z" creationid="DiGro (Dick)" creationdate="20170923T100255Z">
+        <seg>Dit script is bedoeld om te worden uitgevoerd in OmegaT 3.6 en nieuwer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57131,6 +57171,14 @@ for enforcing compliance by third parties with this License.</seg>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T142833Z" creationid="DiGro (Dick)" creationdate="20170915T142833Z">
         <seg>You are not responsible
 for enforcing compliance by third parties with this License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are running OmegaT version {0}.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170923T100219Z" creationid="DiGro (Dick)" creationdate="20170923T100219Z">
+        <seg>U gebruikt OmegaT versie {0}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69460,6 +69508,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{0} is not a local working copy, skipping.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170923T100059Z" creationid="DiGro (Dick)" creationdate="20170923T100059Z">
+        <seg>{0} is geen lokale werkkopie, overgeslagen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{0} loaded.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110926T165941Z">
@@ -69528,6 +69584,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20140419T144556Z" creationid="Dirk" creationdate="20140419T144556Z">
         <seg>{0}/{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}:	cleanup done!!</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170923T100031Z" creationid="DiGro (Dick)" creationdate="20170923T100031Z">
+        <seg>{0}:	Opschonen voltooid!!</seg>
       </tuv>
     </tu>
     <tu>
