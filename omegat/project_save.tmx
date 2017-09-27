@@ -16662,6 +16662,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cross-platform without JRE</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170927T103642Z" creationid="DiGro (Dick)" creationdate="20170927T103642Z">
+        <seg>Cross-platform zonder JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Crossover Linux and Crossover Macintosh can be obtained from the &lt;a0&gt;Codeweavers' website&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131228T125303Z">
@@ -23787,6 +23795,22 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Howto - Spellchecking</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170927T103509Z" creationid="DiGro (Dick)" creationdate="20170927T103509Z">
+        <seg>Howto - Spellingscontrole</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - The "Priorview" preview utility</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170927T103500Z" creationid="DiGro (Dick)" creationdate="20170927T103500Z">
+        <seg>HowTo - De functie Voorbeeld "Priorview"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Howto - Translating OmegaT into your language</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170927T103350Z" creationid="DiGro (Dick)" creationdate="20170927T103350Z">
@@ -23823,6 +23847,22 @@ later version.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170927T103359Z" creationid="DiGro (Dick)" creationdate="20170927T103359Z">
         <seg>Howto - Microsoft Translator gebruiken in OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Using the OmegaT text export function (scripting interface)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170927T103544Z" creationid="DiGro (Dick)" creationdate="20170927T103544Z">
+        <seg>Howto - De OmegaT functie Tekst exporteren gebruiken (interface Scripten)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Using the OmegaT tokenizer</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170927T103554Z" creationid="DiGro (Dick)" creationdate="20170927T103554Z">
+        <seg>Howto - De OmegaT tokenizer gebruiken</seg>
       </tuv>
     </tu>
     <tu>
@@ -30798,6 +30838,22 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Linux with 64-bit JRE</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170927T103632Z" creationid="DiGro (Dick)" creationdate="20170927T103632Z">
+        <seg>Linux met 64-bit JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Linux with JRE</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170927T103627Z" creationid="DiGro (Dick)" creationdate="20170927T103627Z">
+        <seg>Linux met JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Linux/Solaris/FreeBSD</seg>
       </tuv>
       <tuv lang="NL">
@@ -34290,6 +34346,22 @@ combined work, and to convey the resulting work.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>ONline DIctionary LOokup TOol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OS X Signed</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170927T103616Z" creationid="DiGro (Dick)" creationdate="20170927T103616Z">
+        <seg>OS X ondertekend</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OS X Unsigned</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170927T103623Z" creationid="DiGro (Dick)" creationdate="20170927T103623Z">
+        <seg>OS X niet ondertekend</seg>
       </tuv>
     </tu>
     <tu>
@@ -56775,6 +56847,30 @@ Zowel exacte als zoekacties op sleutelwoorden ondersteunen de jokertekens * en ?
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120401T163532Z">
         <seg>Windows-gebruikers:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows with 64-bit JRE</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170927T103605Z" creationid="DiGro (Dick)" creationdate="20170927T103605Z">
+        <seg>Windows met 64-bit JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows with JRE</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170927T103558Z" creationid="DiGro (Dick)" creationdate="20170927T103558Z">
+        <seg>Windows met JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows without JRE</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170927T103610Z" creationid="DiGro (Dick)" creationdate="20170927T103610Z">
+        <seg>Windows zonder JRE</seg>
       </tuv>
     </tu>
     <tu>
