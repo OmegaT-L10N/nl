@@ -10106,6 +10106,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>About</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170927T103022Z" creationid="DiGro (Dick)" creationdate="20170927T103022Z">
+        <seg>Over</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>About &lt;a0&gt;OmegaT&lt;/a0&gt; - introduction</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170104T175236Z" creationid="Dirk" creationdate="20170104T174807Z">
@@ -15332,6 +15340,14 @@ OmegaT gebruikt de volgende bibliotheken:
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Compatibility</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170927T103150Z" creationid="DiGro (Dick)" creationdate="20170927T103150Z">
+        <seg>Compatibiliteit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Compatibility HowTos</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120401T130920Z">
@@ -15492,6 +15508,14 @@ OmegaT gebruikt de volgende bibliotheken:
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Connect</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170927T103037Z" creationid="DiGro (Dick)" creationdate="20170927T103037Z">
+        <seg>Verbinden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Connection available, the project is in team project mode.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20121207T201653Z">
@@ -15564,6 +15588,22 @@ OmegaT gebruikt de volgende bibliotheken:
         <seg>modus Console-translate:
 	--source-pattern=&lt;patroon&gt;
 		Een regex whitelist van te verwerken bronbestanden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contact</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170927T103024Z" creationid="DiGro (Dick)" creationdate="20170927T103024Z">
+        <seg>Contact</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contact and Support</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170927T103129Z" creationid="DiGro (Dick)" creationdate="20170927T103129Z">
+        <seg>Contact en ondersteuning</seg>
       </tuv>
     </tu>
     <tu>
@@ -18334,6 +18374,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T192025Z">
         <seg>Vastzetten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Documentation</seg>
+      </tuv>
+      <tuv lang="NL">
+        <seg>Documentatie</seg>
       </tuv>
     </tu>
     <tu>
@@ -23531,6 +23579,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How-To</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170927T103142Z" creationid="DiGro (Dick)" creationdate="20170927T103142Z">
+        <seg>How-To</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However,</seg>
       </tuv>
       <tuv lang="NL">
@@ -23687,6 +23743,86 @@ later version.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T165643Z">
         <seg>U zou echter toch voorzorgen moeten nemen tegen gegevensverlies als u &lt;a1&gt;OmegaT&lt;/a1&gt; gebruikt, net als met elke andere toepassing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Adding a preview function to OmegaT</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170927T103444Z" creationid="DiGro (Dick)" creationdate="20170927T103444Z">
+        <seg>HowTo -  Een functie Voorbeeld toevoegen aan OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Compiling OmegaT from the source code</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170927T103216Z" creationid="DiGro (Dick)" creationdate="20170927T103216Z">
+        <seg>Howto - Compileren van OmegaT vanuit de broncode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Creating a new file filter</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170927T103413Z" creationid="DiGro (Dick)" creationdate="20170927T103413Z">
+        <seg>Howto - Een nieuw bestandsfilter maken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Exporting from OmegaT to 'Trados uncleaned RTF' format</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170927T103309Z" creationid="DiGro (Dick)" creationdate="20170927T103309Z">
+        <seg>Howto - Exporteren vanuit OmegaT naar 'Trados uncleaned RTF'-indeling</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - OmegaT compatibility with Déjà Vu</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170927T103200Z" creationid="DiGro (Dick)" creationdate="20170927T103200Z">
+        <seg>Howto - OmegaT compatibiliteit met Déjà Vu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Translating OmegaT into your language</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170927T103350Z" creationid="DiGro (Dick)" creationdate="20170927T103350Z">
+        <seg>Howto - OmegaT vertalen naar uw language</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Translating PDF files with Iceni Infix and OmegaT</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170927T103333Z" creationid="DiGro (Dick)" creationdate="20170927T103333Z">
+        <seg>HowTo - Vertalen van PDF-bestanden met Iceni Infix en OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Translating Word 2007 files in OmegaT</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170927T103235Z" creationid="DiGro (Dick)" creationdate="20170927T103235Z">
+        <seg>Howto - Word 2007-bestanden vertalen in OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Using Google Translate in OmegaT</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170927T103319Z" creationid="DiGro (Dick)" creationdate="20170927T103319Z">
+        <seg>Howto - Google Translate gebruiken in OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Using Microsoft Translator in OmegaT</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170927T103359Z" creationid="DiGro (Dick)" creationdate="20170927T103359Z">
+        <seg>Howto - Microsoft Translator gebruiken in OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -31358,6 +31494,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Manual</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170927T103138Z" creationid="DiGro (Dick)" creationdate="20170927T103138Z">
+        <seg>Handleiding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Manually defined rules</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170104T180418Z" creationid="Dirk" creationdate="20170104T180418Z">
@@ -34304,6 +34448,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT - The Free Translation Memory Tool</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170927T102950Z" creationid="DiGro (Dick)" creationdate="20170927T102950Z">
+        <seg>OmegaT - het gratis programma met vertaalgeheugen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT 3.5 - User's Guide</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T165742Z" creationid="Dirk" creationdate="20160910T165742Z">
@@ -34755,6 +34907,14 @@ translation leveraging into updated projects.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is a free open-source translation memory application for professional translators written in Java.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170927T103015Z" creationid="DiGro (Dick)" creationdate="20170927T103015Z">
+        <seg>OmegaT is een gratis toepassing met vertaalgeheugens voor professionele vertalers, geschreven in Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is a free, open-source translation memory program.</seg>
       </tuv>
       <tuv lang="NL">
@@ -35005,6 +35165,14 @@ om te worden opgestart.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T095124Z">
         <seg>overeenkomst OmegaT, inclusief getallen en tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT on Linux HowTo</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro" changedate="20120402T175115Z">
+        <seg>OmegaT op Linux HowTo</seg>
       </tuv>
     </tu>
     <tu>
@@ -36724,6 +36892,14 @@ free programs, and that you know you can do these things.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Page Not Found</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170927T103123Z" creationid="DiGro (Dick)" creationdate="20170927T103123Z">
+        <seg>Pagina niet gevonden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Page slips through fingers&lt;p&gt;Pulse pounding hard and frantic&lt;p&gt;Vanishing like mist.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T185902Z">
@@ -37024,6 +37200,14 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>Phillip Hall</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Philosophy</seg>
+      </tuv>
+      <tuv lang="NL">
+        <seg>Filosofie</seg>
       </tuv>
     </tu>
     <tu>
@@ -38417,6 +38601,14 @@ lokaal project zonder functionaliteit voor team.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131227T162454Z" creationid="Dirk" creationdate="20131227T162454Z">
         <seg>Vergroten van overeenkomsten en overeenkomsten een-tot-vele</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Propagation and one-to-many matching HowTo</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20131228T130630Z" creationid="Dirk" creationdate="20131225T173854Z">
+        <seg>Vergroten van overeenkomsten en een-tot-vele overeenkomsten HowTo</seg>
       </tuv>
     </tu>
     <tu>
@@ -39867,6 +40059,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Resources</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170927T103031Z" creationid="DiGro (Dick)" creationdate="20170927T103031Z">
+        <seg>Bronnen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Restore</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T192027Z">
@@ -39999,6 +40199,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160126T141340Z" creationid="Dirk" creationdate="20160126T141340Z">
         <seg>Bespreking van OmegaT, 2010.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reviews</seg>
+      </tuv>
+      <tuv lang="NL">
+        <seg>Besprekingen</seg>
       </tuv>
     </tu>
     <tu>
@@ -43099,6 +43307,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source code</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dirk" changedate="20131227T163330Z" creationid="Dirk" creationdate="20131227T163330Z">
+        <seg>Broncode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source code packages are not required by users and are intended for developers only.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131227T162041Z" creationid="Dirk" creationdate="20131227T162041Z">
@@ -45831,6 +46047,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20140419T143121Z" creationid="Dirk" creationdate="20140419T143121Z">
         <seg>Het Mozilla DTD-filter genereerde een uitzondering:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT Project</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170927T103109Z" creationid="DiGro (Dick)" creationdate="20170927T103109Z">
+        <seg>Het project OmegaT</seg>
       </tuv>
     </tu>
     <tu>
