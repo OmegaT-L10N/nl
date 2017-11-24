@@ -576,6 +576,28 @@ MS_CLIENT_SECRET="-Dmicrosoft.api.client_secret=uw Client secret"</seg>
       <tuv lang="EN">
         <seg># OmegaT.exe runtime configuration
 # To use a parameter, remove the '#' before the '-'
+# Memory
+-Xmx1024M
+# Language
+-Duser.language=FR
+# Country
+-Duser.country=CA</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20171124T172657Z" creationid="DiGro (Dick)" creationdate="20171124T172657Z">
+        <seg># OmegaT.exe runtime configuration
+# To use a parameter, remove the '#' before the '-'
+# Memory
+-Xmx1024M
+# Language
+-Duser.language=FR
+# Country
+-Duser.country=CA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg># OmegaT.exe runtime configuration
+# To use a parameter, remove the '#' before the '-'
 # Memory 
 -Xmx1024M 
 # Language 
@@ -1063,6 +1085,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20130411T172344Z">
         <seg>&amp;Compatibiliteit met OmegaT 2.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Copy Support Info</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20171124T172520Z" creationid="DiGro (Dick)" creationdate="20171124T172520Z">
+        <seg>Ondersteuningsinfo &amp;kopiëren</seg>
       </tuv>
     </tu>
     <tu>
@@ -9284,6 +9314,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>@TRANSLATION_NOTICE@</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20171124T172744Z" creationid="DiGro (Dick)" creationdate="20171124T172744Z">
+        <seg>@TRANSLATION_NOTICE@</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A</seg>
       </tuv>
       <tuv lang="NL">
@@ -15300,6 +15338,14 @@ OmegaT gebruikt de volgende bibliotheken:
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Commit Target Files</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20171124T172322Z" creationid="DiGro (Dick)" creationdate="20171124T172322Z">
+        <seg>Doelbestanden indienen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Commit not possible because somebody else changed remote translation.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120708T191136Z">
@@ -15312,6 +15358,14 @@ OmegaT gebruikt de volgende bibliotheken:
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T121304Z" creationid="Dirk" creationdate="20170914T121304Z">
         <seg>Bronbestanden indienen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Committing target files</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20171124T172406Z" creationid="DiGro (Dick)" creationdate="20171124T172406Z">
+        <seg>Doelbestanden indienen</seg>
       </tuv>
     </tu>
     <tu>
@@ -20574,6 +20628,22 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Failed to commit source files!</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20171124T172337Z" creationid="DiGro (Dick)" creationdate="20171124T172337Z">
+        <seg>Indienen bronbestanden mislukt!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to commit target files!</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20171124T172355Z" creationid="DiGro (Dick)" creationdate="20171124T172355Z">
+        <seg>Indienen doelbestanden mislukt!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Failed to compile project files!</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T185514Z">
@@ -20602,6 +20672,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110926T164529Z">
         <seg>Vertaalgeheugen {0} voor project laden mislukt!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to update project properties</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20171124T172446Z" creationid="DiGro (Dick)" creationdate="20171124T172446Z">
+        <seg>Bijwerken projecteigenschappen mislukt</seg>
       </tuv>
     </tu>
     <tu>
@@ -36388,6 +36466,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opening team project</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20171124T172537Z" creationid="DiGro (Dick)" creationdate="20171124T172537Z">
+        <seg>Teamproject openen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opening the user manual in this way also enables you to follow external links, as the built-in help browser does not accept external Internet links.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T100100Z">
@@ -43795,6 +43881,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Standard Version - {{site.data.versions.standard.name}}</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20171124T172804Z" creationid="DiGro (Dick)" creationdate="20171124T172804Z">
+        <seg>Standaard versie - {{site.data.versions.standard.name}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Start OmegaT again, download the team project, close OmegaT</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160906T170406Z" creationid="Dirk" creationdate="20160906T170406Z">
@@ -45033,6 +45127,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T134600Z">
         <seg>Doelbestandsnaam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target files committed</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20171124T172427Z" creationid="DiGro (Dick)" creationdate="20171124T172427Z">
+        <seg>Doelbestanden ingediend</seg>
       </tuv>
     </tu>
     <tu>
@@ -62994,6 +63096,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>https://groups.yahoo.com/neo/groups/OmegaT/info</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20171124T172735Z" creationid="DiGro (Dick)" creationdate="20171124T172735Z">
+        <seg>https://groups.yahoo.com/neo/groups/OmegaT/info</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>https://java.com/en/download/</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T105220Z" creationid="Dirk" creationdate="20160911T105220Z">
@@ -63010,10 +63120,34 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>https://omegat.org/files/OmegaT_for_Beginners.pdf</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20171124T172734Z" creationid="DiGro (Dick)" creationdate="20171124T172734Z">
+        <seg>https://omegat.org/files/OmegaT_for_Beginners.pdf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>https://omegat.org/howtos/iceni_infix.html</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T131948Z" creationid="Dirk" creationdate="20170914T131948Z">
         <seg>https://omegat.org/howtos/iceni_infix.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://omegat.sourceforge.io/webstart/&lt;a0&gt;OmegaT&lt;/a0&gt;.jnlp</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20171124T172722Z" creationid="DiGro (Dick)" creationdate="20171124T172722Z">
+        <seg>https://omegat.sourceforge.io/webstart/&lt;a0&gt;OmegaT&lt;/a0&gt;.jnlp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://omegat.sourceforge.io/webstart/OmegaT.jnlp</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20171124T172747Z" creationid="DiGro (Dick)" creationdate="20171124T172747Z">
+        <seg>https://omegat.sourceforge.io/webstart/OmegaT.jnlp</seg>
       </tuv>
     </tu>
     <tu>
