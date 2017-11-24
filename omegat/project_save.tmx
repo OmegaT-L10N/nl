@@ -30339,6 +30339,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Latest Version - {{site.data.versions.latest.name}}</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20171124T172822Z" creationid="DiGro (Dick)" creationdate="20171124T172822Z">
+        <seg>Laatste versie - {{site.data.versions.latest.name}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Latin</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T130315Z">
@@ -48404,6 +48412,14 @@ content, constitutes a covered work.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T115519Z" creationid="DiGro (Dick)" creationdate="20170916T115519Z">
         <seg>De perfecte partner voor hen die geen complexiteit nodig hebben maar efficiëntie; woordenlijsten, automatisch aanvullen en automatisch vertalen maakt mijn werk in letterlijk vertalen zo veel efficiënter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The perfect companion for those of us who don't need complexity but efficiency; glossaries, auto-complete and automatic translation makes my work in literary translation so much more efficient</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20171124T172929Z" creationid="DiGro (Dick)" creationdate="20171124T172929Z">
+        <seg>De perfecte partner voor hen onder ons die geen complexiteit nodig hebben maar efficiëntie; woordenlijsten, automatisch aanvullen en automatisch vertalen maakt mijn werk in letterlijk vertalen zo veel efficiënter</seg>
       </tuv>
     </tu>
     <tu>
