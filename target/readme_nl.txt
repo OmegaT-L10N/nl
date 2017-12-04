@@ -1,4 +1,4 @@
-${translationNotice}
+@TRANSLATION_NOTICE@
 
 
 Wat is OmegaT?
@@ -73,7 +73,7 @@ het gebruiken van Java Web Start.
 
 Download voor dit doel het volgende bestand en voer het uit:
 
-   http://omegat.sourceforge.net/webstart/OmegaT.jnlp
+   https://omegat.sourceforge.io/webstart/OmegaT.jnlp
 
 Het zal de juiste omgeving voor uw computer installeren en de toepassing
 zelf bij de eerste keer dat het wordt uitgevoerd. Latere aanroepen behoeven niet online te worden gedaan.
@@ -182,7 +182,7 @@ De meest recente informatie over OmegaT is te vinden op:
 
 Gebruikersondersteuning op de Yahoo! gebruikersgroep (meertalig), waar zonder abonnement de archieven kunnen worden doorzocht:
 
-   http://tech.groups.yahoo.com/group/OmegaT/
+   https://groups.yahoo.com/neo/groups/OmegaT/info
 
 Verzoeken tot verbeteringen (in het Engels) op de SourceForge-website:
 
