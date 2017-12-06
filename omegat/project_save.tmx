@@ -30814,8 +30814,8 @@ permissions.</seg>
         <seg>Licensing information
 =====================</seg>
       </tuv>
-      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T143002Z" creationid="DiGro (Dick)" creationdate="20170915T143002Z">
-        <seg>Informatie over Licentie </seg>
+      <tuv lang="NL" changeid="Kos Ivantsov" changedate="20171206T162747Z" creationid="DiGro (Dick)" creationdate="20170915T143002Z">
+        <seg>Informatie over Licentie</seg>
       </tuv>
     </tu>
     <tu>
@@ -47963,8 +47963,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
         <seg>The license of each library is mentionned
 in /lib/licenses/Licenses.txt.</seg>
       </tuv>
-      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T143138Z" creationid="DiGro (Dick)" creationdate="20170915T143138Z">
-        <seg>De licentie van elk bibliotheek is vermeld
+      <tuv lang="NL" changeid="Kos Ivantsov" changedate="20171206T163544Z" creationid="DiGro (Dick)" creationdate="20170915T143138Z">
+        <seg>					De licentie van elk bibliotheek is vermeld
 in /lib/licenses/Licenses.txt.</seg>
       </tuv>
     </tu>
