@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_0_10213" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10217M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9324,8 +9324,8 @@ Bekijk "Hoofdstuk 3.</seg>
       <tuv lang="EN">
         <seg>@TRANSLATION_NOTICE@</seg>
       </tuv>
-      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20171124T172744Z" creationid="DiGro (Dick)" creationdate="20171124T172744Z">
-        <seg>@TRANSLATION_NOTICE@</seg>
+      <tuv lang="NL" changeid="Kos Ivantsov" changedate="20171206T162545Z" creationid="DiGro (Dick)" creationdate="20171124T172744Z">
+        <seg>Vertaling: Dick Groskamp © 2017</seg>
       </tuv>
     </tu>
     <tu>
