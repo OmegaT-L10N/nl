@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10217M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -26,8 +26,8 @@ License by making exceptions from one or more of its conditions.</seg>
       <tuv lang="EN">
         <seg>"Aligner" aligner utility</seg>
       </tuv>
-      <tuv lang="NL">
-        <seg>"Aligner" uitlijnprogromma</seg>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20171214T162220Z">
+        <seg>"Aligner" uitlijnprogramma</seg>
       </tuv>
     </tu>
     <tu>
@@ -13392,6 +13392,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Browser plugin</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20171214T162102Z" creationid="DiGro (Dick)" creationdate="20171214T162102Z">
+        <seg>Browser plug-in</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bug reports</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T110818Z">
@@ -20696,6 +20704,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T130134Z">
         <seg>Faeröers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fast access to websites.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20171214T162113Z" creationid="DiGro (Dick)" creationdate="20171214T162113Z">
+        <seg>Snelle toegang tot websites.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56185,6 +56201,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160126T142821Z" creationid="Dirk" creationdate="20160126T141536Z">
         <seg>Beheerder van de website</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Website support can be scripted in Groovy.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20171214T162207Z" creationid="DiGro (Dick)" creationdate="20171214T162207Z">
+        <seg>Ondersteuning voor de website kan in Groovy worden geschreven.</seg>
       </tuv>
     </tu>
     <tu>
