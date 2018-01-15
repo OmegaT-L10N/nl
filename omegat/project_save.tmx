@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10217M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13392,6 +13392,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Browser plugin</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180115T110652Z" creationid="DiGro (Dick)" creationdate="20180115T110652Z">
+        <seg>Browser plug-in</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bug reports</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T110818Z">
@@ -20696,6 +20704,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T130134Z">
         <seg>Faeröers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fast access to websites.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180115T110700Z" creationid="DiGro (Dick)" creationdate="20180115T110700Z">
+        <seg>Snelle toegang tot websites.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32608,6 +32624,22 @@ your receipt of the notice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moses</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180115T110523Z" creationid="DiGro (Dick)" creationdate="20180115T110523Z">
+        <seg>Moses</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moses Server URL:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180115T110529Z" creationid="DiGro (Dick)" creationdate="20180115T110529Z">
+        <seg>Moses Server URL:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Most Linux distributions use the OpenJDK version of Java by default.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131225T135330Z" creationid="Dirk" creationdate="20131225T135330Z">
@@ -34448,6 +34480,14 @@ combined work, and to convey the resulting work.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OK</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180115T110613Z" creationid="DiGro (Dick)" creationdate="20180115T110613Z">
+        <seg>OK</seg>
       </tuv>
     </tu>
     <tu>
@@ -42413,6 +42453,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Server does not understand the "translate" method</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180115T110631Z" creationid="DiGro (Dick)" creationdate="20180115T110631Z">
+        <seg>Server begrijpt de methode "translate" niet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Service type</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170104T180516Z" creationid="Dirk" creationdate="20170104T180516Z">
@@ -45425,8 +45473,8 @@ this License.</seg>
       <tuv lang="EN">
         <seg>Test</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20170914T131429Z" creationid="Dirk" creationdate="20170914T131429Z">
-        <seg>Test</seg>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180115T110602Z" creationid="Dirk" creationdate="20170914T131429Z">
+        <seg>Testen</seg>
       </tuv>
     </tu>
     <tu>
@@ -45443,6 +45491,14 @@ this License.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>Testen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Testing...</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180115T110609Z" creationid="DiGro (Dick)" creationdate="20180115T110609Z">
+        <seg>Testen...</seg>
       </tuv>
     </tu>
     <tu>
@@ -46245,6 +46301,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120401T133426Z">
         <seg>De bestandsindelingen voor Microsoft Office 2007-2010 kunnen direct in OmegaT worden verwerkt; meer informatie kan &lt;a0&gt;hier&lt;/a0&gt; worden gevonden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Moses server URL is not set</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180115T110557Z" creationid="DiGro (Dick)" creationdate="20180115T110557Z">
+        <seg>De URL voor de server van Moses is niet ingesteld</seg>
       </tuv>
     </tu>
     <tu>
@@ -56185,6 +56249,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160126T142821Z" creationid="Dirk" creationdate="20160126T141536Z">
         <seg>Beheerder van de website</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Website support can be scripted in Groovy.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180115T110728Z" creationid="DiGro (Dick)" creationdate="20180115T110728Z">
+        <seg>Ondersteuning voor website kan worden gescript in Groovy.</seg>
       </tuv>
     </tu>
     <tu>
