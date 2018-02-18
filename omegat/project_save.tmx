@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_1_10228" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -19900,6 +19900,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error during regular expression replacement:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180218T143441Z" creationid="DiGro (Dick)" creationdate="20180218T143441Z">
+        <seg>Fout bij vervangen van reguliere expressie:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error extracting MT result from MyMemory, response:</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20130910T123332Z" creationid="Dirk" creationdate="20130910T123332Z">
@@ -23073,6 +23081,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170914T161345Z" creationid="DiGro (Dick)" creationdate="20170914T161345Z">
         <seg>Groovy (Apache Licence 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Group {0} does not exist in search expression</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180218T143507Z" creationid="DiGro (Dick)" creationdate="20180218T143507Z">
+        <seg>Groep {0} bestaat niet in zoekexpressie</seg>
       </tuv>
     </tu>
     <tu>
@@ -29957,6 +29973,14 @@ zelf bij de eerste keer dat het wordt uitgevoerd.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T130310Z">
         <seg>Koreaans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kos Ivantsov</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180218T143516Z" creationid="DiGro (Dick)" creationdate="20180218T143516Z">
+        <seg>Kos Ivantsov</seg>
       </tuv>
     </tu>
     <tu>
