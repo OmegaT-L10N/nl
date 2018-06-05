@@ -11038,6 +11038,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All DOCX files in the project</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T081910Z" creationid="DiGro (Dick)" creationdate="20180605T081910Z">
+        <seg>Alle DOCX-bestanden in het project</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All HTML files will be translated - note that the period in the usual *.html has to be escaped (\.) as specified by the rules for regular expressions</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T142600Z">
@@ -12976,6 +12984,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Backup</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T081843Z" creationid="DiGro (Dick)" creationdate="20180605T081843Z">
+        <seg>Back-up</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Backups of this file (with extension bak) are added progressively to this subfolder, first at the beginning of the translation session, at its end, and while the translation progresses.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T134737Z">
@@ -13092,6 +13108,22 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T165928Z">
         <seg>Onthoud goed dat het wijzigen van de talen er voor kan zorgen dat het de huidige gebruikte vertaalgeheugens onbruikbaar kan maken omdat hun taal niet meer overeenkomt met de nieuwe talen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Beautify</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T081836Z" creationid="DiGro (Dick)" creationdate="20180605T081836Z">
+        <seg>Opknappen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Beautify resulting DOCX</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T081857Z" creationid="DiGro (Dick)" creationdate="20180605T081857Z">
+        <seg>Resulterende DOCX opknappen</seg>
       </tuv>
     </tu>
     <tu>
@@ -14782,6 +14814,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cleaning entry '{0}'...</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T081747Z" creationid="DiGro (Dick)" creationdate="20180605T081747Z">
+        <seg>Item '{0}' opschonen...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cleanup done!!</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T124633Z">
@@ -15928,6 +15968,14 @@ OmegaT gebruikt de volgende bibliotheken:
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Convert</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T081839Z" creationid="DiGro (Dick)" creationdate="20180605T081839Z">
+        <seg>Converteren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Convert Old Team Project</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160906T170843Z" creationid="Dirk" creationdate="20160906T170843Z">
@@ -15956,6 +16004,14 @@ OmegaT gebruikt de volgende bibliotheken:
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T081613Z" creationid="DiGro (Dick)" creationdate="20180605T081613Z">
         <seg>Alle .DOCX in het project converteren...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Converting current .DOCX...</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T081631Z" creationid="DiGro (Dick)" creationdate="20180605T081631Z">
+        <seg>Huidige .DOCX converteren...</seg>
       </tuv>
     </tu>
     <tu>
@@ -16620,6 +16676,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create backup files of original DOCX</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T081944Z" creationid="DiGro (Dick)" creationdate="20180605T081944Z">
+        <seg>Back-upbestanden van originele DOCX maken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create pseudo-translate TMX</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120301T174313Z">
@@ -16776,6 +16840,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160126T140433Z" creationid="Dirk" creationdate="20160126T140433Z">
         <seg>Maken van een "alternatieve vertaling" is daarom afhankelijk van identieke segmenten die verschillende voorafgaande of volgende segmenten hebben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating output file '{0}'</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T081738Z" creationid="DiGro (Dick)" creationdate="20180605T081738Z">
+        <seg>Uitvoerbestand '{0}' maken</seg>
       </tuv>
     </tu>
     <tu>
@@ -17312,6 +17384,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>Ctrl+↓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Current DOCX file</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T081921Z" creationid="DiGro (Dick)" creationdate="20180605T081921Z">
+        <seg>Huidige DOCX-bestand</seg>
       </tuv>
     </tu>
     <tu>
@@ -30909,10 +30989,34 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Level</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T081827Z" creationid="DiGro (Dick)" creationdate="20180605T081827Z">
+        <seg>Niveau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 0:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T081953Z" creationid="DiGro (Dick)" creationdate="20180605T081953Z">
+        <seg>Niveau 0:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Level 1 TMX files contain no formatting information.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>Niveau 1 TMX-bestanden bevatten geen opmaak-informatie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 1:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T081959Z" creationid="DiGro (Dick)" creationdate="20180605T081959Z">
+        <seg>Niveau 1:</seg>
       </tuv>
     </tu>
     <tu>
@@ -30933,10 +31037,74 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Level 2:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T082005Z" creationid="DiGro (Dick)" creationdate="20180605T082005Z">
+        <seg>Niveau 2:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Level 3 TMX files contain formatting information in a form that can be read by other CAT tools.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131228T125248Z">
         <seg>Niveau 3 TMX-bestanden bevatten opmaak-informatie in een vorm die kan worden gelezen door andere CAT-programma's.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 3:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T082012Z" creationid="DiGro (Dick)" creationdate="20180605T082012Z">
+        <seg>Niveau 3:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 4:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T082017Z" creationid="DiGro (Dick)" creationdate="20180605T082017Z">
+        <seg>Niveau 4:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 5:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T082023Z" creationid="DiGro (Dick)" creationdate="20180605T082023Z">
+        <seg>Niveau 5:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 6:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T082028Z" creationid="DiGro (Dick)" creationdate="20180605T082028Z">
+        <seg>Niveau 6:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 7:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T082034Z" creationid="DiGro (Dick)" creationdate="20180605T082034Z">
+        <seg>Niveau 7:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 8:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T082040Z" creationid="DiGro (Dick)" creationdate="20180605T082040Z">
+        <seg>Niveau 8:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 9:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T082052Z" creationid="DiGro (Dick)" creationdate="20180605T082052Z">
+        <seg>Niveau 9:</seg>
       </tuv>
     </tu>
     <tu>
@@ -33156,6 +33324,22 @@ toepasselijke locatie, zoals de map Applications.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moving cleaned '{0}' to '{1}'</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T081822Z" creationid="DiGro (Dick)" creationdate="20180605T081822Z">
+        <seg>Opgeschoonde '{0}' verplaatsen naar '{1}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moving original '{0}' to '{1}'</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T081802Z" creationid="DiGro (Dick)" creationdate="20180605T081802Z">
+        <seg>Origineel '{0}' verplaatsen naar '{1}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mozilla DTD</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20130601T175317Z">
@@ -33600,6 +33784,14 @@ toepasselijke locatie, zoals de map Applications.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T151018Z" creationid="DiGro (Dick)" creationdate="20170915T151018Z">
         <seg>Nightly Builds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No .DOCX files to clean.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T081647Z" creationid="DiGro (Dick)" creationdate="20180605T081647Z">
+        <seg>Geen .DOCX-bestanden om op te schonen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36824,6 +37016,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T141919Z">
         <seg>Openen van een venster voor de opdrachtregel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opening input file '{0}'</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T081721Z" creationid="DiGro (Dick)" creationdate="20180605T081721Z">
+        <seg>Invoerbestand '{0}' openen</seg>
       </tuv>
     </tu>
     <tu>
@@ -45505,6 +45705,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T081411Z" creationid="DiGro (Dick)" creationdate="20180605T081411Z">
         <seg>Tags verwijderen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tagwipe finished, reloading project...</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T081707Z" creationid="DiGro (Dick)" creationdate="20180605T081707Z">
+        <seg>Tagwipe voltooid, opnieuw laden van project...</seg>
       </tuv>
     </tu>
     <tu>
