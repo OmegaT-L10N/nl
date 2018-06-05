@@ -13384,6 +13384,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Briac Pilpré (webmaster)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T081200Z" creationid="DiGro (Dick)" creationdate="20180605T081200Z">
+        <seg>Briac Pilpré (webmaster)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Brief instructions for creating the macro (in MS Office 2007) are provided below.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131228T125257Z">
@@ -15570,6 +15578,14 @@ OmegaT gebruikt de volgende bibliotheken:
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Concepción Martin (Facebook community manager)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T081157Z" creationid="DiGro (Dick)" creationdate="20180605T081157Z">
+        <seg>Concepción Martin (Facebook-manager voor de gemeenschap)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Configuration in OmegaT</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120401T164259Z">
@@ -15932,6 +15948,14 @@ OmegaT gebruikt de volgende bibliotheken:
       </tuv>
       <tuv lang="NL">
         <seg>Converteer het bestand van RTF naar OpenOffice.org-indeling.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Converting all .DOCX in the project...</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T081613Z" creationid="DiGro (Dick)" creationdate="20180605T081613Z">
+        <seg>Alle .DOCX in het project converteren...</seg>
       </tuv>
     </tu>
     <tu>
@@ -18030,6 +18054,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>Didier Briel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Didier Briel (OmegaT project manager, Twitter community manager)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T081120Z" creationid="DiGro (Dick)" creationdate="20180605T081120Z">
+        <seg>Didier Briel (OmegaT projectmanager, Twitter-manager voor de gemeenschap)</seg>
       </tuv>
     </tu>
     <tu>
@@ -23575,6 +23607,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>Henry Pijffers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Henry Pijffers (release manager)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T081312Z" creationid="DiGro (Dick)" creationdate="20180605T081312Z">
+        <seg>Henry Pijffers (uitgavemanager)</seg>
       </tuv>
     </tu>
     <tu>
@@ -29770,6 +29810,14 @@ zelf bij de eerste keer dat het wordt uitgevoerd.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Jean-Christophe Helary (support group owner, localization manager)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T081253Z" creationid="DiGro (Dick)" creationdate="20180605T081253Z">
+        <seg>Jean-Christophe Helary (eigenaar ondersteuningsgroep, localisatiemanager)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jean-Christophe Helary: special thanks to JC for his concise description of OmegaT run, command line parameters and all other details, I have yet to notice.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T125447Z">
@@ -30119,6 +30167,14 @@ zelf bij de eerste keer dat het wordt uitgevoerd.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T130310Z">
         <seg>Koreaans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kos Ivantsof (localisation manager)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T081138Z" creationid="DiGro (Dick)" creationdate="20180605T081127Z">
+        <seg>Kos Ivantsov (localisatiemanager)</seg>
       </tuv>
     </tu>
     <tu>
@@ -31430,6 +31486,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Lucie Vecerova (Facebook community manager)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T081211Z" creationid="DiGro (Dick)" creationdate="20180605T081211Z">
+        <seg>Lucie Vecerova (Facebook-manager voor de gemeenschap)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Luganda</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T130318Z">
@@ -31910,6 +31974,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Marc Prior (project co-ordinator, webmaster)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T081324Z" creationid="DiGro (Dick)" creationdate="20180605T081324Z">
+        <seg>Marc Prior (projectcoördinator, webmaster)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Marc Prior (webmaster)</seg>
       </tuv>
       <tuv lang="NL">
@@ -32314,6 +32386,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>Maxym Mykhalchuk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Maxym Mykhalchuk (lead developper)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T081305Z" creationid="DiGro (Dick)" creationdate="20180605T081305Z">
+        <seg>Maxym Mykhalchuk (hoofdontwikkelaar)</seg>
       </tuv>
     </tu>
     <tu>
@@ -33632,6 +33712,14 @@ measures.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T192130Z">
         <seg>Er zijn geen nieuwe woordenboeken beschikbaar op de server op afstand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No project loaded.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T081436Z" creationid="DiGro (Dick)" creationdate="20180605T081436Z">
+        <seg>Geen project geladen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38845,6 +38933,14 @@ lokaal project zonder functionaliteit voor team.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project contains no files.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T081522Z" creationid="DiGro (Dick)" creationdate="20180605T081522Z">
+        <seg>Project bevat geen bestanden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project creating end</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T192104Z">
@@ -40041,6 +40137,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove tags from DOCX documents</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T081427Z" creationid="DiGro (Dick)" creationdate="20180605T081427Z">
+        <seg>Tags uit documenten DOCX verwijderen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove tags in the current target</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T124528Z">
@@ -40855,6 +40959,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T140641Z">
         <seg>&lt;a0&gt;OmegaT&lt;i1/&gt;&lt;/a0&gt; uitvoeren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Running Tagwipe for file '{0}'</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T081539Z" creationid="DiGro (Dick)" creationdate="20180605T081539Z">
+        <seg>Tagwipe uitvoeren voor bestand '{0}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -42523,6 +42635,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120103T175430Z">
         <seg>Geselecteerd programma: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selected options:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T081547Z" creationid="DiGro (Dick)" creationdate="20180605T081547Z">
+        <seg>Geselecteerde opties:</seg>
       </tuv>
     </tu>
     <tu>
@@ -45377,6 +45497,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T135720Z">
         <seg>Tags die zijn gereproduceerd in het vertaalde segment zullen aanwezig zijn in het vertaalde document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tagwipe</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T081411Z" creationid="DiGro (Dick)" creationdate="20180605T081411Z">
+        <seg>Tags verwijderen</seg>
       </tuv>
     </tu>
     <tu>
@@ -56299,6 +56427,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="NL">
         <seg>Vito Smolej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Vito Smolej (documentation manager)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T081330Z" creationid="DiGro (Dick)" creationdate="20180605T081330Z">
+        <seg>Vito Smolej (documentatiemanager)</seg>
       </tuv>
     </tu>
     <tu>
