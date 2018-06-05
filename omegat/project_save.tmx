@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10312M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1061,6 +1061,22 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20140419T142415Z" creationid="Dirk" creationdate="20140419T142415Z">
         <seg>Ta&amp;bel met tekens...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Check for Updates...</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T080226Z" creationid="DiGro (Dick)" creationdate="20180605T080226Z">
+        <seg>&amp;Controleren op updates...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Clear Menu</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T080210Z" creationid="DiGro (Dick)" creationdate="20180605T080210Z">
+        <seg>Menu ops&amp;chonen</seg>
       </tuv>
     </tu>
     <tu>
@@ -16212,6 +16228,14 @@ the conditions stated below.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright © 2000-2018 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T080512Z" creationid="DiGro (Dick)" creationdate="20180605T080512Z">
+        <seg>Copyright © 2000-2018 Keith Godfrey, Maxym Mykhalchuk en anderen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cornish</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T130114Z">
@@ -16328,6 +16352,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T130115Z">
         <seg>Corsicaans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Could not create project dir at {0}</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T080250Z" creationid="DiGro (Dick)" creationdate="20180605T080250Z">
+        <seg>Kon geen projectmap maken op {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -24073,6 +24105,22 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>IBM Watson</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T080516Z" creationid="DiGro (Dick)" creationdate="20180605T080516Z">
+        <seg>IBM Watson</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>IBM Watson not available.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T080648Z" creationid="DiGro (Dick)" creationdate="20180605T080648Z">
+        <seg>IBM Watson niet beschikbaar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>IBM provides JREs for Linux PowerPC at &lt;u0&gt;http://www.ibm.com/developerworks/java/jdk/linux/download.htm&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T141520Z">
@@ -28499,6 +28547,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131226T160044Z" creationid="Dirk" creationdate="20131226T160044Z">
         <seg>Instituut Laue-Langevin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insufficient permissions for project dir {0}</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T080308Z" creationid="DiGro (Dick)" creationdate="20180605T080308Z">
+        <seg>Onvoldoende rechten voor projectmap {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -33210,6 +33266,14 @@ toepasselijke locatie, zoals de map Applications.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Neural Machine Translation</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T080543Z" creationid="DiGro (Dick)" creationdate="20180605T080543Z">
+        <seg>Neural Machine Translation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Nevertheless, the "Latest" versions of OmegaT are usually very stable and are recommended for any users who already have some experience with OmegaT.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131227T164202Z" creationid="Dirk" creationdate="20131227T164202Z">
@@ -34955,6 +35019,14 @@ OmegaT 4.0, Lees Mij-bestand</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131225T153220Z" creationid="Dirk" creationdate="20131225T153220Z">
         <seg>OmegaT heeft geen integrale functie Voorbeeld, maar het is mogelijk dezelfde functionaliteit te verschaffen met behulp van aanvullende software.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT does not have read and write permissions to this folder.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T080353Z" creationid="DiGro (Dick)" creationdate="20180605T080353Z">
+        <seg>OmegaT heeft geen rechten Lezen en Schrijven voor deze map.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37286,6 +37358,14 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T130436Z">
         <seg>Pasjtoe, Pashto, Pushto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Password :</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T080536Z" creationid="DiGro (Dick)" creationdate="20180605T080536Z">
+        <seg>Wachtwoord :</seg>
       </tuv>
     </tu>
     <tu>
@@ -47645,6 +47725,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following options do not apply if "Compatibility with OmegaT 2.6" is checked</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T080453Z" creationid="DiGro (Dick)" creationdate="20180605T080453Z">
+        <seg>De volgende opties zijn niet van toepassing als "Compatibiliteit met OmegaT 2.6" is geselecteerd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following recipee is just one of the possibilities, but simple enough to follow and without any dangers for the assets.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T173830Z">
@@ -55495,6 +55583,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T191933Z">
         <seg>Gebruiker:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Username:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T080526Z" creationid="DiGro (Dick)" creationdate="20180605T080526Z">
+        <seg>Gebruikersnaam:</seg>
       </tuv>
     </tu>
     <tu>
@@ -70270,6 +70366,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170923T100031Z" creationid="DiGro (Dick)" creationdate="20170923T100031Z">
         <seg>{0}:	Opschonen voltooid!!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}_{1}</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T080133Z" creationid="DiGro (Dick)" creationdate="20180605T080133Z">
+        <seg>{0}_{1}</seg>
       </tuv>
     </tu>
     <tu>
