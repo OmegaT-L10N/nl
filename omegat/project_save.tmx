@@ -1393,6 +1393,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Go To Downloads</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T080802Z" creationid="DiGro (Dick)" creationdate="20180605T080802Z">
+        <seg>&amp;Ga naar Downloads</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Go To Next Untranslated Segment stops when there is at least one alternative translation</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110926T165354Z">
@@ -6201,6 +6209,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Current version: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T080821Z" creationid="DiGro (Dick)" creationdate="20180605T080821Z">
+        <seg>&lt;html&gt;Huidige versie: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;Per-project external commands are disabled and will not be executed.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20130310T120936Z">
@@ -6237,6 +6253,14 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T125044Z" creationid="Dirk" creationdate="20170914T125044Z">
         <seg>&lt;html&gt;Term: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Woordenlijsten:&lt;br&gt;{1}&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;html&gt;Update channel: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T080830Z" creationid="DiGro (Dick)" creationdate="20180605T080830Z">
+        <seg>&lt;html&gt;Update-kanaal: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12776,6 +12800,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatically check for updates</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T080952Z" creationid="DiGro (Dick)" creationdate="20180605T080952Z">
+        <seg>Automatisch op updates controleren </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automating modifications of the translated document file names by replacing translatable contents with its translation.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T134122Z">
@@ -14214,6 +14246,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check &amp;automatically</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T080753Z" creationid="DiGro (Dick)" creationdate="20180605T080753Z">
+        <seg>&amp;Automatisch controleren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check &amp;simple printf-variables (e.g., %s, %d)</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20150417T165448Z" creationid="Dirk" creationdate="20150417T165448Z">
@@ -14266,6 +14306,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T124506Z">
         <seg>Controle op regels voor LanguageTools</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check Now</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T081003Z" creationid="DiGro (Dick)" creationdate="20180605T081003Z">
+        <seg>Nu controleren</seg>
       </tuv>
     </tu>
     <tu>
@@ -17248,6 +17296,16 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20150914T101925Z" creationid="Dirk" creationdate="20150914T101925Z">
         <seg>Huidig geheugengebruik door de VM: {0}MB; waarvan vrij geheugen: {1}MB; maximaal beschikbaar: {2}MB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Current team:
+(alphabetical order)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T081053Z" creationid="DiGro (Dick)" creationdate="20180605T081053Z">
+        <seg>Huidige team:
+(alfabetische volgorde)</seg>
       </tuv>
     </tu>
     <tu>
@@ -33274,6 +33332,14 @@ toepasselijke locatie, zoals de map Applications.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Neural machine translation</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T080657Z" creationid="DiGro (Dick)" creationdate="20180605T080649Z">
+        <seg>Neural Machine Translation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Nevertheless, the "Latest" versions of OmegaT are usually very stable and are recommended for any users who already have some experience with OmegaT.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131227T164202Z" creationid="Dirk" creationdate="20131227T164202Z">
@@ -35926,6 +35992,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T103907Z">
         <seg>OmegaT zip of tar.bz2 archief naar deze map en pak het daar uit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT {0} is now available.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T080729Z" creationid="DiGro (Dick)" creationdate="20180605T080729Z">
+        <seg>OmegaT {0} is nu beschikbaar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44085,6 +44159,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T104006Z">
         <seg>in het zoekveld van Spotlight.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Stable</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T080834Z" creationid="DiGro (Dick)" creationdate="20180605T080834Z">
+        <seg>Stabiel</seg>
       </tuv>
     </tu>
     <tu>
@@ -54916,6 +54998,14 @@ op regel {1}, kolom {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Updates</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T080813Z" creationid="DiGro (Dick)" creationdate="20180605T080813Z">
+        <seg>Updates</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Updating a glossary file is thus rather simple: press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; and enter the new term, its translation and any comments you may have (ensuring you press tab between the fields) and save the file.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T140336Z">
@@ -57857,6 +57947,14 @@ Zowel exacte als zoekacties op sleutelwoorden ondersteunen de jokertekens * en ?
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You already have the latest version.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T080715Z" creationid="DiGro (Dick)" creationdate="20180605T080715Z">
+        <seg>U gebruikt al de laatste versie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You are also free to copy it and pass it on to other people.</seg>
       </tuv>
       <tuv lang="NL">
@@ -58719,6 +58817,14 @@ installatie krijgen door het installatiescript te gebruiken (linux-install.sh).<
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T110643Z">
         <seg>U maakt eerst een lege map voor de cliënt aan op uw schijf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You currently have {1}.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T080737Z" creationid="DiGro (Dick)" creationdate="20180605T080737Z">
+        <seg>U gebruikt momenteel {1}.</seg>
       </tuv>
     </tu>
     <tu>
