@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_1_10445:10446" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -29177,10 +29177,26 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It has usually been in use for some time and is therefore proven.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180819T133042Z" creationid="DiGro (Dick)" creationdate="20180819T132910Z">
+        <seg>Die is gewoonlijk al enige tijd in gebruik en heeft zich daardoor al bewezen.a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It includes general information on OmegaT, where to find more information, how to contribute, etc.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T135219Z">
         <seg>Het bevat algemene informatie over OmegaT, waar meer informatie te vinden is, hoe mee te doen etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is a more recent version than the Standard version and includes new features not present in the latter.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180819T133012Z" creationid="DiGro (Dick)" creationdate="20180819T133012Z">
+        <seg>Het is een meer recente versie dan de versie Standaard en bevat nieuwe mogelijkheden die niet aanwezig zijn in die laatste.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36216,6 +36232,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>OmegaT zal werken op elk systeem waarop de JRE (Java Runtime Environment) is of kan worden geïnstalleerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will run on any system on which the appropriate JRE (Java Runtime Environment) has been or can be installed.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180819T132754Z" creationid="DiGro (Dick)" creationdate="20180819T132754Z">
+        <seg>OmegaT zal kunnen worden uitgevoerd op elk systeem waarop de toepasselijke JRE (Java Runtime Environment) is of kan worden geïnstalleerd.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46795,6 +46819,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Latest version requires Java {{site.data.versions.latest.java_version}}.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180819T133052Z" creationid="DiGro (Dick)" creationdate="20180819T132937Z">
+        <seg>De versie Laatste vereist Java {{site.data.versions.latest.java_version}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Latest version will usually be reasonably stable and usable, but may have some bugs.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131227T155948Z" creationid="Dirk" creationdate="20131227T155948Z">
@@ -47039,6 +47071,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131227T155641Z" creationid="Dirk" creationdate="20131227T155641Z">
         <seg>De versie Standaard is meestal al enige tijd in gebruik en heeft zich daardoor al bewezen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Standard version requires Java {{site.data.versions.standard.java_version}}.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180819T133015Z" creationid="DiGro (Dick)" creationdate="20180819T132823Z">
+        <seg>De versie Standaard vereist Java {{site.data.versions.standard.java_version}}.</seg>
       </tuv>
     </tu>
     <tu>
