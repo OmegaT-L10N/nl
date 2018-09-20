@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_1_10445:10446" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_2_10465" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2489,6 +2489,14 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131226T135550Z" creationid="Dirk" creationdate="20131226T135550Z">
         <seg>(Het zal, natuurlijk, controleren op Boliviaans in plaats van op Mexicaans-Spaans!)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(Leave the Password empty if you are using an API Key.)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180920T170358Z" creationid="DiGro (Dick)" creationdate="20180920T170358Z">
+        <seg>(Lat het wachtwoord leeg als u een API-sleutel gebruikt.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10960,8 +10968,8 @@ the above requirements apply either way.</seg>
       <tuv lang="EN">
         <seg>Alex Buloichik (lead developer)</seg>
       </tuv>
-      <tuv lang="NL">
-        <seg>Alex Buloichik (lead developer)</seg>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180920T170526Z">
+        <seg>Alex Buloichik (hoofdontwikkelaar)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12028,6 +12036,14 @@ know their rights.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>Een andere mogelijk bron van incompatibiliteit zijn drie-cijferige taalcodes, welke in het geheel niet worden ondersteund door OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Anthony Baldwin (localisation manager)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180920T170513Z" creationid="DiGro (Dick)" creationdate="20180920T170513Z">
+        <seg>Anthony Baldwin (localisatiemanager)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20914,6 +20930,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T185927Z">
         <seg>Maken van het project is mislukt!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to fetch latest version info: {0}</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180920T170459Z" creationid="DiGro (Dick)" creationdate="20180920T170459Z">
+        <seg>Ophalen van informatie over laatste versie mislukt: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -29906,6 +29930,14 @@ zelf bij de eerste keer dat het wordt uitgevoerd.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Jean-Christophe Helary (support group owner, localisation manager)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180920T170556Z" creationid="DiGro (Dick)" creationdate="20180920T170556Z">
+        <seg>Jean-Christophe Helary (eigenaar ondersteuningsgroep, localisatiemanager)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jean-Christophe Helary (support group owner, localization manager)</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T081253Z" creationid="DiGro (Dick)" creationdate="20180605T081253Z">
@@ -32844,6 +32876,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T135641Z">
         <seg>LTR- en RTL-tekenreeksen in segmenten mixen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Model Id:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180920T170331Z" creationid="DiGro (Dick)" creationdate="20180920T170331Z">
+        <seg>Model ID:</seg>
       </tuv>
     </tu>
     <tu>
@@ -40181,6 +40221,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160906T161806Z" creationid="Dirk" creationdate="20160906T161806Z">
         <seg>Opslagplaatsen op afstand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remote repository network communication error: {0}</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180920T170431Z" creationid="DiGro (Dick)" creationdate="20180920T170431Z">
+        <seg>Fout in communicatie met netwerk voor opslag op afstand: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -56049,6 +56097,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T191933Z">
         <seg>Gebruiker:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Username or API Key:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180920T170317Z" creationid="DiGro (Dick)" creationdate="20180920T170317Z">
+        <seg>Gebruikersnaam of API-sleutel:</seg>
       </tuv>
     </tu>
     <tu>
