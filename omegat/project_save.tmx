@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10479M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -33008,6 +33008,22 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moodle PHP</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20190102T172332Z" creationid="DiGro (Dick)" creationdate="20190102T172332Z">
+        <seg>Moodle PHP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moodle PHP Filter Options</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20190102T172341Z" creationid="DiGro (Dick)" creationdate="20190102T172341Z">
+        <seg>Moodle PHP filteropties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>More</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20150514T110921Z" creationid="Dirk" creationdate="20150514T110921Z">
@@ -37976,6 +37992,14 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T154933Z" creationid="DiGro (Dick)" creationdate="20170915T154933Z">
         <seg>Periodieke builds zijn beschikbaar op CloudBees.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Periodic builds are available on Sourceforge.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20190102T172324Z" creationid="DiGro (Dick)" creationdate="20190102T172324Z">
+        <seg>Periodieke builds zijn beschikbaar op Sourceforge.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46959,6 +46983,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120401T133426Z">
         <seg>De bestandsindelingen voor Microsoft Office 2007-2010 kunnen direct in OmegaT worden verwerkt; meer informatie kan &lt;a0&gt;hier&lt;/a0&gt; worden gevonden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Moodle PHP filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20190102T172408Z" creationid="DiGro (Dick)" creationdate="20190102T172408Z">
+        <seg>Het Moodle PHP-filter genereerde een uitzondering:</seg>
       </tuv>
     </tu>
     <tu>
