@@ -9146,6 +9146,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application that works on Windows, macOS, Linux...</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20190418T093436Z" creationid="DiGro (Dick)" creationdate="20190418T093436Z">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is een gratis toepassing met vertaalgeheugens dat werkt op Windows, macOS, Linux...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application written in Java.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T114731Z" creationid="DiGro (Dick)" creationdate="20170916T114731Z">
@@ -13172,6 +13180,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120401T150550Z">
         <seg>Maak echter eerst, vóórdat de instructies hieronder voor het verwijderen van storende codes worden opgevolgd, de wijzigingen in de configuratie in Word, of Word kan eenvoudigweg opnieuw de storende codes invoegen als het bestand vervolgens wordt geopend.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Before proceeding</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20190418T093220Z" creationid="DiGro (Dick)" creationdate="20190418T093220Z">
+        <seg>Voordat u doorgaat</seg>
       </tuv>
     </tu>
     <tu>
@@ -20414,6 +20430,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Even though this software is free, if you find OmegaT useful and would like to express your gratitude, you can make a donation on our Paypal account.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20190418T093350Z" creationid="DiGro (Dick)" creationdate="20190418T093350Z">
+        <seg>Zelfs omdat deze software gratis is, als u vindt dat OmegaT nuttig is en u zou uw dank willen tonen, kunt u een donatie doen op ons account van Paypal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Event: application shutdown</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T192049Z">
@@ -20922,6 +20946,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>Fabián Mandelbaum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Facebook group</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20190418T093013Z" creationid="DiGro (Dick)" creationdate="20190418T093013Z">
+        <seg>Facebook-groep</seg>
       </tuv>
     </tu>
     <tu>
@@ -22332,6 +22364,14 @@ sale, or importing the Program or any portion of it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For support requests, use the &lt;a1&gt;recommended support channel&lt;/a1&gt;.&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20190418T093142Z" creationid="DiGro (Dick)" creationdate="20190418T093142Z">
+        <seg>Gebruik voor vragen over ondersteuning het &lt;a1&gt;aanbevolen kanaal voor ondersteuning&lt;/a1&gt;.&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For technical details, see the &lt;u0&gt;Request For Enhancement&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T155921Z">
@@ -23639,6 +23679,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>Hausa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Have you considered donating to OmegaT?</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20190418T093237Z" creationid="DiGro (Dick)" creationdate="20190418T093237Z">
+        <seg>Heeft u overwogen om aan OmegaT te doneren?</seg>
       </tuv>
     </tu>
     <tu>
@@ -35601,6 +35649,14 @@ OmegaT 4.0, Lees Mij-bestand</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has a presence on various social networks.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20190418T093009Z" creationid="DiGro (Dick)" creationdate="20190418T093009Z">
+        <seg>OmegaT is aanwezig op verschillende sociale netwerken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has a very active, supportive and multilingual user group &lt;a0&gt;here&lt;/a0&gt;, which users are strongly encouraged to join.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T145540Z" creationid="DiGro (Dick)" creationdate="20170915T145540Z">
@@ -38294,6 +38350,22 @@ om de bron van de fout te bepalen en probeer het opnieuw.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please contact the &lt;a0&gt;OmegaT Localization Co-ordinator&lt;/a0&gt; for details of what is involved in localizing/translating OmegaT.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20190418T093546Z" creationid="DiGro (Dick)" creationdate="20190418T093546Z">
+        <seg>Neem contact op met de &lt;a0&gt;coördinator voor vertalingen van OmegaT&lt;/a0&gt; voor details over wat er komt kijken bij het lokaliseren/vertalen van OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please contact the &lt;a0&gt;OmegaT project manager&lt;/a0&gt; regarding any point not covered above.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20190418T093053Z" creationid="DiGro (Dick)" creationdate="20190418T093053Z">
+        <seg>Neem contact op met de &lt;a0&gt;projectmanager van OmegaT&lt;/a0&gt; met betrekking punten die hierboven niet behandeld zijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please contact the &lt;a0&gt;OmegaT project manager&lt;/a0&gt; regarding any point not covered above.&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T145659Z" creationid="DiGro (Dick)" creationdate="20170915T145626Z">
@@ -38306,6 +38378,14 @@ om de bron van de fout te bepalen en probeer het opnieuw.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T145746Z" creationid="DiGro (Dick)" creationdate="20170915T145634Z">
         <seg>Neem contact op met de &lt;a2&gt;webmaster&lt;/a2&gt; voor alle punten die specifiek betrekking hebben op de website.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please contact the &lt;a3&gt;webmaster&lt;/a3&gt; for any point regarding specifically the website.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20190418T093203Z" creationid="DiGro (Dick)" creationdate="20190418T093203Z">
+        <seg>Neem contact op met de &lt;a3&gt;webmaster&lt;/a3&gt; voor alle punten die specifiek betrekking hebben op de website.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43911,6 +43991,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Social Networks</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20190418T092951Z" creationid="DiGro (Dick)" creationdate="20190418T092951Z">
+        <seg>Sociale netwerken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Software required</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131225T170604Z" creationid="Dirk" creationdate="20131225T170604Z">
@@ -46145,6 +46233,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T134310Z">
         <seg>Technisch gesproken zal het segment &lt;c0&gt;msgstr&lt;/c0&gt; in het PO-doelbestand, indien gemaakt, leeg zijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Telegram</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20190418T093015Z" creationid="DiGro (Dick)" creationdate="20190418T093015Z">
+        <seg>Telegram</seg>
       </tuv>
     </tu>
     <tu>
@@ -54886,6 +54982,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Twitter</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20190418T093014Z" creationid="DiGro (Dick)" creationdate="20190418T093014Z">
+        <seg>Twitter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Two of these are:</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160126T135302Z" creationid="Dirk" creationdate="20160126T135302Z">
@@ -55052,6 +55156,14 @@ Exacte zoekacties komen overeen met de gehele zoekterm.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131226T134408Z" creationid="Dirk" creationdate="20131226T134408Z">
         <seg>URL's van opslagplaatsen met woordenboeken voor spelling:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>USD &lt;a0&gt;Donate&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20190418T093357Z" creationid="DiGro (Dick)" creationdate="20190418T093357Z">
+        <seg>USD &lt;a0&gt;Doneren&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
