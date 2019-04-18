@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10168,6 +10168,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aaron Madlon-Kay is the OmegaT project manager.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20190418T092538Z" creationid="DiGro (Dick)" creationdate="20190418T092538Z">
+        <seg>Aaron Madlon-Kay is de projectmanager voor OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Abiword and LibreOffice are a word processor and an office suite respectively.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131225T160220Z" creationid="Dirk" creationdate="20131225T160220Z">
@@ -16388,6 +16396,14 @@ the conditions stated below.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright © 2000-2019 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20190418T092511Z" creationid="DiGro (Dick)" creationdate="20190418T092511Z">
+        <seg>Copyright © 2000-2019 Keith Godfrey, Maxym Mykhalchuk en anderen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cornish</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T130114Z">
@@ -18166,6 +18182,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T081120Z" creationid="DiGro (Dick)" creationdate="20180605T081120Z">
         <seg>Didier Briel (OmegaT projectmanager, Twitter-manager voor de gemeenschap)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Didier Briel (project manager)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20190418T092801Z" creationid="DiGro (Dick)" creationdate="20190418T092801Z">
+        <seg>Didier Briel (projectmanager)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20622,6 +20646,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Executing script {0} (event {1})</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20190418T092626Z" creationid="DiGro (Dick)" creationdate="20190418T092626Z">
+        <seg>Uitvoeren script {0} (gebeurtenis {1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exit code {0}: "{1}"</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20130310T120725Z">
@@ -22666,6 +22698,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20141020T094725Z" creationid="Dirk" creationdate="20141020T094725Z">
         <seg>Uit automatisch geheugen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From enforced memory</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20190418T092648Z" creationid="DiGro (Dick)" creationdate="20190418T092648Z">
+        <seg>Uit geforceerd geheugen</seg>
       </tuv>
     </tu>
     <tu>
@@ -29930,6 +29970,14 @@ zelf bij de eerste keer dat het wordt uitgevoerd.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Jean-Christophe Helary (Twitter community manager)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20190418T092745Z" creationid="DiGro (Dick)" creationdate="20190418T092745Z">
+        <seg>Jean-Christophe Helary (community manager voor Twitter)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jean-Christophe Helary (localization manager)</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T104051Z">
@@ -32218,6 +32266,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T125440Z">
         <seg>Marc Prior: het corrigeren van de eerste versie was liefde voor OmegaT en de Engelse taal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Marco Cevoli (Telegram community manager)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20190418T092732Z" creationid="DiGro (Dick)" creationdate="20190418T092732Z">
+        <seg>Marco Cevoli (community manager voor Telegram)</seg>
       </tuv>
     </tu>
     <tu>
@@ -35553,6 +35609,14 @@ OmegaT 4.0, Lees Mij-bestand</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has a very active, supportive and multilingual user group.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20190418T092846Z" creationid="DiGro (Dick)" creationdate="20190418T092846Z">
+        <seg>OmegaT heeft een zeer actieve, ondersteunende en meertalige gebruikersgroep.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has an inline spelling checker.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131226T133748Z" creationid="Dirk" creationdate="20131226T133748Z">
@@ -37752,6 +37816,22 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T130429Z">
         <seg>Punjabi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Paragraph delimitation</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20190418T092659Z" creationid="DiGro (Dick)" creationdate="20190418T092659Z">
+        <seg>Alinea-scheiding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Paragraph delimitation format:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20190418T092605Z" creationid="DiGro (Dick)" creationdate="20190418T092605Z">
+        <seg>Indeling alinea-scheiding:</seg>
       </tuv>
     </tu>
     <tu>
@@ -52188,6 +52268,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T103630Z">
         <seg>Dat is veilig omdat, zelfs als er al een JRE op uw systeem geïnstalleerd is,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is the &lt;a0&gt;recommended support channel&lt;/a0&gt;, which users are strongly encouraged to join.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20190418T092937Z" creationid="DiGro (Dick)" creationdate="20190418T092937Z">
+        <seg>Dat is het &lt;a0&gt;aanbevolen kanaal voor ondersteuning&lt;/a0&gt;, waarvoor gebruikers sterk wordt aangeraden om aan deel te nemen.</seg>
       </tuv>
     </tu>
     <tu>
