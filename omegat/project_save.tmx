@@ -985,6 +985,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Automatically search segment text in dictionary</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20190418T093639Z" creationid="DiGro (Dick)" creationdate="20190418T093639Z">
+        <seg>&amp;Automatisch tekst segment opzoeken in woordenboek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Back</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T184816Z">
@@ -32350,6 +32358,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark &amp;Paragraph delimitations</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20190418T093611Z" creationid="DiGro (Dick)" creationdate="20190418T093611Z">
+        <seg>&amp;Alinea-scheidingen markeren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark &amp;Translated Segments</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T185400Z">
@@ -42103,6 +42119,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search Dictionaries</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20190418T093652Z" creationid="DiGro (Dick)" creationdate="20190418T093652Z">
+        <seg>Zoeken in woordenboeken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search Project</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T163003Z">
@@ -43915,6 +43939,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T191633Z">
         <seg>Tekst die overeenkomt met reguliere uitdrukking overslaan:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Skipping previously loaded plugin from class '{0}'</seg>
+      </tuv>
+      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20190418T093730Z" creationid="DiGro (Dick)" creationdate="20190418T093730Z">
+        <seg>Eerder geladen plug-in van de klasse '{0}' overslaan</seg>
       </tuv>
     </tu>
     <tu>
