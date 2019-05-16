@@ -25587,6 +25587,14 @@ the predecessor has it or can get it with reasonable efforts.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If sentence segmentation has been selected, you can setup the rules by selecting &lt;m4&gt; &lt;g5&gt;Options&lt;/g5&gt; &lt;g6&gt;Segmentation...&lt;/g6&gt; &lt;/m4&gt;from the main menu.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T112720Z" creationid="Dick" creationdate="20190516T112720Z">
+        <seg>Als zinsegmentatie is geselecteerd kunt u de regels instellen door &lt;m4&gt; &lt;g5&gt;Opties&lt;/g5&gt; &lt;g6&gt;Segmentatie...&lt;/g6&gt; &lt;/m4&gt;te selecteren uit het hoofdmenu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If sentence segmentation has been selected, you can setup the rules by selecting &lt;m5&gt; &lt;g6&gt;&lt;i7/&gt;Options&lt;/g6&gt; &lt;g8&gt;Segmentation...&lt;/g8&gt; &lt;/m5&gt;from the main menu.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T171948Z">
@@ -27087,6 +27095,14 @@ het gebruiken van Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want to revert to the filter's default configuration, click &lt;e1&gt;Defaults.&lt;/e1&gt; You can also modify the name directly in the target filename pattern field of the file filters dialog.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T112539Z" creationid="Dick" creationdate="20190516T112539Z">
+        <seg>Klik op &lt;e1&gt;Standaardinstellingen&lt;/e1&gt; als u terug wilt keren naar de standaard configuratie van het filter. U kunt de naam ook direct aanpassen in het veld voor het patroon van het doelbestand of in het dialoogvenster Bestandsfilters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to select Basic subscription (free, up to 2 million characters a month,) click [SIGN UP] at the top of the subscription list.&lt;br8/&gt;</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T102525Z" creationid="DiGro (Dick)" creationdate="20170916T102525Z">
@@ -27971,6 +27987,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T171946Z">
         <seg>Selecteer &lt;m1&gt; &lt;g2&gt;&lt;i3/&gt;Project&lt;/g2&gt;&lt;g4&gt;eigenschappen...&lt;/g4&gt; &lt;/m1&gt; uit het hoofdmenu en selecteer het aanwezig keuzevak, of niet, om het type segmentatie te kiezen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In order to select the type of segmentation, select &lt;m1&gt; &lt;g2&gt;Project&lt;/g2&gt; &lt;g3&gt;Properties...&lt;/g3&gt; &lt;/m1&gt; from the main menu and tick or untick the check box provided.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T112632Z" creationid="Dick" creationdate="20190516T112632Z">
+        <seg>Selecteer &lt;m1&gt; &lt;g2&gt;Project&lt;/g2&gt;&lt;g3&gt;eigenschappen…&lt;/g3&gt; &lt;/m1&gt; uit het hoofdmenu en selecteer het aanwezig keuzevak, of niet, om het type segmentatie te kiezen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36280,6 +36304,14 @@ published by the Free Software Foundation, either version 3 of the License, or
         <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties etc)</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T134556Z">
+        <seg>OmegaT is geïnstrueerd om een voorgeschreven codering te gebruiken voor bepaalde bestandsformaten ( Java-properties etc)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties etc).</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T112347Z" creationid="Dick" creationdate="20190516T112347Z">
         <seg>OmegaT is geïnstrueerd om een voorgeschreven codering te gebruiken voor bepaalde bestandsformaten ( Java-properties etc)</seg>
       </tuv>
     </tu>
@@ -50936,6 +50968,14 @@ use, which is precisely where it is most unacceptable.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The target filename pattern uses a special syntax, so if you want to edit this field, you must click &lt;e0&gt;Edit...&lt;/e0&gt;and use the Edit Pattern Dialog.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T112449Z" creationid="Dick" creationdate="20190516T112449Z">
+        <seg>Doelbestandsnaam-patronen gebruiken een speciale syntaxis, dus als u dit veld zou willen bewerken, moet u op &lt;e0&gt;Bewerken…&lt;/e0&gt; klikken en het dialoogvenster Patroon bewerken gebruiken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The target filename pattern uses a special syntax, so if you wish to edit this field, you must click &lt;e0&gt;Edit...&lt;/e0&gt;and use the &lt;i1/&gt;Edit Pattern Dialog.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T134615Z">
@@ -55338,6 +55378,14 @@ install.sh.</seg>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T135618Z">
         <seg>Als standaard heeft het vertaalde bestand dezelfde codering als de codering van het bronbestand:
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated filename</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T112406Z" creationid="Dick" creationdate="20190516T112351Z">
+        <seg>Vertaalde bestandsnaam</seg>
       </tuv>
     </tu>
     <tu>
