@@ -25809,6 +25809,14 @@ menu, a prominent item in the list meets this criterion.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If &lt;l0&gt;automatic searching in dictionaries&lt;/l0&gt; is disabled, this function allows you to search for the selected word in the dictionaries.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T161828Z" creationid="Dick" creationdate="20190516T161828Z">
+        <seg>Als &lt;l0&gt;Automatisch tekst segment opzoeken in woordenboeken&lt;/l0&gt; is uitgeschakeld, stelt deze functie u in staat naar het geselecteerde woord te zoeken in de woordenboeken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If &lt;l1&gt;warn&lt;/l1&gt; is specified, the tag validator will process all segments and write warnings about any segments with invalid tags into the file specified.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T142630Z">
@@ -42685,6 +42693,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace with Source</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T161403Z" creationid="Dick" creationdate="20190516T161403Z">
+        <seg>Vervangen door bron</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace with match</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T162807Z">
@@ -50457,6 +50473,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The exported contents are copied to the file &lt;f1&gt;selection.txt&lt;/f1&gt; located in the User's preference files folder.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T161426Z" creationid="Dick" creationdate="20190516T161426Z">
+        <seg>De geëxporteerde inhoud wordt gekopieerd naar het bestand &lt;f1&gt;selection.txt&lt;/f1&gt; dat is geplaatst in de voorkeursmap van de gebruiker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The extension must be &lt;f0&gt;.txt&lt;/f0&gt; or &lt;f1&gt;.utf8&lt;/f1&gt; (if not, it will be added).</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T135953Z">
@@ -54188,6 +54212,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dick" changedate="20190516T123321Z" creationid="Dick" creationdate="20190516T123321Z">
         <seg>Dit kan ook binnen OmegaT wordne gedaan:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This can apply also to &lt;g0&gt;Target term&lt;/g0&gt; and &lt;g1&gt;Comment &lt;/g1&gt;fields if new selections are made and &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;Shift&lt;/k4&gt; &lt;k5&gt;G&lt;/k5&gt; &lt;/k2&gt; pressed again.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T161617Z" creationid="Dick" creationdate="20190516T161617Z">
+        <seg>Dit kan ook van toepassing zijn op de velden &lt;g0&gt;Doelterm&lt;/g0&gt; en &lt;g1&gt;Opmerking&lt;/g1&gt; als nieuwe selecties worden gemaakt en &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;Shift&lt;/k4&gt; &lt;k5&gt;G&lt;/k5&gt; &lt;/k2&gt; opnieuw wordt ingedrukt.</seg>
       </tuv>
     </tu>
     <tu>
