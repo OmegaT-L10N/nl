@@ -6523,6 +6523,22 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;g0&gt;Spelling Issues&lt;/g0&gt; (optional).</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T165551Z" creationid="Dick" creationdate="20190516T165551Z">
+        <seg>&lt;g0&gt;Spellingsproblemen&lt;/g0&gt; (optioneel).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;g0&gt;Terminology Issues&lt;/g0&gt; (optional).</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T165647Z" creationid="Dick" creationdate="20190516T165647Z">
+        <seg>&lt;g0&gt;Problemen met  terminologie&lt;/g0&gt; (optioneel).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;g1&gt;Sponsorship of development has already resulted in the addition of certain features.&lt;/g1&gt; If you are willing to finance the work of implementing your desired feature, please contact the development team privately for a quotation.</seg>
       </tuv>
       <tuv lang="NL" changeid="Kos Ivantsov" changedate="20170910T185302Z" creationid="Kos Ivantsov" creationdate="20170910T185302Z">
@@ -23848,6 +23864,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Four types of issues are detected:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T165420Z" creationid="Dick" creationdate="20190516T165420Z">
+        <seg>Vier typen problemen worden gedetecteerd:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fragment(s) that should be removed from the translation regular expression</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T135910Z">
@@ -38846,6 +38870,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only works if a spelling dictionary is installed.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T165618Z" creationid="Dick" creationdate="20190516T165618Z">
+        <seg>Werkt alleen als een woordenboek voor spelling is geïnstalleerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T131259Z">
@@ -49301,6 +49333,14 @@ for making modifications to it.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T160855Z">
         <seg>De optie &lt;g0&gt;Contextbeschrijving voor TBX-woordenlijsten tonen&lt;/g0&gt; stelt u in staat contextinformatie voor de termen (die komt uit de TBX-woordenlijsten die zijn geplaatst in de map &lt;f1&gt;glossary&lt;/f1&gt;) in het venster Woordenlijst weer te geven of te verbergen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;g1&gt;Tag Issues&lt;/g1&gt; option is always selected.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T165528Z" creationid="Dick" creationdate="20190516T165528Z">
+        <seg>De optie &lt;g1&gt;Problemen met tags&lt;/g1&gt; is altijd geselecteerd.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69586,6 +69626,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T174401Z">
         <seg>minimaliseert het venster zodat alleen de naam wordt weergegeven aan de onderzijde van het venster</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>missing or displaced tags, including &lt;l0&gt;custom tags&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T165445Z" creationid="Dick" creationdate="20190516T165445Z">
+        <seg>ontbrekende of misplaatste tags, inclusief &lt;l0&gt;aangepaste tags&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
