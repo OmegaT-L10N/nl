@@ -26385,6 +26385,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If no text is selected, &lt;a3&gt;OmegaT&lt;/a3&gt; selects the word that contains the letter immediately to the right of the cursor.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T161915Z" creationid="Dick" creationdate="20190516T161915Z">
+        <seg>Indien geen tekst is geselecteerd, selecteert &lt;a3&gt;OmegaT&lt;/a3&gt; het woord dat de letter bevat direct rechts naast de cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If not checked, source segments will not be shown.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T155805Z">
@@ -45225,6 +45233,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Selects the previous, the next or the Nth fuzzy match displayed in the fuzzy match pane to replace or insert it to the segment.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T162016Z" creationid="Dick" creationdate="20190516T162016Z">
+        <seg>Selecteert de vorige, de volgende of de Ne overeenkomst die is weergegeven in het venster Overeenkomsten om het segment te vervangen of het in te voegen in het segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Self-paced online training course in English (for purchase)</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T150022Z" creationid="DiGro (Dick)" creationdate="20170915T150022Z">
@@ -58672,6 +58688,14 @@ Opdrachten:
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T095553Z">
         <seg>Gebruik &lt;g0&gt;Ctrl+L&lt;i1/&gt;&lt;/g0&gt; om het te openen en &lt;k2&gt;Esc&lt;/k2&gt; om het te sluiten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt; to cycle through the four alternatives.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T161903Z" creationid="Dick" creationdate="20190516T161903Z">
+        <seg>Gebruik &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt; om tussen de vier keuzes te schakelen.</seg>
       </tuv>
     </tu>
     <tu>
