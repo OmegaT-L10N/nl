@@ -52918,6 +52918,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This can also be done within OmegaT:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T123321Z" creationid="Dick" creationdate="20190516T123321Z">
+        <seg>Dit kan ook binnen OmegaT wordne gedaan:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This can be achieved (for Déjà Vu DVX) by use of Déjà Vu's "External View" file format.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T155034Z" creationid="DiGro (Dick)" creationdate="20170915T155034Z">
@@ -54442,6 +54450,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T134853Z">
         <seg>Selecteer &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;D&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Vertaalde documenten maken&lt;/g6&gt; &lt;/m0&gt; om er inhoud aan toe te voegen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To add other resources (dictionaries, TMXs or glossaries), use an SVN or Git client.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T123603Z" creationid="Dick" creationdate="20190516T123603Z">
+        <seg>Gebruik een cliënt voor SVN of Git om andere bronnen (woordenboeken, TMX-en of woordenlijsten) toe te voegen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57254,6 +57270,14 @@ Opdrachten:
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20140419T144458Z" creationid="Dirk" creationdate="20140419T144458Z">
         <seg>Gebruik alle bijgewerkte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use an SVN or Git client to add the files to translate.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T123307Z" creationid="Dick" creationdate="20190516T123307Z">
+        <seg>Gebruik ene cliënt voor SVN of Git om de te vertalen bestanden toe te voegen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63460,6 +63484,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>copy of the Program in return for a fee.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>copy the files to the &lt;f0&gt;/source&lt;/f0&gt; folder</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T123414Z" creationid="Dick" creationdate="20190516T123414Z">
+        <seg>kopieer de bestanden naar de map &lt;f0&gt;/source&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -71848,6 +71880,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>urd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>use &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Commit Source Files&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T123456Z" creationid="Dick" creationdate="20190516T123456Z">
+        <seg>gebruik &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Bronbestanden indienen&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
     </tu>
     <tu>
