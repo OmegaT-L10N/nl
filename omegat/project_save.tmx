@@ -37172,6 +37172,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT team projects must first be &lt;l0&gt;set up&lt;/l0&gt; on a server.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T132329Z" creationid="Dick" creationdate="20190516T132329Z">
+        <seg>Teamprojecten voor OmegaT moeten eerst zijn &lt;l0&gt;ingesteld&lt;/l0&gt; op een server.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT text export function</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120401T131547Z">
@@ -55766,6 +55774,14 @@ these rights or asking you to surrender the rights.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To use a team project for the first time, follow the procedure provided by the project manager.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T132420Z" creationid="Dick" creationdate="20190516T132420Z">
+        <seg>Volg de door de projectbeheerder verschafte procedure om een teamproject voor de eerste keer te gebruiken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To use an existing glossary, simply place it in the &lt;f0&gt;/glossary&lt;/f0&gt; folder after creating the project.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dick" changedate="20190516T091335Z" creationid="Dick" creationdate="20190516T091335Z">
@@ -57600,6 +57616,14 @@ Opdrachten:
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T132445Z" creationid="Dirk" creationdate="20160910T132445Z">
         <seg>Termen die afzonderlijk in de brontekst verschijnen gebruiken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use a Team Project</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T132229Z" creationid="Dick" creationdate="20190516T132229Z">
+        <seg>Een Teamproject gebruiken</seg>
       </tuv>
     </tu>
     <tu>
