@@ -13242,6 +13242,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At the bottom of the window, right-click on a free number and select &lt;g0&gt;Add Script&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T171813Z" creationid="Dick" creationdate="20190516T171813Z">
+        <seg>Klik met rechts, aan de onderzijde van het venster, op een vrij nummer en selecteer &lt;g0&gt;Script toevoegen&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At the end of your translation, OmegaT exports three translation memories called &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; and &lt;f2&gt;omegat&lt;/f2&gt; to your project folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T142926Z">
@@ -32615,6 +32623,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Launches scripts that have been associated with a number.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T171534Z" creationid="Dick" creationdate="20190516T171534Z">
+        <seg>Start scripts die zijn geassocieerd met een nummer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Launching OmegaT</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T103909Z">
@@ -39078,6 +39094,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open the Scripting window</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T171606Z" creationid="Dick" creationdate="20190516T171606Z">
+        <seg>Open het venster Scripten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open the Search and replace window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; and enter the word or expression you wish to replace in the &lt;e3&gt;Search for&lt;/e3&gt; box.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T170525Z">
@@ -45437,6 +45461,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T171128Z">
         <seg>Selecteer de methode met behulp van de optieknoppen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the script you want from the list on the left</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T171642Z" creationid="Dick" creationdate="20190516T171642Z">
+        <seg>Selecteer het script dat u wilt uit de lijst aan de linkerkant</seg>
       </tuv>
     </tu>
     <tu>
@@ -56316,6 +56348,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131228T130010Z" creationid="Dirk" creationdate="20131225T154116Z">
         <seg> &lt;a2&gt;Download en installeer de extensie Auto Refresh Plus&lt;/a2&gt; vanuit de Web Store om de functie Auto refresh toe te voegen aan Chrome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To associate a script with a number:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T171553Z" creationid="Dick" creationdate="20190516T171553Z">
+        <seg>Een script associëren met een nummer:</seg>
       </tuv>
     </tu>
     <tu>
@@ -70002,6 +70042,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>mya</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>n - (script name)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T171500Z" creationid="Dick" creationdate="20190516T171500Z">
+        <seg>n - (scriptnaam)</seg>
       </tuv>
     </tu>
     <tu>
