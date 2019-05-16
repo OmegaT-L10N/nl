@@ -5363,6 +5363,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;-Duser.country=&lt;p1&gt;XX&lt;/p1&gt;&lt;/e0&gt; Besides the language, you can also specify the country, for example &lt;l2&gt;CN&lt;/l2&gt; or &lt;l3&gt;TW&lt;/l3&gt; in case of the Chinese language.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T142700Z" creationid="Dick" creationdate="20190516T142700Z">
+        <seg>&lt;e0&gt;-Duser.country=&lt;p1&gt;XX&lt;/p1&gt;&lt;/e0&gt; Naast de taal kunt u ook het land specificeren, bijvoorbeeld &lt;l2&gt;CN&lt;/l2&gt; of &lt;l3&gt;TW&lt;/l3&gt; in geval van de Chinese taal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;-Duser.country=XX&lt;/e0&gt;&lt;i1/&gt; Besides the language, you can also specify the country, for example CN or TW in case of the Chinese language.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T142220Z">
@@ -5439,6 +5447,14 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dick" changedate="20190516T142418Z" creationid="Dick" creationdate="20190516T142418Z">
         <seg>&lt;e0&gt;&lt;l1&gt;-Duser.language=&lt;p2&gt;XX&lt;/p2&gt;&lt;l1&gt;&lt;/e0&gt; Normaal gesproken, d.i. als &lt;a3&gt;OmegaT&lt;/a3&gt; wordt gestart zonder enig argument, detecteert het programma eerst de taal van het besturingssysteem van de gebruiker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Xmx&lt;p2&gt;??&lt;/p2&gt;M&lt;/l1&gt;&lt;/e0&gt;This command assigns more memory to &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T142749Z" creationid="Dick" creationdate="20190516T142749Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Xmx&lt;p2&gt;??&lt;/p2&gt;M&lt;/l1&gt;&lt;/e0&gt;Deze opdracht wijst meer geheugen toe aan &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9312,6 +9328,14 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T095946Z">
         <seg>&lt;p0&gt;Vensters in OmegaT&lt;/p0&gt; &lt;s1&gt;tags valideren&lt;/s1&gt; &lt;s2&gt;tags&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p3&gt;XX&lt;/p3&gt; in the command stands for the two-digit code of the desired language.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T142548Z" creationid="Dick" creationdate="20190516T142548Z">
+        <seg>&lt;p3&gt;XX&lt;/p3&gt; in de opdracht staat voor de code van twee letters van de gewenste taal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26585,6 +26609,14 @@ copy of the Program in return for a fee.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T142159Z">
         <seg>Als de taal van het besturingssysteem van de gebruiker niet beschikbaar is gebruikt &lt;a6&gt;OmegaT&lt;/a6&gt; standaard Engels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the language of the user's system is not available, &lt;a7&gt;OmegaT&lt;/a7&gt; defaults to English.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T142503Z" creationid="Dick" creationdate="20190516T142503Z">
+        <seg>Als de taal van het besturingssysteem van de gebruiker niet beschikbaar is gebruikt &lt;a7&gt;OmegaT&lt;/a7&gt; standaard Engels.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48697,6 +48729,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; argument causes &lt;a2&gt;OmegaT&lt;/a2&gt; to use the language specified rather than the language of the user's operating system.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T142535Z" creationid="Dick" creationdate="20190516T142535Z">
+        <seg>Het argument &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; zorgt er voor dat &lt;a2&gt;OmegaT&lt;/a2&gt; de gespecificeerde taal gebruikt, in plaats van de taal van het besturingssysteem van de gebruiker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Properties...&lt;/g6&gt; &lt;/m0&gt; dialog is used to define and modify the project folders and languages.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T165919Z">
@@ -54474,6 +54514,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is necessary even if there's only one combination available, like &lt;l4&gt;pt_BR&lt;/l4&gt; in case of Brazilian Portuguese.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T142717Z" creationid="Dick" creationdate="20190516T142717Z">
+        <seg>Dit is zelfs nodig als er slechts één combinatie beschikbaar is, zoals &lt;l4&gt;pt_BR&lt;/l4&gt; in geval van Portugees / Braziliaans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is necessary even if there's only one combination available, like pt_BR in case of Portuguese / Brazil.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T142222Z">
@@ -55966,6 +56014,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T142208Z">
         <seg>De opdracht, om &lt;a2&gt;OmegaT&lt;/a2&gt; te starten met een Franse interface (bijvoorbeeld op een Russisch besturingssysteem), zou daarom zijn:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To launch &lt;a4&gt;OmegaT&lt;/a4&gt; with a French interface (for example on a Russian operating system), the command would therefore be:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T142558Z" creationid="Dick" creationdate="20190516T142558Z">
+        <seg>De opdracht, om &lt;a4&gt;OmegaT&lt;/a4&gt; te starten met een Franse interface (bijvoorbeeld op een Russisch besturingssysteem), zou daarom zijn:</seg>
       </tuv>
     </tu>
     <tu>
@@ -67722,6 +67778,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>java -Duser.language=fr -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -Duser.language=fr -jar OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T142604Z" creationid="Dick" creationdate="20190516T142604Z">
+        <seg>java -Duser.language=fr -jar OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
