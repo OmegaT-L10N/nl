@@ -26189,6 +26189,14 @@ notice like this when it starts in an interactive mode:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the project uses specific filters and segmentation parameters, both the &lt;f0&gt;filters.xml&lt;/f0&gt; and &lt;f1&gt;segmentation.conf&lt;/f1&gt; files must be added to the versioning system and published on the server.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T123218Z" creationid="Dick" creationdate="20190516T123218Z">
+        <seg>Als het project specifieke filters en parameters voor segmentatie gebruikt, moeten beide bestanden &lt;f0&gt;filters.xml&lt;/f0&gt; en &lt;f1&gt;segmentation.conf&lt;/f1&gt; worden toegevoegd aan het versiesysteem en wordne gepubliceerd op de server.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the rule matches, either the cursor moves on without inserting a segment break (for an exception rule) or a new segment break is created at the current cursor position (for the break rule).</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T172008Z">
@@ -40521,6 +40529,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Publish the new OmegaT project on the server (&lt;c0&gt;commit&lt;/c0&gt; with SVN, &lt;c1&gt;commit&lt;/c1&gt; followed by &lt;c2&gt;push&lt;/c2&gt; with Git).</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T123032Z" creationid="Dick" creationdate="20190516T123032Z">
+        <seg>Publiceer het nieuwe project van OmegaT op de server (&lt;c0&gt;commit&lt;/c0&gt; met SVN, &lt;c1&gt;commit&lt;/c1&gt; gevolgd door &lt;c2&gt;push&lt;/c2&gt; met Git).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Purpose</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131226T140453Z" creationid="Dirk" creationdate="20131226T140453Z">
@@ -45571,6 +45587,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Specific parameters</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T123041Z" creationid="Dick" creationdate="20190516T123041Z">
+        <seg>Specifieke parameters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T131106Z" creationid="Dirk" creationdate="20170914T131106Z">
@@ -45935,6 +45959,14 @@ make it effectively proprietary.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120401T151303Z">
         <seg>Stap 1: Weergeven van de markering van een alinea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 2: Add files to translate and other resources</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T123239Z" creationid="Dick" creationdate="20190516T123239Z">
+        <seg>Stap 2: Te vertalen bestanden en andere bronnen toevoegen</seg>
       </tuv>
     </tu>
     <tu>
