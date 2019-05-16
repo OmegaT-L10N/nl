@@ -12888,6 +12888,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatically search segment text in dictionary</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T094231Z" creationid="Dick" creationdate="20190516T094231Z">
+        <seg>Automatisch tekst segment opzoeken in woordenboek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automating modifications of the translated document file names by replacing translatable contents with its translation.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T134122Z">
@@ -14946,6 +14954,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160906T172841Z" creationid="Dirk" creationdate="20160906T172841Z">
         <seg>Markering verwijderen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clear this option to deactivate automatic searching – if dictionaries are too long, for example.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T094319Z" creationid="Dick" creationdate="20190516T094319Z">
+        <seg>Deselecteer deze optie om automatisch zoeken uit te schakelen – als woordenboeken te lang zijn bijvoorbeeld.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25275,6 +25291,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T172207Z">
         <seg>Bewerk, indien nodig, de bestandsnamen van het woordenboek of wijzig de taalinstellingen van uw project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If necessary, you can select a specific domain to limit the volume of data sent and received.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T094218Z" creationid="Dick" creationdate="20190516T094218Z">
+        <seg>Indien nodig kunt u een specifiek domein selecteren om het volume van de verzonden en te ontvangen gegevens te beperken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43287,6 +43311,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select this option if you want dictionaries to display words that have the same root.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T094400Z" creationid="Dick" creationdate="20190516T094400Z">
+        <seg>Selecteer deze optie als u wilt dat woordenboeken woorden die dezelfde bron hebben weergeeft.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select this option if you want the glossary to display words that have the same root.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dick" changedate="20190516T093143Z" creationid="Dick" creationdate="20190516T093035Z">
@@ -56318,6 +56350,14 @@ Opdrachten:
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20141020T094345Z" creationid="Dirk" creationdate="20141020T094345Z">
         <seg>Aangepaste sjablonen voor Info over wijzigingen gebruiken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use fuzzy matching for dictionary entries</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T094325Z" creationid="Dick" creationdate="20190516T094325Z">
+        <seg>Fuzzy overeenkomsten voor items woordenboek gebruiken</seg>
       </tuv>
     </tu>
     <tu>
