@@ -10824,6 +10824,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding new source files</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T133030Z" creationid="Dick" creationdate="20190516T133030Z">
+        <seg>Nieuwe bronbestanden toevoegen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Additional Terms.</seg>
       </tuv>
       <tuv lang="NL">
@@ -14608,6 +14616,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changing segmentation rules or file filters</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T133333Z" creationid="Dick" creationdate="20190516T133333Z">
+        <seg>Segmentatieregels of bestandsfilters wijzigen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changing segmentation settings may cause some already translated segments to be split or merged.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T165941Z">
@@ -18272,6 +18288,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Deleting source files</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T133232Z" creationid="Dick" creationdate="20190516T133232Z">
+        <seg>Bronbestanden verwijderen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Delimiter</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T131028Z" creationid="Dirk" creationdate="20170914T131028Z">
@@ -21224,6 +21248,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Existing source files can be modified, but the commit operation must be carried out before an automatic save and before the project is reloaded or closed.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T133221Z" creationid="Dick" creationdate="20190516T133221Z">
+        <seg>Bestaande bronbestanden kunnen worden aangepast, maar de bewerking voor indienen moet worden uitgevoerd voor het automatisch opslaan en voordat het project opnieuw wordt geladen of gesloten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exit code {0}: "{1}"</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20130310T120725Z">
@@ -21876,6 +21908,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131228T130322Z" creationid="Dirk" creationdate="20131226T154157Z">
         <seg>Bestanden in oudere indelingen van MS Word, Excel en Powerpoint kunnen worden vertaald nadat zij zijn geconverteerd naar de equivalente huidige indeling van Microsoft Office, of als alternatief naar de indeling Office Open XML, wat kan worden gedaan in OpenOffice.org of LibreOffice (ook gratis).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Files must be deleted first by the project manager, and then locally.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T133306Z" creationid="Dick" creationdate="20190516T133306Z">
+        <seg>Bestanden moeten eerst door de projectbeheerder worden verwijderd, en daarna lokaal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54836,6 +54876,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dick" changedate="20190516T112048Z" creationid="Dick" creationdate="20190516T112048Z">
         <seg>Klik op &lt;e1&gt;Toevoegen&lt;/e1&gt; om een nieuw patroon voor een bestandsfilter toe te voegen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To add a new source file:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T133051Z" creationid="Dick" creationdate="20190516T133051Z">
+        <seg>Een nieuw bronbestand toevoegen:</seg>
       </tuv>
     </tu>
     <tu>
