@@ -23423,6 +23423,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Gives access to the list of plugins available.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T121100Z" creationid="Dick" creationdate="20190516T121100Z">
+        <seg>Geeft toegang topt de lijst met beschikbare plug-ins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Gives access to the project folders.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T145302Z" creationid="Dirk" creationdate="20160910T145302Z">
@@ -39256,6 +39264,14 @@ of er nog aanvullende stappen moeten worden uitgevoerd.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Plugins are installed in the &lt;f0&gt;/plugins&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T121130Z" creationid="Dick" creationdate="20190516T121130Z">
+        <seg>Plug-ins wordne geïnstalleerd in de map &lt;f0&gt;/plugins&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Points regarding proprietary translation memory files:</seg>
       </tuv>
       <tuv lang="NL">
@@ -46817,6 +46833,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T130535Z">
         <seg>Tadzjieks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Take care to make a note of all these details before creating a new password, because they will all be deleted and will need to be re-entered.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T121034Z" creationid="Dick" creationdate="20190516T121034Z">
+        <seg>Zorg er voor dat u een notitie maakt van al deze details voordat u een nieuw wachtwoord maakt, omdat ze zullen worden verwijderd en opnieuw moeten worden ingevoerd.</seg>
       </tuv>
     </tu>
     <tu>
