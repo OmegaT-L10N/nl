@@ -13138,6 +13138,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatic saving</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T132530Z" creationid="Dick" creationdate="20190516T132530Z">
+        <seg>Automatisch opslaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automatically check for updates</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T080952Z" creationid="DiGro (Dick)" creationdate="20180605T080952Z">
@@ -20980,6 +20988,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T192047Z">
         <seg>Gebeurtenis: project wijziging - "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Every 3 minutes (by default), the local project is synchronised with the remote repository so that the project manager or other translators can see and use translations added during that period.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T132708Z" creationid="Dick" creationdate="20190516T132708Z">
+        <seg>Elke 3 minuten (standaard) wordt het lokale project gesynchroniseerd met de opslagplaats op afstand, zodat de projectbeheerder of andere vertalers de gedurende die periode toegevoegde vertalingen kunnen zien en gebruiken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37706,6 +37722,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T110649Z">
         <seg>Als de bewerking eenmaal is voltooid kunt u de betreffende map controleren: die zou nu een submap .svn moeten bevatten en een groen schild OK op het pictogram ervan zal aangeven dat de inhoud van de map up-to-date is:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once the project has been opened, translation proceeds in the same way as for a non-team project, except the following points.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T132523Z" creationid="Dick" creationdate="20190516T132523Z">
+        <seg>Als het project eenmaal is geopend, gaat het vertalen op dezelfde manier als voor een niet-teamproject, behalve de volgende punten.</seg>
       </tuv>
     </tu>
     <tu>
