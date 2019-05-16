@@ -14726,6 +14726,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check this box to send only untranslated segments to the machine translation services.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T092428Z" creationid="Dick" creationdate="20190516T092428Z">
+        <seg>Selecteer dit vak om alleen niet-vertaalde segmenten naar de services voor machinevertaling te sturen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check this option in case OmegaT does not display some glyphs properly (even if the fonts containing the relevant glyphs are installed on your machine).</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T160041Z" creationid="Dirk" creationdate="20160910T160041Z">
@@ -43103,6 +43111,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select a supplier from the list and, if necessary, click &lt;g0&gt;Configure&lt;/g0&gt; to enter the identification details provided by the supplier.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T092645Z" creationid="Dick" creationdate="20190516T092645Z">
+        <seg>Selecteer een leverancier uit de lijst en klik, indien nodig, op &lt;g0&gt;Configureren&lt;/g0&gt; om de door de leverancier verschafte gegevens voor identificatie in te voeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select a version without or with JRE depending upon your Java situation (see above).</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131225T135108Z" creationid="Dirk" creationdate="20131225T135108Z">
@@ -55818,6 +55834,14 @@ op regel {1}, kolom {2}.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T125929Z" creationid="Dirk" creationdate="20170914T125929Z">
         <seg>&amp;Alleen niet-vertaalde segmenten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Untranslated segments only</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T092349Z" creationid="Dick" creationdate="20190516T092349Z">
+        <seg>Alleen niet-vertaalde segmenten</seg>
       </tuv>
     </tu>
     <tu>
