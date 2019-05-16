@@ -31974,6 +31974,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>List of projects for which login details are stored in OmegaT.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T114513Z" creationid="Dick" creationdate="20190516T114513Z">
+        <seg>Lijst met projecten waarvoor details voor inloggen zijn opgeslagen in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Literally hundreds of RFEs have already been made, and many of them already implemented.</seg>
       </tuv>
       <tuv lang="NL">
@@ -35292,6 +35300,14 @@ measures.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T175155Z" creationid="Dirk" creationdate="20160910T175155Z">
         <seg>Opmerking: de markering voor het segment geeft &lt;l0&gt;&lt;segment nnnn +yy meer&gt; weer als het segment niet uniek is.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: these two instructions can be combined by writing &lt;u0&gt;(&lt;.*?&gt;)|(\d+)&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T114437Z" creationid="Dick" creationdate="20190516T114437Z">
+        <seg>Opmerking: deze twee instructies kunnen wordne gecombineerd door te schrijven: &lt;u0&gt;(&lt;.*?&gt;)|(\d+)&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44323,6 +44339,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T110637Z">
         <seg>Soortgelijk als in het geval van projecten van OmegaT zult u verschillende opslagplaatsen nodig hebben voor verschillende paren van talen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Similarly, enter &lt;u0&gt;&lt;.*?&gt;&lt;/u0&gt; to make sure that HTML tags (for example) entered into the source text are preserved without modification in the translation.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T114353Z" creationid="Dick" creationdate="20190516T114353Z">
+        <seg>Voer op soortgelijke wijze &lt;u0&gt;&lt;.*?&gt;&lt;/u0&gt; in om er voor te zorgen dat HTML-tags (bijvoorbeeld) die zijn ingevoerd in de bron zonder aanpassingen wordne behouden in de vertaling.</seg>
       </tuv>
     </tu>
     <tu>
