@@ -7315,6 +7315,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;--tag-validation=&lt;p1&gt;abort|warn&lt;/p1&gt;&lt;/l0&gt; &lt;p2&gt;outputFileName&lt;/p2&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T160527Z" creationid="Dick" creationdate="20190516T160527Z">
+        <seg>&lt;l0&gt;--tag-validation=&lt;p1&gt;abort|warn&lt;/p1&gt;&lt;/l0&gt; &lt;p2&gt;outputFileName&lt;/p2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;--tag-validation=[abort|warn] &lt;/l0&gt; On abort, the program is aborted when tag validation finds errors.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T165532Z">
@@ -14524,6 +14532,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T134549Z">
         <seg>Als standaard heeft het vertaalde bestand dezelfde codering als de codering van het bronbestand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default, under Windows, &lt;f1&gt;omegat.project&lt;/f1&gt; is locked, and an error message is received when trying to open a project already opened in another instance of OmegaT.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T160615Z" creationid="Dick" creationdate="20190516T160615Z">
+        <seg>Onder Windows is &lt;f1&gt;omegat.project&lt;/f1&gt; standaard vergrendeld en wordt een foutbericht ontvangen als wordt geprobeerd een project te openen dat al is geopend door een andere instantie van OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25772,6 +25788,14 @@ menu, a prominent item in the list meets this criterion.</seg>
         <seg>If &lt;l0&gt;abort &lt;/l0&gt;is selected, the tag validator will stop on the first invalid segment.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T142628Z">
+        <seg>Als &lt;l0&gt;abort &lt;/l0&gt;is geselecteerd zal het valideren van tags stoppen bij het eerste ongeldige segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If &lt;l0&gt;abort&lt;/l0&gt; is selected, the tag validator will stop on the first invalid segment.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T160543Z" creationid="Dick" creationdate="20190516T160543Z">
         <seg>Als &lt;l0&gt;abort &lt;/l0&gt;is geselecteerd zal het valideren van tags stoppen bij het eerste ongeldige segment.</seg>
       </tuv>
     </tu>
@@ -52462,6 +52486,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The sources of the current version can be retrieved with a SVN client from the repository &lt;u0/&gt; or directly on &lt;u1&gt;SourceForge&lt;/u1&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T160810Z" creationid="Dick" creationdate="20190516T160810Z">
+        <seg>De bronnen voor de huidige versie kunnen worden opgehaald met een cliënt voor SVN client uit de opslagplaats &lt;u0/&gt; of direct op &lt;u1&gt;SourceForge&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The specified dictionary folder cannot be used.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20150713T071058Z" creationid="Dirk" creationdate="20150713T071058Z">
@@ -58428,6 +58460,14 @@ op regel {1}, kolom {2}.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T142648Z">
         <seg>Gebruik: &lt;l0&gt;java -jar &lt;a1&gt;OmegaT&lt;/a1&gt;.jar /pad/naar/project --mode=console-translate --tag-validation=abort&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usage: &lt;l0&gt;java -jar OmegaT.jar /path/to/project --mode=console-translate --quiet&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T160647Z" creationid="Dick" creationdate="20190516T160647Z">
+        <seg>Gebruik: &lt;l0&gt;java -jar OmegaT.jar /pad/naar/project --mode=console-translate --quiet&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -67228,6 +67268,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tarball?path=/trunk</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T160657Z" creationid="Dick" creationdate="20190516T160657Z">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tarball?path=/trunk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/docs_devel/</seg>
       </tuv>
       <tuv lang="NL">
@@ -72218,6 +72266,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T154917Z" creationid="DiGro (Dick)" creationdate="20170915T154917Z">
         <seg>svn checkout svn://svn.code.sf.net/p/omegat/svn/trunk omegat-svn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>svn://svn.code.sf.net/p/omegat/svn/trunk</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T160654Z" creationid="Dick" creationdate="20190516T160654Z">
+        <seg>svn://svn.code.sf.net/p/omegat/svn/trunk</seg>
       </tuv>
     </tu>
     <tu>
