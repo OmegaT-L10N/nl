@@ -26847,6 +26847,14 @@ het gebruiken van Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you prefer not to use OmegaT to translate files of a certain type, you can turn off the corresponding filter by deactivating the check box beside its name.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T105523Z" creationid="Dick" creationdate="20190516T105523Z">
+        <seg>Als u OmegaT niet wilt gebruiken om bestanden van een bepaald type te vertalen, kunt u het betreffende filter uitschakelen door het keuzevak naast de naam niet te selecteren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you prefer to translate from a different language into which OmegaT has already been localized, please contact the &lt;a2&gt;OmegaT webmaster&lt;/a2&gt;.)</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T161741Z" creationid="DiGro (Dick)" creationdate="20170915T161741Z">
@@ -36648,6 +36656,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T134243Z">
         <seg>OmegaT zal dan de betreffende bestanden weglaten bij het laden van projecten en zal ze ongewijzigd kopiëren bij het maken van de doeldocumenten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will then omit the corresponding files when loading projects, and will copy them unmodified to the target folder when creating target documents.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T105605Z" creationid="Dick" creationdate="20190516T105605Z">
+        <seg>OmegaT zal dan de betreffende bestanden weglaten bij het laden van projecten en zal ze ongewijzigd naar de doelmap kopiëren bij het maken van de doeldocumenten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53932,6 +53948,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T135817Z">
         <seg>Kopieer ze eenvoudigweg naar de positie van uw keuze om tags te dupliceren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To edit the files and encodings a filter is used for, select the filter in the list and click &lt;e1&gt;Edit.&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T105837Z" creationid="Dick" creationdate="20190516T105837Z">
+        <seg>Selecteer het filter uit de lijst en klik op &lt;e1&gt;Bewerken&lt;/e1&gt; om de bestanden en de coderingen waarvoor het filter wordt gebruikt te bewerken.</seg>
       </tuv>
     </tu>
     <tu>
