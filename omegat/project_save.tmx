@@ -14910,6 +14910,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check this option to display all non-unique segments (repetitions) in grey.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T115948Z" creationid="Dick" creationdate="20190516T115948Z">
+        <seg>Selecteer deze optie om alle niet-unieke segmenten (herhalingen) grijs weer te geven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check this option to record in the &lt;f0&gt;project_save.tmx&lt;/f0&gt; file the information that a segment has been auto-populated, so it can be displayed with a specific color in the Editor (if the "Mark Auto-Populated Segments" option, in the View menu, is checked).</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T133659Z">
@@ -28693,6 +28701,14 @@ sue for patent infringement).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Include the first non-unique segment when marking non-unique segments</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T115852Z" creationid="Dick" creationdate="20190516T115852Z">
+        <seg>Inclusief het eerste niet-unieke segment bij het markeren van niet-unieke segmenten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Inclusion of a covered work</seg>
       </tuv>
       <tuv lang="NL">
@@ -38616,6 +38632,30 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T095314Z">
         <seg>Percentage aangepast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Percentage calculated with &lt;g0&gt;Full text, including tags and numbers&lt;/g0&gt; option.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T115837Z" creationid="Dick" creationdate="20190516T115837Z">
+        <seg>Berekend percentage met de optie &lt;g0&gt;Volledige tekst, inclusief tags en getallen&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Percentage calculated with &lt;g0&gt;No tags and no numbers&lt;/g0&gt; option.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T115752Z" creationid="Dick" creationdate="20190516T115752Z">
+        <seg>Berekend percentage met de optie &lt;g0&gt;Geen tags en geen getallen&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Percentage calculated with &lt;g0&gt;Stemming, no tags and no numbers&lt;/g0&gt; option.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T115722Z" creationid="Dick" creationdate="20190516T115722Z">
+        <seg>Berekend percentage met de optie &lt;g0&gt;Stemming, geen tags en geen getallen&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
