@@ -3839,6 +3839,14 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--pseudotranslatetmx=&lt;p0&gt;allsegments.tmx&lt;/p0&gt; --pseudotranslatetype=&lt;p1&gt;equal|empty&lt;/p1&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T144406Z" creationid="Dick" creationdate="20190516T144406Z">
+        <seg>--pseudotranslatetmx=&lt;p0&gt;allsegments.tmx&lt;/p0&gt; --pseudotranslatetype=&lt;p1&gt;equal|empty&lt;/p1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--pseudotranslatetmx=allsegments.tmx --pseudotranslatetype=[equal|empty]</seg>
       </tuv>
       <tuv lang="NL">
@@ -5495,6 +5503,14 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T142503Z">
         <seg>&lt;e0&gt;&lt;l1&gt;--mode&lt;/l1&gt;=...-&lt;/e0&gt; &lt;a2&gt;OmegaT&lt;/a2&gt; begint in de console-modus om één van de volgende services automatisch uit te voeren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;l1&gt;--mode=&lt;p2&gt;...&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; starts in console mode to perform one of the following services automatically</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T144337Z" creationid="Dick" creationdate="20190516T144337Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;--mode&lt;/l1&gt;=&lt;p2&gt;…&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; begint in de console-modus om één van de volgende services automatisch uit te voeren</seg>
       </tuv>
     </tu>
     <tu>
@@ -29471,6 +29487,14 @@ sue for patent infringement).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this mode, OmegaT will align the Java properties files found in the &lt;f0&gt;/source/&lt;/f0&gt; folder of the project to the contents found at the specified location.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T144426Z" creationid="Dick" creationdate="20190516T144426Z">
+        <seg>In deze modus zal OmegaT het bestand met de Java-eigenschappen die zijn gevonden in de map &lt;f0&gt;/source/&lt;/f0&gt; van het project vergelijken met de inhoud op de opgegeven locatie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this mode, OmegaT will align the Java properties files found in the&lt;l0&gt; /source/ &lt;/l0&gt;folder of the project to the contents found at the specified location.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T142518Z">
@@ -29483,6 +29507,14 @@ sue for patent infringement).</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T142507Z">
         <seg>In deze modus zal OmegaT proberen om de bestanden in /source/ te vertalen met de beschikbare vertaalgeheugens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this mode, OmegaT will attempt to translate the files in &lt;f0&gt;/source/&lt;/f0&gt; with the available translation memories.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T144354Z" creationid="Dick" creationdate="20190516T144354Z">
+        <seg>In deze modus zal OmegaT proberen om de bestanden in &lt;f0&gt;/source/&lt;/f0&gt; te vertalen met de beschikbare vertaalgeheugens.</seg>
       </tuv>
     </tu>
     <tu>
