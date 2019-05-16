@@ -5435,6 +5435,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Duser.language=&lt;p2&gt;XX&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Normally, i.e. when &lt;a3&gt;OmegaT&lt;/a3&gt; is launched without any arguments, the program first detects the language of the user's operating system.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T142418Z" creationid="Dick" creationdate="20190516T142418Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Duser.language=&lt;p2&gt;XX&lt;/p2&gt;&lt;l1&gt;&lt;/e0&gt; Normaal gesproken, d.i. als &lt;a3&gt;OmegaT&lt;/a3&gt; wordt gestart zonder enig argument, detecteert het programma eerst de taal van het besturingssysteem van de gebruiker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/e0&gt;: frequently the target files must have the encoding character set different from the one in the source file (wether it is explicitly defined or implied).</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T134339Z">
@@ -25763,6 +25771,14 @@ not survive such relicensing or conveying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a user interface in this language is available, &lt;a4&gt;OmegaT&lt;/a4&gt; uses it.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T142429Z" creationid="Dick" creationdate="20190516T142429Z">
+        <seg>Als een gebruikersinterface in deze taal beschikbaar is gebruikt &lt;a4&gt;OmegaT&lt;/a4&gt; die.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If additional permissions</seg>
       </tuv>
       <tuv lang="NL">
@@ -28741,6 +28757,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dick" changedate="20190516T112632Z" creationid="Dick" creationdate="20190516T112632Z">
         <seg>Selecteer &lt;m1&gt; &lt;g2&gt;Project&lt;/g2&gt;&lt;g3&gt;eigenschappen…&lt;/g3&gt; &lt;/m1&gt; uit het hoofdmenu en selecteer het aanwezig keuzevak, of niet, om het type segmentatie te kiezen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In other platforms, you can modify &lt;f3&gt;Configuration.properties&lt;/f3&gt; file on the Mac, or &lt;f4&gt;OmegaT&lt;/f4&gt; launcher under Linux to do the same.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T142307Z" creationid="Dick" creationdate="20190516T142307Z">
+        <seg>Op andere platformen kunt u het bestand &lt;f3&gt;Configuration.properties&lt;/f3&gt; aanpassen op de Mac, of de starter voor &lt;f4&gt;OmegaT&lt;/f4&gt; onder Linux, om hetzelfde te doen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35750,6 +35774,14 @@ measures.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120402T173351Z">
         <seg>Merk op dat als u de demonstratieversie van Iceni Infix in deze procedure hebt gebruikt, uw vertaalde PDF-bestand een Iceni-watermerk heeft.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that in Windows you can change the &lt;f2&gt;OmegaT.l4J.ini&lt;/f2&gt; file to reflect your preferences.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T142239Z" creationid="Dick" creationdate="20190516T142239Z">
+        <seg>Onthoud dat u in Windows het bestand &lt;f2&gt;OmegaT.l4J.ini&lt;/f2&gt; kunt wijzigen om uw voorkeuren weer te geven.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45701,6 +45733,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T142158Z">
         <seg>Dus, als het besturingssysteem van de gebruiker Russisch is en &lt;a4&gt;OmegaT&lt;/a4&gt; is vertaald in het Russisch, wordt &lt;a5&gt;OmegaT&lt;/a5&gt; weergegeven met een Russische gebruikersinterface, Russische menu's, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So, if the user's operating system is Russian and &lt;a5&gt;OmegaT&lt;/a5&gt; has been localized in Russian, &lt;a6&gt;OmegaT&lt;/a6&gt; is displayed with a Russian user interface, Russian menus, etc.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T142449Z" creationid="Dick" creationdate="20190516T142449Z">
+        <seg>Dus, als het besturingssysteem van de gebruiker Russisch is en &lt;a5&gt;OmegaT&lt;/a5&gt; is vertaald in het Russisch, wordt &lt;a6&gt;OmegaT&lt;/a6&gt; weergegeven met een Russische gebruikersinterface, Russische menu's, etc.</seg>
       </tuv>
     </tu>
     <tu>
