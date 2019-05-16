@@ -15150,6 +15150,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click this button to access the &lt;u0&gt;TaaS&lt;/u0&gt; project site and create a user account.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T093728Z" creationid="Dick" creationdate="20190516T093728Z">
+        <seg>Klik op deze knop om naar de projectsite van &lt;u0&gt;TaaS&lt;/u0&gt; te gaan en een gebruikersaccount aan te maken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clicking &lt;g0&gt;Tools &gt; &lt;/g0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; opens the Scripting window:&lt;s2&gt; &lt;s3&gt;Scripting window&lt;/s3&gt; &lt;m4&gt; &lt;i5&gt; &lt;i6/&gt; &lt;/i5&gt; &lt;/m4&gt; &lt;/s2&gt;</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T130914Z">
@@ -59717,6 +59725,14 @@ installatie krijgen door het installatiescript te gebruiken (linux-install.sh).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can then create an access key on the page &lt;u0&gt;https://term.tilde.com/account/keys/create?system=omegaT&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T093801Z" creationid="Dick" creationdate="20190516T093801Z">
+        <seg>U kunt dan een toegangssleutel maken op de pagina &lt;u0&gt;https://term.tilde.com/account/keys/create?system=omegaT&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can then enter a new shortcut and assign it with Assign as you did before.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120401T154845Z">
@@ -64638,6 +64654,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T105246Z" creationid="Dirk" creationdate="20160911T105246Z">
         <seg>https://sourceforge.net/projects/omegatscripts/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://term.tilde.com/account/keys/create?system=omegaT</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T093731Z" creationid="Dick" creationdate="20190516T093731Z">
+        <seg>https://term.tilde.com/account/keys/create?system=omegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://term.tilde.com/taas</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T093640Z" creationid="Dick" creationdate="20190516T093640Z">
+        <seg>https://term.tilde.com/taas</seg>
       </tuv>
     </tu>
     <tu>
