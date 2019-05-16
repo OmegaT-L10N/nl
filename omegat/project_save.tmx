@@ -20696,6 +20696,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Editor...</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T163801Z" creationid="Dick" creationdate="20190516T163801Z">
+        <seg>Bewerken (gedrag)…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Either X or Y</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T170359Z">
@@ -22178,8 +22186,8 @@ propagate that work, subject to this License.</seg>
       <tuv lang="EN">
         <seg>File Filters...</seg>
       </tuv>
-      <tuv lang="NL" changeid="DiGro" changedate="20110723T131508Z">
-        <seg>Bestandsfilters...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T163538Z">
+        <seg>Bestandsfilters…</seg>
       </tuv>
     </tu>
     <tu>
@@ -39110,10 +39118,34 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opens the &lt;l0&gt;Editor&lt;/l0&gt; options in the Preferences dialog.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T163851Z" creationid="Dick" creationdate="20190516T163851Z">
+        <seg>Opent de opties voor &lt;l0&gt;venster Bewerken&lt;/l0&gt; in het dialoogvenster Voorkeuren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opens the &lt;l0&gt;File Filters&lt;/l0&gt; options in the Preferences dialog.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T163622Z" creationid="Dick" creationdate="20190516T163622Z">
+        <seg>Opent de opties voor &lt;l0&gt;Bestandsfilters&lt;/l0&gt; in het dialoogvenster Voorkeuren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opens the &lt;l0&gt;Preferences&lt;/l0&gt; dialog.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dick" changedate="20190516T162854Z" creationid="Dick" creationdate="20190516T162854Z">
         <seg>Open het dialoogvenster &lt;l0&gt;Voorkeuren&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opens the &lt;l0&gt;Segmentation Setup&lt;/l0&gt; options in the Preferences dialog.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T163747Z" creationid="Dick" creationdate="20190516T163747Z">
+        <seg>Opent de opties voor &lt;l0&gt;Segmentatie-instellingen&lt;/l0&gt; in het dialoogvenster Voorkeuren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44787,8 +44819,8 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       <tuv lang="EN">
         <seg>Segmentation...</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20160910T132709Z">
-        <seg>Segmentatie...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T163707Z">
+        <seg>Segmentatie…</seg>
       </tuv>
     </tu>
     <tu>
@@ -53820,6 +53852,14 @@ not accept this License.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120401T134912Z">
         <seg>Deze segmenten worden gemarkeerd en gescheiden door speciale tekens en MS Word-opmaakprofielen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These settings apply to OmegaT level, to all projects.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T163701Z" creationid="Dick" creationdate="20190516T163701Z">
+        <seg>Deze instellingen zijn van toepassing op het niveau van OmegaT, voor alle projecten.</seg>
       </tuv>
     </tu>
     <tu>
