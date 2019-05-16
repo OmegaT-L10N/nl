@@ -5085,8 +5085,8 @@ Bekijk "Hoofdstuk 3.</seg>
       <tuv lang="EN">
         <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; automatically detects glossary files in this folder when a project is opened.</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dick" changedate="20190516T091337Z" creationid="Dick" creationdate="20190516T091337Z">
-        <seg>[DG]&lt;a2&gt;OmegaT&lt;/a2&gt; detecteert automatisch woordenlijstbestanden in deze map als een project wordt geopend.</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T170126Z" creationid="Dick" creationdate="20190516T091337Z">
+        <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; detecteert automatisch woordenlijstbestanden in deze map als een project wordt geopend.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15140,6 +15140,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170104T175635Z" creationid="Dirk" creationdate="20170104T175635Z">
         <seg>&amp;Huidige document controleren op problemen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check Issues for Current Document</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T170114Z" creationid="Dick" creationdate="20190516T170114Z">
+        <seg>Huidige document controleren op problemen</seg>
       </tuv>
     </tu>
     <tu>
@@ -51626,8 +51634,8 @@ to take away your freedom to share and change the works.</seg>
       <tuv lang="EN">
         <seg>The location of the &lt;f0&gt;.tbx&lt;/f0&gt; file must be within the &lt;f1&gt;/glossary&lt;/f1&gt; folder, but it can be in a deeper folder (e.g., &lt;f2&gt;glossary/sub/MyGlossary.tbx&lt;/f2&gt;).</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dick" changedate="20190516T091429Z" creationid="Dick" creationdate="20190516T091429Z">
-        <seg>[DG]De locatie van het bestand &lt;f1&gt;.tbx&lt;/f1&gt; moet liggen binnen de map &lt;f2&gt;/glossary&lt;/f2&gt;, maar het mag in een diepere map staan (bijv. &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T170232Z" creationid="Dick" creationdate="20190516T091429Z">
+        <seg>De locatie van het bestand &lt;f0&gt;.tbx&lt;/f0&gt; moet liggen binnen de map &lt;f1&gt;/glossary&lt;/f1&gt;, maar het mag in een diepere map staan (bijv. &lt;f2&gt;glossary/sub/glossary.txt&lt;/f2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
