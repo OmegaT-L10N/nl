@@ -24353,6 +24353,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go To</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T162129Z" creationid="Dick" creationdate="20190516T162129Z">
+        <seg>Ga naar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go To Next Untranslated Segment stops where there is at least one alternative translation</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T133647Z">
@@ -36294,6 +36302,22 @@ measures.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120401T164344Z">
         <seg>Opmerking:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Enter&lt;/k2&gt; &lt;/k0&gt; is an alternate shortcut if &lt;l3&gt;Use TAB to Advance&lt;/l3&gt; option is not selected.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T162310Z" creationid="Dick" creationdate="20190516T162310Z">
+        <seg>Opmerking: &lt;k0&gt;Enter&lt;/k0&gt; is een alternatieve sneltoets als de optie &lt;l3&gt;TAB gebruiken om door te gaan&lt;/l3&gt; niet is geselecteerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: &lt;k0&gt;Enter&lt;/k0&gt; is an alternate shortcut if &lt;l1&gt;Use TAB to Advance&lt;/l1&gt; option is not selected.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T162239Z" creationid="Dick" creationdate="20190516T162239Z">
+        <seg>Opmerking: &lt;k0&gt;Enter&lt;/k0&gt; is een alternatieve sneltoets als de optie &lt;l1&gt;TAB gebruiken om door te gaan&lt;/l1&gt; niet is geselecteerd.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58936,6 +58960,14 @@ Opdrachten:
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T155556Z">
         <seg>Gebruik deze opdracht om de vertaling te registreren als identiek aan de bron, zelfs als "Vertaling mag gelijk zijn aan brontekst" (in Opties/Bewerken (gedrag)...) niet is geselecteerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use this command to register the translation to be identical to the source, even if &lt;l0&gt;&lt;g1&gt;Allow translation to be equal to source&lt;/g1&gt;&lt;/l0&gt; is not checked.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T162113Z" creationid="Dick" creationdate="20190516T162113Z">
+        <seg>Gebruik deze opdracht om de vertaling te registreren als identiek aan de bron, zelfs als &lt;l0&gt;&lt;g1&gt;Vertaling mag gelijk zijn aan brontekst&lt;/g1&gt;&lt;/l0&gt; niet is geselecteerd.</seg>
       </tuv>
     </tu>
     <tu>
