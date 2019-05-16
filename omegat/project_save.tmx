@@ -56158,6 +56158,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translate a PDF file</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T130624Z" creationid="Dick" creationdate="20190516T130624Z">
+        <seg>Een PDF-bestand vertalen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translate the file</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T142851Z">
