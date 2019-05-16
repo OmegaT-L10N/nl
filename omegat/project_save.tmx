@@ -13942,6 +13942,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, OmegaT does not execute the commands specified in the project-specific settings (the &lt;f0&gt;finder.xml&lt;/f0&gt; file in the &lt;f1&gt;omegat&lt;/f1&gt; folder), because they may have a critical impact on the machine's security.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T113445Z" creationid="Dick" creationdate="20190516T113445Z">
+        <seg>Standaard voert OmegaT de in de projectspecifieke instellingen gespecificeerde opdrachten niet uit (het bestand &lt;f0&gt;finder.xml&lt;/f0&gt; in de map &lt;f1&gt;omegat&lt;/f1&gt;), omdat zij een kritische impact zouden kunnen hebben op de beveiliging van de machine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, OmegaT uses automatic match propagation.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131226T125933Z" creationid="Dirk" creationdate="20131226T125933Z">
@@ -14706,6 +14714,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T124515Z">
         <seg>Controle op aantal tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check or uncheck the rules depending on whether they are relevant to the type of text you are translating.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T113231Z" creationid="Dick" creationdate="20190516T113231Z">
+        <seg>Selecteer of deselecteer de regels, afhankelijk van het feit of zij relevant zijn voor het type tekst dat u vertaalt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57403,6 +57419,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T140357Z">
         <seg>Trados Multiterm gebruiken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using a different language checker on your local machine than the one supplied with OmegaT gives you the option of personalising the verification rules.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T113132Z" creationid="Dick" creationdate="20190516T113021Z">
+        <seg>Gebruiken van een andere taalcontrole op uw lokale machine dan die welke met OmegaT is meegeleverd, geeft u de mogelijkheid om de regels voor verificatie te personaliseren.</seg>
       </tuv>
     </tu>
     <tu>
