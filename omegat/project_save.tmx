@@ -14014,6 +14014,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, the closest matches displayed in the &lt;g0&gt;Fuzzy Matches&lt;/g0&gt; pane are determined using stemming.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T114631Z" creationid="Dick" creationdate="20190516T114631Z">
+        <seg>By default, the closest matches displayed in the &lt;g0&gt;Fuzzy Matches&lt;/g0&gt; pane are determined using stemming.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, the translated file encoding is the same as the source file encoding.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T134549Z">
@@ -41037,6 +41045,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T155528Z">
         <seg>Vertaling verwijderen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove a project from this list if you want OmegaT to ask you for a login and a password every time you access the project.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T114615Z" creationid="Dick" creationdate="20190516T114615Z">
+        <seg>Verwijder een project uit deze lijst als u wilt dat OmegaT u naar een login en wachtwoord vraagt, elke keer als u toegang tot het project wilt.</seg>
       </tuv>
     </tu>
     <tu>
