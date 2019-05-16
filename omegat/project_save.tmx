@@ -40793,6 +40793,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove leading and trailing tags: uncheck this option to display all the tags, including tags at the beginning and end of the segment.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T105937Z" creationid="Dick" creationdate="20190516T105937Z">
+        <seg>Verwijder voorloop en achterliggende tags: deselecteer deze optie om alle tags weer te geven, inclusief die aan het begin en einde van het segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove leading and trailing whitespace in non-segmented projects</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20130411T172726Z">
@@ -48362,6 +48370,14 @@ instead.</seg>
         <seg>The dialog allows to enable or disable the following options:</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T134247Z">
+        <seg>Het dialoogvenster stelt u in staat de volgende opties in- of uit te schakelen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The dialog allows you to enable or disable the following options:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T105855Z" creationid="Dick" creationdate="20190516T105855Z">
         <seg>Het dialoogvenster stelt u in staat de volgende opties in- of uit te schakelen:</seg>
       </tuv>
     </tu>
