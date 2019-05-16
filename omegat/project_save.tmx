@@ -3693,6 +3693,14 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--alignDir=&lt;p0&gt;&lt;location of translated files&gt;&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T160225Z" creationid="Dick" creationdate="20190516T160225Z">
+        <seg>--alignDir=&lt;p0&gt;&lt;locatie van vertaalde bestanden&gt;&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--alignDir={location of translated files}</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T142523Z">
@@ -3897,6 +3905,14 @@ en laad het project.</seg>
       <tuv lang="NL" changeid="Dirk" changedate="20160906T151352Z" creationid="Dirk" creationdate="20160906T151320Z">
         <seg>--script=&lt;pad&gt;
 		Een scriptbestand dat moet worden uitgevoerd bij gebeurtenissen van het project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--source-pattern=&lt;p0&gt;regexp&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T160346Z" creationid="Dick" creationdate="20190516T160346Z">
+        <seg>--source-pattern=&lt;p0&gt;reguliere uitdrukking&lt;/p0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11572,6 +11588,14 @@ the above requirements apply either way.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T142600Z">
         <seg>Alle HTML-bestanden zullen worden vertaald - merk op dat de punt in het gebruikelijke *.html moet worden vooraf gegaan door een backslash (\.) zoals gespecificeerd door de regels voor reguliere uitdrukkingen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All HTML files will be translated - note that the period in the usual &lt;l0&gt;*.html&lt;/l0&gt; has to be escaped (&lt;l1&gt;\.&lt;/l1&gt;) as specified by the rules for regular expressions</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T160427Z" creationid="Dick" creationdate="20190516T160427Z">
+        <seg>Alle HTML-bestanden zullen worden vertaald - merk op dat de punt in het gebruikelijke &lt;l0&gt;*.html&lt;/l0&gt; moet worden vooraf gegaan door een backslash (&lt;l1&gt;\.&lt;/l1&gt;) zoals gespecificeerd door de regels voor reguliere uitdrukkingen</seg>
       </tuv>
     </tu>
     <tu>
@@ -23256,6 +23280,14 @@ sale, or importing the Program or any portion of it.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T142525Z">
         <seg>Als, bijvoorbeeld, het project EN-&gt;FR is, moet alignDir een bundle bevatten die eindigt op _fr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For instance, if the project is EN-to-FR, &lt;f1&gt;alignDir&lt;/f1&gt; must contain a bundle ending with &lt;l2&gt;_fr&lt;/l2&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T160302Z" creationid="Dick" creationdate="20190516T160302Z">
+        <seg>Als, bijvoorbeeld, het project EN-&gt;FR is, moet &lt;f1&gt;alignDir&lt;/f1&gt; een bundle bevatten die eindigt op &lt;l2&gt;_fr&lt;/l2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38550,6 +38582,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only the file &lt;f0&gt;test.html&lt;/f0&gt; in the folder &lt;f1&gt;dir-10&lt;/f1&gt; will be processed.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T160504Z" creationid="Dick" creationdate="20190516T160504Z">
+        <seg>Alleen het bestand &lt;f0&gt;test.html&lt;/f0&gt; in de map &lt;f1&gt;dir-10&lt;/f1&gt; zal worden verwerkt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only the file test.html at the root of the source folder will be translated.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T142605Z">
@@ -52008,6 +52048,14 @@ the User Product in which it has been modified or installed.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T142519Z">
         <seg>De resulterende TMX wordt opgeslagen in de map &lt;f1&gt;/omegat/&lt;/f1&gt; onder de naam &lt;f2&gt;align.tmx&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The resulting TMX is stored in the &lt;f3&gt;omegat&lt;/f3&gt; folder under the name &lt;f4&gt;align.tmx&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T160325Z" creationid="Dick" creationdate="20190516T160325Z">
+        <seg>De resulterende TMX wordt opgeslagen in de map &lt;f3&gt;omegat&lt;/f3&gt; onder de naam &lt;f4&gt;align.tmx&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
