@@ -12688,6 +12688,14 @@ paragraph of section 11).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Arguments are added after the initial &lt;c0&gt;java&lt;/c0&gt;, and before the &lt;l1&gt;-jar OmegaT.jar&lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T142222Z" creationid="Dick" creationdate="20190516T142222Z">
+        <seg>Argumenten worden toegevoegd ná het initiële &lt;c0&gt;"java"&lt;/c0&gt; en vóór het gedeelte &lt;l1&gt;"-jar OmegaT.jar"&lt;/l1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Arguments are added after the initial &lt;e0&gt;"java"&lt;/e0&gt;, and before the &lt;e1&gt;"-jar &lt;a2&gt;OmegaT&lt;/a2&gt;.jar"&lt;/e1&gt;.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T141958Z">
@@ -23372,6 +23380,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T141944Z">
         <seg>Om deze reden zijn de twee hierboven beschreven opdrachten opgenomen in een bestand (een "script", ook wel een ".bat-bestand" genoemd op Windows-systemen).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For this reason, the two commands described above are contained in a file (a "script", also called a "&lt;f0&gt;.bat&lt;/f0&gt; file" on Windows systems).</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T142141Z" creationid="Dick" creationdate="20190516T142141Z">
+        <seg>Om deze reden zijn de twee hierboven beschreven opdrachten opgenomen in een bestand (een "script", ook wel een "&lt;f0&gt;.bat&lt;/f0&gt;-bestand" genoemd op Windows-systemen).</seg>
       </tuv>
     </tu>
     <tu>
@@ -37934,6 +37950,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On macOS</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T141959Z" creationid="Dick" creationdate="20190516T141959Z">
+        <seg>Op macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the Developer tab, click on Record Macro.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120401T152700Z">
@@ -39434,6 +39458,14 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T141940Z">
         <seg>Let op de hoofdletters - in andere besturingssystemen dan Windows zal het programma niet starten als u &lt;e0&gt;omegat&lt;/e0&gt; invoert in plaats van &lt;e1&gt;OmegaT &lt;/e1&gt;!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pay attention to the capitalization - in OS other than Windows, the program will not start, if you enter &lt;l0&gt;omegat&lt;/l0&gt; instead of &lt;l1&gt;OmegaT&lt;/l1&gt;!</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T142120Z" creationid="Dick" creationdate="20190516T142120Z">
+        <seg>Let op de hoofdletters - in andere besturingssystemen dan Windows zal het programma niet starten als u &lt;l0&gt;omegat&lt;/l0&gt; invoert in plaats van &lt;l1&gt;OmegaT&lt;/l1&gt;!</seg>
       </tuv>
     </tu>
     <tu>
@@ -64178,6 +64210,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>cd &lt;p0&gt;&lt;OmegaT.app location&gt;&lt;/p0&gt;/OmegaT.app/Contents/Resources/Java/</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T142041Z" creationid="Dick" creationdate="20190516T142041Z">
+        <seg>cd &lt;p0&gt;&lt;locatie OmegaT.app&gt;&lt;/p0&gt;/OmegaT.App/Contents/Resources/Java/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>cd &lt;p0&gt;folder&lt;/p0&gt;</seg>
       </tuv>
       <tuv lang="NL" changeid="Dick" changedate="20190516T141901Z" creationid="Dick" creationdate="20190516T141901Z">
@@ -64214,6 +64254,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>cd C:\Program Files\&lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cd C:\Program Files\OmegaT</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T141954Z" creationid="Dick" creationdate="20190516T141954Z">
+        <seg>cd C:\Program Files\OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -73346,6 +73394,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131225T171408Z" creationid="Dirk" creationdate="20131225T171328Z">
         <seg>waar &lt;i0&gt;pad&lt;/i0&gt; de volledige padnaam is van de map waarin u preview.tcl hebt geplaatst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>where &lt;p0&gt;folder&lt;/p0&gt; is the name of the folder, with complete path, in which your &lt;a1&gt;OmegaT&lt;/a1&gt; program - specifically, the file &lt;f2&gt;OmegaT.jar&lt;/f2&gt; - is located.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T141942Z" creationid="Dick" creationdate="20190516T141942Z">
+        <seg>waar &lt;p0&gt;map&lt;/p0&gt; de naam is van de map, met het complete pad, waarin uw &lt;a1&gt;OmegaT&lt;/a1&gt;-programma - specifiek het bestand &lt;f2&gt;OmegaT.jar&lt;/f2&gt; - is geplaatst.</seg>
       </tuv>
     </tu>
     <tu>
