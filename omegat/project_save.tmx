@@ -5699,6 +5699,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Install over the existing installation.&lt;/e0&gt; To do this, simply select the same installation folder as the existing installation when installing the new version.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T134444Z" creationid="Dick" creationdate="20190516T134429Z">
+        <seg>&lt;e0&gt;Installeren over de bestaande installatie.&lt;/e0&gt; Selecteer eenvoudigweg dezelfde installatiemap als de bestaande installatie bij het installeren van de nieuw versie om dit te doen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Install to a new folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T140719Z">
@@ -53844,6 +53852,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160126T142532Z" creationid="Dirk" creationdate="20160126T135937Z">
         <seg>Dit heeft het effect van het maken van alternatieve vertalingen van alle instanties van niet-unieke segmenten (zie "Overeenkomsten één-tot-vele" hieronder).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This includes preferences set from within OmegaT, any changes you have made to your &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; file, and also your launch script (&lt;f2&gt;.bat&lt;/f2&gt; file), if you are using one.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T134537Z" creationid="Dick" creationdate="20190516T134537Z">
+        <seg>Dit omvat ook de voorkeuren die zijn ingesteld binnen OmegaT, alle wijzigingen die u hebt gemaakt aan uw bestand &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt;, en ook uw script om op te starten (&lt;f2&gt;.bat&lt;/f2&gt;-bestand), als u er een gebruikt.</seg>
       </tuv>
     </tu>
     <tu>
