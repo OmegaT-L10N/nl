@@ -16956,6 +16956,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create a local copy of the repository (&lt;c0&gt;check out&lt;/c0&gt; with SVN, &lt;c1&gt;clone&lt;/c1&gt; with Git).</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T122629Z" creationid="Dick" creationdate="20190516T122629Z">
+        <seg>Maak een lokale kopie van de opslagplaats (&lt;c0&gt;check out&lt;/c0&gt; met SVN, &lt;c1&gt;clone&lt;/c1&gt; met Git).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create a new project on ProjectLocker</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T110623Z">
@@ -16984,6 +16992,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120402T172112Z">
         <seg>Maak op de gewone manier een OmegaT-project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create an SVN or Git repository on a server that will be accessible by the translators.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T122600Z" creationid="Dick" creationdate="20190516T122600Z">
+        <seg>Maak een opslagplaats voor SVN of Git aan op een server die toegankelijk zal zijn voor de vertalers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17160,6 +17176,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160126T140433Z" creationid="Dirk" creationdate="20160126T140433Z">
         <seg>Maken van een "alternatieve vertaling" is daarom afhankelijk van identieke segmenten die verschillende voorafgaande of volgende segmenten hebben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating an empty project on a server</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T122512Z" creationid="Dick" creationdate="20190516T122512Z">
+        <seg>Maken van een leeg project op een server</seg>
       </tuv>
     </tu>
     <tu>
@@ -45863,6 +45887,14 @@ make it effectively proprietary.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160906T173147Z" creationid="Dirk" creationdate="20160906T173147Z">
         <seg>Stap 1: Parameters voor uitlijnen aanpassen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 1: Create an empty project on a server</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T122500Z" creationid="Dick" creationdate="20190516T122500Z">
+        <seg>Stap 1: Maak een leeg project op een server</seg>
       </tuv>
     </tu>
     <tu>
