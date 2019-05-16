@@ -24991,6 +24991,14 @@ this License without regard to the additional permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If both this option and the &lt;l0&gt;&lt;g1&gt;Insert the source text&lt;/g1&gt;&lt;/l0&gt; option are selected, all words with a corresponding glossary entry will be translated automatically when the source text is inserted.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T093430Z" creationid="Dick" creationdate="20190516T093430Z">
+        <seg>Als zowel deze optie als de optie &lt;l0&gt;&lt;g1&gt;Brontekst invoegen&lt;/g1&gt;&lt;/l0&gt; zijn geselecteerd, zullen alle woorden met een overeenkomend item in de woordenlijst automatisch worden vertaald als de brontekst wordt ingevoegd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If checked, non-breakable spaces will be displayed with a grey background.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T155826Z">
@@ -25947,6 +25955,14 @@ Public License instead of this License.</seg>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T142926Z" creationid="DiGro (Dick)" creationdate="20170915T142926Z">
         <seg>If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If this option is checked, the glossary will only display one entry, even if the same word exists in several forms (e.g. with and without capital letters) in the glossary.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T093631Z" creationid="Dick" creationdate="20190516T093631Z">
+        <seg>Als deze optie is geselecteerd zal de woordenlijst slechts één item weergeven, zelfs als het woord in verschillende vormen (bijv. met en zonder hoofdletters) bestaat in de woordenlijst.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27169,6 +27185,14 @@ work and works based on it.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T124610Z">
         <seg>Hoofd-/kleine letter woordenlijst negeren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ignore hits with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T093442Z" creationid="Dick" creationdate="20190516T093442Z">
+        <seg>Hits met hele andere letters negeren (bijv. FOO vs foo)</seg>
       </tuv>
     </tu>
     <tu>
