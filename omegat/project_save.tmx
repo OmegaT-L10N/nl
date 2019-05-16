@@ -4609,6 +4609,16 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/repository&gt;
+&lt;/repositories&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T124444Z" creationid="Dick" creationdate="20190516T124444Z">
+        <seg>&lt;/repository&gt;
+&lt;/repositories&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;&lt;l0&gt;Log file (&lt;b0&gt;log.txt&lt;/b0&gt;) for tracking operations and errors.&lt;segment 3167&gt;&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T135807Z">
@@ -7153,6 +7163,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;mapping local="" repository=""/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T124441Z" creationid="Dick" creationdate="20190516T124441Z">
+        <seg>&lt;mapping local="" repository=""/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T103935Z">
@@ -9206,6 +9224,14 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dick" changedate="20190516T124437Z" creationid="Dick" creationdate="20190516T124437Z">
         <seg>&lt;repositories&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;repository type="git" url="https://repo_for_OmegaT_team_project.git"&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T124440Z" creationid="Dick" creationdate="20190516T124440Z">
+        <seg>&lt;repository type="git" url="https://repo_for_OmegaT_team_project.git"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15010,6 +15036,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120708T191418Z">
         <seg>Uitchecken van het project...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Checking statistics</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T124555Z" creationid="Dick" creationdate="20190516T124555Z">
+        <seg>Statistieken controleren</seg>
       </tuv>
     </tu>
     <tu>
@@ -26285,6 +26319,14 @@ notice like this when it starts in an interactive mode:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If there are any differences, check that the &lt;f0&gt;filters.xml&lt;/f0&gt; and &lt;f1&gt;segmentation.conf&lt;/f1&gt; files are under version control.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T124803Z" creationid="Dick" creationdate="20190516T124803Z">
+        <seg>Controleer of de bestanden &lt;f0&gt;filters.xml&lt;/f0&gt; en &lt;f1&gt;segmentation.conf&lt;/f1&gt; onder versiebeheer zijn geplaatst als er verschillen zijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If there are other files named test.html in other folders, they will be ignored.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T142607Z">
@@ -27945,6 +27987,14 @@ work and works based on it.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131225T155146Z" creationid="Dirk" creationdate="20131225T155146Z">
         <seg>In zowel Firefox als Opera kan dit worden gedaan door met rechts te klikken in het vertaalde .html-bestand dat u heeft geopend, en dan Herlaad iedere &gt; selecteer de gewenste interval (bijv. 5 seconden).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In both cases, the project manager must send the translator their ID and password to access the repository.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T124544Z" creationid="Dick" creationdate="20190516T124544Z">
+        <seg>In beide gevallen moet de projectbeheerder de vertaler zijn ID en wachtwoord sturen om toegang te krijgen tot de opslagplaats.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48415,6 +48465,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T095540Z">
         <seg>Het venster Projectbestanden somt de projectbestanden op en geeft andere informatie over het project weer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Project Manager should check with the translator that the statistics are identical on both sides (server side and translator side).</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T124706Z" creationid="Dick" creationdate="20190516T124706Z">
+        <seg>De Projectbeheerder zou met de vertaler moeten controleren of de statistieken aan beide zijden identiek zijn (aan de zijde van de server en aan de zijde van de vertaler).</seg>
       </tuv>
     </tu>
     <tu>
