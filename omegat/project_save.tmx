@@ -2751,6 +2751,14 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(external search commands)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T171835Z" creationid="Dick" creationdate="20190516T171824Z">
+        <seg>(externe opdrachten voor zoeken)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(if any) on which the executable work runs, or a compiler used to</seg>
       </tuv>
       <tuv lang="NL">
@@ -26365,6 +26373,14 @@ this License without regard to the additional permissions.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T155828Z">
         <seg>Indien aangevinkt wordt witte ruimte met kleine puntjes weergegeven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If commands to perform external searches have been defined in the &lt;l0&gt;Preferences&lt;/l0&gt;, they are listed and accessible here.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T172009Z" creationid="Dick" creationdate="20190516T171827Z">
+        <seg>Als er in de &lt;l0&gt;Voorkeuren&lt;/l0&gt; opdrachten zijn gedefinieerd om externe zoekacties uit te voeren, dan zijn zij hier vermeld en zijn ze hier toegankelijk.</seg>
       </tuv>
     </tu>
     <tu>
