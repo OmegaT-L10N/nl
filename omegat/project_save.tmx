@@ -5889,6 +5889,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Start a new paragraph on&lt;/e0&gt;: the &lt;br&gt; HTML tag will constitute a paragraph break for segmentation purposes.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T110917Z" creationid="Dick" creationdate="20190516T110917Z">
+        <seg>&lt;e0&gt;Start een nieuwe alinea bij&lt;/e0&gt;: De &lt;br&gt; HTML-tag zal een alineaeinde voor segmentatiedoeleinden maken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Start a new paragraph on&lt;/e0&gt;: the &lt;br&gt; HTML tag will constitute a paragraph for segmentation purposes.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T134319Z">
@@ -47675,6 +47683,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The PO header will be skipped and left unchanged if this option is checked.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T110609Z" creationid="Dick" creationdate="20190516T110609Z">
+        <seg>De koptekst van de PO zal worden overgeslagen en niet worden gewijzigd als deze optie is geselecteerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Project Files Window displays the following information:</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T095555Z">
@@ -53092,6 +53108,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T095558Z">
         <seg>Dit aantal wordt tussen haakjes weergegeven, naast de titel "Projectbestanden"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This option allows OmegaT to override the specification in the PO file header and use the default for the selected target language.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T110629Z" creationid="Dick" creationdate="20190516T110629Z">
+        <seg>Deze optie maakt het voor OmegaT mogelijk om de specificatie in de koptekst van het PO-bestand te overschrijven en de standaard voor de geselecteerde doeltaal te gebruiken.</seg>
       </tuv>
     </tu>
     <tu>
