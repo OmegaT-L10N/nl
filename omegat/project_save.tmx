@@ -3763,6 +3763,14 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--mode=&lt;p3&gt;console-translate|console-createpseudotranslatetmx|console-align&lt;/p3&gt; \</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T143748Z" creationid="Dick" creationdate="20190516T143748Z">
+        <seg>--mode=&lt;p3&gt;console-translate|console-createpseudotranslatetmx|console-align&lt;/p3&gt; \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 		Specify a mode other than default (GUI).</seg>
       </tuv>
@@ -3881,6 +3889,14 @@ en laad het project.</seg>
       <tuv lang="NL" changeid="Dirk" changedate="20160906T151352Z" creationid="Dirk" creationdate="20160906T151320Z">
         <seg>--script=&lt;pad&gt;
 		Een scriptbestand dat moet worden uitgevoerd bij gebeurtenissen van het project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--source-pattern=&lt;p4&gt;regexp&lt;/p4&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T143812Z" creationid="Dick" creationdate="20190516T143812Z">
+        <seg>--source-pattern=&lt;p4&gt;reguliere uitdrukking&lt;p4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7295,6 +7311,14 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T165859Z">
         <seg>&lt;l0&gt;.utf8&lt;/l0&gt; bestanden worden door &lt;a1&gt;OmegaT&lt;/a1&gt; geïnterpreteerd als zijnde gecodeerd in UTF-8 (een codering die bijna alle talen in de wereld ondervangt).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;/path/to/project&lt;/l0&gt; tells &lt;a1&gt;OmegaT&lt;/a1&gt; where to find the project to translate.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T144006Z" creationid="Dick" creationdate="20190516T144006Z">
+        <seg>&lt;l0&gt;/pad/naar/project&lt;/l0&gt; vertelt &lt;a1&gt;OmegaT&lt;/a1&gt; waar het te vertalen project te vinden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35822,6 +35846,14 @@ measures.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T142455Z">
         <seg>Merk op dat alle parameters beginnen met een dubbel "-"-teken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that all parameters start with a double &lt;l0&gt;-&lt;/l0&gt; character.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T143830Z" creationid="Dick" creationdate="20190516T143830Z">
+        <seg>Merk op dat alle parameters beginnen met een dubbel teken &lt;l0&gt;-&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
