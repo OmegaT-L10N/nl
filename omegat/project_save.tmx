@@ -34406,6 +34406,22 @@ toepasselijke locatie, zoals de map Applications.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Name of the local folder or file, relative to the root of the OmegaT project.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T125615Z" creationid="Dick" creationdate="20190516T125615Z">
+        <seg>Naam van de lokale map of bestand, relatief ten opzichte van de bron van het project van OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Name of the remote folder or file, relative to the repository url.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T125717Z" creationid="Dick" creationdate="20190516T125717Z">
+        <seg>Naam van de map of schijf op afstand, relatief ten opzichte van de URL van de opslagplaats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Name the image NewImage.png</seg>
       </tuv>
       <tuv lang="NL">
@@ -41319,6 +41335,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160906T161806Z" creationid="Dirk" creationdate="20160906T161806Z">
         <seg>Opslagplaatsen op afstand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remote location of the files to translate.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T125503Z" creationid="Dick" creationdate="20190516T125503Z">
+        <seg>Locatie op afstand van de te vertalen bestanden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53116,6 +53140,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dick" changedate="20190516T122709Z" creationid="Dick" creationdate="20190516T122709Z">
         <seg>Dat kan op twee manieren worden gedaan:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This can be either http (which includes https), svn or git.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T125431Z" creationid="Dick" creationdate="20190516T125353Z">
+        <seg>Dit kan zijn: http (inclusief https), svn of git.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67550,6 +67582,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>mapping local</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T125519Z" creationid="Dick" creationdate="20190516T125519Z">
+        <seg>lokale route naar mappen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mapping repository</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T125628Z" creationid="Dick" creationdate="20190516T125628Z">
+        <seg>opslapgplaats route naar mappen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>mar</seg>
       </tuv>
       <tuv lang="NL">
@@ -69960,8 +70008,16 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>repository type</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dick" changedate="20190516T125351Z" creationid="Dick" creationdate="20190516T125351Z">
-        <seg>typer opslagplaats </seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T125357Z" creationid="Dick" creationdate="20190516T125351Z">
+        <seg>type opslagplaats </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>repository url</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T125444Z" creationid="Dick" creationdate="20190516T125444Z">
+        <seg>url voor opslagplaats</seg>
       </tuv>
     </tu>
     <tu>
