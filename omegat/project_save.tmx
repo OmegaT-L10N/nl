@@ -11868,6 +11868,14 @@ organization, or merging organizations.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An example of the use of this feature would be to send translated documents automatically to the client's FTP server.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T120457Z" creationid="Dick" creationdate="20190516T120457Z">
+        <seg>Een voorbeeld voor het gebruik van deze mogelijkheid zou zijn om automatisch vertaalde documenten te verzenden naar de FTP-server van de cliënt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An example script that achieves this function is described in the &lt;a0&gt;Priorview Howto&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131225T161511Z" creationid="Dirk" creationdate="20131225T161511Z">
@@ -13954,6 +13962,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dick" changedate="20190516T113445Z" creationid="Dick" creationdate="20190516T113445Z">
         <seg>Standaard voert OmegaT de in de projectspecifieke instellingen gespecificeerde opdrachten niet uit (het bestand &lt;f0&gt;finder.xml&lt;/f0&gt; in de map &lt;f1&gt;omegat&lt;/f1&gt;), omdat zij een kritische impact zouden kunnen hebben op de beveiliging van de machine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default, OmegaT does not execute the commands specified in the project-specific settings (the &lt;f0&gt;omegat.project&lt;/f0&gt; file), because they may have a critical impact on the machine's security.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T120552Z" creationid="Dick" creationdate="20190516T120552Z">
+        <seg>Standaard voert OmegaT de in de projectspecifieke instellingen gespecificeerde opdrachten niet uit (het bestand &lt;f0&gt;omegat.project&lt;/f0&gt;), omdat zij een kritische impact zouden kunnen hebben op de beveiliging van de machine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45363,6 +45379,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Specify commands that are executed after the &lt;g0&gt;Create Translated Documents&lt;/g0&gt; command.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T120404Z" creationid="Dick" creationdate="20190516T120404Z">
+        <seg>Opdrachten specificeren die worden uitgevoerd na de opdracht &lt;g0&gt;Vertaalde documenten maken&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Specify tag handling behaviour</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20130411T172330Z">
@@ -66864,6 +66888,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>long as you offer spare parts or customer support for that product</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>long intervals for team projects hosted on external servers.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T120301Z" creationid="Dick" creationdate="20190516T120301Z">
+        <seg>lange intervallen voor teamprojecten die worden gehost op externe servers.</seg>
       </tuv>
     </tu>
     <tu>
