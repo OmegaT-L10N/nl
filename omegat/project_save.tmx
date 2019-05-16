@@ -37492,6 +37492,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once the project is set up on the server, the project manager can invite the translator to work on it in either of two different ways:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T124109Z" creationid="Dick" creationdate="20190516T124109Z">
+        <seg>Als het project eenmaal is ingesteld op de server kan de projectbeheerder de vertaler uitnodigen om er in te gaan werken, op twee verschillende manieren:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once the team project is setup, team members only need &lt;a0&gt;OmegaT&lt;/a0&gt; to access the team project.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T110714Z">
@@ -46007,6 +46015,14 @@ make it effectively proprietary.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160906T173202Z" creationid="Dirk" creationdate="20160906T173202Z">
         <seg>Stap 2: Handmatige correcties maken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 3: Send an invitation to the translator</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T124000Z" creationid="Dick" creationdate="20190516T124000Z">
+        <seg>Stap 3: Een invitatie sturen naar de vertaler</seg>
       </tuv>
     </tu>
     <tu>
@@ -70208,6 +70224,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131226T141602Z" creationid="Dirk" creationdate="20131226T141602Z">
         <seg>selection.txt - bevat de door de gebruiker geaccentueerde tekst, indien op Ctrl-Shift-C is gedrukt of als Bewerken &gt; Selectie exporteren is geselecteerd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sending the URL of the project and asking the translator to create a local copy with &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Download Team Project&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T124226Z" creationid="Dick" creationdate="20190516T124226Z">
+        <seg>versturen van de URL van het project en de vertaler vragen een lokale kopie te maken met &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Teamproject downloaden&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
