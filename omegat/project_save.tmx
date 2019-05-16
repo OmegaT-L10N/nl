@@ -28095,6 +28095,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In KMenuEditor select &lt;e3&gt;File &gt; New Item.&lt;/e3&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T134924Z" creationid="Dick" creationdate="20190516T134924Z">
+        <seg>Selecteer in KMenuEditor &lt;e3&gt;Bestand &gt; Nieuw item.&lt;/e3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In Microsoft Word, run the following macro to apply the relevant styles to the target document(s):</seg>
       </tuv>
       <tuv lang="NL">
@@ -38702,6 +38710,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other Icons - Browse, and navigate to the &lt;f0&gt;/images&lt;/f0&gt; subfolder in the &lt;a1&gt;OmegaT&lt;/a1&gt; application folder.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T135035Z" creationid="Dick" creationdate="20190516T135035Z">
+        <seg>Andere pictogrammen - Bladeren en navigeer naar de submap &lt;f0&gt;/images&lt;/f0&gt; in de toepassingsmap van &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Other OmegaT resources</seg>
       </tuv>
       <tuv lang="NL">
@@ -42557,6 +42573,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-click on the panel - &lt;e0&gt;Add New Launcher&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T135124Z" creationid="Dick" creationdate="20190516T135124Z">
+        <seg>Klik met rechts op het paneel - &lt;e0&gt;Nieuwe starter&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-clicking on a filename opens a popup that allows to open the source file and (if it exists) the target file.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T095910Z" creationid="Dirk" creationdate="20160911T095910Z">
@@ -44405,6 +44429,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T140844Z">
         <seg>Selecteer het pictogram &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.png&lt;/e2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the &lt;f2&gt;OmegaT.png&lt;/f2&gt; icon.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T135100Z" creationid="Dick" creationdate="20190516T135100Z">
+        <seg>Selecteer het pictogram &lt;f2&gt;OmegaT.png&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56002,6 +56034,14 @@ these rights or asking you to surrender the rights.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T140822Z">
         <seg>Uitpakken van het &lt;e1&gt;.tar.gz&lt;/e1&gt; bestand:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To untar the &lt;f2&gt;.tar.gz&lt;/f2&gt; file:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T134850Z" creationid="Dick" creationdate="20190516T134850Z">
+        <seg>Uitpakken van het &lt;f2&gt;.tar.gz&lt;/f2&gt; bestand:</seg>
       </tuv>
     </tu>
     <tu>
