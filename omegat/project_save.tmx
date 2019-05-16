@@ -35534,6 +35534,14 @@ toepasselijke locatie, zoals de map Applications.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No action is taken, if no Machine Translation service has been activated (in &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Machine Translate&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T161357Z" creationid="Dick" creationdate="20190516T161357Z">
+        <seg>Geen actie wordt ondernomen indien er geen service voor machinevertaling is geactiveerd (in &lt;m0&gt; &lt;g1&gt;Opties&lt;/g1&gt; &lt;g2&gt;Machinevertaling&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No action is taken, if no Machine Translation service has been activated (see Menu &gt; Options below).</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T145843Z">
@@ -44277,6 +44285,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="NL" changeid="Dick" changedate="20190516T121536Z" creationid="Dick" creationdate="20190516T121536Z">
         <seg>Bekijk &lt;l3&gt;Voorkeuren bestandsfilters&lt;/l3&gt; voor meer over dit onderwerp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &lt;m1&gt;&lt;g2&gt;Options&lt;/g2&gt;&lt;g3&gt;Preferences...&lt;/g3&gt;&lt;g4&gt;File Filters&lt;/g4&gt;&lt;/m1&gt; for a list of file formats that OmegaT can handle.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T161228Z" creationid="Dick" creationdate="20190516T161228Z">
+        <seg>Bekijk &lt;m1&gt;&lt;g2&gt;Opties&lt;/g2&gt;&lt;g3&gt;Voorkeuren…&lt;/g3&gt;&lt;g4&gt;Bestandsfilters&lt;/g4&gt;&lt;/m1&gt; voor een lijst met bestandsindelingen die OmegaT kan behandelen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55094,6 +55110,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>Dit betekent dat de broncode van het programma OmegaT vrijelijk beschikbaar is, en dat OmegaT's licentie de gebruikers een aanmerkelijke vrijheid geeft in het gebruik er van.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This menu displays entries only when a project is open.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T161258Z" creationid="Dick" creationdate="20190516T161258Z">
+        <seg>Dit menu geeft alleen items weer als een project is geopend.</seg>
       </tuv>
     </tu>
     <tu>
