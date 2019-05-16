@@ -22280,6 +22280,14 @@ freedoms that you received.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if you enter &lt;u0&gt;\d+&lt;/u0&gt; into the &lt;g1&gt;Regular expression for custom tags&lt;/g1&gt; field, all numbers will be considered as tags, enabling you to check that numbers have not been changed by mistake during translation.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T114244Z" creationid="Dick" creationdate="20190516T114244Z">
+        <seg>Als u bijvoorbeeld &lt;u0&gt;\d+&lt;/u0&gt; invoert in het veld &lt;g1&gt;Reguliere uitdrukking voor aangepaste tags&lt;/g1&gt;, zullen alle getallen worden beschouwd als tags, wat u in staat stelt te controleren of getallen niet per ongeluk zijn gewijzigd tijdens het vertalen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if you have an outdated Microsoft Word version, that does not handle the ODT format, here's a round trip for Word files with the DOC extension:</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T135550Z">
@@ -58447,6 +58455,14 @@ any other work released this way by its authors.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When translating software-related files, you can configure the Tag Validator options to also check programming (%...) variables.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T114003Z" creationid="Dick" creationdate="20190516T114003Z">
+        <seg>Bij het vertalen van aan software gerelateerde bestanden kunt u de opties voor Tags valideren configureren om ook (%…) variabelen voor programmeren te controleren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When translating software-related files: Allows you to configure the Tag Validator options to check also programming (%...) variables.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T162402Z" creationid="Dirk" creationdate="20160910T162402Z">
@@ -59755,6 +59771,14 @@ for enforcing compliance by third parties with this License.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131227T162252Z" creationid="Dirk" creationdate="20131227T162252Z">
         <seg>U kunt de met OmegaT meegeleverde gebruikershandleiding ook oproepen zonder OmegaT zelf uit te voeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also define various options relating to tag validation and define custom tags.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T114024Z" creationid="Dick" creationdate="20190516T114024Z">
+        <seg>U kunt verscheidene opties definiëren die zijn gerelateerd aan het valideren van tags en om aangepaste tags te definiëren.</seg>
       </tuv>
     </tu>
     <tu>
