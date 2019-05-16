@@ -9964,6 +9964,14 @@ the only significant mode of use of the product.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A script bundled with OmegaT called Switch Colour Themes provides a default "Dark" theme.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T094600Z" creationid="Dick" creationdate="20190516T094600Z">
+        <seg>Een script dat is gebundeld in OmegaT, genaamd Switch Colour Themes, verschaft een standaard thema "Donker".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A search may be limited to 1000 items, so if you search on a common phrase, the editor then shows only those 1000 matching entries, and not all entries that match the search criteria.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T171930Z">
@@ -38936,6 +38944,14 @@ of er nog aanvullende stappen moeten worden uitgevoerd.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pre-defined themes can be set using scripts.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T094512Z" creationid="Dick" creationdate="20190516T094512Z">
+        <seg>Vooraf-gedefinieerde thema's kunnen worden ingesteld met scripts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preamble</seg>
       </tuv>
       <tuv lang="NL">
@@ -42699,6 +42715,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T162149Z">
         <seg>Bekijk Lettertype-instellingen in &lt;l0&gt;Diverse onderwerpen&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See font settings in Miscellanea</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T094429Z" creationid="Dick" creationdate="20190516T094429Z">
+        <seg>Bekijk Lettertype-instellingen in Diverse onderwerpen</seg>
       </tuv>
     </tu>
     <tu>
@@ -48639,6 +48663,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The filters used by the current project are displayed in bold.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T105450Z" creationid="Dick" creationdate="20190516T105450Z">
+        <seg>De door het huidige project gebruikte filters worden vet weergegeven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The first (with the cd command) is needed if your launch script is not in the same folder as OmegaT.jar.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131225T141743Z" creationid="Dirk" creationdate="20131225T141743Z">
@@ -52246,6 +52278,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This dialog lists the file filters available.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T094639Z" creationid="Dick" creationdate="20190516T094639Z">
+        <seg>Dit dialoogvenster vermeldt de beschikbare bestandsfilters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This differences do not generally lead to compatibility problems.</seg>
       </tuv>
       <tuv lang="NL">
@@ -53020,6 +53060,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T140631Z">
         <seg>Dit pakket is gebundeld met Oracle's Java Runtime Environment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This page allows you to choose different colours for each part of the user interface.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T094450Z" creationid="Dick" creationdate="20190516T094450Z">
+        <seg>Deze pagina stelt u in staat verschillende kleuren te kiezen voor elk deel van de gebruikersinterface.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56462,6 +56510,14 @@ Opdrachten:
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T155556Z">
         <seg>Gebruik deze opdracht om de vertaling te registreren als identiek aan de bron, zelfs als "Vertaling mag gelijk zijn aan brontekst" (in Opties/Bewerken (gedrag)...) niet is geselecteerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use this feature when you have undocked, moved or hidden one or more components and you are unable to restore the desired arrangement.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T094414Z" creationid="Dick" creationdate="20190516T094414Z">
+        <seg>Gebruik deze mogelijkheid in de gevallen dat u één of meer componenten heeft losgemaakt, verplaatst of verborgen en u ze niet terug kan krijgen op de manier die u wilt.</seg>
       </tuv>
     </tu>
     <tu>
