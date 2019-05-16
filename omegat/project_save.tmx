@@ -10688,6 +10688,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add patterns using wildcards (Apache Ant style): *, ?, **</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T125811Z" creationid="Dick" creationdate="20190516T125811Z">
+        <seg>Voeg patronen toe met jokertekens (stijl van Apache Ant): *, ?, **</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add terms to a glossary whilst translating in OmegaT</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T120933Z" creationid="DiGro (Dick)" creationdate="20170916T120933Z">
@@ -12542,6 +12550,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T192034Z">
         <seg>Als resultaat daarvan zullen alle instellingen op hun standaardinstelling staan, waardoor u onverwacht, maar juist, gedrag kunt ervaren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As above.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T125828Z" creationid="Dick" creationdate="20190516T125828Z">
+        <seg>Zoals boven.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20956,6 +20972,22 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T135820Z">
         <seg>Voorbeeld:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Example: &lt;u0&gt;**/*.docx&lt;/u0&gt; to add all .docx files, wherever they are located in the project.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T125914Z" creationid="Dick" creationdate="20190516T125914Z">
+        <seg>Voorbeeld: &lt;u0&gt;**/*.docx&lt;/u0&gt; om alle bestanden .docx toe te voegen, waar zij ook zijn geplaatst binnen het project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Example: &lt;u0&gt;**/.ini/**&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T125816Z" creationid="Dick" creationdate="20190516T125816Z">
+        <seg>Voorbeeld: &lt;u0&gt;**/.ini/**&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -49987,6 +50019,14 @@ parts of the General Public License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The inclusion rules take priority over the exclusion rules.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T125947Z" creationid="Dick" creationdate="20190516T125947Z">
+        <seg>De regels voor opnemen hebben prioriteit boven de regels voor uitsluiten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The individual bilingual file formats are described below.</seg>
       </tuv>
       <tuv lang="NL">
@@ -64538,6 +64578,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>excludes</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T125747Z" creationid="Dick" creationdate="20190516T125733Z">
+        <seg>uitsluiten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>excuse you from the conditions of this License.</seg>
       </tuv>
       <tuv lang="NL">
@@ -66388,6 +66436,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>includes</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T125822Z" creationid="Dick" creationdate="20190516T125822Z">
+        <seg>opnemen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>includes bash and kaptain launch scripts;</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131225T135842Z" creationid="Dirk" creationdate="20131225T135842Z">
@@ -67592,8 +67648,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>mapping repository</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dick" changedate="20190516T125628Z" creationid="Dick" creationdate="20190516T125628Z">
-        <seg>opslapgplaats route naar mappen</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T125738Z" creationid="Dick" creationdate="20190516T125628Z">
+        <seg>opslagplaats route naar mappen</seg>
       </tuv>
     </tu>
     <tu>
