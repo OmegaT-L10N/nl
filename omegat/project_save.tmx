@@ -40931,6 +40931,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace glossary hits when inserting source text</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T093153Z" creationid="Dick" creationdate="20190516T093153Z">
+        <seg>Hits in woordenlijst vervangen bij invoegen brontekst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace spaces with non-breakable spaces where appropriate in French</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T124524Z">
@@ -43219,6 +43227,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T155527Z">
         <seg>Selecteer dit menuitem als de huidige vertaling niet van toepassing is en voer de alternatieve vertaling in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select this option if you want the glossary to display words that have the same root.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T093143Z" creationid="Dick" creationdate="20190516T093035Z">
+        <seg>Selecteer deze optie als u wilt dat de woordenlijst woorden die dezelfde bron hebben weergeeft.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55512,6 +55528,14 @@ Exacte zoekacties komen overeen met de gehele zoekterm.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Uncheck this option if the glossary displays too many false positives.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T093039Z" creationid="Dick" creationdate="20190516T093018Z">
+        <seg>Deselecteer deze optie als de woordenlijst teveel valse positieven weergeeft.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Uncheck this option to prevent any damage on the tags (i.e., partial deletion) during editing.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T133650Z">
@@ -56234,10 +56258,26 @@ Opdrachten:
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use stemming for glossary entries</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T093029Z" creationid="Dick" creationdate="20190516T093029Z">
+        <seg>Stemmen voor Items voor woordenlijst gebruiken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use terms &amp;appearing separately in the source text</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T120807Z" creationid="Dirk" creationdate="20170914T120807Z">
         <seg>Termen die &amp;afzonderlijk in de brontekst verschijnen gebruiken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use terms appearing separately in the source text</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T092945Z" creationid="Dick" creationdate="20190516T092936Z">
+        <seg>Termen die afzonderlijk in de brontekst verschijnen gebruiken</seg>
       </tuv>
     </tu>
     <tu>
@@ -57715,6 +57755,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T174410Z">
         <seg>Als dat gedaan wordt zullen de vensters aan de bovenzijde een tab weergeven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When this option is checked, the glossary will display pairs or groups of words (expressions) even if the words within them appear separately in the source text.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T092939Z" creationid="Dick" creationdate="20190516T092939Z">
+        <seg>When this option is checked, the glossary will display pairs or groups of words (expressions) even if the words within them appear separately in the source text.</seg>
       </tuv>
     </tu>
     <tu>
