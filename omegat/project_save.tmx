@@ -5849,6 +5849,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Remove HTML comments in translated document&lt;/e0&gt;: commented parts (between &lt;!-- and --&gt;) will not be copied into the translated document.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T111821Z" creationid="Dick" creationdate="20190516T111821Z">
+        <seg>&lt;e0&gt;HTML-opmerkingen in vertaalde document verwijderen&lt;/e0&gt;: alle delen met opmerkingen (tussen &lt;!-- en --&gt;) zullen niet worden gekopieerd naar het vertaalde document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Replace All:&lt;/e0&gt; operates replacement of all occurrences (after displaying a confirmation window where the number of occurrences is shown).</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T170529Z">
@@ -52462,6 +52470,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This dialog enables you to specify the source filename patterns for files to be processed by the filter, customize the filenames of translated files and select which encodings should be used for loading the source file and saving the translation.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T112006Z" creationid="Dick" creationdate="20190516T112006Z">
+        <seg>Dit dialoogvenster stelt u in staat om de patronen van de bronbestandsnaam te specificeren van de bestanden die het filter zal verwerken, de bestandsnamen van vertaalde bestanden aan te passen en te selecteren welke coderingen het zal gebruiken bij het laden van het bestand en het opslaan van de vertaling.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Preferences...&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
       <tuv lang="NL" changeid="Dick" changedate="20190516T091823Z" creationid="Dick" creationdate="20190516T091823Z">
@@ -53806,6 +53822,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To add a new file filter pattern, click &lt;e1&gt;Add&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T112048Z" creationid="Dick" creationdate="20190516T112048Z">
+        <seg>Klik op &lt;e1&gt;Toevoegen&lt;/e1&gt; om een nieuw patroon voor een bestandsfilter toe te voegen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To add an automatic refresh function to Firefox, &lt;a2&gt;install the "ReloadEvery" add-on&lt;/a2&gt;.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131225T153902Z" creationid="Dirk" creationdate="20131225T153902Z">
@@ -54412,6 +54436,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T134401Z">
         <seg>Pas de velden direct aan of klik op &lt;e0&gt;Bewerken&lt;/e0&gt; om een patroon voor het bestandsfilter aan te passen. Klik op &lt;e1&gt;Toevoegen&lt;/e1&gt; om een nieuw patroon voor een bestandsfilter toe te voegen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To modify a file filter pattern, either modify the fields directly or click &lt;e0&gt;Edit&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T112032Z" creationid="Dick" creationdate="20190516T112032Z">
+        <seg>Pas de velden direct aan of klik op &lt;e0&gt;Bewerken&lt;/e0&gt; om een patroon voor het bestandsfilter aan te passen.</seg>
       </tuv>
     </tu>
     <tu>
