@@ -17990,6 +17990,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Defines the project-specific external search resources.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T121759Z" creationid="Dick" creationdate="20190516T121759Z">
+        <seg>Definieert de project-specifieke externe bronnen voor zoeken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Definitions.</seg>
       </tuv>
       <tuv lang="NL">
@@ -21104,8 +21112,8 @@ propagate that work, subject to this License.</seg>
       <tuv lang="EN">
         <seg>External Search...</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20170914T121422Z" creationid="Dirk" creationdate="20170914T121422Z">
-        <seg>Extern zoeken...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T121734Z" creationid="Dirk" creationdate="20170914T121422Z">
+        <seg>Extern zoeken…</seg>
       </tuv>
     </tu>
     <tu>
@@ -32774,6 +32782,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Manage Right-To-Left languages</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T121815Z" creationid="Dick" creationdate="20190516T121815Z">
+        <seg>Van rechts naar links talen beheren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Manfred Martin</seg>
       </tuv>
       <tuv lang="NL">
@@ -39619,6 +39635,14 @@ lokaal project zonder functionaliteit voor team.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Prevent data loss</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T121824Z" creationid="Dick" creationdate="20190516T121824Z">
+        <seg>Gegevensverlies voorkomen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preventing data loss</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T165640Z">
@@ -41855,6 +41879,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20140813T173037Z" creationid="Dirk" creationdate="20140813T173037Z">
         <seg>Lijst domein ophalen...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reuse Translation Memories</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T121829Z" creationid="Dick" creationdate="20190516T121829Z">
+        <seg>Vertaalgeheugens opnieuw gebruiken</seg>
       </tuv>
     </tu>
     <tu>
@@ -44171,6 +44203,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T172056Z">
         <seg>Stel een segment in na een punt ('.') gevolgd door een spatie, tab ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set up a Team Project</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T122021Z" creationid="Dick" creationdate="20190516T122021Z">
+        <seg>Instellen van een Teamproject</seg>
       </tuv>
     </tu>
     <tu>
@@ -49395,6 +49435,14 @@ instead.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T080453Z" creationid="DiGro (Dick)" creationdate="20180605T080453Z">
         <seg>De volgende opties zijn niet van toepassing als "Compatibiliteit met OmegaT 2.6" is geselecteerd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following recipe is just one of the possibilities, but simple enough to follow and without any dangers for the assets.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T121844Z" creationid="Dick" creationdate="20190516T121844Z">
+        <seg>Het volgende recept is slechts één van de mogelijkheden, maar eenvoudig genoeg te volgen en zonder gevaar voor de onderdelen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57683,6 +57731,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131225T171515Z" creationid="Dirk" creationdate="20131225T171515Z">
         <seg>Priorview gebruiken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using TMX with alternative language</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T121958Z" creationid="Dick" creationdate="20190516T121958Z">
+        <seg>Gebruiken van TMX met alternatieve taal</seg>
       </tuv>
     </tu>
     <tu>
@@ -70752,6 +70808,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>the Program, the only way you could satisfy both those terms and this</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the TMX files in the main project folder (see above) now contain the translations in the selected language pair, for the files, you have copied into the source folder.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T121930Z" creationid="Dick" creationdate="20190516T121930Z">
+        <seg>de TMX-bestanden in de hoofdmap van het project (zie boven) bevatten nu de vertalingen in het geselecteerde paar van talen, voor de bestanden die u naar de map source hebt gekopieerd.</seg>
       </tuv>
     </tu>
     <tu>
