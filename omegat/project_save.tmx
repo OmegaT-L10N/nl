@@ -20150,6 +20150,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enables automatic notification of &lt;a0&gt;OmegaT&lt;/a0&gt; updates.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T121224Z" creationid="Dick" creationdate="20190516T121224Z">
+        <seg>Schakelt automatisch notificeren bij updates van&lt;a0&gt;OmegaT&lt;/a0&gt; in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enables case-insensitive matching (by default, the pattern is case-sensitive).</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T170119Z">
@@ -26756,6 +26764,14 @@ by the Installation Information.</seg>
         <seg>If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa), but OmegaT will attempt to create paragraph fuzzy matches by glueing together existing sentence translations.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T165940Z">
+        <seg>Indien u gedurende de vertaling besluit om te schakelen van zin- naar alinea-vertaling, zal het interne vertaalgeheugen van het project niet worden gewijzigd (OmegaT kan oude vertaalgeheugens bijwerken die geen gebruik maakten van zin-segmentatie, maar niet andersom), maar OmegaT zal proberen fuzzy overeenkomsten voor alinea's te maken door bestaande vertalingen van zinnen samen te voegen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa), but OmegaT will attempt to create paragraph fuzzy matches by gluing together existing sentence translations.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T121337Z" creationid="Dick" creationdate="20190516T121337Z">
         <seg>Indien u gedurende de vertaling besluit om te schakelen van zin- naar alinea-vertaling, zal het interne vertaalgeheugen van het project niet worden gewijzigd (OmegaT kan oude vertaalgeheugens bijwerken die geen gebruik maakten van zin-segmentatie, maar niet andersom), maar OmegaT zal proberen fuzzy overeenkomsten voor alinea's te maken door bestaande vertalingen van zinnen samen te voegen.</seg>
       </tuv>
     </tu>
@@ -39973,6 +39989,14 @@ lokaal project zonder functionaliteit voor team.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project Properties</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T121230Z" creationid="Dick" creationdate="20190516T121230Z">
+        <seg>Projecteigenschappen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project Specific External Search</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T130849Z" creationid="Dirk" creationdate="20170914T130849Z">
@@ -43059,6 +43083,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T142919Z">
         <seg>Zie &lt;l1&gt;Bestandsfilters&lt;/l1&gt; voor een lijst van bestandsindelingen die OmegaT kan afhandelen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &lt;l1&gt;Segmentation Setup preferences&lt;/l1&gt; for more information on segmentation rules.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T121455Z" creationid="Dick" creationdate="20190516T121455Z">
+        <seg>Bekijk &lt;l1&gt;Instellen voorkeuren segmentatie&lt;/l1&gt; voor meer informatie over segmentatieregels.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52858,6 +52890,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dick" changedate="20190516T091823Z" creationid="Dick" creationdate="20190516T091823Z">
         <seg>Dit dialoogvenster is toegankelijk door te selecteren &lt;m0&gt; &lt;g1&gt;Opties&lt;/g1&gt; &lt;g2&gt;Voorkeuren…&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T121317Z" creationid="Dick" creationdate="20190516T121317Z">
+        <seg>Dit dialoogvenster is toegankelijk door te selecteren &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;eigenschappen…&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
     </tu>
     <tu>
