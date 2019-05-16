@@ -9202,6 +9202,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;repositories&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T124437Z" creationid="Dick" creationdate="20190516T124437Z">
+        <seg>&lt;repositories&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.latest.name}}&lt;/a1&gt;&lt;/s0&gt; Latest Version</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T115301Z" creationid="DiGro (Dick)" creationdate="20170916T115301Z">
@@ -50836,6 +50844,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The reference to the URL is specified as below (here to a Git repository):</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T124418Z" creationid="Dick" creationdate="20190516T124418Z">
+        <seg>De verwijzing naar de URL wordt gespecificeerd als hieronder (hier naar een opslagplaats van Git):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The regular expressions (or regex for short) used in searches and segmentation rules are those supported by Java.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T170110Z">
@@ -70224,6 +70240,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131226T141602Z" creationid="Dirk" creationdate="20131226T141602Z">
         <seg>selection.txt - bevat de door de gebruiker geaccentueerde tekst, indien op Ctrl-Shift-C is gedrukt of als Bewerken &gt; Selectie exporteren is geselecteerd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sending an &lt;f0&gt;omegat.project&lt;/f0&gt; file containing a reference to the URL and asking the translator to copy it into a dedicated folder and open it with OmegaT.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T124327Z" creationid="Dick" creationdate="20190516T124327Z">
+        <seg>versturen van een bestand &lt;f0&gt;omegat.project&lt;/f0&gt; dat een verwijzing bevat naar de URL en de vertaler te vragen die te kopiëren naar een aangewezen map en die te openen met OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
