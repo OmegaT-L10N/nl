@@ -15904,6 +15904,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;g0&gt;Edit&lt;/g0&gt; tab on the Wikipedia page.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T164256Z" creationid="Dick" creationdate="20190516T164256Z">
+        <seg>Klik op de tab &lt;g0&gt;Bewerken&lt;/g0&gt; op de pagina van Wikipedia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the dropdown arrow of the &lt;e0&gt;Search for&lt;/e0&gt; box to access the last 10 searches.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T170612Z">
@@ -17000,8 +17008,8 @@ the conditions stated below.</seg>
       <tuv lang="EN">
         <seg>Copy Files to Source Folder...</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20160910T131306Z">
-        <seg>Bestanden naar map Bronbestanden kopiëren...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T164351Z">
+        <seg>Bestanden naar map Bronbestanden kopiëren…</seg>
       </tuv>
     </tu>
     <tu>
@@ -17026,6 +17034,14 @@ the conditions stated below.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T103901Z">
         <seg>Kopieer het archief OmegaT.zip naar een toepasselijke locatie en pak het daar uit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy the URL of the page (ending with &lt;g0&gt;action=edit&lt;/g0&gt;) and paste it into &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T164342Z" creationid="Dick" creationdate="20190516T164342Z">
+        <seg>Kopieer de URL van de pagina (eindigende op &lt;g0&gt;action=edit&lt;/g0&gt;) en plak die in &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19950,8 +19966,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Download MediaWiki Page...</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20160910T131308Z">
-        <seg>Pagina van MediaWiki downloaden...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T164212Z">
+        <seg>Pagina van MediaWiki downloaden…</seg>
       </tuv>
     </tu>
     <tu>
@@ -56998,6 +57014,14 @@ these rights or asking you to surrender the rights.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To translate the contents of a Wikipedia page (for example):</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T164207Z" creationid="Dick" creationdate="20190516T164207Z">
+        <seg>Om de inhoud van een pagina van Wikipedia te vertalen (bijvoorbeeld):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To translate the file in OmegaT, proceed as follows:</seg>
       </tuv>
       <tuv lang="NL">
@@ -60791,6 +60815,14 @@ technological measures.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T173911Z">
         <seg>Wanneer u het project verlaat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you have finished your translation, to import it into Wikipedia:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T164432Z" creationid="Dick" creationdate="20190516T164432Z">
+        <seg>Wanneer u uw vertaling hebt voltooid, om die te importeren in Wikipedia:</seg>
       </tuv>
     </tu>
     <tu>
