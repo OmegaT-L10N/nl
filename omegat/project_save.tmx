@@ -14310,6 +14310,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change the name of the rule set and the language pattern to the language concerned and its code.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T112756Z" creationid="Dick" creationdate="20190516T112756Z">
+        <seg>Wijzig de naam van de regelverzameling en het taalpatroon naar die van de betrokken taal en de code daarvan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changed &amp;before:</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T190200Z">
@@ -27271,6 +27279,14 @@ material under section 10.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If your set of rules handles a language-country pair, we advise you to move it to the top using the &lt;e1&gt;Move Up&lt;/e1&gt; button.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T112809Z" creationid="Dick" creationdate="20190516T112809Z">
+        <seg>Als uw regelverzameling een taal/land-paar betreft raden wij u aan om het naar boven te verplaatsen met de knop &lt;e1&gt;Naar boven&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If your set of rules handles a language-country pair, we advise you to move it to the top using the &lt;e2&gt;Move Up&lt;/e2&gt; button.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T172044Z">
@@ -30965,8 +30981,8 @@ zelf bij de eerste keer dat het wordt uitgevoerd.</seg>
       <tuv lang="EN">
         <seg>LanguageTool plug-in</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20131226T154428Z" creationid="Dirk" creationdate="20131226T154428Z">
-        <seg>plug-in LanguageTool plug-in</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T112938Z" creationid="Dirk" creationdate="20131226T154428Z">
+        <seg>plug-in LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
@@ -36021,6 +36037,14 @@ OmegaT 4.0, Lees Mij-bestand</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T151704Z" creationid="DiGro (Dick)" creationdate="20170915T151704Z">
         <seg>OmegaT voor Mac OS X is beschikbaar in zowel ondertekende als niet ondertekende versies; functioneel zijn zij identiek, maar de voorkeur gata uit naar de ondertekende versie omdat die door het systeem wordt herkend als zijnde afkomstig van ene bekende ontwikkelaar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT has a built-in spell checker based on the &lt;l0&gt;spelling checker&lt;/l0&gt; used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T112924Z" creationid="Dick" creationdate="20190516T112924Z">
+        <seg>OmegaT heeft een ingebouwde spellingscontrole die is gebaseerd op de &lt;l0&gt;spellingscontrole&lt;/l0&gt; die wordt gebruikt in Apache OpenOffice, LibreOffice, Firefox en Thunderbird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42831,6 +42855,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See &lt;l2&gt;Regular expressions&lt;/l2&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T112842Z" creationid="Dick" creationdate="20190516T112842Z">
+        <seg>Bekijk &lt;l2&gt;Reguliere uitdrukkingen&lt;/l2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See &lt;u0&gt;Howto - Translating PDF files with Iceni Infix and OmegaT&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T132027Z" creationid="Dirk" creationdate="20170914T132027Z">
@@ -43547,6 +43579,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T173719Z">
         <seg>Selecteer de back-up van het vertaalgeheugen dat meest waarschijnlijk (bijv. de meest recente of de laatste versie van de dag ervoor) de gegevens bevat die u nodig hebt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the location of the language checker.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T113003Z" creationid="Dick" creationdate="20190516T113003Z">
+        <seg>Selecteer de locatie van de taalcontrole.</seg>
       </tuv>
     </tu>
     <tu>
