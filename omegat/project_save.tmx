@@ -7227,10 +7227,26 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt;&lt;/l0&gt; tells &lt;a2&gt;OmegaT&lt;/a2&gt; in which folder the configuration files are stored.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T144054Z" creationid="Dick" creationdate="20190516T144054Z">
+        <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/pad/naar/config-bestanden/&lt;/p1&gt;&lt;/l0&gt; vertelt &lt;a2&gt;OmegaT&lt;/a2&gt; in welke map de configuratiebestanden zijn opgeslagen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;--config-file=&lt;config-file&gt;&lt;/l0&gt; tells &lt;a1&gt;OmegaT&lt;/a1&gt; what configuration file to use.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T142502Z" creationid="Dirk" creationdate="20160910T142502Z">
         <seg>&lt;l0&gt;--config-dir=&lt;config-dir&gt;&lt;/l0&gt; vertelt &lt;a1&gt;OmegaT&lt;/a1&gt; in welke map de configuratiebestanden zijn opgeslagen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;--config-file=&lt;p1&gt;/path/to/config-file/&lt;/p1&gt;&lt;/l0&gt; tells &lt;a2&gt;OmegaT&lt;/a2&gt; what configuration file to use.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T144306Z" creationid="Dick" creationdate="20190516T144306Z">
+        <seg>&lt;l0&gt;--config-file=&lt;p1&gt;/pad/naar/config-bestand/&lt;/p1&gt;&lt;/l0&gt; vertelt &lt;a2&gt;OmegaT&lt;/a2&gt; welk configuratiebestand te gebruiken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26297,6 +26313,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If not given, &lt;a3&gt;OmegaT&lt;/a3&gt; reverts to default values (&lt;a4&gt;OmegaT&lt;/a4&gt; folder under user home or, if unavailable, the current working folder).</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T144158Z" creationid="Dick" creationdate="20190516T144158Z">
+        <seg>Indien niet opgegeven gaat &lt;a3&gt;OmegaT&lt;/a3&gt; terug naar de standaard waarden (map &lt;a4&gt;OmegaT&lt;/a4&gt; onder beginmap van de gebruiker, of indien niet beschikbaar: de huidige werkmap).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If not specified, OmegaT reverts to default values (the OmegaT folder in the user home folder, or if not available: the current working folder).</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T165523Z">
@@ -36134,6 +36158,14 @@ measures.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T142652Z">
         <seg>Onthoud dat u ook het programma ant (&lt;e0&gt;http://ant.apache.org/bindownload.cgi&lt;/e0&gt;) nodig hebt om uw eigen versie van OmegaT te bouwen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note the double &lt;l5&gt;-&lt;/l5&gt; character.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T144212Z" creationid="Dick" creationdate="20190516T144212Z">
+        <seg>Onthoud het dubbele teken &lt;l5&gt;-&lt;/l5&gt;</seg>
       </tuv>
     </tu>
     <tu>
