@@ -24187,6 +24187,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here you can redefine the master password used to protect login details and access keys for machine translation services.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T120932Z" creationid="Dick" creationdate="20190516T120932Z">
+        <seg>Hier kunt u het hoofdwachtwoord, dat wordt gebruikt om details voor inloggen en toegangssleutels voor services voor machinevertaling te beveiligen, opnieuw definiëren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here you can select different subfolders, for instance the subfolder with source files, subfolder for target files etc.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T170040Z">
@@ -25077,6 +25085,14 @@ need not be entered.)</seg>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T144706Z" creationid="DiGro (Dick)" creationdate="20170915T144706Z">
         <seg>Indien Java is geïnstalleerd op systeemniveau en in het pad voor de opdracht staat,
 hoeft niet het volledige pad te worden ingevoerd.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If OmegaT needs to use an authenticated proxy server to access the Internet, enter the details provided by the proxy administrator here.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T120741Z" creationid="Dick" creationdate="20190516T120741Z">
+        <seg>Voer hier de door de beheerder van de proxy verstrekte details in als OmegaT een geauthenticeerde proxyserver dient te gebruiken om toegang te krijgen tot het internet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42946,6 +42962,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
         <seg>Secure Store</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T125951Z" creationid="Dirk" creationdate="20170914T125951Z">
+        <seg>Veilig opslaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Secure store</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T120747Z" creationid="Dick" creationdate="20190516T120747Z">
         <seg>Veilig opslaan</seg>
       </tuv>
     </tu>
