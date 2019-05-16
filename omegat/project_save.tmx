@@ -12560,6 +12560,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As this is the standard behaviour for PO files, it is selected by default.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T110542Z" creationid="Dick" creationdate="20190516T110542Z">
+        <seg>Het staat standaard aan, omdat dit het standaard gedrag is voor PO-bestanden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As with free developments, however, the principle still applies that any changes to OmegaT must be beneficial to the application and its users.</seg>
       </tuv>
       <tuv lang="NL">
@@ -25455,6 +25463,14 @@ licenses to the work the party's predecessor in interest had or could
 give under the previous paragraph, plus a right to possession of the
 Corresponding Source of the work from the predecessor in interest, if
 the predecessor has it or can get it with reasonable efforts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If selected, when a segment in a PO file (which may be a whole paragraph) is not translated, the translation will be empty in the target file.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T110516Z" creationid="Dick" creationdate="20190516T110516Z">
+        <seg>Indien geselecteerd zal, wanneer een PO-segment (wat een gehele alinea kan zijn) niet is vertaald, de vertaling leeg zijn in het doelbestand.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43775,6 +43791,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Several filters (text files, XHTML files, HTML and XHTML files, OpenDocument files and Microsoft Open XML files) have one or more specific options.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T110331Z" creationid="Dick" creationdate="20190516T110331Z">
+        <seg>Verschillende filters (Tekstbestanden, XHTML-bestanden, HTML- en XHTML-bestanden, OpenDocument-bestanden en Microsoft Open XML-bestanden) hebben één of meer specifieke opties.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Several of the bilingual file formats can be handled by OmegaT, and not necessarily with great effort.</seg>
       </tuv>
       <tuv lang="NL">
@@ -54268,6 +54292,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T134259Z">
         <seg>Selecteer, om de opties aan te passen, het filter uit de lijst en klik op &lt;e0&gt;Opties&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To modify the options, select the filter in the list and click &lt;e0&gt;Options&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T110405Z" creationid="Dick" creationdate="20190516T110405Z">
+        <seg>Selecteer, om de opties aan te passen, het filter in de lijst en klik op &lt;e0&gt;Opties&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65030,6 +65062,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>if neither you nor any third party retains the ability to install</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>if sentence segmentation rules are active, the text will be segmented further according to the option selected here.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T110437Z" creationid="Dick" creationdate="20190516T110437Z">
+        <seg>als regels voor zinsegmentatie actief zijn, zal de tekst verder worden gesegmenteerd overeenkomstig de hier geselecteerde optie.</seg>
       </tuv>
     </tu>
     <tu>
