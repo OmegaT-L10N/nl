@@ -11368,6 +11368,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All other files will be replaced by the files in the remote repository.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T133012Z" creationid="Dick" creationdate="20190516T133012Z">
+        <seg>Alle ander bestanden zullen wordne vervangen door de bestanden in de opslagplaats op afstand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All other instances of the same segment that were previously the "default translation" will now be brought into line with this translation.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131226T131530Z" creationid="Dirk" creationdate="20131226T131530Z">
@@ -46747,6 +46755,14 @@ address new problems or concerns.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Synchronised files</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T132820Z" creationid="Dick" creationdate="20190516T132820Z">
+        <seg>Gesynchroniseerde bestanden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Synchronization error</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120708T191554Z">
@@ -50207,6 +50223,14 @@ naar het startmenu, op het bureaublad en in het gebied voor snel starten.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131225T140558Z" creationid="Dirk" creationdate="20131225T140558Z">
         <seg>Het installatiescript verschaft toegevoegd gemak, maar u kunt nog steeds OmegaT handmatig op Linux installeren als u dat wilt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The interval of 3 minutes can be changed in &lt;l0&gt;&lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Preferences&lt;/g3&gt; &lt;g4&gt;Saving and Output&lt;/g4&gt; &lt;/m1&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T132808Z" creationid="Dick" creationdate="20190516T132808Z">
+        <seg>De interval van 3 minuten kan worden gewijzigd in &lt;l0&gt;&lt;m1&gt; &lt;g2&gt;Opties&lt;/g2&gt; &lt;g3&gt;Voorkeuren&lt;/g3&gt; &lt;g4&gt;Opslaan en uitvoer&lt;/g4&gt; &lt;/m1&gt;&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59551,6 +59575,14 @@ technological measures.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T134244Z">
         <seg>Als u het filter opnieuw wilt gebruiken, selecteer dan het keuzevak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whenever the project is automatically saved, but also when it is opened, closed and reloaded, only two files are actually synchronised:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T132945Z" creationid="Dick" creationdate="20190516T132945Z">
+        <seg>Wanneer het project automatisch wordt opgeslagen, maar ook als het wordt geopend, gesloten, en opnieuw wordt geladen worden in feite maar twee bestanden gesynchroniseerd:</seg>
       </tuv>
     </tu>
     <tu>
