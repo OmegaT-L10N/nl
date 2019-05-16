@@ -19500,6 +19500,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Double click on &lt;f0&gt;OmegaT_4.n.n_Mac.zip&lt;/f0&gt; to unpack it.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T135641Z" creationid="Dick" creationdate="20190516T135641Z">
+        <seg>Dubbelklik op &lt;f0&gt;OmegaT_4.n.n_Mac.zip&lt;/f0&gt; om het uit te pakken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Double clicking the item with the OmegaT icon is sufficient to open the project.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T134716Z">
@@ -19592,6 +19600,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>Download &lt;e0&gt;OmegaT_3.n.n_Mac.zip.&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download &lt;f0&gt;OmegaT_4.n.n_Mac.zip&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T135616Z" creationid="Dick" creationdate="20190516T135616Z">
+        <seg>Download &lt;f0&gt;OmegaT_4.n.n_Mac.zip.&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29651,6 +29667,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installing &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T135627Z" creationid="Dick" creationdate="20190516T135627Z">
+        <seg>Installeren van &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing OmegaT</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T140633Z">
@@ -33196,6 +33220,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T141557Z">
         <seg>Zorg ervoor dat de instellingen van uw &lt;e3&gt;PATH&lt;/e3&gt; juist zijn en dat &lt;e4&gt;.jar&lt;/e4&gt;-bestanden juist zijn gekoppeld aan een Java-starter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make sure that your &lt;v1&gt;PATH&lt;/v1&gt; settings are correct and that &lt;f2&gt;.jar&lt;/f2&gt; files are properly associated with a Java launcher.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T135542Z" creationid="Dick" creationdate="20190516T135542Z">
+        <seg>Zorg ervoor dat de instellingen van uw &lt;v1&gt;PATH&lt;/v1&gt; juist zijn en dat &lt;f2&gt;.jar&lt;/f2&gt;-bestanden juist zijn gekoppeld aan een Java-starter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50033,6 +50065,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The folder contains 2 files: &lt;f2&gt;index.html&lt;/f2&gt; and &lt;f3&gt;OmegaT.app&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T135740Z" creationid="Dick" creationdate="20190516T135740Z">
+        <seg>De map bevat 2 bestanden: &lt;f2&gt;index.html&lt;/f2&gt; en &lt;f3&gt;OmegaT.app&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The folder contains 2 files: index.html and &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app.&lt;/e3&gt; Copy the folder to a suitable folder (e.g. Applications).</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T140916Z">
@@ -53684,6 +53724,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T140911Z">
         <seg>Dit zal een map maken die&lt;e1&gt; &lt;a2&gt;OmegaT&lt;/a2&gt; &lt;/e1&gt;heet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This creates a folder called &lt;f1&gt;OmegaT&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T135713Z" creationid="Dick" creationdate="20190516T135713Z">
+        <seg>Dit zal een map maken die &lt;f1&gt;OmegaT&lt;/f1&gt; heet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61431,6 +61479,14 @@ installatie krijgen door het installatiescript te gebruiken (linux-install.sh).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can launch OmegaT from the command line with a script that includes start-up options or you can click on &lt;f0&gt;OmegaT.jar&lt;/f0&gt; to launch it directly.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T135514Z" creationid="Dick" creationdate="20190516T135514Z">
+        <seg>U kunt OmegaT opstarten vanaf de opdrachtregel met een script dat de opties voor opstarten bevat of u kunt klikken op &lt;f0&gt;OmegaT.jar&lt;/f0&gt; om het direct op te starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can level the formatting of paragraphs essentially by copying whole paragraphs in MS Word and pasting them back over themselves such that the entire paragraph assumes the formatting of the first character.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120401T151223Z">
@@ -68042,6 +68098,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170914T161353Z" creationid="DiGro (Dick)" creationdate="20170914T161353Z">
         <seg>mALIGNa (MIT License)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>macOS Users</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T135600Z" creationid="Dick" creationdate="20190516T135545Z">
+        <seg>Gebruikers van macOS</seg>
       </tuv>
     </tu>
     <tu>
