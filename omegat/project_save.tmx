@@ -15088,6 +15088,22 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check &lt;g0&gt;History Completion&lt;/g0&gt; to display suggested words as soon as their first letters are entered.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T163420Z" creationid="Dick" creationdate="20190516T163420Z">
+        <seg>Selecteer &lt;g0&gt;Geschiedenis aanvullen inschakelen&lt;/g0&gt; om voorgestelde woorden weer te geven zodra hun eerste letters worden getypt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check &lt;g0&gt;History Prediction&lt;/g0&gt; to display suggested words that commonly follow the word that has just been entered.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T163530Z" creationid="Dick" creationdate="20190516T163530Z">
+        <seg>Selecteer &lt;g0&gt;Geschiedenis voorspellen inschakelen&lt;/g0&gt; om voorgestelde woorden weer te geven die gewoonlijk het woord volgen dat zojuist werd ingevoerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check Google Translate v2 (leaving the other options unchecked)</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120401T164341Z">
