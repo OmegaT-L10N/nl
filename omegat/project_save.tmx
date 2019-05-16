@@ -6281,6 +6281,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;g0&gt;Project&lt;/g0&gt; &lt;g1&gt;New...&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T122721Z" creationid="Dick" creationdate="20190516T122721Z">
+        <seg>&lt;g0&gt;Project&lt;/g0&gt; &lt;g1&gt;Nieuw…&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;g1&gt;Sponsorship of development has already resulted in the addition of certain features.&lt;/g1&gt; If you are willing to finance the work of implementing your desired feature, please contact the development team privately for a quotation.</seg>
       </tuv>
       <tuv lang="NL" changeid="Kos Ivantsov" changedate="20170910T185302Z" creationid="Kos Ivantsov" creationdate="20170910T185302Z">
@@ -10674,6 +10682,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120401T164213Z">
         <seg>Voeg het volgende argument toe aan de startopdracht:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add the new OmegaT project to the versioning system (&lt;c0&gt;add&lt;/c0&gt; with SVN and Git)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T122823Z" creationid="Dick" creationdate="20190516T122823Z">
+        <seg>Voeg het nieuwe project van OmegaT toe aan het versiesysteem (&lt;c0&gt;add&lt;/c0&gt; met SVN en Git)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16968,6 +16984,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T110623Z">
         <seg>Maak een nieuw project op ProjectLocker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create a new, empty OmegaT project in the local repository.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T122658Z" creationid="Dick" creationdate="20190516T122658Z">
+        <seg>Maak een nieuw, leeg project van OmegaT in de lokale opslagplaats.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35360,6 +35384,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: If the project was created with the command line in step 3, this step has already been done by the program.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T122930Z" creationid="Dick" creationdate="20190516T122930Z">
+        <seg>Opmerking: Als het project werd gemaakt met de opdrachtregel in stap 3, is deze stap al door het programma uitgevoerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: Items that are found in most applications (copy/cut/paste) are not displayed in this menu, but are available using your system shortcuts.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T145612Z">
@@ -52878,6 +52910,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This can be done in two ways:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T122709Z" creationid="Dick" creationdate="20190516T122709Z">
+        <seg>Dat kan op twee manieren worden gedaan:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This can easily be restored again in the future.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131225T143400Z" creationid="Dirk" creationdate="20131225T143400Z">
@@ -68112,6 +68152,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>on the Program.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>on the command line: &lt;c0&gt;java -jar OmegaT.jar team init [lang1] [lang2]&lt;/c0&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T122737Z" creationid="Dick" creationdate="20190516T122737Z">
+        <seg>op de opdrachtregel: &lt;c0&gt;java -jar OmegaT.jar team init [lang1] [lang2]&lt;/c0&gt;</seg>
       </tuv>
     </tu>
     <tu>
