@@ -22988,6 +22988,14 @@ sale, or importing the Program or any portion of it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance, &lt;l4&gt;MEMORY=-Xmx6g&lt;/l4&gt; will launch OmegaT with 6 GB of memory.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T140618Z" creationid="Dick" creationdate="20190516T140618Z">
+        <seg>Bijvoorbeeld:, &lt;l4&gt;MEMORY=-Xmx6g&lt;/l4&gt; zal OmegaT starten met 6 GB geheugen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instance, &lt;string&gt;-Xmx2048M&lt;/string&gt; will launch OmegaT with 2 gigas of memory.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T141341Z" creationid="Dirk" creationdate="20160910T141341Z">
@@ -55354,6 +55362,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To change the amount of memory available, edit &lt;f0&gt;OmegaT.app/Contents/MacOS/OmegaT&lt;/f0&gt; file and remove the &lt;l1&gt;#&lt;/l1&gt; before the &lt;l2&gt;MEMORY=-Xmx&lt;p3&gt;?&lt;/p3&gt;g&lt;/l2&gt; entry.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T140541Z" creationid="Dick" creationdate="20190516T140541Z">
+        <seg>Bewerk het bestand &lt;f0&gt;OmegaT.app/Contents/Info.plist&lt;/f0&gt; en verwijder de &lt;l1&gt;#&lt;/l1&gt;vóór het item &lt;l2&gt;MEMORY=-Xmx&lt;p3&gt;?&lt;/p3&gt;g&lt;/l2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To change the location of folders after a project has been created, open &lt;g0&gt;Project &gt; Properties...&lt;/g0&gt; in the menu or with &lt;g1&gt;Ctrl+E&lt;/g1&gt; and make the necessary changes.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T134713Z">
@@ -55782,6 +55798,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T141356Z">
         <seg>Als u meerdere instanties van &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt; moet uitvoeren, gebruik dan in plaats daarvan het bestand &lt;e2&gt;OmegaT.sh&lt;/e2&gt; dat zich bevind in &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app/ Contents/MacOS/&lt;/e3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To launch multiple instances of &lt;f0&gt;OmegaT.app&lt;/f0&gt;, double-click the file &lt;e1&gt;OmegaT&lt;/e1&gt; located in &lt;f2&gt;OmegaT.app/Contents/MacOS/&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T140810Z" creationid="Dick" creationdate="20190516T140810Z">
+        <seg>Als u meerdere instanties van &lt;f0&gt;OmegaT.app&lt;/f0&gt; moet uitvoeren, dubbelklik dan op het bestand &lt;e1&gt;OmegaT&lt;/e1&gt; dat zich bevindt in &lt;f2&gt;OmegaT.app/ Contents/MacOS/&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
