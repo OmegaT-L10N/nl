@@ -15576,6 +15576,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on the icon button, then hit &lt;g0&gt;Browse...&lt;/g0&gt; and navigate to the &lt;f1&gt;/images&lt;/f1&gt; subfolder in the &lt;a2&gt;OmegaT&lt;/a2&gt; application folder.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T135216Z" creationid="Dick" creationdate="20190516T135216Z">
+        <seg>Klik op de pictogramknop, en druk dan op &lt;g0&gt;Bladeren…&lt;/g0&gt; en navigeer naar de submap &lt;f1&gt;/images&lt;/f1&gt; in de toepassingsmap &lt;a2&gt;OmegaT&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on the link to activate the segment in the Editor.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T135923Z">
@@ -23612,6 +23620,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T140845Z">
         <seg>GNOME kan weigeren om de pictogrambestanden weer te geven in de beschikbare indelingen en in het begin een SVGbestand verwachten, maar als de map wordt geselecteerd, zouden de bestanden moeten verschijnen en kan &lt;a4&gt;OmegaT&lt;/a4&gt;.png worden geselecteerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>GNOME may fail to display the icon files in the available formats and initially appear to expect an SVG file, but if the folder is selected, the files should appear and &lt;f4&gt;OmegaT.png&lt;/f4&gt; can be selected.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T135438Z" creationid="Dick" creationdate="20190516T135438Z">
+        <seg>GNOME kan weigeren om de pictogrambestanden weer te geven in de beschikbare indelingen en in het begin een SVGbestand verwachten, maar als de map wordt geselecteerd, zouden de bestanden moeten verschijnen en kan &lt;f4&gt;OmegaT.png&lt;/f4&gt; worden geselecteerd.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44437,6 +44453,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="NL" changeid="Dick" changedate="20190516T135100Z" creationid="Dick" creationdate="20190516T135100Z">
         <seg>Selecteer het pictogram &lt;f2&gt;OmegaT.png&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the &lt;f3&gt;OmegaT.png&lt;/f3&gt; icon.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T135230Z" creationid="Dick" creationdate="20190516T135230Z">
+        <seg>Selecteer het pictogram &lt;f3&gt;OmegaT.png&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
