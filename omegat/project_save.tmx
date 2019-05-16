@@ -15392,6 +15392,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check the &lt;g0&gt;Use Fuzzy Matching for Dictionary Entries&lt;/g0&gt; option if you want dictionaries to display words that have the same root.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T163202Z" creationid="Dick" creationdate="20190516T163202Z">
+        <seg>Selecteer de optie &lt;g0&gt;Fuzzy overeenkomsten voor items woordenboek gebruiken&lt;/g0&gt; als u wilt dat woordenboeken woorden weergeven die dezelfde bron hebben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check the &lt;u0&gt;OmegaT home page&lt;/u0&gt; for an up-to-date listing of auxiliary translation tools.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T135559Z">
@@ -25797,6 +25805,14 @@ menu, a prominent item in the list meets this criterion.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T162139Z" creationid="Dirk" creationdate="20160910T162139Z">
         <seg>Als de optie &lt;e0&gt;Relevante suggesties automatisch weergeven&lt;/e0&gt; is geselecteerd, wordt Auto-aanvullen automatisch gestart door de eerste letter te typen van een vertaald item voor de woordenlijst, of door "&lt;" te typen in het geval van tags.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If &lt;g0&gt;Show Relevant Suggestions Automatically&lt;/g0&gt; option is checked, Auto-completer is launched automatically by typing the first letters of a translated glossary entry, or by typing "&lt;" in case of tags.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T163231Z" creationid="Dick" creationdate="20190516T163231Z">
+        <seg>Als de optie &lt;g0&gt;Relevante suggesties automatisch weergeven&lt;/g0&gt; is geselecteerd, wordt Auto-aanvullen automatisch gestart door de eerste letter te typen van een vertaald item voor de woordenlijst, of door "&lt;" te typen in het geval van tags.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44821,6 +44837,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20150413T105740Z">
         <seg>Vori&amp;ge overeenkomst selecteren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;g0&gt;Taas Terminology Lookup&lt;/g0&gt; to activate this lookup.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T163041Z" creationid="Dick" creationdate="20190516T163041Z">
+        <seg>Selecteer &lt;g0&gt;Taas Terminology Lookup&lt;/g0&gt; om dit opzoeken te activeren.</seg>
       </tuv>
     </tu>
     <tu>
