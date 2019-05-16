@@ -54712,6 +54712,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To obtain more literal matches closer to 100%, select the &lt;g0&gt;Full text, including tags and numbers&lt;/g0&gt; option.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T115121Z" creationid="Dick" creationdate="20190516T115121Z">
+        <seg>Selecteer de optie &lt;g0&gt;Full text, inclusief tags en getallen&lt;/g0&gt; optionTo obtain more literal matches closer to 100%, .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To open a new search window, use &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; in the Main window.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T095941Z">
