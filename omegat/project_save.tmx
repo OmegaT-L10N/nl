@@ -11216,6 +11216,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After the initial installation you can, of course, also use &lt;f3&gt;OmegaT.jnlp&lt;/f3&gt; also when you are offline.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T141735Z" creationid="Dick" creationdate="20190516T141735Z">
+        <seg>Na de initiële installatie kunt u natuurlijk &lt;f3&gt;OmegaT.jnlp&lt;/f3&gt; ook gebruiken als u offline bent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T142849Z">
@@ -19752,6 +19760,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T133504Z">
         <seg>Download het bestand - het zou een &lt;f0&gt;tarball&lt;/f0&gt;-archief (extensie &lt;e1&gt;tar.bz&lt;/e1&gt; of &lt;e2&gt;tar.bz2&lt;/e2&gt;) moeten zijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download the file &lt;f0&gt;OmegaT.jnlp&lt;/f0&gt; and then click on it.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T141630Z" creationid="Dick" creationdate="20190516T141630Z">
+        <seg>Download het bestand &lt;f0&gt;OmegaT.jnlp&lt;/f0&gt; en klik er dan op.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31080,6 +31096,14 @@ zelf bij de eerste keer dat het wordt uitgevoerd.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T141843Z">
         <seg>Java Web Start-technologie (onderdeel van Java 1.6 en hoger) kan worden gebruikt om met één enkele klik zelfstandige Java softwaretoepassingen uit te voeren over het netwerk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Java Web Start technology (part of Java 8 and above) can be used to deploy standalone Java software applications with a single click over the network.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T141557Z" creationid="Dick" creationdate="20190516T141557Z">
+        <seg>Java Web Start-technologie (onderdeel van Java 8 en hoger) kan worden gebruikt om met één enkele klik zelfstandige Java softwaretoepassingen uit te voeren over het netwerk.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46895,6 +46919,14 @@ makes it unnecessary.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Subsequent clicks on &lt;f1&gt;OmegaT.jnlp&lt;/f1&gt; will check for any upgrades, install them, if there are any, and then start &lt;a2&gt;OmegaT&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T141706Z" creationid="Dick" creationdate="20190516T141706Z">
+        <seg>Opvolgende klikken op &lt;f1&gt;OmegaT.jnlp&lt;/f1&gt; zal leiden tot het controleren op upgrades, ze installeren als ze er zijn, en dan &lt;a2&gt;OmegaT&lt;/a2&gt; starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Subversion</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160906T162030Z" creationid="Dirk" creationdate="20160906T162030Z">
@@ -50876,6 +50908,14 @@ to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T173644Z">
         <seg>De locaties van de verschillende vertaalgeheugens voor een bepaald project zijn door de gebruiker gedefinieerd (zie dialoogvenster Project in &lt;l0&gt;Projecteigenschappen)&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The macOS equivalent is the application Terminal located in &lt;f0&gt;Applications/Utilities&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T141827Z" creationid="Dick" creationdate="20190516T141827Z">
+        <seg>Het equivalent voor macOS is de toepassing Terminal die zich bevindt in &lt;f0&gt;Applications/Utilities&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64134,6 +64174,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131225T171331Z" creationid="Dirk" creationdate="20131225T171321Z">
         <seg>cd &lt;i0&gt;pad&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cd &lt;p0&gt;folder&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T141901Z" creationid="Dick" creationdate="20190516T141901Z">
+        <seg>cd &lt;p0&gt;map&lt;/p0&gt;</seg>
       </tuv>
     </tu>
     <tu>
