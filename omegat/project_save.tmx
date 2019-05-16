@@ -10218,6 +10218,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A team project can be opened and translated offline.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T133449Z" creationid="Dick" creationdate="20190516T133449Z">
+        <seg>Een teamproject kan offline worden geopend en vertaald.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A text file containing two lines:</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T135223Z">
@@ -11442,6 +11450,14 @@ conditions are met.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T172032Z">
         <seg>Alle segmentatieregels die zijn ingesteld voor een overeenkomend taalpatroon zijn actief en worden toegepast in de opgegeven volgorde van prioriteit, dus regels voor een specifieke taal zouden hoger moeten staan dan de standaardregels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All the changes will be synchronised the next time a connection is available.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T133535Z" creationid="Dick" creationdate="20190516T133535Z">
+        <seg>Alle wijzigingen zullen de volgende keer als een verbinding beschikbaar is worden gesynchroniseerd.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18800,6 +18816,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>Disclaimer of Warranty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Disconnect from the network before opening the project,</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T133614Z" creationid="Dick" creationdate="20190516T133614Z">
+        <seg>Verbreek de verbinding met het netwerk vóór het project te openen,</seg>
       </tuv>
     </tu>
     <tu>
@@ -40631,6 +40655,14 @@ lokaal project zonder functionaliteit voor team.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project parameters must be changed by the project manager.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T133407Z" creationid="Dick" creationdate="20190516T133407Z">
+        <seg>Parameters voor het project moeten worden gewijzigd door de projectbeheerder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project properties</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T162739Z">
@@ -55958,6 +55990,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To work offline:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T133545Z" creationid="Dick" creationdate="20190516T133545Z">
+        <seg>Offline werken:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Toggle Selected</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160906T172921Z" creationid="Dirk" creationdate="20160906T172921Z">
@@ -60217,6 +60257,14 @@ Zowel exacte als zoekacties op sleutelwoorden ondersteunen de jokertekens * en ?
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T114827Z" creationid="DiGro (Dick)" creationdate="20170916T114827Z">
         <seg>Werken met meer dan 30 bestandsindelingen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Working offline</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T133414Z" creationid="Dick" creationdate="20190516T133414Z">
+        <seg>Offline werken</seg>
       </tuv>
     </tu>
     <tu>
