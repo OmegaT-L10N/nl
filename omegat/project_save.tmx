@@ -12616,6 +12616,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As plenty of information about SVN and Git is easily available, we won't describe how they work here, but only how OmegaT works with them.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T122440Z" creationid="Dick" creationdate="20190516T122440Z">
+        <seg>We zullen, omdat veel informatie over SVN en Git eenvoudig beschikbaar is, hier niet beschrijven hoe zij werken, maar alleen hoe OmegaT werkt met hen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As stated above, OmegaT tags are LTR strings.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T135652Z">
@@ -30255,6 +30263,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It should thus be carried out by a project manager, a project leader or a localisation engineer.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T122254Z" creationid="Dick" creationdate="20190516T122254Z">
+        <seg>Het zou dus moeten worden uitgevoerd door een projectbeheerder, een projectleider of een lokalisatie-ingenieur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It shows translation of terms found in the current segment.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T095445Z">
@@ -44275,6 +44291,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131227T162643Z" creationid="Dirk" creationdate="20131227T162643Z">
         <seg>Instellen van een functie Voorbeeld om te gebruiken met OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Setting up a team project requires some knowledge of servers and the SVN or Git versioning systems.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T122137Z" creationid="Dick" creationdate="20190516T122137Z">
+        <seg>Instellen van een teamproject vereist enige kennis van servers en de versiesystemen SVN of Git.</seg>
       </tuv>
     </tu>
     <tu>
