@@ -22990,6 +22990,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>General Preferences</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T091743Z" creationid="Dick" creationdate="20190516T091743Z">
+        <seg>Algemene voorkeuren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>General comments</seg>
       </tuv>
       <tuv lang="NL">
@@ -27261,6 +27269,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In OmegaT, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt;, then click &lt;g1&gt;Choose &lt;/g1&gt; beside the Dictionary file folder field.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T091728Z" creationid="Dick" creationdate="20190516T091728Z">
+        <seg>Selecteer, in OmegaT, &lt;g0&gt;Opties &gt; Spellingscontrole&lt;/g0&gt;, en klik dan op &lt;g1&gt;Kiezen &lt;/g1&gt;naast het veld map Woordenboek-bestand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In PCW.GR (in Greek).</seg>
       </tuv>
       <tuv lang="NL">
@@ -29149,6 +29165,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T172239Z">
         <seg>Het maakt het mogelijk toegang te krijgen tot zowel publieke als private gegevens, waar private woordenlijsten ("collections" genaamd) uit bestaande documenten kunnen worden uitgenomen, en de doeltermen gedeeltelijk automatisch kunnen worden gevuld vanuit verschillende bronnen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It allows parameters to be set for all translation projects.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T091855Z" creationid="Dick" creationdate="20190516T091855Z">
+        <seg>Het maakt het mogelijk parameters in te stellen voor alle vertaalprojecten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43479,6 +43503,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sets the segment validation key to Tab instead of the default Enter.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T091944Z" creationid="Dick" creationdate="20190516T091944Z">
+        <seg>Stelt de toets voor het valideren van het segment in op Tab in plaats van de standaardtoets Enter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Setting it to &lt;e1&gt;All segments&lt;/e1&gt; shows this information for all segments and &lt;e2&gt;None&lt;/e2&gt; turns this option off.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T160242Z">
@@ -52006,6 +52038,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Preferences...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T091823Z" creationid="Dick" creationdate="20190516T091823Z">
+        <seg>Dit dialoogvenster is toegankelijk door te selecteren &lt;m0&gt; &lt;g1&gt;Opties&lt;/g1&gt; &lt;g2&gt;Voorkeuren…&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This dialog lists available file filters, where the filters used by the current project are displayed in bold.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T134240Z" creationid="Dirk" creationdate="20160910T134240Z">
@@ -56029,6 +56069,14 @@ Opdrachten:
         <seg>Use TAB To Advance</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T132400Z">
+        <seg>Tab gebruiken om door te gaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use TAB to Advance</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T091915Z" creationid="Dick" creationdate="20190516T091915Z">
         <seg>Tab gebruiken om door te gaan</seg>
       </tuv>
     </tu>
