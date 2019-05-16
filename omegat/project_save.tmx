@@ -5057,6 +5057,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;auto&gt; leaves the choice of encoding to &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T112330Z" creationid="Dick" creationdate="20190516T112330Z">
+        <seg>&lt;auto&gt; laat de keuze van de codering aan &lt;a1&gt;OmegaT&lt;/a1&gt; over.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;auto&gt; leaves the encoding choice to &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T134551Z">
@@ -22182,6 +22190,14 @@ subprograms and other parts of the work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, by default, the XHTML filter is used to process files with the .xhtml extension.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T112203Z" creationid="Dick" creationdate="20190516T112203Z">
+        <seg>Standaard zal bijvoorbeeld het XHTML-filter worden gebruikt bij het verwerken van bestanden met de extensie .xhtml.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if you agree to terms that obligate you</seg>
       </tuv>
       <tuv lang="NL">
@@ -36089,6 +36105,14 @@ OmegaT 4.0, Lees Mij-bestand</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT identifies the source file encoding by using its encoding declaration, if present (HTML files, XML based files).</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T112343Z" creationid="Dick" creationdate="20190516T112343Z">
+        <seg>OmegaT identificeert de codering van het bronbestand door de declaratie van de codering te gebruiken, indien aanwezig (HTML-bestanden, op XML gebaseerde bestanden).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT in the command line mode</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T142402Z">
@@ -44835,6 +44859,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source and Translated file encoding</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T112218Z" creationid="Dick" creationdate="20190516T112218Z">
+        <seg>Coderen van bron- en doelbestanden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source and target encoding fields use combo boxes with all supported encodings included.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T134550Z">
@@ -46537,6 +46569,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T134600Z">
         <seg>Doelbestandsnaam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target files can also be written in any encoding.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T112247Z" creationid="Dick" creationdate="20190516T112247Z">
+        <seg>Doelbestanden kunnen ook in elke codering worden weggeschreven.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48591,6 +48631,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The dialog includes a special target filename pattern editor, which you can use to customize the names of output files.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T112146Z" creationid="Dick" creationdate="20190516T112146Z">
+        <seg>Het dialoogvenster bevat een speciale bewerker voor het patroon van de doelbestandsnaam, waarmee u de namen van de te maken bestanden aan kunt passen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The dialog is useful because it includes a special target filename pattern editor with which you can customize the names of output files.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T134404Z">
@@ -50640,6 +50688,14 @@ earlier work or a work "based on" the earlier work.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T173958Z">
         <seg>De oplossing in ons voorbeeld is om het bestaande vertaalgeheugen te kopiëren naar de submap tm/tmx2source/ en het te hernoemen naar ZH_CN.tmx om de doeltaal van de tmx aan te geven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The source and target encoding fields use drop-down menus containing all the supported encodings.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T112320Z" creationid="Dick" creationdate="20190516T112320Z">
+        <seg>De velden voor bron- en doelcodering gebruiken keuzelijsten waarin alle ondersteunde coderingen zijn opgenomen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59715,6 +59771,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T174246Z">
         <seg>U kunt de positie van elk venster wijzigen of het zelfs losmaken en er een zelfstandig venster van maken door het venster te slepen aan zijn naam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can change the source encoding for each different source filename pattern.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T112230Z" creationid="Dick" creationdate="20190516T112230Z">
+        <seg>U kunt de broncodering voor elk verschillend bronbestandsnaam-patroon wijzigen.</seg>
       </tuv>
     </tu>
     <tu>
