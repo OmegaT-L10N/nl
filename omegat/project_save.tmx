@@ -7171,6 +7171,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;mapping local="" repository="En-US_DE_project"/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T130222Z" creationid="Dick" creationdate="20190516T130222Z">
+        <seg>&lt;mapping local="" repository="En-US_DE_project"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T103935Z">
@@ -9232,6 +9240,22 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dick" changedate="20190516T124440Z" creationid="Dick" creationdate="20190516T124440Z">
         <seg>&lt;repository type="git" url="https://repo_for_OmegaT_team_project.git"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_projects"&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T130218Z" creationid="Dick" creationdate="20190516T130218Z">
+        <seg>&lt;repository type="svn" url="https://opslag_voor_alle_OmegaT_teamprojecten"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;repository type="svn" url="https://repo_for_OmegaT_team_project"&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T130027Z" creationid="Dick" creationdate="20190516T130027Z">
+        <seg>&lt;repository type="svn" url="https://opslag_voor_OmegaT_teamproject"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11370,6 +11394,22 @@ conditions are met.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T172032Z">
         <seg>Alle segmentatieregels die zijn ingesteld voor een overeenkomend taalpatroon zijn actief en worden toegepast in de opgegeven volgorde van prioriteit, dus regels voor een specifieke taal zouden hoger moeten staan dan de standaardregels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All the contents of &lt;f0&gt;https://repo_for_All_OmegaT_team_projects/En-US_DE_project&lt;/f0&gt; are mapped to the local OmegaT project.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T130341Z" creationid="Dick" creationdate="20190516T130341Z">
+        <seg>Alle inhoud van &lt;f0&gt;https://opslag_voor_alle_OmegaT_teamprojecten/En-US_DE_project&lt;/f0&gt; volgt de route naar het lokale project van OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All the contents of &lt;f0&gt;https://repo_for_OmegaT_team_project&lt;/f0&gt; are mapped to the local OmegaT project</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T130149Z" creationid="Dick" creationdate="20190516T130149Z">
+        <seg>Alle inhoud van &lt;f0&gt;https://opslag_voor_OmegaT_teamproject&lt;/f0&gt; volgen de route naar het lokale project van OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -20964,6 +21004,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T124535Z">
         <seg>Voorbeeld - Zoeken en vervangen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Example mappings</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T130004Z" creationid="Dick" creationdate="20190516T130004Z">
+        <seg>Voorbeeld routes naar mappen</seg>
       </tuv>
     </tu>
     <tu>
