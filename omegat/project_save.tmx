@@ -3919,6 +3919,22 @@ en laad het project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>-Dmicrosoft.api.client_id=&lt;p0&gt;XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T143113Z" creationid="Dick" creationdate="20190516T143113Z">
+        <seg>-Dmicrosoft.api.client_id=&lt;p0&gt;XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-Dmicrosoft.api.client_secret=&lt;p0&gt;XXXX9xXxX9xXXxxXXX9xxX99xXXXX9xx9XXxXxXXXXX=&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T143121Z" creationid="Dick" creationdate="20190516T143121Z">
+        <seg>-Dmicrosoft.api.client_secret=&lt;p0&gt;XXXX9xXxX9xXXxxXXX9xxX99xXXXX9xx9XXxXxXXXXX=&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>-Dmymemory.api.email=your@email-address.com</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T144254Z" creationid="Dirk" creationdate="20160910T144254Z">
@@ -3931,6 +3947,14 @@ en laad het project.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>-Dsun.java2d.noddraw=false</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-Dyandex.api.key=&lt;p0&gt;trnsl.1.1.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T143128Z" creationid="Dick" creationdate="20190516T143128Z">
+        <seg>-Dyandex.api.key=&lt;p0&gt;trnsl.1.1.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&lt;/p0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -51782,6 +51806,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The relevant files are &lt;f2&gt;filters.conf&lt;/f2&gt; and &lt;f3&gt;segmentation.conf&lt;/f3&gt; and can be found in the user home folder (e.g. &lt;f4&gt;C:\Documents and Settings\&lt;p5&gt;user&lt;/p5&gt;\OmegaT&lt;/f4&gt; under Windows, &lt;f6&gt;~/.omegat/&lt;/f6&gt; under Linux).</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T143251Z" creationid="Dick" creationdate="20190516T143251Z">
+        <seg>De relevante bestanden zijn &lt;f2&gt;filters.conf&lt;/f2&gt; en &lt;f3&gt;segmentation.conf&lt;/f3&gt; en kunnen worden gevonden in de startmap van de gebruiker (bijv. &lt;f4&gt;C:\Documents and Settings\%User%\&lt;p5&gt;OmegaT&lt;/p5&gt;&lt;/f4&gt; onder Windows, &lt;f6&gt;%user%/.omegat/&lt;/f6&gt; onder Linux).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The relevant files are &lt;l2&gt;filters.conf&lt;/l2&gt; and &lt;l3&gt;segmentation.conf&lt;/l3&gt; and can be found in the user home folder (e.g. &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt; under Windows, &lt;l6&gt;%user%/.omegat/&lt;/l6&gt; under Linux)</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T142446Z">
@@ -67818,6 +67850,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>java -Dswing.aatext=true -Duser.language=pt -Duser.country=BR -Xmx1024M &lt;a0&gt;-Dhttp.proxyHost=192.168.1.1 -Dhttp.proxyport&lt;e1&gt;=&lt;/e1&gt;3128 -jar -OmegaT&lt;/a0&gt;.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -Dswing.aatext=true -Duser.language=pt -Duser.country=BR -Xmx2048M -Dhttp.proxyHost=192.168.1.1 -Dhttp.proxyport=3128 -jar -OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T143150Z" creationid="Dick" creationdate="20190516T143150Z">
+        <seg>java -Dswing.aatext=true -Duser.language=pt -Duser.country=BR -Xmx2048M -Dhttp.proxyHost=192.168.1.1 -Dhttp.proxyport=3128 -jar -OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
