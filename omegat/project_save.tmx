@@ -5443,6 +5443,30 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dgoogle.api.key=&lt;p2&gt;A123456789B123456789C123456789D12345678&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; If you have signed up for the Google Translate services, enter your private Google API key here.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T143056Z" creationid="Dick" creationdate="20190516T143056Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dgoogle.api.key=&lt;p2&gt;A123456789B123456789C123456789D12345678&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt;  Indien u bent geabonneerd op de services van Google Translate, dient u hier uw eigen private Google API-sleutel in te voeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyHost=&lt;p2&gt;nnn.nnn.nnn.nnn&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; The IP address of your proxy server, if your system uses a proxy.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T143009Z" creationid="Dick" creationdate="20190516T143009Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyHost=&lt;p2&gt;nnn.nnn.nnn.nnn&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Het IP-adres van uw proxyserver, als uw systeem een proxy gebruikt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyPort=&lt;p2&gt;NNNN&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; The port number your system uses to access the proxy server.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T143029Z" creationid="Dick" creationdate="20190516T143029Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyPort=&lt;p2&gt;NNNN&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Het poortnummer dat uw systeem gebruikt om toegang te krijgen tot de proxyserver.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;&lt;l1&gt;-Duser.language=&lt;p2&gt;XX&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Normally, i.e. when &lt;a3&gt;OmegaT&lt;/a3&gt; is launched without any arguments, the program first detects the language of the user's operating system.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dick" changedate="20190516T142418Z" creationid="Dick" creationdate="20190516T142418Z">
@@ -9336,6 +9360,14 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dick" changedate="20190516T142548Z" creationid="Dick" creationdate="20190516T142548Z">
         <seg>&lt;p3&gt;XX&lt;/p3&gt; in de opdracht staat voor de code van twee letters van de gewenste taal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p4&gt;??&lt;/p4&gt; stands for the amount of memory assigned, in megabytes.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T142826Z" creationid="Dick" creationdate="20190516T142826Z">
+        <seg>&lt;p4&gt;??&lt;/p4&gt; staat voor de toegewezen geheugenruimte in megabytes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14260,6 +14292,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T111251Z" creationid="Dirk" creationdate="20160910T133824Z">
         <seg>Standaard geeft het venster Bewerken 2.000 initiële segmenten weer, en laadt progressief meer als u naar boven of beneden scrollt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default, 1024 MB are assigned, so there is no advantage in assigning less than this figure.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T142759Z" creationid="Dick" creationdate="20190516T142759Z">
+        <seg>Standaard wordt 1024 Mb toegewezen, dus er is geen voordeel te behalen door minder dan dit getal toe te wijzen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49735,6 +49775,14 @@ Probeer alstublieft de fout te corrigeren en herlaad het project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The command to launch &lt;a5&gt;OmegaT&lt;/a5&gt; with assignment of 2048 MB (2 GB) of memory is therefore:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T142851Z" creationid="Dick" creationdate="20190516T142851Z">
+        <seg>De opdracht om &lt;a5&gt;OmegaT&lt;/a5&gt; te starten met toewijzing van 2048 Mb (2 GB) aan geheugen luidt dan ook:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The command to launch OmegaT is:</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T103932Z">
@@ -67794,6 +67842,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>java -Xmx1024M -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -Xmx2048M -jar OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T142859Z" creationid="Dick" creationdate="20190516T142859Z">
+        <seg>java -Xmx2048M -jar OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
