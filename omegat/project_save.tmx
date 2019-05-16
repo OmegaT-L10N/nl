@@ -14294,6 +14294,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change the default interval (3 minutes) depending on the characteristics of the project:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T120148Z" creationid="Dick" creationdate="20190516T120148Z">
+        <seg>De standaard interval (3 minuten) wijzigen, afhankelijk van de karakteristieken van het project:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Change the encoding of your files to Unicode</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T165829Z">
@@ -58511,6 +58519,14 @@ any other work released this way by its authors.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When the option is unchecked, all non-unique segments are shown in grey except the first occurrence.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T120101Z" creationid="Dick" creationdate="20190516T120101Z">
+        <seg>Als deze optie niet is geselecteerd zullen alle niet-unieke segmenten grijs worden weergegeven, behalve het eerste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When the translated document is created, its display direction will be the same as that of the original document.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T135702Z">
@@ -69808,6 +69824,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>share and change all versions of a program--to make sure it remains free</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>short intervals (minimum: 10 seconds) for synchronised projects on an internal server.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T120223Z" creationid="Dick" creationdate="20190516T120223Z">
+        <seg>korte intervallen (minimum: 10 seconden) voor gesynchroniseerde projecten op een interne server.</seg>
       </tuv>
     </tu>
     <tu>
