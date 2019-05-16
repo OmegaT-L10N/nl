@@ -4985,6 +4985,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; automatically detects glossary files in this folder when a project is opened.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T091337Z" creationid="Dick" creationdate="20190516T091337Z">
+        <seg>[DG]&lt;a2&gt;OmegaT&lt;/a2&gt; detecteert automatisch woordenlijstbestanden in deze map als een project wordt geopend.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; can detect and upgrade such tmx files on the fly to increase fuzzy matching quality and leverage your existing translation better, saving you the work of doing this manually.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T174132Z">
@@ -9278,6 +9286,14 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T140327Z">
         <seg>&lt;u0&gt;Microsoft Terminology Collection&lt;/u0&gt; &lt;i1/&gt;kan worden gedownload in bijna 100 talen en kan dienen als hoeksteen IT-woordenlijst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;u0&gt;Microsoft Terminology Collection&lt;/u0&gt; can be downloaded in nearly 100 languages and can serve as a cornerstone IT glossary.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T091444Z" creationid="Dick" creationdate="20190516T091444Z">
+        <seg>&lt;u0&gt;Microsoft Terminology Collection&lt;/u0&gt; kan worden gedownload in bijna 100 talen en kan dienen als hoeksteen IT-woordenlijst.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27305,6 +27321,14 @@ work and works based on it.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T140319Z">
         <seg>In aanvulling op het platte tekst-formaat, wordt TBX-formaat &lt;i0/&gt; ook ondersteund al een alleen-lezen indeling voor woordenlijsten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition to the plain text format, TBX format is also supported as a read-only glossary format.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T091428Z" creationid="Dick" creationdate="20190516T091428Z">
+        <seg>In aanvulling op het platte tekst-formaat, wordt TBX-formaat ook ondersteund als een alleen-lezen indeling voor woordenlijsten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46369,6 +46393,14 @@ this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Terms in the current segment which &lt;a2&gt;OmegaT&lt;/a2&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T091401Z" creationid="Dick" creationdate="20190516T091401Z">
+        <seg>Termen in het huidige segment die &lt;a2&gt;OmegaT&lt;/a2&gt; vindt in het/de woordenlijstbestand(en) worden weergegeven in het venster Woordenlijst:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Terms in the current segment which &lt;a3&gt;OmegaT&lt;/a3&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T140004Z">
@@ -49042,6 +49074,14 @@ to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T165451Z">
         <seg>De locatie maakt niet uit omdat het bij de start toch al moet worden ingevuld in de opdrachtregel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The location of the &lt;f0&gt;.tbx&lt;/f0&gt; file must be within the &lt;f1&gt;/glossary&lt;/f1&gt; folder, but it can be in a deeper folder (e.g., &lt;f2&gt;glossary/sub/MyGlossary.tbx&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T091429Z" creationid="Dick" creationdate="20190516T091429Z">
+        <seg>[DG]De locatie van het bestand &lt;f1&gt;.tbx&lt;/f1&gt; moet liggen binnen de map &lt;f2&gt;/glossary&lt;/f2&gt;, maar het mag in een diepere map staan (bijv. &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -59019,6 +59059,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T134525Z" creationid="Dirk" creationdate="20160910T134525Z">
         <seg>U kunt patronen voor bestandsnamen toevoegen of wijzigen voor bestanden die door elk filter worden afgehandeld.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your &lt;a0&gt;OmegaT&lt;/a0&gt; preferences folder (accessible by &lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Access Configuration Folder&lt;/g3&gt; &lt;/m1&gt; menu).</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T091641Z" creationid="Dick" creationdate="20190516T091641Z">
+        <seg>U kunt de reeds toegewezen sneltoetsen wijzigen en nieuwe sneltoetsen toevoegen door een bestand met definities voor de sneltoetsen in uw map voor voorkeuren voor &lt;a0&gt;OmegaT&lt;/a0&gt; te plaatsen (toegankelijk via het menu &lt;m1&gt; &lt;g2&gt;Opties&lt;/g2&gt; &lt;g3&gt;Toegang tot configuratiemap&lt;/g3&gt; &lt;/m1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
