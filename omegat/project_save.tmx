@@ -12970,6 +12970,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As above, but only for the document currently displayed in the Editor pane.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T170805Z" creationid="Dick" creationdate="20190516T170805Z">
+        <seg>Als boven, maar alleen voor het document dat momenteel wordt weergegeven in het venster Bewerken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As above.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dick" changedate="20190516T125828Z" creationid="Dick" creationdate="20190516T125828Z">
@@ -19492,10 +19500,26 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the Match Statistics for each file of the project: the number of repetitions, exact matches, fuzzy matches and no-matches for segments, words and characters.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T170832Z" creationid="Dick" creationdate="20190516T170832Z">
+        <seg>Geeft de Statistieken voor overeenkomsten weer voor elk bestand van het project: het aantal herhalingen, exacte overeenkomsten, overeenkomsten en geen overeenkomsten, voor segmenten, woorden en tekens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays the Match Statistics for each file of the project: the number of repetitions, exact matches, fuzzy matches and no-matches, for segments, words and in characters.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T160329Z">
         <seg>Geeft de Statistieken voor overeenkomsten weer voor elk bestand van het project: het aantal herhalingen, exacte overeenkomsten, overeenkomsten en geen overeenkomsten, voor segmenten, woorden en in tekens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displays the Match Statistics for the project: the number of repetitions, exact matches, fuzzy matches and no-matches for segments, words and characters.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T170821Z" creationid="Dick" creationdate="20190516T170821Z">
+        <seg>Geeft de Statistieken voor overeenkomsten weer voor het project: het aantal herhalingen, exacte overeenkomsten, overeenkomsten en geen overeenkomsten, voor segmenten, woorden en tekens.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32457,8 +32481,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Later, after you have accepted the license agreement, the setup program asks you whether you wish to create a folder in the &lt;e1&gt;Start&lt;/e1&gt; menu, and whether you wish to create a shortcut on the desktop and in the quick launch bar - you can create these shortcuts later by dragging &lt;f2&gt;OmegaT.exe&lt;/f2&gt; to the desktop or to the Start menu to link it from there.</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dick" changedate="20190516T133933Z" creationid="Dick" creationdate="20190516T133933Z">
-        <seg>Later, nadat u de licentieovereenkomst hebt geaccepteerd, zal het programma u vragen of u een map in het menu &lt;e1&gt;Start&lt;/e1&gt; wilt maken en of u een snelkoppeling op het bureaublad en in het systeemvak wilt maken - u kunt deze snelkoppelingen later maken door &lt;f2&gt;OmegaT.exe&lt;/f2&gt; naar het bureaublad of het menu Start te slepen om het van daaruit te koppelen.</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T170646Z" creationid="Dick" creationdate="20190516T133933Z">
+        <seg>Later, nadat u de licentieovereenkomst hebt geaccepteerd, zal het installatieprogramma u vragen of u een map in het menu &lt;e1&gt;Start&lt;/e1&gt; wilt maken en of u een snelkoppeling op het bureaublad en in het systeemvak wilt maken - u kunt deze snelkoppelingen later maken door &lt;f2&gt;OmegaT.exe&lt;/f2&gt; naar het bureaublad of het menu Start te slepen om het van daaruit te koppelen.</seg>
       </tuv>
     </tu>
     <tu>
