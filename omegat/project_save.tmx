@@ -12880,6 +12880,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatically fetch translations</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T092025Z" creationid="Dick" creationdate="20190516T092025Z">
+        <seg>Automatisch vertalingen ophalen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automating modifications of the translated document file names by replacing translatable contents with its translation.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T134122Z">
@@ -21900,6 +21908,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For confidentiality reasons, you may want to not send all the segments to the Machine Translation engine.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T092041Z" creationid="Dick" creationdate="20190516T092041Z">
+        <seg>U zou misschien, om redenen van vetrouwelijheid, niet alle segmenten naar het gereedschap Machinevertaling willen versturen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For confidentiality reasons, you may want to not send all the segments to the Machine Translation tool.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T160450Z" creationid="Dirk" creationdate="20160910T160450Z">
@@ -26795,6 +26811,14 @@ het gebruiken van Java Web Start.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T165457Z">
         <seg>Indien u &lt;a1&gt;OmegaT&lt;/a1&gt; in console-modus start, zal het de instellingen gebruiken die u hebt geconfigureerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you uncheck this option, machine translations will be fetched only when you press &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; on OS X) in the current segment.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T092218Z" creationid="Dick" creationdate="20190516T092218Z">
+        <seg>Als u deze optie uitschakelt zullen machinevertalingen alleen worden opgehaald als u drukt op &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; op OS X) in het huidige segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49692,6 +49716,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The program will seek confirmation before closing down.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T092017Z" creationid="Dick" creationdate="20190516T092001Z">
+        <seg>Het programma zal u altijd om bevestiging vragen om af te sluiten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The project and TMX source languages should of course be identical - NL in our example.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T174003Z">
@@ -60073,6 +60105,14 @@ or can get the source code.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120401T160346Z">
         <seg>U moet nog steeds de tags juist afhandelen bij het produceren en bewerken van uw vertaling, maar u kunt het bekijken in een afzonderlijk venster zonder de wirwar van tags ("tagssoep").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You must then press &lt;k6&gt; &lt;k7&gt;Ctrl&lt;/k7&gt; &lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt; again to insert the suggestion.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T092343Z" creationid="Dick" creationdate="20190516T092343Z">
+        <seg>Daarna moet u nogmaals op &lt;k6&gt; &lt;k7&gt;Ctrl&lt;/k7&gt; &lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt; drukken om de suggestie in te voeren.</seg>
       </tuv>
     </tu>
     <tu>
