@@ -6515,6 +6515,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;g0&gt;LanguageTool Issues&lt;/g0&gt; (optional).</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T165712Z" creationid="Dick" creationdate="20190516T165712Z">
+        <seg>&lt;g0&gt;Problemen voor LanguageTool&lt;/g0&gt; (optioneel).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;g0&gt;Project&lt;/g0&gt; &lt;g1&gt;New...&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="NL" changeid="Dick" changedate="20190516T122721Z" creationid="Dick" creationdate="20190516T122721Z">
@@ -52526,6 +52534,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The results window is laid out in the form of a table in which:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T165740Z" creationid="Dick" creationdate="20190516T165740Z">
+        <seg>Het venster met de resultaten is opgemaakt in de vorm van een tabel waarin:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The rule-based segmentation is usually synonymous with sentence-based segmentation.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T125037Z">
@@ -65298,6 +65314,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>clicking a column header changes the sort order for the column,</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T165857Z" creationid="Dick" creationdate="20190516T165857Z">
+        <seg>klikken op een kolomkop de sorteervolgorde voor de kolom wijzigt,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>close the project</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T165700Z">
@@ -65934,6 +65958,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T103913Z">
         <seg>dubbelklik dan op die snelkoppeling.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>double-clicking a row activates the corresponding segment in the Editor pane,</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T165832Z" creationid="Dick" creationdate="20190516T165832Z">
+        <seg>dubbelklikken op een rij het overeenkomende segment in het venster Bewerken activeert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72298,6 +72330,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T165704Z">
         <seg>selecteer de back-up van het vertaalgeheugen dat meest waarschijnlijk de gegevens bevat die u nodig hebt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>selecting or moving the mouse over a row displays a pop-up menu icon in the last column containing actions for correcting or ignoring the error.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T170019Z" creationid="Dick" creationdate="20190516T170019Z">
+        <seg>selecteren of de muis over een rij verplaatsen geeft een pictogram voor een pop-up menu weer in de laatste kolom die acties bevat voor corrigeren of negeren van de fout.</seg>
       </tuv>
     </tu>
     <tu>
