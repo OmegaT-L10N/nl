@@ -39294,6 +39294,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opens the &lt;l0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; window&lt;/l0&gt;, where the location of scripts can be set, and where scripts can be written, run and associated with a shortcut.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T171450Z" creationid="Dick" creationdate="20190516T171450Z">
+        <seg>Opent het  &lt;l0&gt; venster &lt;g1&gt;Scripten&lt;/g1&gt;&lt;/l0&gt;, waar de locatie van scripts kan worden ingesteld, en waar scripts kunnen wordne geschreven, uitgevoerd en worden geassocieerd met een sneltoets.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opens the &lt;l0&gt;Editor&lt;/l0&gt; options in the Preferences dialog.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dick" changedate="20190516T163851Z" creationid="Dick" creationdate="20190516T163851Z">
@@ -44283,8 +44291,8 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       <tuv lang="EN">
         <seg>Scripting...</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20160910T160330Z">
-        <seg>Scripten...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T171243Z">
+        <seg>Scripten…</seg>
       </tuv>
     </tu>
     <tu>
