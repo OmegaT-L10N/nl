@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -42127,6 +42127,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search Found Mark</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T090957Z" creationid="Dick" creationdate="20190516T090957Z">
+        <seg>Gevonden markering zoeken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search Project</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T163003Z">
@@ -42139,6 +42147,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T131808Z">
         <seg>Zoeken in project...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search Replaced Mark</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T091016Z" creationid="Dick" creationdate="20190516T091016Z">
+        <seg>Vervangen markering zoeken</seg>
       </tuv>
     </tu>
     <tu>
@@ -42179,6 +42195,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T133414Z" creationid="Dirk" creationdate="20160910T133414Z">
         <seg>Zoek naar de gewenste taalcombinatie - bijvoorbeeld op de &lt;u0&gt;&lt;i1/&gt;door de wiki van OmegaT  aangegeven links naar woordenboeken&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search for the required language combination - for instance on the &lt;u0&gt;dictionary links given by the OmegaT Wiki&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T091058Z" creationid="Dick" creationdate="20190516T091058Z">
+        <seg>Zoek naar de gewenste taalcombinatie - bijvoorbeeld op de &lt;u0&gt;door de wiki van OmegaT  aangegeven links naar woordenboeken&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
