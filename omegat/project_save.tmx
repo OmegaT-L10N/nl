@@ -22670,6 +22670,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, &lt;l2&gt;user.language=ja&lt;/l2&gt; (without the &lt;l3&gt;#&lt;/l3&gt;) will launch &lt;a4&gt;OmegaT&lt;/a4&gt; with the user interface in Japanese.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T140423Z" creationid="Dick" creationdate="20190516T140423Z">
+        <seg>Bijvoorbeeld: &lt;l2&gt;user.language=ja&lt;/l2&gt; (zonder de &lt;l3&gt;#&lt;/l3&gt;) zal &lt;a4&gt;OmegaT&lt;/a4&gt; starten met de gebruikersinterface in het Japans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, Corresponding Source</seg>
       </tuv>
       <tuv lang="NL">
@@ -23082,6 +23090,14 @@ sale, or importing the Program or any portion of it.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T141137Z">
         <seg>Verwijder, voor vooraf gedefinieerde opties, de # vóór een parameter om het in te schakelen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For pre-defined options, remove the &lt;l1&gt;#&lt;/l1&gt; before a parameter to enable it.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T140308Z" creationid="Dick" creationdate="20190516T140308Z">
+        <seg>Verwijder, voor vooraf gedefinieerde opties, de &lt;l1&gt;#&lt;/l1&gt; vóór een parameter om het in te schakelen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38642,6 +38658,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T141131Z" creationid="Dirk" creationdate="20160910T141131Z">
         <seg>Opties worden gewijzigd door &lt;e0&gt;Configuration.properties&lt;/e0&gt; aan te passen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Options are changed by modifying &lt;f0&gt;Configuration.properties&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T140252Z" creationid="Dick" creationdate="20190516T140252Z">
+        <seg>Opties worden gewijzigd door &lt;f0&gt;Configuration.properties&lt;/f0&gt; aan te passen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61029,6 +61053,14 @@ for enforcing compliance by third parties with this License.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T141117Z" creationid="Dirk" creationdate="20160910T141117Z">
         <seg>U kunt ook met "cd" daar rechtstreeks naartoe gaan vanaf de opdrachtregel en &lt;a4&gt;&lt;e5&gt;Configuration.properties&lt;/e5&gt; openen in een verwerker voor de opdrachtregel zoals emacs of vi&lt;/a4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also &lt;c3&gt;cd&lt;/c3&gt; there directly from the command line and open &lt;f4&gt;Configuration.properties&lt;/f4&gt; in a command line editor like emacs or vi.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T140228Z" creationid="Dick" creationdate="20190516T140228Z">
+        <seg>U kunt ook met &lt;c3&gt;cd&lt;/c3&gt; daar rechtstreeks naartoe gaan vanaf de opdrachtregel en &lt;f4&gt;Configuration.properties&lt;/f4&gt; openen in een verwerker voor de opdrachtregel zoals emacs of vi.</seg>
       </tuv>
     </tu>
     <tu>
