@@ -5417,6 +5417,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/e0&gt;: the target files often need to have a different character set encoding from the one in the source file (whether it is explicitly defined or implied).</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T111612Z" creationid="Dick" creationdate="20190516T111612Z">
+        <seg>&lt;e0&gt;Codering-declaratie aan HTML- en XHTML-bestanden toevoegen of herschrijven&lt;/e0&gt;: regelmatig moeten de doelbestanden een andere tekenset voor de codering hebben dan die in het bronbestand (of dat nu expliciet gedefinieerd is of als gevolg van).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags with no translatable text between them will be aggregated into a single tag.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dick" changedate="20190516T111436Z" creationid="Dick" creationdate="20190516T111436Z">
@@ -5477,6 +5485,14 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T170541Z">
         <seg>&lt;e0&gt;Sluiten:&lt;/e0&gt; sluit het venster zonder enige wijziging.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Compress whitespace in translated document&lt;/e0&gt;: multiple continuous whitespace characters will be converted into one single whitespace in the translated document.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T111754Z" creationid="Dick" creationdate="20190516T111754Z">
+        <seg>&lt;e0&gt;Witruimte in vertaalde documenten comprimeren&lt;/e0&gt;: meerdere doorlopende witruimten zullen worden geconverteerd naar één enkele witruimte in het vertaalde document.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5789,6 +5805,14 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T134334Z">
         <seg>&lt;e0&gt;Powerpoint&lt;/e0&gt;: Dianotities, Diamodellen, Dia-lay-outs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Preserve spaces for all tags&lt;/e0&gt;: if checked, "white space" (i.e. spaces and newlines) will be preserved, even if this option is not defined in the document.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T111515Z" creationid="Dick" creationdate="20190516T111515Z">
+        <seg>&lt;e0&gt;Spaties voor alle tags behouden&lt;/e0&gt;: Indien geselecteerd zal "witruimte" (d.i. spaties en nieuwe regels) worden behouden, zelfs als deze optie niet is gedefinieerd in het document.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22405,6 +22429,14 @@ sale, or importing the Program or any portion of it.</seg>
         <seg>For instance, if the file filter specifies UTF8 as the encoding scheme for the target files, selecting Always will assure that this information is included in the translated files.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T134341Z">
+        <seg>Als bijvoorbeeld het bestandsfilter UTF8 specificeert als het schema voor codering voor de doelbestanden, zal het selecteren van Altijd er voor zorgen dat deze informatie zal worden opgenomen in de vertaalde bestanden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For instance, if the file filter specifies UTF8 as the encoding scheme for the target files, selecting Always will ensure that this information is included in the translated files.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T111708Z" creationid="Dick" creationdate="20190516T111708Z">
         <seg>Als bijvoorbeeld het bestandsfilter UTF8 specificeert als het schema voor codering voor de doelbestanden, zal het selecteren van Altijd er voor zorgen dat deze informatie zal worden opgenomen in de vertaalde bestanden.</seg>
       </tuv>
     </tu>
@@ -57275,6 +57307,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T134340Z">
         <seg>Met behulp van deze optie kan de vertaler specificeren of in de doelbestanden de declaratie voor de codering moet worden opgenomen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using this option, the translator can specify whether the target files should have the encoding declaration included.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T111646Z" creationid="Dick" creationdate="20190516T111646Z">
+        <seg>Door deze optie te gebruiken kan de vertaler specificeren of in de doelbestanden de declaratie voor de codering moet worden opgenomen.</seg>
       </tuv>
     </tu>
     <tu>
