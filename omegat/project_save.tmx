@@ -11396,6 +11396,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allow translation to be equal to source</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T113818Z" creationid="Dick" creationdate="20190516T113818Z">
+        <seg>Vertaling mag gelijk zijn aan brontekst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allows the user create an entry in the default glossary file.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T154908Z">
@@ -28949,6 +28957,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T133609Z">
         <seg>Beste overeenkomst invoegen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert the source text</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T113801Z" creationid="Dick" creationdate="20190516T113801Z">
+        <seg>De brontekst invoegen</seg>
       </tuv>
     </tu>
     <tu>
@@ -54600,6 +54616,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To make this possible, select this option.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T113849Z" creationid="Dick" creationdate="20190516T113849Z">
+        <seg>Selecteer deze optie om dit mogelijk te maken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To modify a file filter pattern, either modify the fields directly or click &lt;e0&gt;Edit.&lt;/e0&gt; To add a new file filter pattern, click &lt;e1&gt;Add&lt;/e1&gt;.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T134401Z">
@@ -57643,6 +57667,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160906T172514Z" creationid="Dirk" creationdate="20160906T172514Z">
         <seg>Waarde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Values around 100 display commands at the top, and values around 900 display them at the bottom.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T113721Z" creationid="Dick" creationdate="20190516T113721Z">
+        <seg>Waarden rond 100 geeft opdrachten aan de bovenkant weer, en waarden rond 900 geven ze aan de onderkant weer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60979,6 +61011,14 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T125331Z" creationid="Dirk" creationdate="20170914T125331Z">
         <seg>U zult worden gevraagd om dit wachtwoord elke keer in te voeren wanneer u OmegaT opstart.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You will need to restart OmegaT for this change to take effect.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T113754Z" creationid="Dick" creationdate="20190516T113754Z">
+        <seg>U dient OmegaT opnieuw te starten om deze wijziging te effectueren.</seg>
       </tuv>
     </tu>
     <tu>
