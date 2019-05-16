@@ -4609,6 +4609,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T130410Z" creationid="Dick" creationdate="20190516T130410Z">
+        <seg>&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/repository&gt;
 &lt;/repositories&gt;</seg>
       </tuv>
@@ -7179,6 +7187,22 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T130406Z" creationid="Dick" creationdate="20190516T130406Z">
+        <seg>&lt;mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T130449Z" creationid="Dick" creationdate="20190516T130449Z">
+        <seg>&lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T103935Z">
@@ -9240,6 +9264,14 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dick" changedate="20190516T124440Z" creationid="Dick" creationdate="20190516T124440Z">
         <seg>&lt;repository type="git" url="https://repo_for_OmegaT_team_project.git"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T130346Z" creationid="Dick" creationdate="20190516T130346Z">
+        <seg>&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11408,8 +11440,8 @@ conditions are met.</seg>
       <tuv lang="EN">
         <seg>All the contents of &lt;f0&gt;https://repo_for_OmegaT_team_project&lt;/f0&gt; are mapped to the local OmegaT project</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dick" changedate="20190516T130149Z" creationid="Dick" creationdate="20190516T130149Z">
-        <seg>Alle inhoud van &lt;f0&gt;https://opslag_voor_OmegaT_teamproject&lt;/f0&gt; volgen de route naar het lokale project van OmegaT</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T130351Z" creationid="Dick" creationdate="20190516T130149Z">
+        <seg>Alle inhoud van &lt;f0&gt;https://opslag_voor_OmegaT_teamproject&lt;/f0&gt; volgt de route naar het lokale project van OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -51086,6 +51118,22 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The remote file &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/release/readme.txt&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/readme_tr.txt&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T130529Z" creationid="Dick" creationdate="20190516T130529Z">
+        <seg>Het bestand op afstand &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/release/readme.txt&lt;/f0&gt; volgt de route naar het lokale bestand &lt;f1&gt;source/readme_tr.txt&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The remote file &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/src/org/omegat/Bundle.properties&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/Bundle.properties&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T130442Z" creationid="Dick" creationdate="20190516T130442Z">
+        <seg>Het bestand op afstand &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/src/org/omegat/Bundle.properties&lt;/f0&gt; volgt de route naar het lokale bestand &lt;f1&gt;source/Bundle.properties&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The repository is empty at this moment.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T110642Z">
@@ -54014,6 +54062,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120401T133333Z">
         <seg>Dit maakt het voor CAT-programma's veel eenvoudiger om het te ondersteunen en het direct te bewerken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This makes it possible to rename the file to be translated.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T130551Z" creationid="Dick" creationdate="20190516T130551Z">
+        <seg>Dit maakt het mogelijk het te vertalen bestand te hernoemen.</seg>
       </tuv>
     </tu>
     <tu>
