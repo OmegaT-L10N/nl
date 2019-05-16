@@ -28791,6 +28791,14 @@ sue for patent infringement).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this case, the procedure is the same, but the project manager does not add files to the /source folder.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T125320Z" creationid="Dick" creationdate="20190516T125320Z">
+        <seg>In dit geval is de procedure hetzelfde, maar voegt de projectbeheerder de bestanden niet toe aan de map /source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this dialog one can define the font used by &lt;a0&gt;OmegaT&lt;/a0&gt; in the following windows:</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T165620Z">
@@ -32992,6 +33000,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mapping parameters</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T125335Z" creationid="Dick" creationdate="20190516T125335Z">
+        <seg>Parameters voor rotutes naar mappen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mar&amp;k Whitespace</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20130512T110619Z">
@@ -37016,6 +37032,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T110507Z">
         <seg>OmegaT ondersteunt twee van de populaire systemen voor versiebeheer (afgekort VCS), &lt;u0&gt;Apache Subversion&lt;/u0&gt; (vaak afgekort tot SVN naar de naam van de opdracht svn) en &lt;u1&gt;Git&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT team projects can also be set up in a different way, where several translators share the project_save.tmx file but not the source files.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T125210Z" creationid="Dick" creationdate="20190516T125210Z">
+        <seg>Teamprojecten voor OmegaT kunnen ook op een andere manier worden ingesteld, waarbij verschillende vertalers het bestand project_save.tmx delen, maar niet de bronbestanden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69930,6 +69954,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T165701Z">
         <seg>hernoem het huidige &lt;f0&gt;project_save.tmx&lt;/f0&gt;-bestand naar iets dat u zult onthouden (zoals bijvoorbeeld &lt;f1&gt;project_save.tmx.tijdelijk&lt;/f1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>repository type</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T125351Z" creationid="Dick" creationdate="20190516T125351Z">
+        <seg>typer opslagplaats </seg>
       </tuv>
     </tu>
     <tu>
