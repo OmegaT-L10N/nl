@@ -13544,6 +13544,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Browse TaaS Collections...</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T093917Z" creationid="Dick" creationdate="20190516T093917Z">
+        <seg>TaaS Collections bladeren…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Browse...</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170104T180745Z" creationid="Dirk" creationdate="20170104T180745Z">
@@ -25979,6 +25987,14 @@ Public License instead of this License.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T133618Z">
         <seg>Indien deze optie is geselecteerd zal OmegaT, wanneer een fuzzy overeenkomst wordt ingevoegd, handmatig of automatisch, de getallen in de fuzzy overeenkomst proberen te converteren in overeenstemming met de inhoud van de bron.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If this option is selected, OmegaT will not remember the access key between sessions.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T093850Z" creationid="Dick" creationdate="20190516T093850Z">
+        <seg>Als deze optie is geselecteerd zal OmegaT de toegangssleutel niet onthouden tussen sessies.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43119,6 +43135,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select TaaS Terminology Lookup Domain...</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T094114Z" creationid="Dick" creationdate="20190516T094114Z">
+        <seg>TaaS Terminology Lookup Domain selecteren…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select TaaS domain</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20140813T173024Z" creationid="Dirk" creationdate="20140813T173024Z">
@@ -45199,6 +45223,14 @@ make it effectively proprietary.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120401T141335Z">
         <seg>Wijzig, nog steeds in uw venster van de opdrachtregel, naar die map, bijv. met:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Store for this session only</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T093808Z" creationid="Dick" creationdate="20190516T093808Z">
+        <seg>Alleen voor deze sessie opslaan</seg>
       </tuv>
     </tu>
     <tu>
@@ -47985,6 +48017,14 @@ Probeer alstublieft de fout te corrigeren en herlaad het project.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T110503Z">
         <seg>Het gemeenschappelijk vertalen zoals dat wordt aangeboden door OmegaT is gebaseerd op de functionaliteit van versie- of revisiebeheer, breed gebruikt binnen de gemeenschap van softwareontwikkelaars om hun wijzigingen aan de code van een programma te beheren en ongehinderde samenwerking binnen het team van ontwikkelaars mogelijk te maken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The collections are downloaded as TBX glossaries and stored in the current glossary folder.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T094057Z" creationid="Dick" creationdate="20190516T094057Z">
+        <seg>De collecties worden gedownload als TBX-woordenlijsten en opgeslagen de huidige map glossary.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51994,6 +52034,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T095532Z">
         <seg>Deze balk geeft de gebruiker berichten met terugkoppeling over specifieke bewerkingen die worden uitgevoerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This button enables you to browse and download the collections that exist for the project's source and target languages.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T094021Z" creationid="Dick" creationdate="20190516T094021Z">
+        <seg>Deze knop stelt u in staat te bladeren door de collecties en collecties die bestaan voor de bron- en doeltaal van het project te downloaden.</seg>
       </tuv>
     </tu>
     <tu>
