@@ -11262,6 +11262,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All other files are read-only.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T123819Z" creationid="Dick" creationdate="20190516T123814Z">
+        <seg>Alle andere bestanden zijn alleen-lezen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All other instances of the same segment that were previously the "default translation" will now be brought into line with this translation.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131226T131530Z" creationid="Dirk" creationdate="20131226T131530Z">
@@ -26245,6 +26253,14 @@ notice like this when it starts in an interactive mode:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the translator attempts to modify them, they will go back to their original state whenever the project is opened, closed, saved or reloaded.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T123940Z" creationid="Dick" creationdate="20190516T123816Z">
+        <seg>Als de vertaler probeert ze aan te passen zullen terugkeren naar hun originele status, iedere keer als het project wordt geopend, gesloten, opgeslagen of opnieuw wordt geladen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the value is &lt;l1&gt;abort&lt;/l1&gt;, then on tag errors the errors are printed and the program stops.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T142646Z">
@@ -35228,6 +35244,14 @@ measures.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T174005Z">
         <seg>Onthoud dat slechts één TMX voor een bepaald paar van talen mogelijk is, dus als er meerdere vertaalgeheugens bij betrokken zouden zijn, zou u ze allemaal moeten samenvoegen in de XX_YY.tmx.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that only two files are modified by OmegaT during translation:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T123801Z" creationid="Dick" creationdate="20190516T123801Z">
+        <seg>Onthoud dat slechts twee bestanden wordne anagepast door OmegaT tijdens het vertalen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -52390,6 +52414,14 @@ not accept this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These files won't be deleted automatically on the translator's side: you must ask them to delete the files manually.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T123732Z" creationid="Dick" creationdate="20190516T123732Z">
+        <seg>Deze bestanden zullen niet automatisch wordne verwijderd aan de zijde van de vertaler: u zult ze moeten vragen om de bestanden handmatig te verwijderen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These formats are formally known as "Office Open XML", and have the extensions .docx, .xlsx and .pptx respectively.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120401T142147Z">
@@ -54402,6 +54434,14 @@ computer or modifying a private copy.</seg>
 permission, would make you directly or secondarily liable for
 infringement under applicable copyright law, except executing it on a
 computer or modifying a private copy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To &lt;e0&gt;delete files&lt;/e0&gt;, use an SVN or Git client.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T123637Z" creationid="Dick" creationdate="20190516T123637Z">
+        <seg>Gebruik een cliënt voor SVN of Git om &lt;e0&gt;bestanden te verwijderen&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64834,6 +64874,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>glossary/glossary.txt</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T123803Z" creationid="Dick" creationdate="20190516T123803Z">
+        <seg>glossary/glossary.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>glv</seg>
       </tuv>
       <tuv lang="NL">
@@ -68208,6 +68256,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>omegat.prefs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>omegat/project_save.tmx</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T123802Z" creationid="Dick" creationdate="20190516T123802Z">
+        <seg>omegat/project_save.tmx</seg>
       </tuv>
     </tu>
     <tu>
