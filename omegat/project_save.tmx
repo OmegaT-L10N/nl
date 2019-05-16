@@ -11560,6 +11560,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Align Files...</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T170849Z" creationid="Dick" creationdate="20190516T170849Z">
+        <seg>Bestanden uitlijnen…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Align project against {0}</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120301T174343Z">
@@ -45425,6 +45433,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the two files to be aligned (the source file and its translation) and click OK to open the &lt;l0&gt;&lt;g1&gt;Align&lt;/g1&gt; window&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T171042Z" creationid="Dick" creationdate="20190516T171042Z">
+        <seg>Selecteer de twee bestanden die moeten wordne uitgelijnd (het bronbestand en de vertaling ervan) en klik op OK om het venster &lt;l0&gt;&lt;g1&gt;Uitlijnen&lt;/g1&gt; te openen&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select this menu item, if the current translation does not apply and enter the alternative translation.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T155527Z">
@@ -52878,6 +52894,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The source and target files can have different formats (for example, a &lt;f0&gt;.docx&lt;/f0&gt; file can be aligned with a &lt;f1&gt;.pdf&lt;/f1&gt; file).</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T171228Z" creationid="Dick" creationdate="20190516T171228Z">
+        <seg>De bron- en doelbestanden mogen verschillende indelingen hebben (bijvoorbeeld: een bestand &lt;f0&gt;.docx&lt;/f0&gt; kan wordne uitgelijnd met een bestand &lt;f1&gt;.pdf&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The source file language entered is invalid!</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T190117Z">
@@ -53018,6 +53042,14 @@ earlier work or a work "based on" the earlier work.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T095531Z">
         <seg>De statusbalk geeft berichten met betrekking tot de werkzaamheden weer aan de onderzijde van het hoofdvenster.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The supported file formats are those listed in &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties&lt;/g2&gt; &lt;g3&gt;File Filters&lt;/g3&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T171130Z" creationid="Dick" creationdate="20190516T171130Z">
+        <seg>De ondersteunde bestandsindelingen zijn die welke zijn vermeld in &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt;&lt;g2&gt;eigenschappen&lt;/g2&gt; &lt;g3&gt;Bestandsfilters&lt;/g3&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
