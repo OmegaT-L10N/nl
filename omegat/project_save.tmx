@@ -10732,8 +10732,8 @@ included in conveying the object code work.</seg>
       <tuv lang="EN">
         <seg>About...</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20160910T132758Z">
-        <seg>Over...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T162633Z">
+        <seg>Over…</seg>
       </tuv>
     </tu>
     <tu>
@@ -15128,6 +15128,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check for Updates...</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T162706Z" creationid="Dick" creationdate="20190516T162706Z">
+        <seg>Controleren op updates…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check for doubled blanks</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T124508Z">
@@ -15492,6 +15500,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131226T154448Z" creationid="Dirk" creationdate="20131226T154448Z">
         <seg>Controleert op taalfouten (stijl, grammatica, etc.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Checks to see whether a more recent version of &lt;a0&gt;OmegaT&lt;/a0&gt; has been released.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T162815Z" creationid="Dick" creationdate="20190516T162815Z">
+        <seg>Controleert of er een meer recente versie van &lt;a0&gt;OmegaT&lt;/a0&gt; is uitgegeven.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26549,6 +26565,14 @@ the predecessor has it or can get it with reasonable efforts.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If several translation engines are selected, then &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; is also used to switch between them and insert the last one selected.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T163014Z" creationid="Dick" creationdate="20190516T163014Z">
+        <seg>Als verscheidene programma's voor vertaling zijn geselecteerd, dan wordt &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; ook gebruikt om daar tussen te schakelen en voegt de laatst geselecteerde in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If so, this makes installation much easier.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131225T134432Z" creationid="Dirk" creationdate="20131225T134432Z">
@@ -32223,8 +32247,8 @@ zelf bij de eerste keer dat het wordt uitgevoerd.</seg>
       <tuv lang="EN">
         <seg>Last Changes...</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20160910T132800Z">
-        <seg>Laatste wijzigingen...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T162652Z">
+        <seg>Laatste wijzigingen…</seg>
       </tuv>
     </tu>
     <tu>
@@ -33242,8 +33266,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Log...</seg>
       </tuv>
-      <tuv lang="NL">
-        <seg>Log...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T162644Z">
+        <seg>Log…</seg>
       </tuv>
     </tu>
     <tu>
@@ -39054,6 +39078,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opens the &lt;l0&gt;Preferences&lt;/l0&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T162854Z" creationid="Dick" creationdate="20190516T162854Z">
+        <seg>Open het dialoogvenster &lt;l0&gt;Voorkeuren&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opens the &lt;l0&gt;Source segmentation&lt;/l0&gt; dialog to configure text segmentation.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T162213Z">
@@ -39066,6 +39098,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T162949Z">
         <seg>Opent het venster Tags valideren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opens this manual in the default browser.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T162627Z" creationid="Dick" creationdate="20190516T162627Z">
+        <seg>Opent de standaard browser met deze handleiding.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40598,6 +40638,14 @@ of er nog aanvullende stappen moeten worden uitgevoerd.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T190329Z">
         <seg>Voorkeurs systeemopslagbewerking mislukt!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preferences...</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T162832Z" creationid="Dick" creationdate="20190516T162832Z">
+        <seg>Voorkeuren…</seg>
       </tuv>
     </tu>
     <tu>
