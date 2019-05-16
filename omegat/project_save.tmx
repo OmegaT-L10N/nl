@@ -6323,6 +6323,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; can make use of macOS Services.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T140941Z" creationid="Dick" creationdate="20190516T140941Z">
+        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; kan gebruik maken van services van macOS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;alignDir &lt;/f0&gt;must contain a translation in the target language of the project.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T165614Z">
@@ -58212,6 +58220,14 @@ Opdrachten:
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use the &lt;f0&gt;OmegaT.jar&lt;/f0&gt; file located in &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt; to launch &lt;a2&gt;OmegaT&lt;/a2&gt; from the command line.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T140906Z" creationid="Dick" creationdate="20190516T140906Z">
+        <seg>Gebruik het bestand &lt;f0&gt;OmegaT.jar&lt;/f0&gt; dat zich bevindt in &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt; om &lt;a2&gt;OmegaT&lt;/a2&gt; vanaf de opdrachtregel te starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use the Iceni Infix filter.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T132001Z" creationid="Dirk" creationdate="20170914T132001Z">
@@ -68210,6 +68226,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dick" changedate="20190516T135600Z" creationid="Dick" creationdate="20190516T135545Z">
         <seg>Gebruikers van macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>macOS goodies</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T140919Z" creationid="Dick" creationdate="20190516T140919Z">
+        <seg>macOS goodies</seg>
       </tuv>
     </tu>
     <tu>
