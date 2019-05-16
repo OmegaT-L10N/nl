@@ -45669,6 +45669,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Special case: minimal sharing</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T124817Z" creationid="Dick" creationdate="20190516T124817Z">
+        <seg>Speciaal geval: minimaal delen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Specific behavior can be set up in the file filters.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T135457Z">
@@ -50762,6 +50770,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dick" changedate="20190516T092815Z" creationid="Dick" creationdate="20190516T092815Z">
         <seg>De procedures voor het configureren voor toegang tot de services van Microsoft Translator en Google Translate worden &lt;u0&gt;hier&lt;/u0&gt; beschreven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The process above describes the usual case, where the project manager wants to have full control of the project and where the files (and the statistics) are identical on both sides (server side and translator side).</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T125050Z" creationid="Dick" creationdate="20190516T125050Z">
+        <seg>Het proces hierboven beschrijft de normale gevallen, waar de projectbeheerder volledige controle wil hebben over het project en waar de bestanden (en de statistieken) identiek zijn aan beide zijden (aan de zijde van de server en aan de zijde van de vertaler).</seg>
       </tuv>
     </tu>
     <tu>
