@@ -18824,6 +18824,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Detailed instructions on building are in the docs_devel &lt;u0&gt;readme&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T161109Z" creationid="Dick" creationdate="20190516T161109Z">
+        <seg>Gedetailleerde instructies voor het bouwen staan in de docs_devel &lt;u0&gt;readme&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Detailed technical discussion of changes is best conducted directly with OmegaT's developers.</seg>
       </tuv>
       <tuv lang="NL">
@@ -38390,6 +38398,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once the code is downloaded, open a command in the source folder and type:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T161022Z" creationid="Dick" creationdate="20190516T160853Z">
+        <seg>Als de code eenmaal is gedownload, open een opdrachtscherm in de bronfolder en typ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once the operation has finished, you can check the said folder: it should now contain a subfolder .svn and a green OK badge on its icon will show, that the contents of the folder are up-to-date:</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T110649Z">
@@ -55450,6 +55466,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This will create a full distribution of OmegaT in the &lt;f0&gt;./build/distributions&lt;/f0&gt; folder, where you will find a zip containing everything needed to run &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T160935Z" creationid="Dick" creationdate="20190516T160935Z">
+        <seg>Dit zal een volledige distributie van OmegaT maken in de map &lt;f0&gt;./build/distributions&lt;/f0&gt;, waarin u alle benodigde bestanden zult vinden om &lt;a1&gt;OmegaT&lt;/a1&gt; uit te voeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This will create an &lt;f0&gt;omegat/&lt;/f0&gt; folder in the working folder in which you will find all the files needed to run &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dick" changedate="20190516T134835Z" creationid="Dick" creationdate="20190516T134835Z">
@@ -61775,6 +61799,14 @@ van daaruit te koppelen.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also run directly the application with the following command:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T161016Z" creationid="Dick" creationdate="20190516T161016Z">
+        <seg>U kunt ook direct de toepassing uitvoeren met de volgende opdracht:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also use AppleScript or Automator to create Services or scripts that will automate frequent actions</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T141423Z">
@@ -66460,6 +66492,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>gradlew assembleDist</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T160855Z" creationid="Dick" creationdate="20190516T160855Z">
+        <seg>gradlew assembleDist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>gradlew installDist</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T155652Z" creationid="DiGro (Dick)" creationdate="20170915T155652Z">
@@ -67280,6 +67320,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/docs_devel/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/docs_devel/README.txt</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T161030Z" creationid="Dick" creationdate="20190516T161030Z">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/docs_devel/README.txt</seg>
       </tuv>
     </tu>
     <tu>
