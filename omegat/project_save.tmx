@@ -17078,6 +17078,14 @@ the conditions stated below.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copy the text and paste it into the translated version of the Wikipedia page.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T164530Z" creationid="Dick" creationdate="20190516T164530Z">
+        <seg>Kopieer de tekst en plak die in de vertaalde versie van de pagina van Wikipedia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copy the translation memories, containing the translations of the documents above, into &lt;f0&gt;tm/auto&lt;/f0&gt; subfolder of the new project.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T173902Z">
@@ -35486,6 +35494,14 @@ toepasselijke locatie, zoals de map Applications.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>New translation memories placed in the &lt;f0&gt;/tm&lt;/f0&gt; folder while translating are loaded automatically as soon as the cursor moves from one segment to another.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T164729Z" creationid="Dick" creationdate="20190516T164729Z">
+        <seg>Nieuwe vertaalgeheugens, geplaatst in de map &lt;f0&gt;/tm&lt;/f0&gt; tijdens het vertalen, worden automatisch geladen zodra de cursor van een segment naar een ander verplaatst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>New users of OmegaT are encouraged to make any suggestions here.</seg>
       </tuv>
       <tuv lang="NL">
@@ -38934,6 +38950,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open the &lt;f0&gt;.UTF8&lt;/f0&gt; file generated in the &lt;f1&gt;/target&lt;/f1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T164456Z" creationid="Dick" creationdate="20190516T164456Z">
+        <seg>Open het bestand &lt;f0&gt;.UTF8&lt;/f0&gt; gemaakt in de map &lt;f1&gt;/target&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open the Search and replace window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; and enter the word or expression you wish to replace in the &lt;e3&gt;Search for&lt;/e3&gt; box.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T170525Z">
@@ -42303,6 +42327,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120402T172603Z">
         <seg>Laadt uw OmegaT-project opnieuw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reloads the project to take external changes in source files and project settings into account.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T164554Z" creationid="Dick" creationdate="20190516T164554Z">
+        <seg>Herlaadt het project om externe wijzigingen in bronbestanden en instellingen voor het project te verwerken.</seg>
       </tuv>
     </tu>
     <tu>
