@@ -16750,6 +16750,14 @@ the conditions stated below.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copy the folder to a suitable folder (e.g. Applications).</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T135758Z" creationid="Dick" creationdate="20190516T135758Z">
+        <seg>Kopieer de map naar een toepasselijke map (bijv. Toepassingen).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copy the script into the OmegaT "script" folder, i.e. the folder containing source.txt etc. (The scripts can in principle be placed anywhere, but must then be edited with addition of the path to the script files.)</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131226T145938Z" creationid="Dirk" creationdate="20131226T145938Z">
@@ -19516,6 +19524,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Double-click on &lt;f0&gt;OmegaT.app&lt;/f0&gt; or click on its location in the Dock.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T135905Z" creationid="Dick" creationdate="20190516T135905Z">
+        <seg>Dubbelklik op &lt;f0&gt;OmegaT.app&lt;/f0&gt; of klik op zijn locatie in het dock</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Double-click on the OmegaT application.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T134726Z" creationid="Dirk" creationdate="20170914T134726Z">
@@ -19784,6 +19800,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T140922Z">
         <seg>Sleep en zet &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt; op het Dock neer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drag and drop &lt;f0&gt;OmegaT.app&lt;/f0&gt; onto the Dock.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T135838Z" creationid="Dick" creationdate="20190516T135838Z">
+        <seg>Sleep en zet &lt;f0&gt;OmegaT.app&lt;/f0&gt; op het Dock neer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37990,6 +38014,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once you have done this, you can delete the &lt;f4&gt;OmegaT_4.n.n_Mac.zip&lt;/f4&gt; file, it is no longer needed.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T135812Z" creationid="Dick" creationdate="20190516T135812Z">
+        <seg>Als u dit gedaan heeft kunt u het bestand &lt;f4&gt;OmegaT_4.n.n_Mac.zip&lt;/f4&gt; verwijderen, het is niet langer nodig.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once you have installed either Abiword or the LibreOffice+Unoconv combination, you can convert the target files produced by OmegaT to html format in order for them to be read by the browser.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160126T135627Z" creationid="Dirk" creationdate="20160126T135521Z">
@@ -55128,6 +55160,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To access &lt;f0&gt;Configuration.properties&lt;/f0&gt;, right-click on &lt;f1&gt;OmegaT.app&lt;/f1&gt; and select "Show Package Contents", then open the file in &lt;f2&gt;Contents/Resources&lt;/f2&gt; by right-clicking on it and selecting your text editor of choice.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T140038Z" creationid="Dick" creationdate="20190516T140038Z">
+        <seg>Klik met rechts op &lt;f1&gt;OmegaT.app&lt;/f1&gt; en selecteer "Pakketinhoud weergeven" om toegang te krijgen tot &lt;f0&gt;Configuration.properties&lt;/f0&gt;, en open dan het bestand &lt;f2&gt;Contents/Resources&lt;/f2&gt; door er met rechts op te klikken en selecteer de tekstverwerker van uw keuze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To access the TaaS service, a user must create a key using https://term.tilde.com/account/keys/create?system=omegaT.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T172242Z" creationid="Dirk" creationdate="20160910T172242Z">
@@ -61499,6 +61539,14 @@ installatie krijgen door het installatiescript te gebruiken (linux-install.sh).<
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T141004Z" creationid="Dirk" creationdate="20160910T141004Z">
         <seg>U kunt het gedrag van OmegaT' aanpassen door de &lt;e0&gt;Eigenschappen&lt;/e0&gt; als ook het bestand &lt;e1&gt;Configuration.properties&lt;/e1&gt; in het pakket te bewerken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can modify OmegaT's behaviour by editing the &lt;e0&gt;Properties&lt;/e0&gt; as well as the &lt;f1&gt;Configuration.properties&lt;/f1&gt; file in the package.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T135922Z" creationid="Dick" creationdate="20190516T135922Z">
+        <seg>U kunt het gedrag van OmegaT' aanpassen door de &lt;e0&gt;Eigenschappen&lt;/e0&gt; als ook het bestand &lt;f1&gt;Configuration.properties&lt;/f1&gt; in het pakket te bewerken.</seg>
       </tuv>
     </tu>
     <tu>
