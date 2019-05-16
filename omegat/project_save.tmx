@@ -5417,6 +5417,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags with no translatable text between them will be aggregated into a single tag.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T111436Z" creationid="Dick" creationdate="20190516T111436Z">
+        <seg>&lt;e0&gt;Hoeveelheid tags&lt;/e0&gt;: Indien geselecteerd zullen tags, zonder vertaalbare tekst er tussen, worden samengevoegd tot één enkele tag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags without translatable text between them will be aggregated into single tags.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T134337Z">
@@ -22084,6 +22092,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, &lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T111330Z" creationid="Dick" creationdate="20190516T111330Z">
+        <seg>Bijvoorbeeld : &lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, Corresponding Source</seg>
       </tuv>
       <tuv lang="NL">
@@ -22593,6 +22609,14 @@ that there is no warranty for this free software.</seg>
         <seg>For the example above, the field would contain: &lt;l1&gt;class=hide, translate=no &lt;/l1&gt;</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T134327Z">
+        <seg>Voor het voorbeeld hierboven zou het veld bevatten: &lt;l1&gt;class=hide, translate=no &lt;/l1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the example above, the field would contain: &lt;l1&gt;class=hide, translate=no &lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T111402Z" creationid="Dick" creationdate="20190516T111402Z">
         <seg>Voor het voorbeeld hierboven zou het veld bevatten: &lt;l1&gt;class=hide, translate=no &lt;/l1&gt;</seg>
       </tuv>
     </tu>
@@ -29779,6 +29803,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T172154Z">
         <seg>Het is echter eenvoudiger om online naar woordenboeken te zoeken met behulp van het veld &lt;e0&gt;URL voor online woordenboeken&lt;/e0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is sometimes useful to be able make certain tags untranslatable based on the values of their attributes.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T111311Z" creationid="Dick" creationdate="20190516T111311Z">
+        <seg>Het is soms handig om bepaalde tags niet te vertalen te maken, gebaseerd op de waarde van attributen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59691,6 +59723,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T133629Z">
         <seg>U zou kunnen besluiten om zulke segmenten niet te vertalen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can define key-value pairs for tags to be left untranslated.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190516T111352Z" creationid="Dick" creationdate="20190516T111352Z">
+        <seg>U kunt sleutel-waardenparen definiëren voor tags die niet vertaald moeten worden.</seg>
       </tuv>
     </tu>
     <tu>
