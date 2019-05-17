@@ -15528,6 +15528,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check this option in case &lt;a0&gt;OmegaT&lt;/a0&gt; does not display some glyphs properly (even if the fonts containing the relevant glyphs are installed on your machine).</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T105645Z" creationid="Dick" creationdate="20190517T105645Z">
+        <seg>Selecteer deze optie in het geval dat &lt;a0&gt;OmegaT&lt;/a0&gt; sommige tekens niet juist weergeeft (zelfs niet als de lettertypen die de relevante tekens bevatten op uw machine zijn geïnstalleerd).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check this option in case OmegaT does not display some glyphs properly (even if the fonts containing the relevant glyphs are installed on your machine).</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T160041Z" creationid="Dirk" creationdate="20160910T160041Z">
@@ -23618,6 +23626,14 @@ sale, or importing the Program or any portion of it.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T155921Z">
         <seg>Bekijk het &lt;u0&gt;Request For Enhancement&lt;/u0&gt; voor technische details</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For technical details, see the &lt;u3&gt;Request For Enhancement&lt;/u3&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T105553Z" creationid="Dick" creationdate="20190517T105553Z">
+        <seg>Bekijk het &lt;u3&gt;Request For Enhancement&lt;/u3&gt; voor technische details</seg>
       </tuv>
     </tu>
     <tu>
@@ -45905,10 +45921,26 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Setting it to &lt;g1&gt;All segments&lt;/g1&gt; shows this information for all segments and &lt;g2&gt;None&lt;/g2&gt; turns this option off.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T105804Z" creationid="Dick" creationdate="20190517T105804Z">
+        <seg>Het instellen op&lt;g1&gt; Weergave voor alle segmenten &lt;/g1&gt;geeft deze informatie weer voor alle segmenten en &lt;g2&gt;Niet weergeven&lt;/g2&gt; schakelt deze optie uit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Setting the Display Modification option to &lt;e0&gt;Current segment&lt;/e0&gt; will display the time and the author of the last change in the current segment.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T160237Z">
         <seg>Instellen van de optie Info over wijzigingen op &lt;e0&gt;Weergave voor huidige segment&lt;/e0&gt; zal datum en tijd en de auteur weergeven van de laatste wijziging aan het huidige segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Setting the Display Modification option to &lt;g0&gt;Current segment&lt;/g0&gt; will display the time and the author of the last change in the current segment.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T105724Z" creationid="Dick" creationdate="20190517T105724Z">
+        <seg>Instellen van de optie Info over wijzigingen op &lt;g0&gt;Weergave voor huidige segment&lt;/g0&gt; zal datum en tijd en de auteur weergeven van de laatste wijziging aan het huidige segment.</seg>
       </tuv>
     </tu>
     <tu>
