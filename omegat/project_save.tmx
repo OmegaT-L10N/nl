@@ -29593,6 +29593,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the editor pane, when a match is inserted from a TMX contained in a folder named &lt;f0&gt;mt&lt;/f0&gt;, the background of the active segment is changed to red.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T111545Z" creationid="Dick" creationdate="20190517T111545Z">
+        <seg>In het venster Bewerken, wanneer een overeenkomst wordt ingevoegd vanuit een TMX die is opgenomen in een map genaamd &lt;f0&gt;mt&lt;/f0&gt;, wordt de achtergrond van het actieve segment gewijzigd naar rood.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the example below, the author of the PO file included a warning for the translator to check the length of the translation:</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T095515Z">
@@ -44757,6 +44765,22 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T125922Z">
         <seg>Zie &lt;l0&gt;appendix Sneltoetsen aanpassen&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &lt;l0&gt;Dictionaries&lt;/l0&gt; for more on this subject.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T111526Z" creationid="Dick" creationdate="20190517T111526Z">
+        <seg>Bekijk &lt;l0&gt;Woordenboeken&lt;/l0&gt; voor meer over dit onderwerp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &lt;l0&gt;Glossaries&lt;/l0&gt; for more on this subject.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T111637Z" creationid="Dick" creationdate="20190517T111637Z">
+        <seg>Bekijk &lt;l0&gt;Woordenlijsten&lt;/l0&gt; voor meer over dit onderwerp.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67208,6 +67232,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>glg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>glossary</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T111601Z" creationid="Dick" creationdate="20190517T111601Z">
+        <seg>glossary</seg>
       </tuv>
     </tu>
     <tu>
