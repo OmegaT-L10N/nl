@@ -4089,6 +4089,14 @@ en laad het project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>.repositories</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T111915Z" creationid="Dick" creationdate="20190517T111915Z">
+        <seg>.repositories</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>/** Number of fuzzy matches to display */</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T160224Z" creationid="DiGro (Dick)" creationdate="20170915T160224Z">
@@ -28935,6 +28943,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In a team project, this folder contains a versioned copy of the project tree structure linked directly to the remote server.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T112102Z" creationid="Dick" creationdate="20190517T112102Z">
+        <seg>In een teamproject bevat deze map een geversioneerde kopie van de boomstructuur van het project, direct gekoppeld aan de server op afstand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition to Trados, however, several other CAT tools also support the "uncleaned RTF" format, notably Wordfast Classic.</seg>
       </tuv>
       <tuv lang="NL">
@@ -29437,6 +29453,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131228T123644Z" creationid="Dirk" creationdate="20131228T123644Z">
         <seg>In sommige gevallen zou u kunnen merken dat de tokenizer voor de brontaal botst met de spellingscontrole door de doeltaal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In some operating systems, this folder is not displayed by default.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T112228Z" creationid="Dick" creationdate="20190517T112228Z">
+        <seg>In sommige besturingssystemen wordt deze map niet standaard weergegeven.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63035,6 +63059,14 @@ installatie krijgen door het installatiescript te gebruiken (linux-install.sh).<
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120401T151223Z">
         <seg>U kunt de opmaak van alinea's essentieel op niveau brengen door gehele alinea's in MS Word te kopiëren en ze over zichzelf heen te plakken zodat de gehele alinea de opmaak van het eerste teken aanneemt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can make changes to remote files (e.g. deleting a file) using this folder and a Git or SVN client.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T112159Z" creationid="Dick" creationdate="20190517T112159Z">
+        <seg>U kunt wijzigingen maken in bestanden op afstand (bijv. een bestand verwijderen) met deze map en een cliënt voor Git of SVN.</seg>
       </tuv>
     </tu>
     <tu>
