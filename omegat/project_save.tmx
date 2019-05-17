@@ -14632,6 +14632,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, scripts are stored in the &lt;f0&gt;scripts&lt;/f0&gt; folder located in the OmegaT installation folder (the folder that contains the &lt;f1&gt;OmegaT.jar&lt;/f1&gt; file).</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T121155Z" creationid="Dick" creationdate="20190517T121155Z">
+        <seg>Standaard worden scripts opgeslagen in de map &lt;f0&gt;scripts&lt;/f0&gt; die zich bevindt in de installatiemap van OmegaT (de map waarin het bestand &lt;f1&gt;OmegaT.jar&lt;/f1&gt; staat).e</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, the /tm folder is below the project's root folder (e.g. ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T173802Z">
@@ -63011,6 +63019,14 @@ van daaruit te koppelen.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dick" changedate="20190516T161016Z" creationid="Dick" creationdate="20190516T161016Z">
         <seg>U kunt ook direct de toepassing uitvoeren met de volgende opdracht:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also start the selected macros from the main menu by using their entries in the &lt;g0&gt;Tools &lt;/g0&gt;menu or by pressing&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (# 1 to 12).</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T120248Z" creationid="Dick" creationdate="20190517T120248Z">
+        <seg>U kunt de geselecteerde macro's ook starten vanuit het hoofdmenu door hun items te gebruiken in het menu &lt;g0&gt;Extra &lt;/g0&gt; of door te drukken op&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (# 1 tot en met 12).</seg>
       </tuv>
     </tu>
     <tu>
