@@ -11600,6 +11600,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aligner</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T112615Z" creationid="Dick" creationdate="20190517T112615Z">
+        <seg>Uitlijnen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aligner "Accepted" Group</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160906T172209Z" creationid="Dirk" creationdate="20160906T172209Z">
@@ -11628,6 +11636,14 @@ the above requirements apply either way.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160906T172258Z" creationid="Dirk" creationdate="20160906T172258Z">
         <seg>Rij accentueren voor tabel uitlijnen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alignment involves creating a bilingual translation memory from monolingual documents that have already been translated.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T112711Z" creationid="Dick" creationdate="20190517T112711Z">
+        <seg>Uitlijnen omvat het maken van een tweetalig vertaalgeheugen vanuit ééntalige documenten die al zijn vertaald.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27019,6 +27035,14 @@ to choose that version for the Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the alignment looks as if it could be improved, try changing the parameters.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T112858Z" creationid="Dick" creationdate="20190517T112858Z">
+        <seg>Probeer de parameters te wijzigen als het uitlijnen eruit ziet alsof het kan worden verbeterd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the appropriate filter is found, the file is assigned to it for processing.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T134410Z">
@@ -37363,6 +37387,14 @@ OmegaT 4.0, Lees Mij-bestand</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT 4.2 - User's Guide</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T112558Z" creationid="Dick" creationdate="20190517T112558Z">
+        <seg>OmegaT 4.2 - Gebruikershandleiding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT &lt;s0&gt;the free translation memory tool&lt;/s0&gt;</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170916T104439Z" creationid="DiGro (Dick)" creationdate="20170916T104439Z">
@@ -38272,6 +38304,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T110507Z">
         <seg>OmegaT ondersteunt twee van de populaire systemen voor versiebeheer (afgekort VCS), &lt;u0&gt;Apache Subversion&lt;/u0&gt; (vaak afgekort tot SVN naar de naam van de opdracht svn) en &lt;u1&gt;Git&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT team</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T112601Z" creationid="Dick" creationdate="20190517T112601Z">
+        <seg>OmegaT team</seg>
       </tuv>
     </tu>
     <tu>
@@ -47701,6 +47741,14 @@ make it effectively proprietary.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Step 1: Adjust the alignment parameters</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T112811Z" creationid="Dick" creationdate="20190517T112811Z">
+        <seg>Stap 1: Parameters voor uitlijnen aanpassen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Step 1: Create an empty project on a server</seg>
       </tuv>
       <tuv lang="NL" changeid="Dick" changedate="20190516T122500Z" creationid="Dick" creationdate="20190516T122500Z">
@@ -56556,6 +56604,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T172242Z" creationid="Dirk" creationdate="20160910T172242Z">
         <seg>Een gebruiker moet, om toegang te krijgen tot het private gedeelte, een sleutel maken met behulp van https://demo.taas-project.eu/account/keys/create?system=omegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To access this window, select &lt;m0&gt; &lt;g1&gt;Tools&lt;/g1&gt; &lt;g2&gt;Align Files...&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T112804Z" creationid="Dick" creationdate="20190517T112804Z">
+        <seg>Selecteer &lt;m0&gt; &lt;g1&gt;Extra&lt;/g1&gt; &lt;g2&gt;Bestanden uitlijnen…&lt;/g2&gt; &lt;/m0&gt; om toegang te krijgen tot dit venster.</seg>
       </tuv>
     </tu>
     <tu>
