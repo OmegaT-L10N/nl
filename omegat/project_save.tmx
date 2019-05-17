@@ -835,8 +835,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;About...</seg>
       </tuv>
-      <tuv lang="NL" changeid="DiGro" changedate="20110112T185502Z">
-        <seg>&amp;Over...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T122113Z">
+        <seg>&amp;Over…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1075,8 +1075,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Check for Updates...</seg>
       </tuv>
-      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180605T080226Z" creationid="DiGro (Dick)" creationdate="20180605T080226Z">
-        <seg>&amp;Controleren op updates...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T122129Z" creationid="DiGro (Dick)" creationdate="20180605T080226Z">
+        <seg>&amp;Controleren op updates…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1211,8 +1211,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Editor...</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20160911T115707Z">
-        <seg>&amp;Bewerken (gedrag)...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T122050Z">
+        <seg>&amp;Bewerken (gedrag)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1515,8 +1515,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Last Changes...</seg>
       </tuv>
-      <tuv lang="NL" changeid="DiGro" changedate="20130416T150600Z">
-        <seg>&amp;Laatste wijzigingen...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T122118Z">
+        <seg>&amp;Laatste wijzigingen…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1939,8 +1939,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Search Project...</seg>
       </tuv>
-      <tuv lang="NL" changeid="DiGro" changedate="20110112T185241Z">
-        <seg>&amp;Zoeken in project...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T121952Z">
+        <seg>&amp;Zoeken in project…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1955,16 +1955,16 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Segment Number...</seg>
       </tuv>
-      <tuv lang="NL" changeid="DiGro" changedate="20110112T185344Z">
-        <seg>&amp;Segmentnummer...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T122018Z">
+        <seg>&amp;Segmentnummer…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&amp;Segmentation...</seg>
       </tuv>
-      <tuv lang="NL" changeid="DiGro" changedate="20110112T185436Z">
-        <seg>&amp;Segmentatie...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T122055Z">
+        <seg>&amp;Segmentatie…</seg>
       </tuv>
     </tu>
     <tu>
@@ -2211,8 +2211,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;User's Manual...</seg>
       </tuv>
-      <tuv lang="NL" changeid="DiGro" changedate="20110112T185501Z">
-        <seg>Gebr&amp;uikershandleiding...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T122108Z">
+        <seg>Gebr&amp;uikershandleiding…</seg>
       </tuv>
     </tu>
     <tu>
@@ -15210,8 +15210,8 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Check &amp;Issues...</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20170914T120724Z" creationid="Dirk" creationdate="20170914T120724Z">
-        <seg>Controleren op &amp;problemen...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T122031Z" creationid="Dirk" creationdate="20170914T120724Z">
+        <seg>Controleren op &amp;problemen…</seg>
       </tuv>
     </tu>
     <tu>
@@ -17680,8 +17680,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Create &amp;Glossary Entry...</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20150405T170009Z" creationid="Dirk" creationdate="20150405T170009Z">
-        <seg>Item voor &amp;woordenlijst maken...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T122006Z" creationid="Dirk" creationdate="20150405T170009Z">
+        <seg>Item voor &amp;woordenlijst maken…</seg>
       </tuv>
     </tu>
     <tu>
@@ -32130,8 +32130,8 @@ zelf bij de eerste keer dat het wordt uitgevoerd.</seg>
       <tuv lang="EN">
         <seg>Jumping to last edited segment...</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20141020T093752Z" creationid="Dirk" creationdate="20141020T093752Z">
-        <seg>Naar laatste bewerkte segment springen...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T122212Z" creationid="Dirk" creationdate="20141020T093752Z">
+        <seg>Naar laatste bewerkte segment springen…</seg>
       </tuv>
     </tu>
     <tu>
@@ -32467,8 +32467,8 @@ zelf bij de eerste keer dat het wordt uitgevoerd.</seg>
       <tuv lang="EN">
         <seg>L&amp;og...</seg>
       </tuv>
-      <tuv lang="NL" changeid="DiGro" changedate="20130518T113343Z">
-        <seg>L&amp;og...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T122123Z">
+        <seg>L&amp;og…</seg>
       </tuv>
     </tu>
     <tu>
@@ -44637,8 +44637,8 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Saving project...</seg>
       </tuv>
-      <tuv lang="NL" changeid="DiGro" changedate="20110112T185526Z">
-        <seg>Project opslaan...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T122146Z">
+        <seg>Project opslaan…</seg>
       </tuv>
     </tu>
     <tu>
@@ -44895,8 +44895,8 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       <tuv lang="EN">
         <seg>Search and Replace...</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20140419T142333Z" creationid="Dirk" creationdate="20140419T142333Z">
-        <seg>Zoeken en vervangen...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T121957Z" creationid="Dirk" creationdate="20140419T142333Z">
+        <seg>Zoeken en vervangen…</seg>
       </tuv>
     </tu>
     <tu>
