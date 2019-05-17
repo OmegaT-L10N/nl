@@ -23460,6 +23460,14 @@ sale, or importing the Program or any portion of it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly&lt;m4&gt; &lt;g5&gt;.&lt;/g5&gt; &lt;/m4&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T110542Z" creationid="Dick" creationdate="20190517T110542Z">
+        <seg>Bijvoorbeeld (als de standaard is geaccepteerd) zal de vertaling vanuit de aanvullende TM worden geaccepteerd en worden vooraf gegaan door&lt;e3&gt; [fuzzy]&lt;/e3&gt;, zodat de vertaler de vertalingen op een later tijdstip kan nakijken en controleren of segmenten die op deze manier zijn getagd, juist zijn vertaald&lt;m4&gt; &lt;g5&gt;.&lt;/g5&gt; &lt;/m4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instance, &lt;l0&gt;'run?'&lt;/l0&gt; would match the word &lt;l1&gt;'runs'&lt;/l1&gt; and &lt;l2&gt;'runn'&lt;/l2&gt; in the word &lt;l3&gt;'running'&lt;/l3&gt;.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T171122Z">
@@ -72910,6 +72918,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>source</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T110418Z" creationid="Dick" creationdate="20190517T110418Z">
+        <seg>source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>source = currSegment.getSrcText();</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170914T161748Z" creationid="DiGro (Dick)" creationdate="20170914T161748Z">
@@ -73218,6 +73234,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>tangible personal property which is normally used for personal, family,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>target</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T110428Z" creationid="Dick" creationdate="20190517T110428Z">
+        <seg>target</seg>
       </tuv>
     </tu>
     <tu>
@@ -73878,6 +73902,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>tm</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T110435Z" creationid="Dick" creationdate="20190517T110435Z">
+        <seg>tm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tm/auto</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T110550Z" creationid="Dick" creationdate="20190517T110550Z">
+        <seg>tm/auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>tm/auto folder</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T172447Z">
@@ -73886,10 +73926,26 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>tm/enforce</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T110612Z" creationid="Dick" creationdate="20190517T110612Z">
+        <seg>tm/enforce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>tm/enforce folder</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T172820Z">
         <seg>map tm/enforce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tm/mt</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T110620Z" creationid="Dick" creationdate="20190517T110620Z">
+        <seg>tm/mt</seg>
       </tuv>
     </tu>
     <tu>
