@@ -9548,6 +9548,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;r0&gt;Note:&lt;/r0&gt; it is possible to inhibit the window displaying at opening, by setting &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; to &lt;e2&gt;false&lt;/e2&gt; in &lt;f3&gt;omegat.prefs&lt;/f3&gt; file (accessible by &lt;m4&gt; &lt;g5&gt;Options&lt;/g5&gt; &lt;g6&gt;Access Configuration Folder&lt;/g6&gt; &lt;/m4&gt; menu).</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T115044Z" creationid="Dick" creationdate="20190517T115044Z">
+        <seg>&lt;r0&gt;Opmerking:&lt;/r0&gt; het is mogelijk te verhinderen dat het venster wordt weergegeven, door &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; in te stellen op &lt;e2&gt;false&lt;/e2&gt; in het bestand &lt;f3&gt;omegat.prefs&lt;/f3&gt; (toegankelijk via menu &lt;m4&gt; &lt;g5&gt;Opties&lt;/g5&gt; &lt;g6&gt;Toegang tot configuratiemap&lt;/g6&gt; &lt;/m4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;r0&gt;Note:&lt;/r0&gt; it is possible to inhibit this Project Files window displaying, by setting &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; to &lt;e2&gt;false&lt;/e2&gt; in &lt;f3&gt;omegat.prefs&lt;/f3&gt; file (accessible by Options / Access Configuration Folder menu).</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T095549Z">
@@ -41751,6 +41759,14 @@ lokaal project zonder functionaliteit voor team.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project Files</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T114747Z" creationid="Dick" creationdate="20190517T114747Z">
+        <seg>Projectbestanden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project Files ({0} of {1})</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160906T161237Z" creationid="Dirk" creationdate="20160906T161237Z">
@@ -56494,6 +56510,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T103929Z">
         <seg>Dit zal alleen werken als het bestandstype .jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This window is displayed automatically when OmegaT loads a project, and at any time by pressing &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Project Files...&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T114857Z" creationid="Dick" creationdate="20190517T114857Z">
+        <seg>Dit venster wordt automatisch weergegeven als OmegaT een project laadt en op elk moment door te drukken op &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Projectbestanden…&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
