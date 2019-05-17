@@ -37949,8 +37949,8 @@ OmegaT 4.0, Lees Mij-bestand</seg>
       <tuv lang="EN">
         <seg>OmegaT for Mac OS X is available in both signed and unsigned versions; they are functionally identical, but the signed version is preferred as it is recognized by the system as being published by a known developer.</seg>
       </tuv>
-      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20170915T151704Z" creationid="DiGro (Dick)" creationdate="20170915T151704Z">
-        <seg>OmegaT voor Mac OS X is beschikbaar in zowel ondertekende als niet ondertekende versies; functioneel zijn zij identiek, maar de voorkeur gata uit naar de ondertekende versie omdat die door het systeem wordt herkend als zijnde afkomstig van ene bekende ontwikkelaar.</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T130453Z" creationid="DiGro (Dick)" creationdate="20170915T151704Z">
+        <seg>OmegaT voor Mac OS X is beschikbaar in zowel ondertekende als niet ondertekende versies; functioneel zijn zij identiek, maar de voorkeur gaat uit naar de ondertekende versie omdat die door het systeem wordt herkend als zijnde afkomstig van een bekende ontwikkelaar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39800,8 +39800,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>Opens the &lt;l0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; window&lt;/l0&gt;, where the location of scripts can be set, and where scripts can be written, run and associated with a shortcut.</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dick" changedate="20190516T171450Z" creationid="Dick" creationdate="20190516T171450Z">
-        <seg>Opent het  &lt;l0&gt; venster &lt;g1&gt;Scripten&lt;/g1&gt;&lt;/l0&gt;, waar de locatie van scripts kan worden ingesteld, en waar scripts kunnen wordne geschreven, uitgevoerd en worden geassocieerd met een sneltoets.</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T130332Z" creationid="Dick" creationdate="20190516T171450Z">
+        <seg>Opent het  &lt;l0&gt; venster &lt;g1&gt;Scripten&lt;/g1&gt;&lt;/l0&gt;, waar de locatie van scripts kan worden ingesteld, en waar scripts kunnen worden geschreven, uitgevoerd en worden geassocieerd met een sneltoets.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40176,8 +40176,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>Other dropped files will be copied to the &lt;f1&gt;source&lt;/f1&gt; folder.</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20160910T174735Z" creationid="Dirk" creationdate="20160910T174735Z">
-        <seg>Andere neergezette bestanden zullen wordne gekopieerd naar de map &lt;f1&gt;source&lt;/f1&gt;.</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T130342Z" creationid="Dirk" creationdate="20160910T174735Z">
+        <seg>Andere neergezette bestanden zullen worden gekopieerd naar de map &lt;f1&gt;source&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46059,8 +46059,8 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       <tuv lang="EN">
         <seg>Select the two files to be aligned (the source file and its translation) and click OK to open the &lt;l0&gt;&lt;g1&gt;Align&lt;/g1&gt; window&lt;/l0&gt;.</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dick" changedate="20190517T130301Z" creationid="Dick" creationdate="20190516T171042Z">
-        <seg>Selecteer de twee bestanden die moeten worden uitgelijnd (het bronbestand en de vertaling ervan) en klik op OK om het  &lt;l0&gt;venster &lt;g1&gt;Uitlijnen&lt;/g1&gt;&lt;/l0&gt; te openen.</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T130309Z" creationid="Dick" creationdate="20190516T171042Z">
+        <seg>Selecteer de twee bestanden die moeten worden uitgelijnd (het bronbestand en de vertaling ervan) en klik op OK om het &lt;l0&gt;venster &lt;g1&gt;Uitlijnen&lt;/g1&gt;&lt;/l0&gt; te openen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53604,8 +53604,8 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="EN">
         <seg>The source and target files can have different formats (for example, a &lt;f0&gt;.docx&lt;/f0&gt; file can be aligned with a &lt;f1&gt;.pdf&lt;/f1&gt; file).</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dick" changedate="20190516T171228Z" creationid="Dick" creationdate="20190516T171228Z">
-        <seg>De bron- en doelbestanden mogen verschillende indelingen hebben (bijvoorbeeld: een bestand &lt;f0&gt;.docx&lt;/f0&gt; kan wordne uitgelijnd met een bestand &lt;f1&gt;.pdf&lt;/f1&gt;).</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T130323Z" creationid="Dick" creationdate="20190516T171228Z">
+        <seg>De bron- en doelbestanden mogen verschillende indelingen hebben (bijvoorbeeld: een bestand &lt;f0&gt;.docx&lt;/f0&gt; kan worden uitgelijnd met een bestand &lt;f1&gt;.pdf&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -60094,8 +60094,8 @@ Opdrachten:
       <tuv lang="EN">
         <seg>Use an SVN or Git client to add the files to translate.</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dick" changedate="20190516T123307Z" creationid="Dick" creationdate="20190516T123307Z">
-        <seg>Gebruik ene cliënt voor SVN of Git om de te vertalen bestanden toe te voegen.</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T130413Z" creationid="Dick" creationdate="20190516T123307Z">
+        <seg>Gebruik een cliënt voor SVN of Git om de te vertalen bestanden toe te voegen.</seg>
       </tuv>
     </tu>
     <tu>
