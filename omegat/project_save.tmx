@@ -11794,8 +11794,8 @@ the above requirements apply either way.</seg>
       <tuv lang="EN">
         <seg>All other files will be replaced by the files in the remote repository.</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dick" changedate="20190516T133012Z" creationid="Dick" creationdate="20190516T133012Z">
-        <seg>Alle ander bestanden zullen wordne vervangen door de bestanden in de opslagplaats op afstand.</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T130210Z" creationid="Dick" creationdate="20190516T133012Z">
+        <seg>Alle ander bestanden zullen worden vervangen door de bestanden in de opslagplaats op afstand.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27469,8 +27469,8 @@ notice like this when it starts in an interactive mode:</seg>
       <tuv lang="EN">
         <seg>If the project uses specific filters and segmentation parameters, both the &lt;f0&gt;filters.xml&lt;/f0&gt; and &lt;f1&gt;segmentation.conf&lt;/f1&gt; files must be added to the versioning system and published on the server.</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dick" changedate="20190516T123218Z" creationid="Dick" creationdate="20190516T123218Z">
-        <seg>Als het project specifieke filters en parameters voor segmentatie gebruikt, moeten beide bestanden &lt;f0&gt;filters.xml&lt;/f0&gt; en &lt;f1&gt;segmentation.conf&lt;/f1&gt; worden toegevoegd aan het versiesysteem en wordne gepubliceerd op de server.</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T130131Z" creationid="Dick" creationdate="20190516T123218Z">
+        <seg>Als het project specifieke filters en parameters voor segmentatie gebruikt, moeten beide bestanden &lt;f0&gt;filters.xml&lt;/f0&gt; en &lt;f1&gt;segmentation.conf&lt;/f1&gt; worden toegevoegd aan het versiesysteem en worden gepubliceerd op de server.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36812,8 +36812,8 @@ measures.</seg>
       <tuv lang="EN">
         <seg>Note that only two files are modified by OmegaT during translation:</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dick" changedate="20190516T123801Z" creationid="Dick" creationdate="20190516T123801Z">
-        <seg>Onthoud dat slechts twee bestanden wordne anagepast door OmegaT tijdens het vertalen:</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T130155Z" creationid="Dick" creationdate="20190516T123801Z">
+        <seg>Onthoud dat slechts twee bestanden worden aangepast door OmegaT tijdens het vertalen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -37124,8 +37124,8 @@ measures.</seg>
       <tuv lang="EN">
         <seg>Note: these two instructions can be combined by writing &lt;u0&gt;(&lt;.*?&gt;)|(\d+)&lt;/u0&gt;.</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dick" changedate="20190516T114437Z" creationid="Dick" creationdate="20190516T114437Z">
-        <seg>Opmerking: deze twee instructies kunnen wordne gecombineerd door te schrijven: &lt;u0&gt;(&lt;.*?&gt;)|(\d+)&lt;/u0&gt;.</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T130108Z" creationid="Dick" creationdate="20190516T114437Z">
+        <seg>Opmerking: deze twee instructies kunnen worden gecombineerd door te schrijven: &lt;u0&gt;(&lt;.*?&gt;)|(\d+)&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41280,8 +41280,8 @@ of er nog aanvullende stappen moeten worden uitgevoerd.</seg>
       <tuv lang="EN">
         <seg>Plugins are installed in the &lt;f0&gt;/plugins&lt;/f0&gt; folder.</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dick" changedate="20190516T121130Z" creationid="Dick" creationdate="20190516T121130Z">
-        <seg>Plug-ins wordne geïnstalleerd in de map &lt;f0&gt;/plugins&lt;/f0&gt;.</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T130118Z" creationid="Dick" creationdate="20190516T121130Z">
+        <seg>Plug-ins worden geïnstalleerd in de map &lt;f0&gt;/plugins&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46059,8 +46059,8 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       <tuv lang="EN">
         <seg>Select the two files to be aligned (the source file and its translation) and click OK to open the &lt;l0&gt;&lt;g1&gt;Align&lt;/g1&gt; window&lt;/l0&gt;.</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dick" changedate="20190516T171042Z" creationid="Dick" creationdate="20190516T171042Z">
-        <seg>Selecteer de twee bestanden die moeten wordne uitgelijnd (het bronbestand en de vertaling ervan) en klik op OK om het venster &lt;l0&gt;&lt;g1&gt;Uitlijnen&lt;/g1&gt; te openen&lt;/l0&gt;.</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T130301Z" creationid="Dick" creationdate="20190516T171042Z">
+        <seg>Selecteer de twee bestanden die moeten worden uitgelijnd (het bronbestand en de vertaling ervan) en klik op OK om het  &lt;l0&gt;venster &lt;g1&gt;Uitlijnen&lt;/g1&gt;&lt;/l0&gt; te openen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46787,8 +46787,8 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       <tuv lang="EN">
         <seg>Similarly, enter &lt;u0&gt;&lt;.*?&gt;&lt;/u0&gt; to make sure that HTML tags (for example) entered into the source text are preserved without modification in the translation.</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dick" changedate="20190516T114353Z" creationid="Dick" creationdate="20190516T114353Z">
-        <seg>Voer op soortgelijke wijze &lt;u0&gt;&lt;.*?&gt;&lt;/u0&gt; in om er voor te zorgen dat HTML-tags (bijvoorbeeld) die zijn ingevoerd in de bron zonder aanpassingen wordne behouden in de vertaling.</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T130103Z" creationid="Dick" creationdate="20190516T114353Z">
+        <seg>Voer op soortgelijke wijze &lt;u0&gt;&lt;.*?&gt;&lt;/u0&gt; in om er voor te zorgen dat HTML-tags (bijvoorbeeld) die zijn ingevoerd in de bron zonder aanpassingen worden behouden in de vertaling.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54806,8 +54806,8 @@ not accept this License.</seg>
       <tuv lang="EN">
         <seg>These files won't be deleted automatically on the translator's side: you must ask them to delete the files manually.</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dick" changedate="20190516T123732Z" creationid="Dick" creationdate="20190516T123732Z">
-        <seg>Deze bestanden zullen niet automatisch wordne verwijderd aan de zijde van de vertaler: u zult ze moeten vragen om de bestanden handmatig te verwijderen.</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T130146Z" creationid="Dick" creationdate="20190516T123732Z">
+        <seg>Deze bestanden zullen niet automatisch worden verwijderd aan de zijde van de vertaler: u zult ze moeten vragen om de bestanden handmatig te verwijderen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55362,8 +55362,8 @@ permission to run the unmodified Program.</seg>
       <tuv lang="EN">
         <seg>This can also be done within OmegaT:</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dick" changedate="20190516T123321Z" creationid="Dick" creationdate="20190516T123321Z">
-        <seg>Dit kan ook binnen OmegaT wordne gedaan:</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T130138Z" creationid="Dick" creationdate="20190516T123321Z">
+        <seg>Dit kan ook binnen OmegaT worden gedaan:</seg>
       </tuv>
     </tu>
     <tu>
