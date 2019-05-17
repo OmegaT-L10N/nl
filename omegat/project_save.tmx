@@ -13882,6 +13882,18 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bartender yells loud:
+Your page cannot be found, boy
+Buy another drink</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T122544Z" creationid="Dick" creationdate="20190517T122507Z">
+        <seg>Barkeeper roept luidkeels:
+Jammer, uw pagina kan niet worden gevonden, boy
+Neem nog een biertje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bartender yells loud:&lt;p&gt;Your page cannot be found, boy&lt;p&gt;Buy another drink.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T185901Z">
@@ -40362,6 +40374,18 @@ free programs, and that you know you can do these things.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Page slips through fingers
+Pulse pounding hard and frantic
+Vanishing like mist</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T122529Z" creationid="Dick" creationdate="20190517T122529Z">
+        <seg>Pagina door de vingers geglipt
+Onregelmatig ritme
+Verdwenen als mist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Page slips through fingers&lt;p&gt;Pulse pounding hard and frantic&lt;p&gt;Vanishing like mist.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T185902Z">
@@ -62117,6 +62141,18 @@ Zowel exacte als zoekacties op sleutelwoorden ondersteunen de jokertekens * en ?
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T160306Z">
         <seg>Zal een lijst weergeven waarin de segmenten met tagfouten en mogelijke onvolkomenheden staan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wind catches lily
+Scatt'ring petals to the wind:
+Your page is not found</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T122559Z" creationid="Dick" creationdate="20190517T122506Z">
+        <seg>Wind vangt lelie
+Verspreid blaadjes in de wind:
+Uw pagina werd niet gevonden</seg>
       </tuv>
     </tu>
     <tu>
