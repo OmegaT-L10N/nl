@@ -1035,8 +1035,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Browse TaaS Collections...</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20150413T104349Z" creationid="Dirk" creationdate="20140813T172829Z">
-        <seg>TaaS Collections &amp;bladeren...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T123658Z" creationid="Dirk" creationdate="20140813T172829Z">
+        <seg>TaaS Collections &amp;bladeren…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1555,8 +1555,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Load...</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20130930T165334Z" creationid="Dirk" creationdate="20130930T165334Z">
-        <seg>&amp;Laden...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T123628Z" creationid="Dirk" creationdate="20130930T165334Z">
+        <seg>&amp;Laden…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1923,8 +1923,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Save...</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20130930T165339Z" creationid="Dirk" creationdate="20130930T165339Z">
-        <seg>&amp;Opslaan...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T123621Z" creationid="Dirk" creationdate="20130930T165339Z">
+        <seg>&amp;Opslaan…</seg>
       </tuv>
     </tu>
     <tu>
@@ -14336,8 +14336,8 @@ Neem nog een biertje.</seg>
       <tuv lang="EN">
         <seg>Browse...</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20170104T180745Z" creationid="Dirk" creationdate="20170104T180745Z">
-        <seg>Bladeren...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T123752Z" creationid="Dirk" creationdate="20170104T180745Z">
+        <seg>Bladeren…</seg>
       </tuv>
     </tu>
     <tu>
@@ -15718,8 +15718,8 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Checking out the project...</seg>
       </tuv>
-      <tuv lang="NL" changeid="DiGro" changedate="20120708T191418Z">
-        <seg>Uitchecken van het project...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T123522Z">
+        <seg>Uitchecken van het project…</seg>
       </tuv>
     </tu>
     <tu>
@@ -19198,8 +19198,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Detecting...</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20140813T172646Z" creationid="Dirk" creationdate="20140813T172646Z">
-        <seg>Detecteren...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T123550Z" creationid="Dirk" creationdate="20140813T172646Z">
+        <seg>Detecteren…</seg>
       </tuv>
     </tu>
     <tu>
@@ -25491,8 +25491,8 @@ Het is er wintertijd voor</seg>
       <tuv lang="EN">
         <seg>Highlight Pattern...</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20160906T173011Z" creationid="Dirk" creationdate="20160906T173011Z">
-        <seg>Patroon accentueren...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T123804Z" creationid="Dirk" creationdate="20160906T173011Z">
+        <seg>Patroon accentueren…</seg>
       </tuv>
     </tu>
     <tu>
@@ -41885,8 +41885,8 @@ lokaal project zonder functionaliteit voor team.</seg>
       <tuv lang="EN">
         <seg>Processing...</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20140419T144520Z" creationid="Dirk" creationdate="20140419T144520Z">
-        <seg>Verwerken...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T123647Z" creationid="Dirk" creationdate="20140419T144520Z">
+        <seg>Verwerken…</seg>
       </tuv>
     </tu>
     <tu>
@@ -43943,16 +43943,16 @@ Deze woorden: 'Pagina niet gevonden'</seg>
       <tuv lang="EN">
         <seg>Retrieve collection list...</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20140813T173011Z" creationid="Dirk" creationdate="20140813T173011Z">
-        <seg>Lijst collectie ophalen...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T123713Z" creationid="Dirk" creationdate="20140813T173011Z">
+        <seg>Lijst collectie ophalen…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Retrieve domain list...</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20140813T173037Z" creationid="Dirk" creationdate="20140813T173037Z">
-        <seg>Lijst domein ophalen...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T123718Z" creationid="Dirk" creationdate="20140813T173037Z">
+        <seg>Lijst domein ophalen…</seg>
       </tuv>
     </tu>
     <tu>
@@ -45867,8 +45867,8 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       <tuv lang="EN">
         <seg>Select TaaS Terminology &amp;Lookup Domain...</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20170914T124344Z" creationid="Dirk" creationdate="20170914T124344Z">
-        <seg>TaaS Terminology &amp;Lookup Domain selecteren...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T123705Z" creationid="Dirk" creationdate="20170914T124344Z">
+        <seg>TaaS Terminology &amp;Lookup Domain selecteren…</seg>
       </tuv>
     </tu>
     <tu>
@@ -49409,8 +49409,8 @@ APPLICABLE LAW.</seg>
       <tuv lang="EN">
         <seg>Team synchronization...</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20160911T114843Z">
-        <seg>Team synchroniseren...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T123533Z">
+        <seg>Team synchroniseren…</seg>
       </tuv>
     </tu>
     <tu>
@@ -49425,8 +49425,8 @@ APPLICABLE LAW.</seg>
       <tuv lang="EN">
         <seg>Team synchronization: Waiting for you to finish this segment...</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20140813T172619Z" creationid="Dirk" creationdate="20140813T172619Z">
-        <seg>Team synchroniseren: Wacht op u om dit segment te voltooien...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T123538Z" creationid="Dirk" creationdate="20140813T172619Z">
+        <seg>Team synchroniseren: Wacht op u om dit segment te voltooien…</seg>
       </tuv>
     </tu>
     <tu>
