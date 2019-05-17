@@ -16800,6 +16800,14 @@ OmegaT gebruikt de volgende bibliotheken:
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contains project parameters as defined in the &lt;l0&gt;Project properties&lt;/l0&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T111910Z" creationid="Dick" creationdate="20190517T111910Z">
+        <seg>Bevat parameters voor het project, zoals gedefinieerd in het dialoogvenster &lt;l0&gt;Projecteigenschappen&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contents</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110114T185011Z">
@@ -68388,6 +68396,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>if existing, it contains project-specific GUI settings.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T111817Z" creationid="Dick" creationdate="20190517T111817Z">
+        <seg>als het bestaat bevat het project-specifieke instellingen voor de GUI&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>if existing, it contains project-specific file filters, if requested in &lt;g0&gt;Project &gt; Properties ... &lt;/g0&gt;See &lt;l1&gt;Chapter Project properties&lt;/l1&gt;</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T134754Z">
@@ -68396,10 +68412,26 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>if existing, it contains project-specific file filters.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T111747Z" creationid="Dick" creationdate="20190517T111747Z">
+        <seg>als het bestaat bevat het project-specifieke bestandsfilters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>if existing, it contains project-specific segmentation rules, if requested in &lt;g0&gt;Project &gt; Properties ... &lt;/g0&gt;See &lt;l1&gt;Chapter Project properties&lt;/l1&gt;</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T134753Z">
         <seg>indien aanwezig bevat het projectspecifieke segmentatieregels, indien vereist in &lt;g0&gt;Project &gt; Eigenschappen ... &lt;/g0&gt;Bekijk &lt;l1&gt;hoofdstuk Projecteigenschappen&lt;/l1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>if existing, it contains project-specific segmentation rules.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T111730Z" creationid="Dick" creationdate="20190517T111730Z">
+        <seg>als het bestaat bevat het project-specifieke segmentatieregels.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70738,6 +70770,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>omegat.prefs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>omegat.project (file)</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T111825Z" creationid="Dick" creationdate="20190517T111825Z">
+        <seg>omegat.project (bestand)</seg>
       </tuv>
     </tu>
     <tu>
