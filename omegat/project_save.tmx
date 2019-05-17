@@ -15752,6 +15752,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose the one that provides the best results.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T113452Z" creationid="Dick" creationdate="20190517T113452Z">
+        <seg>Kies die welke de beste resultaten geeft.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose&lt;g0&gt; SVN.&lt;/g0&gt;</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T110629Z">
@@ -15844,6 +15852,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T170539Z">
         <seg>Klik op &lt;e2&gt;Volgende vervangen&lt;/e2&gt; of &lt;e3&gt;Overslaan&lt;/e3&gt;, en beëindig de sessie van het vervangen met &lt;e4&gt;Voltooien&lt;/e4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;g0&gt;Continue&lt;/g0&gt; to access the next step.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T113806Z" creationid="Dick" creationdate="20190517T113806Z">
+        <seg>Klik op &lt;g0&gt;Doorgaan&lt;/g0&gt; om naar de volgende stap te gaan.</seg>
       </tuv>
     </tu>
     <tu>
