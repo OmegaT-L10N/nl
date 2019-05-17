@@ -20612,8 +20612,8 @@ werd project_save.tmx niet echt geüpload en SVN schakelde naar een onstabiele s
       <tuv lang="EN">
         <seg>E&amp;xclusions...</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20140813T171615Z" creationid="Dirk" creationdate="20140813T171615Z">
-        <seg>U&amp;itgesloten...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T122936Z" creationid="Dirk" creationdate="20140813T171615Z">
+        <seg>U&amp;itgesloten…</seg>
       </tuv>
     </tu>
     <tu>
@@ -21154,8 +21154,8 @@ Uw helppagina werd niet gevonden</seg>
       <tuv lang="EN">
         <seg>Enable them in &lt;b&gt;Preferences &gt; Saving and Output...&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20170914T121407Z" creationid="Dirk" creationdate="20170914T121407Z">
-        <seg>Schakel ze in via &lt;b&gt;Voorkeuren &gt; Opslaan en uitvoer...&lt;/b&gt;.&lt;/html&gt;</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T122926Z" creationid="Dirk" creationdate="20170914T121407Z">
+        <seg>Schakel ze in via &lt;b&gt;Voorkeuren &gt; Opslaan en uitvoer…&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -43735,8 +43735,8 @@ Deze woorden: 'Pagina niet gevonden'</seg>
       <tuv lang="EN">
         <seg>Repository Mapping...</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20160906T161618Z" creationid="Dirk" creationdate="20160906T161618Z">
-        <seg>Mappen in opslagplaats...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T122945Z" creationid="Dirk" creationdate="20160906T161618Z">
+        <seg>Mappen in opslagplaats…</seg>
       </tuv>
     </tu>
     <tu>
@@ -59778,8 +59778,8 @@ op regel {1}, kolom {2}.</seg>
       <tuv lang="EN">
         <seg>Upgrading...</seg>
       </tuv>
-      <tuv lang="NL" changeid="DiGro" changedate="20110112T190447Z">
-        <seg>Bijwerken...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T123123Z">
+        <seg>Bijwerken…</seg>
       </tuv>
     </tu>
     <tu>
