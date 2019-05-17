@@ -29045,8 +29045,8 @@ work and works based on it.</seg>
       <tuv lang="EN">
         <seg>In &lt;g0&gt;Heapwise&lt;/g0&gt; mode, the texts are evaluated globally.</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dick" changedate="20190517T113053Z" creationid="Dick" creationdate="20190517T113053Z">
-        <seg>In modus &lt;g0&gt;Heapwise&lt;/g0&gt; worden de teksten globaal geëvalueerd.</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T124808Z" creationid="Dick" creationdate="20190517T113053Z">
+        <seg>In modus &lt;g0&gt;Heap-gewijze&lt;/g0&gt; worden de teksten globaal geëvalueerd.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29061,8 +29061,8 @@ work and works based on it.</seg>
       <tuv lang="EN">
         <seg>In &lt;g1&gt;Parsewise&lt;/g1&gt; mode, they are evaluated segment by segment.</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dick" changedate="20190517T113119Z" creationid="Dick" creationdate="20190517T113119Z">
-        <seg>In modus &lt;g1&gt;Parsewise&lt;/g1&gt; worden zij segment na segment geëvalueerd.</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T124816Z" creationid="Dick" creationdate="20190517T113119Z">
+        <seg>In modus &lt;g1&gt;Parse-gewijze&lt;/g1&gt; worden zij segment na segment geëvalueerd.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50051,8 +50051,8 @@ for making modifications to it.</seg>
       <tuv lang="EN">
         <seg>The &lt;g0&gt;Viterbi&lt;/g0&gt; and &lt;g1&gt;Forward-Backward&lt;/g1&gt; algorithms are two different calculation methods.</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dick" changedate="20190517T113435Z" creationid="Dick" creationdate="20190517T113435Z">
-        <seg>De algoritmen &lt;g0&gt;Viterbi&lt;/g0&gt; en &lt;g1&gt;Forward-Backward&lt;/g1&gt; zijn twee verschillende methoden voor berekenen.</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T124844Z" creationid="Dick" creationdate="20190517T113435Z">
+        <seg>De algoritmen &lt;g0&gt;Viterbi&lt;/g0&gt; en &lt;g1&gt;Vooruit-Terug&lt;/g1&gt; zijn twee verschillende methoden voor berekenen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59990,8 +59990,8 @@ Opdrachten:
       <tuv lang="EN">
         <seg>Use &lt;g0&gt;ID comparison&lt;/g0&gt; mode to align Key=Value texts.</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dick" changedate="20190517T113153Z" creationid="Dick" creationdate="20190517T113153Z">
-        <seg>Gebruik modus &lt;g0&gt;ID comparison&lt;/g0&gt; om teksten met Sleutel=Waarde uit te lijnen.</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T124821Z" creationid="Dick" creationdate="20190517T113153Z">
+        <seg>Gebruik modus &lt;g0&gt;ID vergelijking&lt;/g0&gt; om teksten met Sleutel=Waarde uit te lijnen.</seg>
       </tuv>
     </tu>
     <tu>
