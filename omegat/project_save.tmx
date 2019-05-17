@@ -12832,6 +12832,14 @@ paragraph of section 11).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Appendices</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T105809Z" creationid="Dick" creationdate="20190517T105809Z">
+        <seg>Appendices</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Application files</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T135136Z">
@@ -37104,6 +37112,14 @@ combined work, and to convey the resulting work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Of course, pressing &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;5&lt;/k3&gt; &lt;/k1&gt; will have no effect, if there is no match #5.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T110110Z" creationid="Dick" creationdate="20190517T110110Z">
+        <seg>Uiteraard zal het drukken op &lt;k1&gt;&lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;5&lt;/k3&gt; &lt;/k1&gt; geen effect hebben als er geen overeenkomst #5 is.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Of course, the encoding must be compatible with both the languages contained, so Unicode is recommended.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T140221Z" creationid="Dirk" creationdate="20160910T140221Z">
@@ -40010,6 +40026,14 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T174355Z">
         <seg>Pictogrammen voor vensters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Panes</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T105817Z" creationid="Dick" creationdate="20190517T105817Z">
+        <seg>Vensters</seg>
       </tuv>
     </tu>
     <tu>
@@ -46085,6 +46109,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T134902Z">
         <seg>Als OmegaT zich niet goed lijkt te gedragen is het belangrijk om dit bestand of het relevante gedeelte daarvan op te nemen in een foutenrapport.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Should you lose track of your changes to the user interface, you can use &lt;g0&gt; Options → Restore the main window&lt;/g0&gt; any time to return to the original layout.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T105850Z" creationid="Dick" creationdate="20190517T105850Z">
+        <seg>Indien u niet meer weet welke wijzigingen u aan de gebruikersinterface heeft aangebracht, kunt u op elk moment &lt;g0&gt;Opties → Hoofdvenster herstellen&lt;/g0&gt; gebruiken om terug te keren naar de originele lay-out.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53558,6 +53590,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T175053Z">
         <seg>Het bovenste gedeelte is weergegeven in de brontaal, in vette tekens met een groene achtergrondkleur, het onderste gedeelte is het bewerkingsveld, gescheiden door een markering: &lt;i0/&gt;de markering is &lt;l1&gt;&lt;segment nnnn&gt;&lt;/l1&gt; waarbij nnnn het getal is van het segment in het project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The upper part is in the source language, in bold characters with a green background color, the lower part is the editing field, ended by a marker: the marker is &lt;l0&gt;&lt;segment nnnn&gt;&lt;/l0&gt; where nnnn is a number of the segment in the project.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T105926Z" creationid="Dick" creationdate="20190517T105926Z">
+        <seg>Het bovenste gedeelte is weergegeven in de brontaal, in vette tekens met een groene achtergrondkleur, het onderste gedeelte is het bewerkingsveld, gescheiden door een markering: de markering is &lt;l0&gt;&lt;segment nnnn&gt;&lt;/l0&gt; waarbij nnnn het getal is van het segment in het project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63521,6 +63561,14 @@ provided under this License.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131225T154822Z" creationid="Dirk" creationdate="20131225T154822Z">
         <seg>U zou kunnen prefereren om &lt;i0&gt;niet&lt;/i0&gt; uw gewone browser te gebruiken voor de functie Voorbeeld om die vrij te houden voor het browsen op internet in plaats van constant te moeten wisselen van tabs, dus kunt u het installeren van een aanvullende browser voor de functie Voorbeeld als een voordeel beschouwen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may select a different match by pressing &lt;g0&gt;Ctrl+2, 3, 4, or 5&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T110014Z" creationid="Dick" creationdate="20190517T110014Z">
+        <seg>U kunt een andere overeenkomst selecteren door te drukken op  &lt;g0&gt;Ctrl+2, 3, 4, of 5&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
