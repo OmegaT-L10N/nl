@@ -28847,10 +28847,26 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In &lt;g0&gt;Heapwise&lt;/g0&gt; mode, the texts are evaluated globally.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T113053Z" creationid="Dick" creationdate="20190517T113053Z">
+        <seg>In modus &lt;g0&gt;Heapwise&lt;/g0&gt; worden de teksten globaal geëvalueerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In &lt;g0&gt;Options &gt; External TMXs&lt;/g0&gt;, a number of variables allow to configure the display of the match pane:</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T095134Z">
         <seg>In &lt;g0&gt;Opties &gt; Externe TMXen&lt;/g0&gt; maken een aantal variabelen het mogelijk om de weergave van het venster Overeenkomsten te configureren:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In &lt;g1&gt;Parsewise&lt;/g1&gt; mode, they are evaluated segment by segment.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T113119Z" creationid="Dick" creationdate="20190517T113119Z">
+        <seg>In modus &lt;g1&gt;Parsewise&lt;/g1&gt; worden zij segment na segment geëvalueerd.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29229,6 +29245,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T135643Z">
         <seg>In veel gevallen is het echter noodzakelijk om LTR-tekst in RTL-tekst in te bedden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In most cases, the lower the &lt;g0&gt;Average score&lt;/g0&gt; is, better the alignment will be.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T113028Z" creationid="Dick" creationdate="20190517T113028Z">
+        <seg>In de meeste gevallen geldt: hoe lager de &lt;g0&gt;Gemiddelde score&lt;/g0&gt; is, hoe beter de uitlijning zal zijn.</seg>
       </tuv>
     </tu>
     <tu>
