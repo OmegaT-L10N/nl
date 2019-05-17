@@ -49825,6 +49825,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;g2&gt;Project Files&lt;/g2&gt; Window displays the following information:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T115142Z" creationid="Dick" creationdate="20190517T115111Z">
+        <seg>Het venster &lt;g2&gt;Projectbestanden&lt;/g2&gt; geeft de volgende informatie weer:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;k4&gt; &lt;k5&gt;Shift&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; toggle has three states:</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T135628Z">
@@ -58786,6 +58794,14 @@ Exacte zoekacties komen overeen met de gehele zoekterm.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Typing any text will open a &lt;g0&gt;Filter&lt;/g0&gt; field where parts of filenames can be entered.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T115202Z" creationid="Dick" creationdate="20190517T115202Z">
+        <seg>Typen van enige tekst zal een veld &lt;g0&gt;Filter&lt;/g0&gt; openen waar delen van bestandsnamen kunnen worden ingevoegd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Typing any text will open a Filter field where parts of filenames can be entered.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T095639Z" creationid="Dirk" creationdate="20160911T095639Z">
@@ -59656,6 +59672,14 @@ Opdrachten:
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T131945Z" creationid="Dirk" creationdate="20170914T131945Z">
         <seg>Gebruik &lt;a0&gt;OmegaT’s&lt;/a0&gt; standaard filter (PDF invoer), vertaal, maak een doelbestand (het zal een platte tekstbestand zijn), voeg relevante opmaak en items handmatig toe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &lt;g0&gt;Ctrl+L&lt;/g0&gt; to open and &lt;k1&gt;Esc&lt;/k1&gt; to close it.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T115121Z" creationid="Dick" creationdate="20190517T115104Z">
+        <seg>Gebruik &lt;g0&gt;Ctrl+L&lt;/g0&gt; om het te openen en &lt;k1&gt;Esc&lt;/k1&gt; om het te sluiten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63419,6 +63443,14 @@ installatie krijgen door het installatiescript te gebruiken (linux-install.sh).<
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T095812Z" creationid="Dirk" creationdate="20160911T095812Z">
         <seg>U kunt een bestand selecteren met de toetsen &lt;k0&gt;Naar boven&lt;/k0&gt; en &lt;k1&gt;Naar beneden&lt;/k1&gt;, en het voor vertaling openen door te drukken op &lt;k2&gt;Enter&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can select a file with &lt;k1&gt;Up&lt;/k1&gt; and &lt;k2&gt;Down&lt;/k2&gt; keys, and open it for translation by pressing &lt;k3&gt;Enter&lt;/k3&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T115239Z" creationid="Dick" creationdate="20190517T115239Z">
+        <seg>U kunt een bestand selecteren met de toetsen &lt;k1&gt;Naar boven&lt;/k1&gt; en &lt;k2&gt;Naar beneden&lt;/k2&gt;, en het voor vertaling openen door te drukken op &lt;k3&gt;Enter&lt;/k3&gt;</seg>
       </tuv>
     </tu>
     <tu>
