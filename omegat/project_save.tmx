@@ -11440,6 +11440,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After several of these operations, select &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Realign pending&lt;/g2&gt; &lt;/m0&gt; to update the alignment of the other segments.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T114248Z" creationid="Dick" creationdate="20190517T114248Z">
+        <seg>Selecteer, na verscheidene van deze bewerkingen, &lt;m0&gt; &lt;g1&gt;Bewerken&lt;/g1&gt; &lt;g2&gt;Realign pending&lt;/g2&gt; &lt;/m0&gt; om het uitlijnen van de andere segmenten bij te werken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After the automatic process, the alignment of two files generally requires manual corrections.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dick" changedate="20190517T113854Z" creationid="Dick" creationdate="20190517T113854Z">
@@ -15900,6 +15908,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120401T153041Z">
         <seg>Klik in het vak voor een nieuwe toetsencombinatie, en experimenteer met de toetsencombinaties om er een te vinden die nog niet is toegewezen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click in the other column on the translation corresponding to the first segment.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T114138Z" creationid="Dick" creationdate="20190517T114138Z">
+        <seg>Klik in de andere kolom op de vertaling die overeenkomt met het eerste segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57422,6 +57438,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dick" changedate="20190516T110405Z" creationid="Dick" creationdate="20190516T110405Z">
         <seg>Selecteer, om de opties aan te passen, het filter in de lijst en klik op &lt;e0&gt;Opties&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To modify the position of one or more segments individually, select the segment(s) and press &lt;u0&gt;U&lt;/u0&gt; (&lt;g1&gt;Move Up&lt;/g1&gt;) or &lt;u2&gt;D&lt;/u2&gt; (&lt;g3&gt;Move Down&lt;/g3&gt;).</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T114407Z" creationid="Dick" creationdate="20190517T114407Z">
+        <seg>Selecteer de/het segment(en) en druk op &lt;u0&gt;U&lt;/u0&gt; (&lt;g1&gt;Move Up&lt;/g1&gt;) of &lt;u2&gt;D&lt;/u2&gt; (&lt;g3&gt;Move Down&lt;/g3&gt;) om de positie van een of meer segmenten individueel aan te passen.</seg>
       </tuv>
     </tu>
     <tu>
