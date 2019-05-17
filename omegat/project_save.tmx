@@ -12194,6 +12194,14 @@ organization, or merging organizations.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An OmegaT project is a folder containing files and subfolders.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T110407Z" creationid="Dick" creationdate="20190517T110407Z">
+        <seg>Een OmegaT-project is een map die bestanden en submappen bevat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An alternative to running the CodeZapper macro on your text is to "level" the formatting.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120401T150827Z">
@@ -25349,6 +25357,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How To...</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T110315Z" creationid="Dick" creationdate="20190517T110315Z">
+        <seg>How-To…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>How they do so is very much up to them.</seg>
       </tuv>
       <tuv lang="NL">
@@ -34592,6 +34608,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Menus</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T110324Z" creationid="Dick" creationdate="20190517T110324Z">
+        <seg>Menu's</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mere interaction with a user through</seg>
       </tuv>
       <tuv lang="NL">
@@ -39662,6 +39686,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Orphan segments (the match #2) describe segments in the default project translation memory that have no corresponding source segment.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T110301Z" creationid="Dick" creationdate="20190517T110301Z">
+        <seg>Wezen-segmenten (de overeenkomst #2) beschrijven segmenten in het standaard vertaalgeheugen van het project die geen overeenkomend bronsegment hebben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Orphan segments&lt;i2/&gt; (the match #2) describe segments in the default project translation memory that have no corresponding source segment.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T095114Z">
@@ -41699,6 +41731,14 @@ lokaal project zonder functionaliteit voor team.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T162941Z">
         <seg>Lijst projectbestanden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project folder</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T110332Z" creationid="Dick" creationdate="20190517T110332Z">
+        <seg>Projectmap</seg>
       </tuv>
     </tu>
     <tu>
@@ -51784,6 +51824,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The line with the matching percentage also includes the name of the translation memory containing the match.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T110230Z" creationid="Dick" creationdate="20190517T110230Z">
+        <seg>De regel met het percentage van overeenkomst bevat ook de naam van het vertaalgeheugen dat de overeenkomst bevat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The list below is &lt;s0&gt;not&lt;/s0&gt; an exhaustive list of all file formats supported by OmegaT, but is limited to those of particular interest to typical users.</seg>
       </tuv>
       <tuv lang="NL">
@@ -57514,6 +57562,14 @@ these rights or asking you to surrender the rights.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131226T135323Z" creationid="Dirk" creationdate="20131226T135323Z">
         <seg>Hernoem de bestandsextensie van .oxt naar .zip en gebruik een toepassing voor zip-archieven (zoals WinZip of 7Zip) om de bestanden .dic en .aff te extraheren om woordenboeken voor spelling in deze indeling te gebruiken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To use the selected match in your translation, use &lt;g4&gt;Ctrl+R&lt;/g4&gt; to replace the target field with the match or use &lt;g5&gt;Ctrl+I &lt;/g5&gt; to insert it at the cursor position.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T110204Z" creationid="Dick" creationdate="20190517T110204Z">
+        <seg>Gebruik &lt;g4&gt;Ctrl+R&lt;/g4&gt; om het doelveld te vervangen door die overeenkomst of &lt;g5&gt;Ctrl+I&lt;/g5&gt; om die in te voegen op de cursorpositie, om de geselecteerde overeenkomst in uw vertaling te gebruiken.</seg>
       </tuv>
     </tu>
     <tu>
