@@ -11442,8 +11442,8 @@ the above requirements apply either way.</seg>
       <tuv lang="EN">
         <seg>After several of these operations, select &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Realign pending&lt;/g2&gt; &lt;/m0&gt; to update the alignment of the other segments.</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dick" changedate="20190517T114248Z" creationid="Dick" creationdate="20190517T114248Z">
-        <seg>Selecteer, na verscheidene van deze bewerkingen, &lt;m0&gt; &lt;g1&gt;Bewerken&lt;/g1&gt; &lt;g2&gt;Realign pending&lt;/g2&gt; &lt;/m0&gt; om het uitlijnen van de andere segmenten bij te werken.</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T114553Z" creationid="Dick" creationdate="20190517T114248Z">
+        <seg>Selecteer, na verscheidene van deze bewerkingen, &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Realign pending&lt;/g2&gt; &lt;/m0&gt; om het uitlijnen van de andere segmenten bij te werken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15874,8 +15874,8 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Click &lt;g0&gt;Continue&lt;/g0&gt; to access the next step.</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dick" changedate="20190517T113806Z" creationid="Dick" creationdate="20190517T113806Z">
-        <seg>Klik op &lt;g0&gt;Doorgaan&lt;/g0&gt; om naar de volgende stap te gaan.</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T114541Z" creationid="Dick" creationdate="20190517T113806Z">
+        <seg>Klik op &lt;g0&gt;Continue&lt;/g0&gt; om naar de volgende stap te gaan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29291,8 +29291,8 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       <tuv lang="EN">
         <seg>In most cases, the lower the &lt;g0&gt;Average score&lt;/g0&gt; is, better the alignment will be.</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dick" changedate="20190517T113028Z" creationid="Dick" creationdate="20190517T113028Z">
-        <seg>In de meeste gevallen geldt: hoe lager de &lt;g0&gt;Gemiddelde score&lt;/g0&gt; is, hoe beter de uitlijning zal zijn.</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T114525Z" creationid="Dick" creationdate="20190517T113028Z">
+        <seg>In de meeste gevallen geldt: hoe lager de &lt;g0&gt;Average score&lt;/g0&gt; is, hoe beter de uitlijning zal zijn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39166,6 +39166,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only rows with the &lt;g0&gt;Keep&lt;/g0&gt; box ticked in the first column will be included when the translation memory is created.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T114604Z" creationid="Dick" creationdate="20190517T114454Z">
+        <seg>Alleen rijen waarvan het vak &lt;g0&gt;Keep&lt;/g0&gt; in de eerste kolom is geselecteerd zullen worden opgenomen als het vertaalgeheugen wordt gemaakt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only the file &lt;f0&gt;test.html&lt;/f0&gt; in the folder &lt;f1&gt;dir-10&lt;/f1&gt; will be processed.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dick" changedate="20190516T160504Z" creationid="Dick" creationdate="20190516T160504Z">
@@ -41367,8 +41375,8 @@ lokaal project zonder functionaliteit voor team.</seg>
       <tuv lang="EN">
         <seg>Press the space bar (shortcut for &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Start Pinpoint Align&lt;/g2&gt; &lt;/m0&gt;).</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dick" changedate="20190517T114104Z" creationid="Dick" creationdate="20190517T114104Z">
-        <seg>Druk op de spatiebalk (sneltoets voor &lt;m0&gt; &lt;g1&gt;Bewerken&lt;/g1&gt; &lt;g2&gt;Start Pinpoint Align&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T114509Z" creationid="Dick" creationdate="20190517T114104Z">
+        <seg>Druk op de spatiebalk (sneltoets voor &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Start Pinpoint Align&lt;/g2&gt; &lt;/m0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -61349,6 +61357,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T135702Z">
         <seg>Als het vertaalde document wordt gemaakt zal de weergaverichting hetzelfde zijn als die van het originele document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the two columns are sufficiently aligned, click &lt;g0&gt;Save TMX...&lt;/g0&gt; to create the resulting translation memory.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T114737Z" creationid="Dick" creationdate="20190517T114737Z">
+        <seg>Klik op &lt;g0&gt;Save TMX…&lt;/g0&gt; om het resulterende vertaalgeheugen te maken als de twee kolommen voldoende zijn uitgelijnd.</seg>
       </tuv>
     </tu>
     <tu>
