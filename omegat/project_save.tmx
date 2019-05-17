@@ -56538,6 +56538,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This window is accessible by selecting &lt;m0&gt; &lt;g1&gt;Tools&lt;/g1&gt; &lt;g2&gt;Scripting...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T115852Z" creationid="Dick" creationdate="20190517T115852Z">
+        <seg>Dit venster is toegankelijk door te selecteren &lt;m0&gt; &lt;g1&gt;Extra&lt;/g1&gt; &lt;g2&gt;Scripten…&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This window is displayed automatically when OmegaT loads a project, and at any time by pressing &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Project Files...&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dick" changedate="20190517T114857Z" creationid="Dick" creationdate="20190517T114857Z">
@@ -62837,6 +62845,14 @@ for enforcing compliance by third parties with this License.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dick" changedate="20190516T140228Z" creationid="Dick" creationdate="20190516T140228Z">
         <seg>U kunt ook met &lt;c3&gt;cd&lt;/c3&gt; daar rechtstreeks naartoe gaan vanaf de opdrachtregel en &lt;f4&gt;Configuration.properties&lt;/f4&gt; openen in een verwerker voor de opdrachtregel zoals emacs of vi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on&lt;g3&gt; "Import from MediaWiki"&lt;/g3&gt; button and providing the corresponding URL.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T115800Z" creationid="Dick" creationdate="20190517T115800Z">
+        <seg>U kunt ook bronbestanden toevoegen vanaf internetpagina's, geschreven in MediaWiki, door te klikken op de knop&lt;g3&gt; "Importeren vanuit MediaWiki"&lt;/g3&gt; en de corresponderende URL op te geven.</seg>
       </tuv>
     </tu>
     <tu>
