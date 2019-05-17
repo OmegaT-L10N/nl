@@ -11482,8 +11482,8 @@ the above requirements apply either way.</seg>
       <tuv lang="EN">
         <seg>After several of these operations, select &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Realign pending&lt;/g2&gt; &lt;/m0&gt; to update the alignment of the other segments.</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dick" changedate="20190517T114553Z" creationid="Dick" creationdate="20190517T114248Z">
-        <seg>Selecteer, na verscheidene van deze bewerkingen, &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Realign pending&lt;/g2&gt; &lt;/m0&gt; om het uitlijnen van de andere segmenten bij te werken.</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T124108Z" creationid="Dick" creationdate="20190517T114248Z">
+        <seg>Selecteer, na verscheidene van deze bewerkingen, &lt;m0&gt; &lt;g1&gt;Bewerken&lt;/g1&gt; &lt;g2&gt;Realign pending&lt;/g2&gt; &lt;/m0&gt; om het uitlijnen van de andere segmenten bij te werken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29447,8 +29447,8 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       <tuv lang="EN">
         <seg>In most cases, the lower the &lt;g0&gt;Average score&lt;/g0&gt; is, better the alignment will be.</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dick" changedate="20190517T114525Z" creationid="Dick" creationdate="20190517T113028Z">
-        <seg>In de meeste gevallen geldt: hoe lager de &lt;g0&gt;Average score&lt;/g0&gt; is, hoe beter de uitlijning zal zijn.</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T123938Z" creationid="Dick" creationdate="20190517T113028Z">
+        <seg>In de meeste gevallen geldt: hoe lager de &lt;g0&gt;Gemiddelde score&lt;/g0&gt; is, hoe beter de uitlijning zal zijn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41603,8 +41603,8 @@ lokaal project zonder functionaliteit voor team.</seg>
       <tuv lang="EN">
         <seg>Press the space bar (shortcut for &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Start Pinpoint Align&lt;/g2&gt; &lt;/m0&gt;).</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dick" changedate="20190517T114509Z" creationid="Dick" creationdate="20190517T114104Z">
-        <seg>Druk op de spatiebalk (sneltoets voor &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Start Pinpoint Align&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T124021Z" creationid="Dick" creationdate="20190517T114104Z">
+        <seg>Druk op de spatiebalk (sneltoets voor &lt;m0&gt; &lt;g1&gt;Bewerken&lt;/g1&gt; &lt;g2&gt;Pinpoint uitlijnen beginnen&lt;/g2&gt; &lt;/m0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -45603,8 +45603,8 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       <tuv lang="EN">
         <seg>Segmentation Rules...</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20160906T173029Z" creationid="Dirk" creationdate="20160906T173029Z">
-        <seg>Segmentatieregels...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T123836Z" creationid="Dirk" creationdate="20160906T173029Z">
+        <seg>Segmentatieregels…</seg>
       </tuv>
     </tu>
     <tu>
