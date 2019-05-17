@@ -33504,6 +33504,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Load a script into the editor by clicking its name in the list in the left-hand panel.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T115947Z" creationid="Dick" creationdate="20190517T115947Z">
+        <seg>Laad een script in het bewerkingsvenster door op de naam te klikken in de lijst in het venster links.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Load a script into the editor by clicking on its name in the list on the left panel.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T130917Z">
@@ -43825,6 +43833,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T135620Z">
         <seg>Van rechts naar links talen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-click a button from &lt;g0&gt;&lt;1&gt;&lt;/g0&gt; to &lt;g1&gt;&lt;12&gt;&lt;/g1&gt; in the bottom panel and select &lt;g2&gt;Add Script&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T120040Z" creationid="Dick" creationdate="20190517T120040Z">
+        <seg>Klik met rechts op een knop van &lt;g0&gt;&lt;1&gt;&lt;/g0&gt; tot en met &lt;g1&gt;&lt;12&gt;&lt;/g1&gt; in het onderste venster en selecteer &lt;g2&gt;Script toevoegen&lt;/g2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57066,6 +57082,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To customize the scripting feature, do the following:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T115914Z" creationid="Dick" creationdate="20190517T115914Z">
+        <seg>Doe het volgende om de mogelijkheid voor scripten aan te passen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To customize the work with tags, one can set down some of the rules in the &lt;g0&gt;Options &gt; Tag validation...&lt;/g0&gt; window:</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T135901Z">
@@ -61678,6 +61702,14 @@ technological measures.</seg>
         <seg>When you left-click on the number, the selected script will run.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T130920Z">
+        <seg>Als u met links klikt op het cijfer zal het geselecteerde script worden uitgevoerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you left-click the number, the selected script will run.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T120149Z" creationid="Dick" creationdate="20190517T120149Z">
         <seg>Als u met links klikt op het cijfer zal het geselecteerde script worden uitgevoerd.</seg>
       </tuv>
     </tu>
