@@ -20378,8 +20378,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Downloading project...</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20160906T161516Z" creationid="Dirk" creationdate="20160906T161516Z">
-        <seg>Project downloaden...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T122830Z" creationid="Dirk" creationdate="20160906T161516Z">
+        <seg>Project downloaden…</seg>
       </tuv>
     </tu>
     <tu>
@@ -21052,6 +21052,18 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Emptiness of soul
+Forever aching blackness
+Your help page not found</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T122730Z" creationid="Dick" creationdate="20190517T122730Z">
+        <seg>Zielloos
+Eeuwige duisternis
+Uw helppagina werd niet gevonden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Emptiness of soul&lt;p&gt;Forever aching blackness&lt;p&gt;Your help page not found</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T185904Z">
@@ -21440,6 +21452,18 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20130930T164006Z" creationid="Dirk" creationdate="20130930T164006Z">
         <seg>Items vanuit de beschrijfbare woordenlijst zijn vet geschreven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ephemeral page
+I am the Blue Screen of Death
+No one hears your screams</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T122744Z" creationid="Dick" creationdate="20190517T122744Z">
+        <seg>Korte pagina
+Ik ben het Blauwe scherm van de dood
+Niemand hoort u schreeuwen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21968,10 +21992,10 @@ propagate that work, subject to this License.</seg>
 Gossamer threads hold you back
 404 not found</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dick" changedate="20190517T121755Z" creationid="Dick" creationdate="20190517T121755Z">
-        <seg>Exciting help page
-Gossamer threads hold you back
-404 not found</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T122642Z" creationid="Dick" creationdate="20190517T121755Z">
+        <seg>Interessante Helppagina
+Gossamer-drempel houdt u tegen
+404 niet gevonden</seg>
       </tuv>
     </tu>
     <tu>
@@ -22018,8 +22042,8 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>Executing external command...</seg>
       </tuv>
-      <tuv lang="NL" changeid="DiGro" changedate="20130310T120632Z">
-        <seg>Uitvoeren van externe opdracht...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T122855Z">
+        <seg>Uitvoeren van externe opdracht…</seg>
       </tuv>
     </tu>
     <tu>
@@ -25329,6 +25353,18 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T162545Z">
         <seg>menu Help</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Help you are seeking
+From your path it is fleeing
+Its winter has come</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T122822Z" creationid="Dick" creationdate="20190517T122822Z">
+        <seg>De Help die u zoekt
+het vlucht van uw pad
+Het is er wintertijd voor</seg>
       </tuv>
     </tu>
     <tu>
@@ -33650,8 +33686,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Loading TMX files...</seg>
       </tuv>
-      <tuv lang="NL" changeid="DiGro" changedate="20110112T185922Z">
-        <seg>TMX-bestanden laden...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T122845Z">
+        <seg>TMX-bestanden laden…</seg>
       </tuv>
     </tu>
     <tu>
@@ -33674,8 +33710,8 @@ permissions.</seg>
       <tuv lang="EN">
         <seg>Loading project...</seg>
       </tuv>
-      <tuv lang="NL" changeid="DiGro" changedate="20110112T185910Z">
-        <seg>Project laden...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T122835Z">
+        <seg>Project laden…</seg>
       </tuv>
     </tu>
     <tu>
@@ -35456,6 +35492,18 @@ your receipt of the notice.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120401T144506Z">
         <seg>De meeste gebruikers zullen waarschijnlijk vinden dat het grotere gemak opweegt tegen dit gebrek.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mourning and sorrow
+404 not with us now
+Lost to paradise</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T122810Z" creationid="Dick" creationdate="20190517T122810Z">
+        <seg>Rouwen en verdriet
+404 is nu niet bij ons
+Verloren in paradijs</seg>
       </tuv>
     </tu>
     <tu>
@@ -42595,6 +42643,18 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="NL">
         <seg>Rashid Umarov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rather than beep
+Or a rude error message
+These words: 'Page not found'</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T122758Z" creationid="Dick" creationdate="20190517T122758Z">
+        <seg>In plaats van een biep
+of een onwelvoeglijk bericht
+Deze woorden: 'Pagina niet gevonden'</seg>
       </tuv>
     </tu>
     <tu>
@@ -51981,6 +52041,18 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The help page you seek
+Lies beyond our perception
+But others await</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T122718Z" creationid="Dick" creationdate="20190517T122718Z">
+        <seg>De helppagina die u zoekt
+ligt buiten uw perceptie
+Maar andere wachten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The help page you seek&lt;p&gt;Lies beyond our perception&lt;p&gt;But others await</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T185903Z">
@@ -54760,6 +54832,18 @@ not accept this License.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dick" changedate="20190516T163701Z" creationid="Dick" creationdate="20190516T163701Z">
         <seg>Deze instellingen zijn van toepassing op het niveau van OmegaT, voor alle projecten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These three are certain:
+Death, taxes, and page not found
+You, victim of one</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T122704Z" creationid="Dick" creationdate="20190517T122704Z">
+        <seg>Deze drie zijn zeker:
+Dood, belastingen en pagina niet gevonden.
+U bent het slachtoffer van één van de drie.</seg>
       </tuv>
     </tu>
     <tu>
