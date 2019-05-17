@@ -26337,6 +26337,14 @@ this License without regard to the additional permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If checked, the background of all segments where the target segment has been auto-populated (from TMXs placed in &lt;f0&gt;/tm/auto&lt;/f0&gt; for example) are displayed in colour.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T105438Z" creationid="Dick" creationdate="20190517T105438Z">
+        <seg>Indien geselecteerd wordt de achtergrond van alle segmenten waar het doelsegment automatisch is gevuld (vanuit TMX-en geplaatst in &lt;f0&gt;/tm/auto&lt;/f0&gt; bijvoorbeeld) in kleur weergegeven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If checked, the entries are sorted alphabetically.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20130930T164940Z" creationid="Dirk" creationdate="20130930T164940Z">
@@ -26349,6 +26357,14 @@ this License without regard to the additional permissions.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20130930T164820Z" creationid="Dirk" creationdate="20130930T164820Z">
         <seg>Indien geselecteerd worden de langere items als eerste in de lijst geplaatst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If checked, the separations between paragraphs in the source document are indicated visually.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T105251Z" creationid="Dick" creationdate="20190517T105251Z">
+        <seg>Indien geselecteerd worden de scheidingen tussen alinea's in de bron visueel aangegeven.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34196,6 +34212,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T132210Z">
         <seg>Niet-afbreekbare spaties markeren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Paragraph delimitations</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T105213Z" creationid="Dick" creationdate="20190517T105213Z">
+        <seg>Alinea-scheidingen markeren</seg>
       </tuv>
     </tu>
     <tu>
@@ -50447,6 +50471,14 @@ Probeer alstublieft de fout te corrigeren en herlaad het project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The colours are displayed as long as the &lt;l1&gt;&lt;g2&gt;Save auto-populated status&lt;/g2&gt;&lt;/l1&gt; option is checked.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T105523Z" creationid="Dick" creationdate="20190517T105523Z">
+        <seg>De kleuren worden weergegeven zolang als de optie &lt;l1&gt;&lt;g2&gt;Status voor automatisch vergroten van vertalingen opslaan&lt;/g2&gt;&lt;/l1&gt; is aangevinkt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The command is case-sensitive.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20131225T141048Z" creationid="Dirk" creationdate="20131225T141048Z">
@@ -55582,6 +55614,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T125438Z">
         <seg>Deze handleiding zou echter niet mogelijk zijn zonder de hulp en ondersteuning van een aantal personen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This marking has priority over &lt;g0&gt;Mark Translated Segments&lt;/g0&gt; and &lt;g1&gt;Mark Untranslated Segments&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T105356Z" creationid="Dick" creationdate="20190517T105356Z">
+        <seg>Deze markering heeft prioriteit boven &lt;g0&gt;Vertaalde segmenten markeren&lt;/g0&gt; en &lt;g1&gt;Niet-vertaalde segmenten markeren&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
