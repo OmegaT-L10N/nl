@@ -49729,6 +49729,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;g0&gt;Viterbi&lt;/g0&gt; and &lt;g1&gt;Forward-Backward&lt;/g1&gt; algorithms are two different calculation methods.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T113435Z" creationid="Dick" creationdate="20190517T113435Z">
+        <seg>De algoritmen &lt;g0&gt;Viterbi&lt;/g0&gt; en &lt;g1&gt;Forward-Backward&lt;/g1&gt; zijn twee verschillende methoden voor berekenen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;g1&gt;Tag Issues&lt;/g1&gt; option is always selected.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dick" changedate="20190516T165528Z" creationid="Dick" creationdate="20190516T165528Z">
@@ -56050,6 +56058,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This option only appears if both the selected files are recognised as Key=Value files.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T113352Z" creationid="Dick" creationdate="20190517T113352Z">
+        <seg>Deze optie verschijnt alleen als beide geselecteerde bestanden wordne herkend als bestanden met Sleutel=Waarde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This package can be used on any platform where a Java 1.6 JRE compatible JRE is installed.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T141452Z">
@@ -56414,6 +56430,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T103929Z">
         <seg>Dit zal alleen werken als het bestandstype .jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This works even if the keys are not in the same order in the two files, and/or if the two files do not contain the same amount of information.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T113309Z" creationid="Dick" creationdate="20190517T113309Z">
+        <seg>Dit werkt zelfs als de sleutels niet in dezelfde volgorde in de twee bestanden staan en/of als de twee bestanden niet dezelfde hoeveelheid informatie bevatten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59528,6 +59552,14 @@ Opdrachten:
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T095553Z">
         <seg>Gebruik &lt;g0&gt;Ctrl+L&lt;i1/&gt;&lt;/g0&gt; om het te openen en &lt;k2&gt;Esc&lt;/k2&gt; om het te sluiten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &lt;g0&gt;ID comparison&lt;/g0&gt; mode to align Key=Value texts.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T113153Z" creationid="Dick" creationdate="20190517T113153Z">
+        <seg>Gebruik modus &lt;g0&gt;ID comparison&lt;/g0&gt; om teksten met Sleutel=Waarde uit te lijnen.</seg>
       </tuv>
     </tu>
     <tu>
