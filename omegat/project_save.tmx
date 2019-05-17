@@ -11482,8 +11482,8 @@ the above requirements apply either way.</seg>
       <tuv lang="EN">
         <seg>After several of these operations, select &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Realign pending&lt;/g2&gt; &lt;/m0&gt; to update the alignment of the other segments.</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dick" changedate="20190517T124108Z" creationid="Dick" creationdate="20190517T114248Z">
-        <seg>Selecteer, na verscheidene van deze bewerkingen, &lt;m0&gt; &lt;g1&gt;Bewerken&lt;/g1&gt; &lt;g2&gt;Realign pending&lt;/g2&gt; &lt;/m0&gt; om het uitlijnen van de andere segmenten bij te werken.</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T124206Z" creationid="Dick" creationdate="20190517T114248Z">
+        <seg>Selecteer, na verscheidene van deze bewerkingen, &lt;m0&gt; &lt;g1&gt;Bewerken&lt;/g1&gt; &lt;g2&gt;Wachten op opnieuw uitlijnen&lt;/g2&gt; &lt;/m0&gt; om het uitlijnen van de andere segmenten bij te werken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39376,8 +39376,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>Only rows with the &lt;g0&gt;Keep&lt;/g0&gt; box ticked in the first column will be included when the translation memory is created.</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dick" changedate="20190517T114604Z" creationid="Dick" creationdate="20190517T114454Z">
-        <seg>Alleen rijen waarvan het vak &lt;g0&gt;Keep&lt;/g0&gt; in de eerste kolom is geselecteerd zullen worden opgenomen als het vertaalgeheugen wordt gemaakt.</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T124232Z" creationid="Dick" creationdate="20190517T114454Z">
+        <seg>Alleen rijen waarvan het vak &lt;g0&gt;Behouden&lt;/g0&gt; in de eerste kolom is geselecteerd zullen worden opgenomen als het vertaalgeheugen wordt gemaakt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44593,8 +44593,8 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Save TMX...</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20160906T172754Z" creationid="Dirk" creationdate="20160906T172754Z">
-        <seg>TMX opslaan...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T124420Z" creationid="Dirk" creationdate="20160906T172754Z">
+        <seg>TMX opslaan…</seg>
       </tuv>
     </tu>
     <tu>
@@ -57772,8 +57772,8 @@ computer or modifying a private copy.</seg>
       <tuv lang="EN">
         <seg>To modify the position of one or more segments individually, select the segment(s) and press &lt;u0&gt;U&lt;/u0&gt; (&lt;g1&gt;Move Up&lt;/g1&gt;) or &lt;u2&gt;D&lt;/u2&gt; (&lt;g3&gt;Move Down&lt;/g3&gt;).</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dick" changedate="20190517T114407Z" creationid="Dick" creationdate="20190517T114407Z">
-        <seg>Selecteer de/het segment(en) en druk op &lt;u0&gt;U&lt;/u0&gt; (&lt;g1&gt;Move Up&lt;/g1&gt;) of &lt;u2&gt;D&lt;/u2&gt; (&lt;g3&gt;Move Down&lt;/g3&gt;) om de positie van een of meer segmenten individueel aan te passen.</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T124252Z" creationid="Dick" creationdate="20190517T114407Z">
+        <seg>Selecteer de/het segment(en) en druk op &lt;u0&gt;U&lt;/u0&gt; (&lt;g1&gt;Naar boven&lt;/g1&gt;) of &lt;u2&gt;D&lt;/u2&gt; (&lt;g3&gt;Naar beneden&lt;/g3&gt;) om de positie van een of meer segmenten individueel aan te passen.</seg>
       </tuv>
     </tu>
     <tu>
