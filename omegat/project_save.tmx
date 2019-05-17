@@ -10944,6 +10944,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Activate the "Show hidden files" option to make it visible.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T112306Z" creationid="Dick" creationdate="20190517T112306Z">
+        <seg>Activeer de optie "Verborgen bestanden weergeven" om hem zichtbaar te maken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Activating this check box will cause OmegaT to check if simple java MessageFormat tags (like {0}) are processed correctly.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T135907Z">
@@ -50985,6 +50993,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The difference is thin: we call "Window" a window that can stay open next to the editor and interact with it, and "dialog" a window where you must select parameters before closing it and pursuing your translation activity.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T112532Z" creationid="Dick" creationdate="20190517T112532Z">
+        <seg>Het verschil is klein: we noemen "Venster" een venster dat, naast het venster Bewerken, geopend kan zijn en waarmee gewerkt kan worden, en "dialoogvenster" een venster waar u parameters moet selecteren voordat u het sluit en doorgaat met uw vertaalactiviteiten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The display mode of the translated documents must be modified within the application (such as Microsoft Word) commonly used to display or modify them (check the relevant manuals for details).</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T135633Z">
@@ -61705,6 +61721,14 @@ Zowel exacte als zoekacties op sleutelwoorden ondersteunen de jokertekens * en ?
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T103619Z">
         <seg>Windows- en Linuxgebruikers: als u er van overtuigd bent dat op uw systeem al</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows and dialogs</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T112331Z" creationid="Dick" creationdate="20190517T112331Z">
+        <seg>Vensters en dialoogvensters</seg>
       </tuv>
     </tu>
     <tu>
