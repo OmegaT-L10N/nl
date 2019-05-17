@@ -11440,6 +11440,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After the automatic process, the alignment of two files generally requires manual corrections.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T113854Z" creationid="Dick" creationdate="20190517T113854Z">
+        <seg>Na de automatische verwerking vereist de uitlijning van de twee bestanden meestal nog handmatige correcties.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After the initial installation you can, of course, also use &lt;e5&gt;&lt;a6&gt;OmegaT&lt;/a6&gt;.jnlp&lt;/e5&gt; also when you are offline.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T141909Z">
@@ -41341,6 +41349,14 @@ lokaal project zonder functionaliteit voor team.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press the space bar (shortcut for &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Start Pinpoint Align&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T114104Z" creationid="Dick" creationdate="20190517T114104Z">
+        <seg>Druk op de spatiebalk (sneltoets voor &lt;m0&gt; &lt;g1&gt;Bewerken&lt;/g1&gt; &lt;g2&gt;Start Pinpoint Align&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt; displays the last already opened Search window (instead of opening a new one).</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T155258Z" creationid="Dirk" creationdate="20160910T155258Z">
@@ -45725,6 +45741,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T173719Z">
         <seg>Selecteer de back-up van het vertaalgeheugen dat meest waarschijnlijk (bijv. de meest recente of de laatste versie van de dag ervoor) de gegevens bevat die u nodig hebt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the first segment.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T113945Z" creationid="Dick" creationdate="20190517T113945Z">
+        <seg>Selecteer het eerste segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56736,6 +56760,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To align two segments on the same line:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T113938Z" creationid="Dick" creationdate="20190517T113938Z">
+        <seg>Twee segmenten op dezelfde regel uitlijnen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To associate a script with a number:</seg>
       </tuv>
       <tuv lang="NL" changeid="Dick" changedate="20190516T171553Z" creationid="Dick" creationdate="20190516T171553Z">
@@ -58500,6 +58532,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20110112T190415Z">
         <seg>Variant van vertaaleenheid tegengekomen buiten vertaaleenheid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation units are located in cells in the two last columns.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T113920Z" creationid="Dick" creationdate="20190517T113920Z">
+        <seg>Vertaaleenheden zijn geplaatst in cellen in de twee laatste kolommen.</seg>
       </tuv>
     </tu>
     <tu>
