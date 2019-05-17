@@ -15942,8 +15942,8 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Click &lt;g0&gt;Continue&lt;/g0&gt; to access the next step.</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dick" changedate="20190517T114541Z" creationid="Dick" creationdate="20190517T113806Z">
-        <seg>Klik op &lt;g0&gt;Continue&lt;/g0&gt; om naar de volgende stap te gaan.</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T124555Z" creationid="Dick" creationdate="20190517T113806Z">
+        <seg>Klik op &lt;g0&gt;Doorgaan&lt;/g0&gt; om naar de volgende stap te gaan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22786,8 +22786,8 @@ Gossamer-drempel houdt u tegen
       <tuv lang="EN">
         <seg>Filters...</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20160906T173120Z" creationid="Dirk" creationdate="20160906T173120Z">
-        <seg>Filters...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T124450Z" creationid="Dirk" creationdate="20160906T173120Z">
+        <seg>Filters…</seg>
       </tuv>
     </tu>
     <tu>
@@ -40652,8 +40652,8 @@ Verdwenen als mist.</seg>
       <tuv lang="EN">
         <seg>Pattern...</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20160906T173127Z" creationid="Dirk" creationdate="20160906T173127Z">
-        <seg>Patroon...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T124457Z" creationid="Dirk" creationdate="20160906T173127Z">
+        <seg>Patroon…</seg>
       </tuv>
     </tu>
     <tu>
@@ -44215,8 +44215,8 @@ Deze woorden: 'Pagina niet gevonden'</seg>
       <tuv lang="EN">
         <seg>Rules...</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20160906T173114Z" creationid="Dirk" creationdate="20160906T173114Z">
-        <seg>Regels...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T124442Z" creationid="Dirk" creationdate="20160906T173114Z">
+        <seg>Regels…</seg>
       </tuv>
     </tu>
     <tu>
@@ -56420,8 +56420,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="EN">
         <seg>This option only appears if both the selected files are recognised as Key=Value files.</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dick" changedate="20190517T113352Z" creationid="Dick" creationdate="20190517T113352Z">
-        <seg>Deze optie verschijnt alleen als beide geselecteerde bestanden wordne herkend als bestanden met Sleutel=Waarde.</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T124628Z" creationid="Dick" creationdate="20190517T113352Z">
+        <seg>Deze optie verschijnt alleen als beide geselecteerde bestanden worden herkend als bestanden met Sleutel=Waarde.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61707,8 +61707,8 @@ any other work released this way by its authors.</seg>
       <tuv lang="EN">
         <seg>When the two columns are sufficiently aligned, click &lt;g0&gt;Save TMX...&lt;/g0&gt; to create the resulting translation memory.</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dick" changedate="20190517T114737Z" creationid="Dick" creationdate="20190517T114737Z">
-        <seg>Klik op &lt;g0&gt;Save TMX…&lt;/g0&gt; om het resulterende vertaalgeheugen te maken als de twee kolommen voldoende zijn uitgelijnd.</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T124551Z" creationid="Dick" creationdate="20190517T114737Z">
+        <seg>Klik op &lt;g0&gt;TMX opslaan…&lt;/g0&gt; om het resulterende vertaalgeheugen te maken als de twee kolommen voldoende zijn uitgelijnd.</seg>
       </tuv>
     </tu>
     <tu>
