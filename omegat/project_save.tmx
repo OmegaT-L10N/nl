@@ -7475,6 +7475,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;Regular expressions&lt;/l0&gt; are a powerful way to look for instances of a string.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T121550Z" creationid="Dick" creationdate="20190517T121550Z">
+        <seg>&lt;l0&gt;Reguliere uitdrukkingen&lt;/l0&gt; zijn een krachtige manier om naar items van een tekenreeks te zoeken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;See Appendix - Shortcuts Customization&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T145013Z">
@@ -14026,6 +14034,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Being the language behind popular software such as Firefox, it is a familiar and preferred programming tool in the open-source domain.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T121456Z" creationid="Dick" creationdate="20190517T121456Z">
+        <seg>Omdat het de taal is achter de populaire software zoals Firefox is het bekend en voorkeursgereedschap om te programmeren in het domein van open-source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Belarusian</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T130047Z">
@@ -18612,6 +18628,22 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160911T112602Z">
         <seg>Cursor vastgezet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cursor locked</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T121628Z" creationid="Dick" creationdate="20190517T121628Z">
+        <seg>Cursor vergrendeld</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cursor unlocked</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T121635Z" creationid="Dick" creationdate="20190517T121635Z">
+        <seg>Cursor losgemaakt</seg>
       </tuv>
     </tu>
     <tu>
@@ -23454,6 +23486,14 @@ freedoms that you received.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T171958Z">
         <seg>Tekstbestanden kunnen bijvoorbeeld gesegmenteerd worden op regeleinden, lege regels of helemaal niet gesegmenteerd worden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, the following Groovy code snippet scans through all the segments in all the files in the current project and, if a translation exists, prints out the source and the target of the segment:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T121528Z" creationid="Dick" creationdate="20190517T121528Z">
+        <seg>De volgende code in Groovy scant bijvoorbeeld door alle segmenten in alle bestanden in het huidige project en drukt, als de vertaling bestaat, de bron en het doel van het segment af:</seg>
       </tuv>
     </tu>
     <tu>
@@ -34368,6 +34408,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark &amp;Paragraph Delimitations</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T121605Z" creationid="Dick" creationdate="20190517T121605Z">
+        <seg>&amp;Alinea-scheidingen markeren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark &amp;Paragraph delimitations</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro (Dick)" changedate="20190418T093611Z" creationid="DiGro (Dick)" creationdate="20190418T093611Z">
@@ -40146,6 +40194,14 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T135847Z">
         <seg>Overlappen is het resultaat van slechte bewerkingen van tagparen en zal gegarandeerd leiden tot beschadiging van de opmaak en soms tot het helemaal niet openen van het vertaalde document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Overwrite Mode</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T121644Z" creationid="Dick" creationdate="20190517T121644Z">
+        <seg>Modus Overschrijven</seg>
       </tuv>
     </tu>
     <tu>
