@@ -1043,8 +1043,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Browse...</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20170104T175942Z" creationid="Dirk" creationdate="20170104T175942Z">
-        <seg>&amp;Bladeren...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T123336Z" creationid="Dirk" creationdate="20170104T175942Z">
+        <seg>&amp;Bladeren…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1315,8 +1315,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Find...</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20160906T170101Z" creationid="Dirk" creationdate="20160906T170101Z">
-        <seg>&amp;Zoeken...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T123431Z" creationid="Dirk" creationdate="20160906T170101Z">
+        <seg>&amp;Zoeken…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1483,8 +1483,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Install new dictionary...</seg>
       </tuv>
-      <tuv lang="NL" changeid="DiGro" changedate="20120327T163900Z">
-        <seg>Nieuw woordenboek &amp;installeren...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T123315Z">
+        <seg>Nieuw woordenboek &amp;installeren…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1675,8 +1675,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Open Script...</seg>
       </tuv>
-      <tuv lang="NL" changeid="DiGro" changedate="20110926T165757Z">
-        <seg>Script &amp;openen...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T123404Z">
+        <seg>Script &amp;openen…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1851,8 +1851,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Replace...</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20160906T170111Z" creationid="Dirk" creationdate="20160906T170104Z">
-        <seg>&amp;Vervangen...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T123436Z" creationid="Dirk" creationdate="20160906T170104Z">
+        <seg>&amp;Vervangen…</seg>
       </tuv>
     </tu>
     <tu>
@@ -24971,8 +24971,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="EN">
         <seg>Goto &amp;Line...</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20160906T170122Z" creationid="Dirk" creationdate="20160906T170107Z">
-        <seg>Ga naar &amp;regel...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T123442Z" creationid="Dirk" creationdate="20160906T170107Z">
+        <seg>Ga naar &amp;regel…</seg>
       </tuv>
     </tu>
     <tu>
@@ -37394,8 +37394,8 @@ combined work, and to convey the resulting work.</seg>
       <tuv lang="EN">
         <seg>O&amp;ptions...</seg>
       </tuv>
-      <tuv lang="NL" changeid="DiGro" changedate="20110112T191553Z">
-        <seg>O&amp;pties...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T123216Z">
+        <seg>O&amp;pties…</seg>
       </tuv>
     </tu>
     <tu>
@@ -37685,8 +37685,8 @@ OmegaT 4.0, Lees Mij-bestand</seg>
       <tuv lang="EN">
         <seg>OmegaT Javadoc...</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20170914T123447Z" creationid="Dirk" creationdate="20170914T123447Z">
-        <seg>OmegaT Javadoc...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T123458Z" creationid="Dirk" creationdate="20170914T123447Z">
+        <seg>OmegaT Javadoc…</seg>
       </tuv>
     </tu>
     <tu>
@@ -44561,8 +44561,8 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Save Current Set...</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20160906T170236Z" creationid="Dirk" creationdate="20160906T170236Z">
-        <seg>Huidige set opslaan...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T123451Z" creationid="Dirk" creationdate="20160906T170236Z">
+        <seg>Huidige set opslaan…</seg>
       </tuv>
     </tu>
     <tu>
@@ -46331,8 +46331,8 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       <tuv lang="EN">
         <seg>Set Scripts Folder...</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20160906T170036Z" creationid="Dirk" creationdate="20160906T170036Z">
-        <seg>Map voor scripts instellen...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T123421Z" creationid="Dirk" creationdate="20160906T170036Z">
+        <seg>Map voor scripts instellen…</seg>
       </tuv>
     </tu>
     <tu>
@@ -49565,8 +49565,8 @@ this License.</seg>
       <tuv lang="EN">
         <seg>Testing...</seg>
       </tuv>
-      <tuv lang="NL" changeid="DiGro (Dick)" changedate="20180115T110609Z" creationid="DiGro (Dick)" creationdate="20180115T110609Z">
-        <seg>Testen...</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T123355Z" creationid="DiGro (Dick)" creationdate="20180115T110609Z">
+        <seg>Testen…</seg>
       </tuv>
     </tu>
     <tu>
