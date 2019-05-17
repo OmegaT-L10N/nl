@@ -5795,6 +5795,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Groovy&lt;/e0&gt; (http://groovy.codehaus.org): a dynamic language for the Java Virtual machine.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T121316Z" creationid="Dick" creationdate="20190517T121316Z">
+        <seg>&lt;e0&gt;Groovy&lt;/e0&gt; (http://groovy.codehaus.org): een dynamische taal voor de Java Virtual machine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Groovy&lt;/e0&gt; (http://groovy.codehaus.org): is a dynamic language for the Java Virtual machine.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T131007Z">
@@ -5895,6 +5903,14 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T125024Z">
         <seg>&lt;e0&gt;Installeren en uitvoeren van OmegaT: &lt;/e0&gt;dit hoofdstuk is handig als u voor het eerst begint met het werken met OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;JavaScript&lt;/e0&gt; (sometimes abbreviated JS, not to be confused with Java): a prototype-based scripting language that is dynamic, weakly typed and has first-class functions.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T121352Z" creationid="Dick" creationdate="20190517T121352Z">
+        <seg>&lt;e0&gt;JavaScript&lt;/e0&gt; (soms afgekort tot JS, niet te verwarren met Java): een op prototype gebaseerde scripttaal die dynamisch is, zwak getypeerd en eersteklas functies heeft.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27589,6 +27605,14 @@ Public License instead of this License.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T133613Z">
         <seg>Indien u een voorvoegsel toevoegt (bijvoorbeeld [fuzzy]), kunt u deze vertalingen later traceren om te zien of zij juist zijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you add new scripts there, they will appear in the list of available scripts in the &lt;g0&gt;Scripting&lt;/g0&gt; window.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T121231Z" creationid="Dick" creationdate="20190517T121231Z">
+        <seg>U kunt daar nieuwe scripts toevoegen, zodat ze zullen verschijnen in de lijst met beschikbare scripts in het venster &lt;g0&gt;Scripten&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
