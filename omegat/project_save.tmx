@@ -16190,8 +16190,8 @@ software for all its users.</seg>
       <tuv lang="EN">
         <seg>Clicking on any file will open it for translation.</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20160911T095600Z">
-        <seg>Klikken op een bestand zal het openen voor vertaling</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T125346Z">
+        <seg>Klikken op een bestand zal het openen om te vertalen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36612,8 +36612,8 @@ measures.</seg>
       <tuv lang="EN">
         <seg>Note however that the numbers do not indicate how relevant the repetitions are: they could mean relatively long sentences repeated a number of times (in which case you are fortunate) or it could describe a table of keywords (not so fortunate).</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20160911T095920Z">
-        <seg>Merk echter op dat de aantallen niet vertellen hoe relevant de herhalingen zijn: zij zouden kunnen betekenen dat relatief lange zinnen een aantal keren worden herhaald (in welk geval u geluk hebt) of het zou een tabel met sleutelwoorden kunnen beschrijven (niet zo gelukkig).</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T125637Z">
+        <seg>Merk echter op dat de aantallen niet vertellen hoe relevant de herhalingen zijn: ze zouden kunnen betekenen dat relatief lange zinnen een aantal keren worden herhaald (in welk geval u geluk hebt) of het zou een tabel met sleutelwoorden kunnen beschrijven (niet zo gelukkig).</seg>
       </tuv>
     </tu>
     <tu>
@@ -44111,8 +44111,8 @@ Deze woorden: 'Pagina niet gevonden'</seg>
       <tuv lang="EN">
         <seg>Right-clicking on a filename opens a popup that allows to open the source file and (if it exists) the target file.</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dirk" changedate="20160911T095910Z" creationid="Dirk" creationdate="20160911T095910Z">
-        <seg>Met rechts klikken op ene bestandsnaam opent een pop-up die het mogelijk maakt het bronbestand te openen en (als het al bestaat) het doelbestand.</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T125438Z" creationid="Dirk" creationdate="20160911T095910Z">
+        <seg>Met rechts klikken op een bestandsnaam opent een pop-up die het mogelijk maakt het bronbestand te openen en (als het al bestaat) het doelbestand.</seg>
       </tuv>
     </tu>
     <tu>
