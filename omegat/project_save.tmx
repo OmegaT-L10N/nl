@@ -23856,6 +23856,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For translation memories in folders with a name &lt;f0&gt;penalty-xxx&lt;/f0&gt; (with xxx between 0 and 100), matches will be degraded according to the name of the folder: a 100% match in any of TMs, residing in a folder called &lt;f1&gt;penalty-30&lt;/f1&gt; for instance, will be lowered to a 70% match.</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T110831Z" creationid="Dick" creationdate="20190517T110831Z">
+        <seg>Voor vertaalgeheugens in mappen met de naam &lt;f0&gt;penalty-xxx&lt;/f0&gt; (waarvan xxx ligt tussen 0 en 100), zullen overeenkomsten worden gegradeerd overeenkomstig de naam van de map: een overeenkomst van 100% in een vertaalgeheugen dat zich bevindt in een map genaamd, bijvoorbeeld &lt;f1&gt;penalty-30&lt;/f1&gt;, zal worden verlaagd naar een overeenkomst van 70%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For translation of PDF files "for information", translators often resort to converting the PDF file to some other file format before translation, such as RTF; the results may be adequate for this purpose, but will not meet the professional standards of the original DTP process.</seg>
       </tuv>
       <tuv lang="NL" changeid="DiGro" changedate="20120402T164723Z">
@@ -66138,6 +66146,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>dictionnary</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T110913Z" creationid="Dick" creationdate="20190517T110913Z">
+        <seg>dictionary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>dir-10\\test\.html</seg>
       </tuv>
       <tuv lang="NL">
@@ -73954,6 +73970,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T173604Z">
         <seg>map tm/mt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tm/penalty-xxx</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190517T110702Z" creationid="Dick" creationdate="20190517T110702Z">
+        <seg>tm/penalty-xxx</seg>
       </tuv>
     </tu>
     <tu>
