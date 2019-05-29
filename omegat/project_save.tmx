@@ -66830,6 +66830,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>dictionary</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190529T101522Z" creationid="Dick" creationdate="20190529T101522Z">
+        <seg>Woordenboek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>dictionnary</seg>
       </tuv>
       <tuv lang="NL" changeid="Dick" changedate="20190517T110913Z" creationid="Dick" creationdate="20190517T110913Z">
