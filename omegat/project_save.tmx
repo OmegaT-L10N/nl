@@ -19770,8 +19770,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Displays the entries as "&lt;source&gt; → &lt;target&gt;"</seg>
       </tuv>
-      <tuv lang="NL" changeid="Dick" changedate="20190826T125607Z" creationid="Dick" creationdate="20190826T125607Z">
-        <seg>Displays the entries as "&lt;source&gt; → &lt;target&gt;"</seg>
+      <tuv lang="NL" changeid="Dick" changedate="20190924T102728Z" creationid="Dick" creationdate="20190826T125607Z">
+        <seg>Geeft de items weer als "&lt;bron&gt; → &lt;doel&gt;"</seg>
       </tuv>
     </tu>
     <tu>
@@ -30259,6 +30259,14 @@ sue for patent infringement).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Include matches from &amp;other languages</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190924T102805Z" creationid="Dick" creationdate="20190924T102805Z">
+        <seg>Inclusief overeenkomsten van &amp;andere talen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20170914T122454Z" creationid="Dirk" creationdate="20170914T122454Z">
@@ -40710,6 +40718,14 @@ Verdwenen als mist.</seg>
       </tuv>
       <tuv lang="NL" changeid="Dirk" changedate="20160910T135937Z">
         <seg>Wees extra voorzichtig met tagparen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Penalty for matches in other languages:</seg>
+      </tuv>
+      <tuv lang="NL" changeid="Dick" changedate="20190924T102851Z" creationid="Dick" creationdate="20190924T102851Z">
+        <seg>Strafmaat voor overeenkomsten in andere talen:</seg>
       </tuv>
     </tu>
     <tu>
