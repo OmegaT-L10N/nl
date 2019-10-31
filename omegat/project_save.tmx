@@ -10682,6 +10682,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>API Key (optional)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20191031T121145Z" creationid="Dick" creationdate="20191031T121145Z">
+        <seg>API-sleutel (optioneel)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>API Key:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T123329Z" creationid="Dirk" creationdate="20170914T123329Z">
@@ -16816,6 +16824,14 @@ OmegaT gebruikt de volgende bibliotheken:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Connect to custom server instead of apertium.org</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20191031T121120Z" creationid="Dick" creationdate="20191031T121120Z">
+        <seg>Verbinden met aangepaste server in plaats van met apertium.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Connection available, the project is in team project mode.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20121207T201653Z">
@@ -18696,6 +18712,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T162154Z">
         <seg>Aangepaste kleuren...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Custom server URL</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20191031T121132Z" creationid="Dick" creationdate="20191031T121132Z">
+        <seg>URL voor aangepaste server</seg>
       </tuv>
     </tu>
     <tu>
@@ -21356,6 +21380,14 @@ Uw helppagina werd niet gevonden</seg>
       </tuv>
       <tuv lang="nl">
         <seg>Enrique Estévez Fernández</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ensure the server URL is correct.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20191031T121228Z" creationid="Dick" creationdate="20191031T121228Z">
+        <seg>Zorg er voor dat de URL van de server juist is.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53578,6 +53610,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The server is not a valid Apertium server.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20191031T121257Z" creationid="Dick" creationdate="20191031T121257Z">
+        <seg>De server is geen geldige server voor Apertium.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The server keeps the information on checkouts, so that later commits (see below) can be performed in an orderly fashion.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T110533Z">
@@ -59326,6 +59366,14 @@ Exacte zoekacties komen overeen met de gehele zoekterm.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T185926Z">
         <seg>Niet in staat om een nieuw TMX-bestand te maken!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to connect to server.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20191031T121209Z" creationid="Dick" creationdate="20191031T121209Z">
+        <seg>Kan niet  verbinden met server.</seg>
       </tuv>
     </tu>
     <tu>
