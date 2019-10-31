@@ -21384,6 +21384,14 @@ Uw helppagina werd niet gevonden</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ensure the URL is correct.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20191031T121310Z" creationid="Dick" creationdate="20191031T121310Z">
+        <seg>Zorg er voor dat de URL juist is.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ensure the server URL is correct.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20191031T121228Z" creationid="Dick" creationdate="20191031T121228Z">
