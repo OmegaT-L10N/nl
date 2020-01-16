@@ -35686,6 +35686,15 @@ toepasselijke locatie, zoals de map Applications.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Move the folder to an appropriate location such
+as the Applications folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200116T110019Z" creationid="Dick" creationdate="20200116T110019Z">
+        <seg>Verplaats de map naar een toepasselijke locatie, zoals de map Applications.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Moves one segment back in history</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T162930Z">
@@ -38423,6 +38432,15 @@ to be launched.</seg>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T143532Z" creationid="DiGro (Dick)" creationdate="20170915T143532Z">
         <seg>OmegaT is dan gereed
 om te worden opgestart.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is then ready to
+be launched.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200116T110031Z" creationid="Dick" creationdate="20200116T110031Z">
+        <seg>OmegaT is dan gereed om te worden opgestart.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52408,6 +52426,16 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The license of each library is mentioned in
+/lib/licenses/Licenses.txt.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200116T105726Z" creationid="Dick" creationdate="20200116T105726Z">
+        <seg>De licentie van elke bibliotheek is vermeld
+in /lib/licenses/Licenses.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The license of each library is mentionned</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T133211Z" creationid="Dirk" creationdate="20170914T133211Z">
@@ -56882,6 +56910,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will launch OmegaT with 6 GB of memory; change the &lt;l4&gt;6g&lt;/l4&gt; to the desired amount.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200116T105630Z" creationid="Dick" creationdate="20200116T105630Z">
+        <seg>Dit zal OmegaT starten met 6 GB geheugen; wijzig de &lt;l4&gt;6g&lt;/l4&gt; naar de gewenste hoeveelheid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will level the formatting over sections of text that have the same, desired formatting, and you will not then need to restore deleted formatting.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120401T155816Z">
@@ -57334,6 +57370,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T132702Z" creationid="Dirk" creationdate="20170914T132702Z">
         <seg>Bewerk het bestand &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; en wijzig de inhoud van &lt;string&gt;-Xmx1024M&lt;/string&gt; om de beschikbare hoeveelheid geheugen te wijzigen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To change the amount of memory available, edit &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; file and un-comment the line &lt;l1&gt;&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;&lt;/l1&gt; by removing the &lt;l2&gt;&lt;!--&lt;/l2&gt; and &lt;l3&gt;--&gt;&lt;/l3&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200116T105522Z" creationid="Dick" creationdate="20200116T105522Z">
+        <seg>Bewerk het bestand &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; en activeer de regel &lt;l1&gt;&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;&lt;/l1&gt; door de &lt;l2&gt;&lt;!--&lt;/l2&gt; en &lt;l3&gt;--&gt;&lt;/l3&gt; te verwijderen, om de beschikbare hoeveelheid geheugen te wijzigen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58345,6 +58389,17 @@ install.sh.</seg>
         <seg>Open, om dit script te gebruiken, een
 terminalvenster (console), wijzig de folder naar de folder die OmegaT.jar bevat
 en het script linux-install.sh, en voer het script uit met ./linux-
+install.sh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To use this script, open a terminal
+window (console), change folder to the folder containing OmegaT.jar and the
+linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200116T110118Z" creationid="Dick" creationdate="20200116T110118Z">
+        <seg>Open, om dit script te gebruiken, een terminalvenster (console), wijzig de folder naar de folder die OmegaT.jar bevat en het script linux-install.sh, en voer het script uit met ./linux-
 install.sh.</seg>
       </tuv>
     </tu>
@@ -59728,6 +59783,16 @@ documentation file and the OmegaT application.</seg>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T143426Z" creationid="DiGro (Dick)" creationdate="20170915T143426Z">
         <seg>Pak het OmegaT .zip-archief uit om een map te krijgen die een
 documentatiebestand en de toepassing OmegaT bevat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unpack the OmegaT .zip archive to obtain a folder that contains a documentation
+file and the OmegaT application.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200116T105845Z" creationid="Dick" creationdate="20200116T105845Z">
+        <seg>Pak het OmegaT .zip-archief uit om een map te krijgen die een
+documentatiebestand en de toepassing OmegaT bevat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61505,6 +61570,16 @@ trouble of selecting, obtaining and installing it.</seg>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T143255Z" creationid="DiGro (Dick)" creationdate="20170915T143255Z">
         <seg>We bevelen aan OmegaT-pakketten te gebruiken die de JRE bevatten,
 om u het probleem van selecteren, verkrijgen en installeren te besparen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We recommend using OmegaT packages that include the JRE, to save you the trouble
+of selecting, obtaining and installing it.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200116T105851Z" creationid="Dick" creationdate="20200116T105818Z">
+        <seg>We bevelen aan OmegaT-pakketten te gebruiken die de JRE bevatten,
+om u het probleem van selecteren, verkrijgen en installeren te besparen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63775,6 +63850,15 @@ the installation script (linux-install.sh).</seg>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T143554Z" creationid="DiGro (Dick)" creationdate="20170915T143554Z">
         <seg>U kunt echter een meer nette en gebruikersvriendelijker installatie verkrijgen door
 installatie krijgen door het installatiescript te gebruiken (linux-install.sh).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can however obtain a neater and more user-friendly installation by using the
+installation script (linux-install.sh).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200116T110049Z" creationid="Dick" creationdate="20200116T110049Z">
+        <seg>U kunt echter een meer nette en gebruikersvriendelijker installatie verkrijgen door installatie krijgen door het installatiescript te gebruiken (linux-install.sh).</seg>
       </tuv>
     </tu>
     <tu>
@@ -68948,6 +69032,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T131948Z" creationid="Dirk" creationdate="20170914T131948Z">
         <seg>https://omegat.org/howtos/iceni_infix.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://omegat.org/support</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200116T105126Z" creationid="Dick" creationdate="20200116T105126Z">
+        <seg>https://omegat.org/support</seg>
       </tuv>
     </tu>
     <tu>
