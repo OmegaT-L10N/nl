@@ -3031,6 +3031,34 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- Anthony Baldwin (localisation manager)
+- Didier Briel (project manager)
+- Alex Buloichik (lead developer)
+- Sabine Cretella
+- Dmitri Gabinski
+- Jean-Christophe Helary (support group owner, localisation manager)
+- Maxym Mykhalchuk (lead developer)
+- Samuel Murray
+- Henry Pijffers (release manager)
+- Marc Prior (project co-ordinator, webmaster)
+- Vito Smolej (documentation manager)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200116T111011Z" creationid="Dick" creationdate="20200116T110944Z">
+        <seg>- Anthony Baldwin (localisatie-manager)
+- Didier Briel (projectmanager)
+- Alex Buloichik (hoofdontwikkelaar)
+- Sabine Cretella
+- Dmitri Gabinski
+- Jean-Christophe Helary (eigenaar ondersteuningsgroep, localisatie-manager)
+- Maxym Mykhalchuk (hoofdontwikkelaar)
+- Samuel Murray
+- Henry Pijffers (uitgave-manager)
+- Marc Prior (projectcoördinator, webmaster)
+- Vito Smolej (documentatie-manager)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>- Before editing OmegaT.l4J.ini&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170916T103304Z" creationid="DiGro (Dick)" creationdate="20170916T103304Z">
@@ -3451,6 +3479,26 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
       </tuv>
       <tuv lang="nl">
         <seg>- Typo3 LocManager (*.xml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>- Vincent Bidaux (documentation manager)
+- Marco Cevoli (Telegram community manager)
+- Jean-Christophe Helary (Twitter community manager)
+- Kos Ivantsof (localisation manager)
+- Concepción Martin (Facebook community manager)
+- Briac Pilpré (webmaster)
+- Lucie Vecerova (Facebook community manager)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200116T110852Z" creationid="Dick" creationdate="20200116T110852Z">
+        <seg>- Vincent Bidaux (documentatie-manager)
+- Marco Cevoli (manager Telegram-gemeenschap)
+- Jean-Christophe Helary (manager Twitter-gemeenschap)
+- Kos Ivantsof (localisatie-manager)
+- Concepción Martin (manager Facebook-gemeenschap)
+- Briac Pilpré (webmaster)
+- Lucie Vecerova (manager Facebook-gemeenschap)</seg>
       </tuv>
     </tu>
     <tu>
@@ -23192,6 +23240,15 @@ kunt u het meegeleverde script van Kaptain gebruiken (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For a more user-friendly way of launching OmegaT, you can use the Kaptain script
+provided (omegat.kaptn).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200116T110654Z" creationid="Dick" creationdate="20200116T110654Z">
+        <seg>Voor een meer gebruikersvriendelijker manier om OmegaT op te starten, kunt u het meegeleverde script van Kaptain gebruiken (omegat.kaptn).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For a particular</seg>
       </tuv>
       <tuv lang="nl">
@@ -26314,6 +26371,17 @@ SUCH DAMAGES.</seg>
     <tu>
       <tuv lang="en">
         <seg>If
+Java is installed at system level and is in the command path, the full path need
+not be entered.)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200116T110731Z" creationid="Dick" creationdate="20200116T110731Z">
+        <seg>Indien Java is geïnstalleerd op systeemniveau en in het pad voor de opdracht staat,
+hoeft niet het volledige pad te worden ingevoerd.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If
 the interface presents a list of user commands or options, such as a
 menu, a prominent item in the list meets this criterion.</seg>
       </tuv>
@@ -28077,6 +28145,16 @@ maar niet OmegaT.exe, wijzig dan de instellingen zodat de bestandsextensies word
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you can see the file OmegaT but not OmegaT.exe in your File Manager (Windows
+Explorer), change the settings so that file extensions are displayed.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200116T110554Z" creationid="Dick" creationdate="20200116T110554Z">
+        <seg>Als u het bestand OmegaT wel in uw bestandsbeheer (Windows Verkenner) kunt zien
+maar niet OmegaT.exe, wijzig dan de instellingen zodat de bestandsextensies worden weergegeven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you can't run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (no graphical environment available): copy the settings files from some other &lt;a1&gt;OmegaT&lt;/a1&gt; installation on another machine to a specific folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142434Z">
@@ -28353,6 +28431,15 @@ is to use Java Web Start.</seg>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T143824Z" creationid="DiGro (Dick)" creationdate="20170915T143824Z">
         <seg>Als u al Java hebt is één manier om de huidige versie van OmegaT te installeren
 het gebruiken van Java Web Start.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have already Java installed on your system, one way to install OmegaT is
+to use Java Web Start.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200116T110237Z" creationid="Dick" creationdate="20200116T110237Z">
+        <seg>Als u al Java hebt geïnstalleerd op uw systeem, is één manier om OmegaT te installeren het gebruiken van Java Web Start.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28913,6 +29000,16 @@ material under section 10.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T103912Z">
         <seg>Als u, gedurende de installatie, een snelkoppeling op het bureaublad hebt gemaakt,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If, during installation, you have created a shortcut on the desktop,
+double-click on that shortcut.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200116T110313Z" creationid="Dick" creationdate="20200116T110313Z">
+        <seg>Als u, gedurende de installatie, een snelkoppeling op het bureaublad hebt gemaakt,
+dubbelklik dan op die snelkoppeling.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30832,6 +30929,16 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T143743Z" creationid="DiGro (Dick)" creationdate="20170915T143743Z">
         <seg>Installeren van OmegaT (Solaris, FreeBSD, ...)
+=========================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Installing OmegaT (Solaris, FreeBSD, etc.)
+=========================================</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200116T110133Z" creationid="Dick" creationdate="20200116T110133Z">
+        <seg>Installeren van OmegaT (Solaris, FreeBSD, etc.)
 =========================================</seg>
       </tuv>
     </tu>
@@ -52313,6 +52420,16 @@ naar het startmenu, op het bureaublad en in het gebied voor snel starten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The installer can create shortcuts for you in the start menu, on the desktop and
+in the quick launch area.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200116T110402Z" creationid="Dick" creationdate="20200116T110402Z">
+        <seg>Het installatieprogramma kan voor u snelkoppelingen maken in het menu Start,
+naar het startmenu, op het bureaublad en in het gebied voor snel starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The interval of 3 minutes can be changed in &lt;l0&gt;&lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Preferences&lt;/g3&gt; &lt;g4&gt;Saving and Output&lt;/g4&gt; &lt;/m1&gt;&lt;/l0&gt;.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T132808Z" creationid="Dick" creationdate="20190516T132808Z">
@@ -58372,6 +58489,14 @@ om het te kunnen gebruiken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To use this script you must first install Kaptain.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200116T110707Z" creationid="Dick" creationdate="20200116T110707Z">
+        <seg>U moet eerst Kaptain installeren om het te kunnen gebruiken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To use this script, open a</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T133927Z" creationid="Dirk" creationdate="20170914T133927Z">
@@ -60707,6 +60832,14 @@ Opdrachten:
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T110812Z">
         <seg>Ondersteuning voor gebruikers wordt op vrijwillige basis gegeven op de &lt;u3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt; Yahoo!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User support resources:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200116T111038Z" creationid="Dick" creationdate="20200116T111038Z">
+        <seg>Bronnen gebruikersondersteuning:</seg>
       </tuv>
     </tu>
     <tu>
@@ -63188,6 +63321,15 @@ Uw pagina werd niet gevonden</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You
+can then launch the Kaptain launch script with:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200116T110716Z" creationid="Dick" creationdate="20200116T110716Z">
+        <seg>U kunt dan het Kaptain opstartscript starten met:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You achieve the same by clearing the target segment and pressing &lt;g4&gt;Enter.&lt;/g4&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T133606Z">
@@ -63450,6 +63592,15 @@ in het zoekveld van Spotlight.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also launch it from
+the Spotlight search field.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200116T110631Z" creationid="Dick" creationdate="20200116T110631Z">
+        <seg>U kunt het ook starten in het zoekveld van Spotlight.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also manually drag</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T103947Z">
@@ -63474,6 +63625,16 @@ from there.</seg>
         <seg>U kunt ook handmatig het bestand OmegaT.exe slepen
 naar het startmenu, op het bureaublad en in het gebied voor snel starten om het
 van daaruit te koppelen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also manually drag the file OmegaT.exe to the
+start menu, the desktop or the quick launch area to link it from there.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200116T110534Z" creationid="Dick" creationdate="20200116T110534Z">
+        <seg>U kunt ook handmatig het bestand OmegaT.exe slepen naar het menu Start, 
+op het bureaublad en in het gebied voor snel starten om het van daaruit te koppelen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64395,6 +64556,16 @@ recipients a copy of this License along with the Program.</seg>
 Finder window to be able to launch it from any location.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T144326Z" creationid="DiGro (Dick)" creationdate="20170915T144326Z">
+        <seg>Sleep de toepassing OmegaT naar uw dock of naar de werkbalk van een Finder-venster
+om het vanaf elke locatie te kunnen starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may drag the OmegaT application to your dock or to the toolbar of a Finder
+window to be able to launch it from any location.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200116T110616Z" creationid="Dick" creationdate="20200116T110616Z">
         <seg>Sleep de toepassing OmegaT naar uw dock of naar de werkbalk van een Finder-venster
 om het vanaf elke locatie te kunnen starten.</seg>
       </tuv>
@@ -69020,6 +69191,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://omegat.org/</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200116T111020Z" creationid="Dick" creationdate="20200116T111020Z">
+        <seg>https://omegat.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://omegat.org/files/OmegaT_for_Beginners.pdf</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20171124T172734Z" creationid="DiGro (Dick)" creationdate="20171124T172734Z">
@@ -69056,6 +69235,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20171124T172747Z" creationid="DiGro (Dick)" creationdate="20171124T172747Z">
         <seg>https://omegat.sourceforge.io/webstart/OmegaT.jnlp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200116T110252Z" creationid="Dick" creationdate="20200116T110252Z">
+        <seg>https://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
       </tuv>
     </tu>
     <tu>
