@@ -37644,6 +37644,14 @@ combined work, and to convey the resulting work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OS X Notarized</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200124T172226Z" creationid="Dick" creationdate="20200124T172226Z">
+        <seg>OS X genotariseerd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OS X Signed</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170927T103616Z" creationid="DiGro (Dick)" creationdate="20170927T103616Z">
@@ -48708,6 +48716,14 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T104210Z">
         <seg>SuperTMXMerge-for_OmegaT.jar (LGPL License)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Support</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200124T172201Z" creationid="Dick" creationdate="20200124T172201Z">
+        <seg>Ondersteuning</seg>
       </tuv>
     </tu>
     <tu>
