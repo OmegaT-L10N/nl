@@ -14724,6 +14724,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, all files that are not excluded are included.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200725T115847Z" creationid="Dick" creationdate="20200725T115847Z">
+        <seg>Standaard worden alle bestanden, die niet zijn uitgesloten, opgenomen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, it is not possible to select words in the source segment using the keyboard rather than the mouse.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T094716Z" creationid="Dirk" creationdate="20160911T094716Z">
@@ -22032,6 +22040,14 @@ Niemand hoort u schreeuwen.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135820Z">
         <seg>Voorbeeld:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example: &lt;u0&gt;**/*.docx&lt;/u0&gt; to add all .docx files, wherever they are located in the project, even in excluded folders</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200725T115809Z" creationid="Dick" creationdate="20200725T115809Z">
+        <seg>Voorbeeld: &lt;u0&gt;**/*.docx&lt;/u0&gt; om alle bestanden .docx toe te voegen, waar zij ook maar in het project zijn geplaatst, zelfs in de uitgesloten mappen</seg>
       </tuv>
     </tu>
     <tu>
@@ -30360,6 +30376,14 @@ sue for patent infringement).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T094936Z" creationid="Dirk" creationdate="20160911T094936Z">
         <seg>In deze modus wordt "&lt;g1&gt;Cursor los gemaakt&lt;/g1&gt;" weergegeven aan de onderzijde van het paneel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this mode, OmegaT will align files found in the &lt;f0&gt;/source/&lt;/f0&gt; folder of the project with the contents found at the specified location.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200725T120255Z" creationid="Dick" creationdate="20200725T120255Z">
+        <seg>In deze modus zal OmegaT bestanden, gevonden in de map &lt;f0&gt;/source/&lt;/f0&gt; van het project, vergelijken met de inhoud op de opgegeven locatie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47570,6 +47594,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some supported filters: ILIAS Language File, Java(TM) Resource Bundles, Key=Value Text, Magento CE Locale CSV, MoodlePHP, Mozilla DTD, Mozilla FTL, PO, RC, SubRip Subtitles, Windows Resources</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200725T120421Z" creationid="Dick" creationdate="20200725T120421Z">
+        <seg>Enkele ondersteunde filters: ILIAS Language File, Java(TM) Resource Bundles, Key=Value Text, Magento CE Locale CSV, MoodlePHP, Mozilla DTD, Mozilla FTL, PO, RC, SubRip Subtitles, Windows Resources</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some tag manipulations are necessary and are benign, others will cause problems when the translated document is created.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135927Z">
@@ -54387,6 +54419,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T134735Z" creationid="Dirk" creationdate="20131225T134735Z">
         <seg>De derde optie, d.i. installeren van een versie van OmegaT waarin Java is opgenomen op lokaal niveau, is altijd de "veiligste" optie en wordt aanbevolen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The three matching percentages are in the following order:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200725T120720Z" creationid="Dick" creationdate="20200725T120720Z">
+        <seg>De drie percentages voor overeenkomsten staan in de volgende volgorde:</seg>
       </tuv>
     </tu>
     <tu>
@@ -62619,6 +62659,14 @@ technological measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Which files are used for alignment depends on if the file filter supports it.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200725T120351Z" creationid="Dick" creationdate="20200725T120351Z">
+        <seg>Welke bestanden worden gebruikt voor vergelijken is afhankelijk van het bestandsfilter dat het ondersteunt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Which version do you want to keep?</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T172354Z" creationid="Dirk" creationdate="20160906T172354Z">
@@ -64982,6 +65030,14 @@ or can get the source code.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T155200Z" creationid="Dirk" creationdate="20131225T155200Z">
         <seg>U heeft nu een functie Voorbeeld.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You only need to specify this to override some exclusions.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200725T115931Z" creationid="Dick" creationdate="20200725T115931Z">
+        <seg>U hoeft alleen dit te specificeren om enkele uitsluitingen te overschrijven.</seg>
       </tuv>
     </tu>
     <tu>
