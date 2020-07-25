@@ -26,8 +26,8 @@ License by making exceptions from one or more of its conditions.</seg>
       <tuv lang="en">
         <seg>"Aligner" aligner utility</seg>
       </tuv>
-      <tuv lang="nl">
-        <seg>"Aligner" uitlijnprogromma</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20200725T121344Z">
+        <seg>"Aligner" uitlijnprogramma</seg>
       </tuv>
     </tu>
     <tu>
@@ -29228,6 +29228,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Important: listed plug-ins work with OmegaT version 4 and above.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200725T121337Z" creationid="Dick" creationdate="20200725T121337Z">
+        <seg>Belangrijk: vermelde plug-ins werken met OmegaT versie 4 en hoger.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Important: this whole command must appear on one line (even if it appears to be on two lines in the display in which you are reading this).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131228T113240Z" creationid="Dirk" creationdate="20131228T113240Z">
@@ -31718,6 +31726,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T165920Z">
         <seg>Het is mogelijk om de projecteigenschappen gedurende een vertaalsessie aan te passen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is possible to modify the sort order of the three percentages but not which is used to select the fuzzy matches.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200725T121124Z" creationid="Dick" creationdate="20200725T121124Z">
+        <seg>Het is mogelijk de sorteervolgorde van de drie percentages aan te passen, maar niet welke zal worden gebruikt voor het selecteren van de fuzzy overeenkomsten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40411,6 +40427,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Orphan segments (match #2) describe segments in the default project translation memory that have no corresponding source segment.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200725T121204Z" creationid="Dick" creationdate="20200725T121204Z">
+        <seg>Wezen-segmenten (overeenkomst #2) beschrijven segmenten in het standaard vertaalgeheugen van het project die geen overeenkomend bronsegment hebben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Orphan segments (the match #2) describe segments in the default project translation memory that have no corresponding source segment.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T110301Z" creationid="Dick" creationdate="20190517T110301Z">
@@ -41607,6 +41631,14 @@ of er nog aanvullende stappen moeten worden uitgevoerd.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T185226Z">
         <seg>Typ of plak de URL van de pagina van Mediawiki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plug-ins</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200725T121223Z" creationid="Dick" creationdate="20200725T121223Z">
+        <seg>Plug-ins</seg>
       </tuv>
     </tu>
     <tu>
@@ -45658,6 +45690,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T133645Z">
         <seg>Bekijk &lt;u0&gt;De functie Tekst exporteren in OmegaT gebruiken&lt;/u0&gt; voor specificaties, voorbeelden en suggesties.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;u0&gt;https://en.wikipedia.org/wiki/Stemming&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200725T120742Z" creationid="Dick" creationdate="20200725T120742Z">
+        <seg>Bekijk &lt;u0&gt;https://en.wikipedia.org/wiki/Stemming&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -65973,6 +66013,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>and ignoring tags and numbers (generally the highest)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200725T120820Z" creationid="Dick" creationdate="20200725T120820Z">
+        <seg>en negeren van tags en getallen (in het algemeen het hoogste)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>and launch OmegaT with:</seg>
       </tuv>
       <tuv lang="nl">
@@ -69387,6 +69435,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>https://developers.google.com/translate/v2/pricing?hl=en-US</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://en.wikipedia.org/wiki/Stemming</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200725T120736Z" creationid="Dick" creationdate="20200725T120736Z">
+        <seg>https://en.wikipedia.org/wiki/Stemming</seg>
       </tuv>
     </tu>
     <tu>
@@ -75085,6 +75141,30 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>the only significant mode of use of the product.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the percentage calculated with stemming</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200725T120733Z" creationid="Dick" creationdate="20200725T120733Z">
+        <seg>het percentage dat is berekend met stemming</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the percentage calculated with the full text, including tags and numbers (generally the lowest)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200725T121009Z" creationid="Dick" creationdate="20200725T121009Z">
+        <seg>het percentage dat is berekend over de volledige tekst, inclusief tags en getallen (in het algemeen het laagste)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the percentage calculated without stemming and still ignoring tags and numbers (generally slightly lower)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200725T120913Z" creationid="Dick" creationdate="20200725T120913Z">
+        <seg>het percentage dat is berekend zonder stemming en nog steeds tags en getallen negeert (in het algemeen iets lager)</seg>
       </tuv>
     </tu>
     <tu>
