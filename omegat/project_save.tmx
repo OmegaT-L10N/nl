@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.1.0_0_54fc30ee" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11168,6 +11168,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add patterns using wildcards (Apache Ant style): *, ?, **.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200725T115423Z" creationid="Dick" creationdate="20200725T115423Z">
+        <seg>Voeg patronen toe met jokertekens (stijl van Apache Ant): *, ?, **.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add terms to a glossary whilst translating in OmegaT</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170916T120933Z" creationid="DiGro (Dick)" creationdate="20170916T120933Z">
@@ -13526,6 +13534,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120708T191237Z">
         <seg>Authenticatie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Author</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200725T115329Z" creationid="Dick" creationdate="20200725T115329Z">
+        <seg>Auteur</seg>
       </tuv>
     </tu>
     <tu>
@@ -15928,6 +15944,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T130112Z">
         <seg>Tsjoevasjisch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Class</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200725T115320Z" creationid="Dick" creationdate="20200725T115320Z">
+        <seg>Klasse</seg>
       </tuv>
     </tu>
     <tu>
@@ -22028,6 +22052,14 @@ Niemand hoort u schreeuwen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Example: &lt;u0&gt;**/excludedfolder/**;*.txt&lt;/u0&gt; excludes files that have /excludedfolder/ in the path, and files with .txt extension.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200725T115700Z" creationid="Dick" creationdate="20200725T115700Z">
+        <seg>Voorbeeld: &lt;u0&gt;**/excludedfolder/**;*.txt&lt;/u0&gt; sluit bestanden die /excludedfolder/ in het pad hebben staan, en bestanden met de extensie .txt, uit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Examples of browsers with an automatic refresh function:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T153637Z" creationid="Dirk" creationdate="20131225T153637Z">
@@ -23052,6 +23084,14 @@ Gossamer-drempel houdt u tegen
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T190317Z">
         <seg>Zwevend teken '?' niet verbonden aan '&gt;'!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Folder ID</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200725T115047Z" creationid="Dick" creationdate="20200725T115047Z">
+        <seg>ID van map</seg>
       </tuv>
     </tu>
     <tu>
@@ -30864,6 +30904,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Installed plugins:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200725T115314Z" creationid="Dick" creationdate="20200725T115314Z">
+        <seg>Geïnstalleerde plug-ins:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installing &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T135627Z" creationid="Dick" creationdate="20190516T135627Z">
@@ -35289,6 +35337,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Minimal threshold to show a fuzzy match:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200725T115028Z" creationid="Dick" creationdate="20200725T115028Z">
+        <seg>Minimale drempel om een fuzzy overeenkomst weer te geven:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Minimize</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T192026Z">
@@ -35938,6 +35994,22 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mozilla FTL</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200725T114909Z" creationid="Dick" creationdate="20200725T114909Z">
+        <seg>Mozilla FTL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mozilla FTL Filter Options</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200725T114931Z" creationid="Dick" creationdate="20200725T114931Z">
+        <seg>Mozilla FTL Filteropties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mozilla Lang</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20140813T171836Z" creationid="Dirk" creationdate="20140813T171836Z">
@@ -36410,6 +36482,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No OAuth token specified</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200725T115133Z" creationid="Dick" creationdate="20200725T115133Z">
+        <seg>Geen token voor OAuth gespecificeerd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No Suggestions</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T192105Z">
@@ -36478,6 +36558,14 @@ measure under any applicable law fulfilling obligations under article
 11 of the WIPO copyright treaty adopted on 20 December 1996, or
 similar laws prohibiting or restricting circumvention of such
 measures.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No folder ID specified</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200725T115147Z" creationid="Dick" creationdate="20200725T115147Z">
+        <seg>Geen ID voor map gespecificeerd</seg>
       </tuv>
     </tu>
     <tu>
@@ -37600,6 +37688,14 @@ combined work, and to convey the resulting work.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T123216Z">
         <seg>O&amp;pties…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OAuth token</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200725T115053Z" creationid="Dick" creationdate="20200725T115053Z">
+        <seg>OAuth-token</seg>
       </tuv>
     </tu>
     <tu>
@@ -46478,6 +46574,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Separate different patterns with a semicolon.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200725T115517Z" creationid="Dick" creationdate="20200725T115517Z">
+        <seg>Verschillende patronen scheiden door puntkomma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Separates the source text into segments.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T172012Z">
@@ -50702,6 +50806,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20140419T143121Z" creationid="Dirk" creationdate="20140419T143121Z">
         <seg>Het Mozilla DTD-filter genereerde een uitzondering:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Mozilla FTL filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200725T115005Z" creationid="Dick" creationdate="20200725T115005Z">
+        <seg>Het filter Mozilla FTL genereerde een uitzondering:</seg>
       </tuv>
     </tu>
     <tu>
@@ -59606,10 +59718,34 @@ Exacte zoekacties komen overeen met de gehele zoekterm.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to parse IAM service response</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200725T115208Z" creationid="Dick" creationdate="20200725T115208Z">
+        <seg>Kan antwoord van IAM service niet parsen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to parse filters configuration file</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T190513Z">
         <seg>Niet in staat om het filter-configuratiebestand te parsen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to parse service error report</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200725T115300Z" creationid="Dick" creationdate="20200725T115300Z">
+        <seg>Kan foutrapport van service niet parsen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to parse translate service response</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200725T115226Z" creationid="Dick" creationdate="20200725T115226Z">
+        <seg>Kan antwoord van vertaalservice niet parsen</seg>
       </tuv>
     </tu>
     <tu>
@@ -60478,6 +60614,14 @@ Opdrachten:
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T124609Z">
         <seg>Woordenlijst gebruiken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use glossary terms</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200725T115118Z" creationid="Dick" creationdate="20200725T115118Z">
+        <seg>Termen uit woordenlijst gebruiken</seg>
       </tuv>
     </tu>
     <tu>
@@ -63317,6 +63461,14 @@ Uw pagina werd niet gevonden</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20150413T103400Z" creationid="Dirk" creationdate="20150413T103400Z">
         <seg>Yandex Translate - geen API-sleutel gespecificeerd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Yandex.Cloud</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20200725T115033Z" creationid="Dick" creationdate="20200725T115033Z">
+        <seg>Yandex.Cloud</seg>
       </tuv>
     </tu>
     <tu>
