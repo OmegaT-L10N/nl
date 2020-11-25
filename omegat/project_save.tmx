@@ -54443,8 +54443,8 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="en">
         <seg>The sources of the current version can be retrieved with a Git client from the repository &lt;u0/&gt; or directly on &lt;u1&gt;SourceForge&lt;/u1&gt;.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20201125T121202Z" creationid="Dick" creationdate="20201125T121202Z">
-        <seg>De bronnen van de huidige versie kunnen met een Git-cliënt wordne opgehaald uit de opslagplaats &lt;u0/&gt; of direct vanaf &lt;u1&gt;SourceForge&lt;/u1&gt;.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T121342Z" creationid="Dick" creationdate="20201125T121202Z">
+        <seg>De bronnen van de huidige versie kunnen met een Git-cliënt worden opgehaald uit de opslagplaats &lt;u0/&gt; of direct vanaf &lt;u1&gt;SourceForge&lt;/u1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
