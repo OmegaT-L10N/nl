@@ -31154,6 +31154,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Instead, the translators copy the files themselves, or add mappings to synchronize files from other locations.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T114838Z" creationid="Dick" creationdate="20201125T114838Z">
+        <seg>In plaats daarvan kopiëren de vertalers de bestanden zelf, of voegen verwijzingen toe om de bestanden van andere locaties te synchroniseren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Instead, they must first be converted manually to Office Open XML (MS Office 2007/2010) or Open Document format (LibreOffice or OpenOffice.org) before they can be handled in OmegaT.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120401T133752Z">
