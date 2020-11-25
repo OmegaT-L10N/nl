@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15140,6 +15140,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Change to "needs-review-translation" instead of "translated"</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T104204Z" creationid="Dick" creationdate="20201125T104204Z">
+        <seg>Wijzig naar "vertaling-moet-worden-nagekeken" in plaats van "vertaald"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Changed &amp;before:</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T190200Z">
@@ -15608,6 +15616,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120128T131348Z">
         <seg>Controleer eenvoudige patronen voor &amp;java MessageFormat (bijv. {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check simple &amp;java MessageFormat patterns (e.g. {0}).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T104350Z" creationid="Dick" creationdate="20201125T104350Z">
+        <seg>Controleer eenvoudige patronen voor &amp;java MessageFormat (bijv. {0}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -17750,6 +17766,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20150713T071158Z" creationid="Dirk" creationdate="20150713T071158Z">
         <seg>Kon de gespecificeerde map niet maken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Could not delete {0}</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T104428Z" creationid="Dick" creationdate="20201125T104428Z">
+        <seg>Kon niet verwijderen {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -24477,6 +24501,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>Fula, Fulah, Pulaar, Pular</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Full checking can lead to false positives in normal texts and the PO filter already detects them.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T104319Z" creationid="Dick" creationdate="20201125T104319Z">
+        <seg>Volledig controleren kan leiden tot valse positieven in normale teksten en het PO-filter detecteert ze al.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36146,6 +36178,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>NB: the Java™ Resource Bundles filter already detects them.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T104412Z" creationid="Dick" creationdate="20201125T104412Z">
+        <seg>NB: het Java™ Resource Bundles-filter detecteert ze al.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Name</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20140813T172844Z" creationid="Dirk" creationdate="20140813T172844Z">
@@ -41655,6 +41695,14 @@ of er nog aanvullende stappen moeten worden uitgevoerd.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T125830Z" creationid="Dirk" creationdate="20170914T125830Z">
         <seg>Plug-ins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plugins are installed in the &lt;f0&gt;/plugins&lt;/f0&gt; folder under the OmegaT installation folder or the platform-specific OmegaT user preferences folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T104819Z" creationid="Dick" creationdate="20201125T104819Z">
+        <seg>Plug-ins worden geïnstalleerd in de map &lt;f0&gt;/plugins&lt;/f0&gt;  onder de OmegaT installatiemap of de platform-specifieke map voor voorkeuren van gebruikers voor OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48162,6 +48210,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specify state attribute handling behavior</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T104105Z" creationid="Dick" creationdate="20201125T104105Z">
+        <seg>Status gedrag afhandeling attributen specificeren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specify tag handling behaviour</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20130411T172330Z">
@@ -49796,6 +49852,14 @@ APPLICABLE LAW.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Team Mode Repository Mapping</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T104022Z" creationid="Dick" creationdate="20201125T104022Z">
+        <seg>Teammodus mappen in opslagplaats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Team Options</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T191744Z">
@@ -50982,6 +51046,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120401T134138Z">
         <seg>Het Open Document Format is een internationale standaard en heeft de gebonden (maar open) Star Office-bestandsindeling vervangen (twee verschillende maar zeer op elkaar gelijkende bestandsindelingen).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The PO filter already handles %..</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T104611Z" creationid="Dick" creationdate="20201125T104611Z">
+        <seg>Het PO-filter behandelt al %..</seg>
       </tuv>
     </tu>
     <tu>
@@ -62345,6 +62417,14 @@ any other work released this way by its authors.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When translating software-related files, you can configure the Tag Validator options to also check programming (%...) variables or placeholders ({0}), if the file filter doesn't do it out of the box already.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T104459Z" creationid="Dick" creationdate="20201125T104459Z">
+        <seg>When translating software-related files, you can configure the Tag Validator options to also check programming (%...) variables or placeholders ({0}), if the file filter doesn't do it out of the box already.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When translating software-related files, you can configure the Tag Validator options to also check programming (%...) variables.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T114003Z" creationid="Dick" creationdate="20190516T114003Z">
@@ -65985,6 +66065,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T131110Z">
         <seg>en &lt;c0&gt;&lt;key&gt;&lt;/c0&gt; kan elke toets zijn die beschikbaar is op uw toetsenbord</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>and Java™ Resource Bundle filter already handles {#} tags, so you only need this for other file types.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T104711Z" creationid="Dick" creationdate="20201125T104711Z">
+        <seg>en Java™ Resource Bundle-filter behandelt al tags {#}, dus heeft u dit alleen nodig voor andere bestandstypen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76757,6 +76845,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T124635Z" creationid="Dirk" creationdate="20170914T124635Z">
         <seg>{0} schakelt de richting tussen LTR, RTL en taalafhankelijk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} version {1} ({2})</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T104218Z" creationid="Dick" creationdate="20201125T104218Z">
+        <seg>{0} versie {1} ({2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} version {1}, update {2} ({3})</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T104234Z" creationid="Dick" creationdate="20201125T104234Z">
+        <seg>{0} versie {1}, update {2} ({3})</seg>
       </tuv>
     </tu>
     <tu>
