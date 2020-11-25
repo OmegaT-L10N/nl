@@ -23014,6 +23014,14 @@ Gossamer-drempel houdt u tegen
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Files must be deleted by the project manager.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T121011Z" creationid="Dick" creationdate="20201125T121011Z">
+        <seg>Bestanden moeten worden verwijderd door de projectbeheerder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Files must be deleted first by the project manager, and then locally.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T133306Z" creationid="Dick" creationdate="20190516T133306Z">
@@ -54433,6 +54441,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The sources of the current version can be retrieved with a Git client from the repository &lt;u0/&gt; or directly on &lt;u1&gt;SourceForge&lt;/u1&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T121202Z" creationid="Dick" creationdate="20201125T121202Z">
+        <seg>De bronnen van de huidige versie kunnen met een Git-cliënt wordne opgehaald uit de opslagplaats &lt;u0/&gt; of direct vanaf &lt;u1&gt;SourceForge&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The sources of the current version can be retrieved with a SVN client from the repository &lt;u0/&gt; or directly on &lt;u1&gt;SourceForge&lt;/u1&gt;.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T160810Z" creationid="Dick" creationdate="20190516T160810Z">
@@ -69821,6 +69837,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://git.code.sf.net/p/omegat/code</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T121104Z" creationid="Dick" creationdate="20201125T121104Z">
+        <seg>https://git.code.sf.net/p/omegat/code</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://groups.yahoo.com/neo/groups/OmegaT/info</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20171124T172735Z" creationid="DiGro (Dick)" creationdate="20171124T172735Z">
@@ -69905,6 +69929,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>https://sourceforge.net/p/omegat/bugs/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/code/ci/master/tarball?path=</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T121107Z" creationid="Dick" creationdate="20201125T121107Z">
+        <seg>https://sourceforge.net/p/omegat/code/ci/master/tarball?path=</seg>
       </tuv>
     </tu>
     <tu>
