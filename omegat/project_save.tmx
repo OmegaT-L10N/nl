@@ -4753,6 +4753,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;/mapping&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T115345Z" creationid="Dick" creationdate="20201125T115345Z">
+        <seg>&lt;/mapping&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;/repository&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T130410Z" creationid="Dick" creationdate="20190516T130410Z">
@@ -6563,6 +6571,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;excludes&gt;**/*.bak&lt;/excludes&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T115342Z" creationid="Dick" creationdate="20201125T115342Z">
+        <seg>&lt;excludes&gt;**/*.bak&lt;/excludes&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;f0&gt;&lt;i1/&gt;tm&lt;/f0&gt; folder</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T172422Z">
@@ -6775,6 +6791,14 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T140645Z">
         <seg>&lt;i2/&gt;De opties voor het opstarten van het programma zullen in dit geval worden gelezen uit het &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.l4J.ini-&lt;/e3&gt;bestand, dat zich bevindt in dezelfde map als het exe-bestand en wat u kunt bewerken om uw instellingen weer te geven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;includes&gt;readme.bak&lt;/includes&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T115343Z" creationid="Dick" creationdate="20201125T115343Z">
+        <seg>&lt;includes&gt;readme.bak&lt;/includes&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7563,10 +7587,56 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T115750Z" creationid="Dick" creationdate="20201125T115708Z">
+        <seg>&lt;mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;mapping local="source/file.txt" repository="my/file.txt"/&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T115823Z" creationid="Dick" creationdate="20201125T115823Z">
+        <seg>&lt;mapping local="source/file.txt" repository="my/file.txt"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;mapping local="source/file2.txt" repository="some/file.txt"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T115840Z" creationid="Dick" creationdate="20201125T115840Z">
+        <seg>&lt;mapping local="source/file2.txt" repository="some/file.txt"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T130449Z" creationid="Dick" creationdate="20190516T130449Z">
         <seg>&lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T115738Z" creationid="Dick" creationdate="20201125T115738Z">
+        <seg>&lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;mapping local="source/subdir" repository=""&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T115340Z" creationid="Dick" creationdate="20201125T115340Z">
+        <seg>&lt;mapping local="source/submap" repository=""&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9652,6 +9722,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;repository type="file" url="/home/me/myfiles"&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T115821Z" creationid="Dick" creationdate="20201125T115821Z">
+        <seg>&lt;repository type="file" url="/home/me/myfiles"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;repository type="git" url="https://repo_for_OmegaT_team_project.git"&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T124440Z" creationid="Dick" creationdate="20190516T124440Z">
@@ -9664,6 +9742,14 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T130346Z" creationid="Dick" creationdate="20190516T130346Z">
         <seg>&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_project_sources"&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T115611Z" creationid="Dick" creationdate="20201125T115318Z">
+        <seg>&lt;repository type="svn" url="https://opslagplaats_voor_alle_OmegaT_team_project_bronnen"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11930,6 +12016,14 @@ conditions are met.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T133535Z" creationid="Dick" creationdate="20190516T133535Z">
         <seg>Alle wijzigingen zullen de volgende keer als een verbinding beschikbaar is worden gesynchroniseerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the contents of &lt;f0&gt;https://repo_for_All_OmegaT_team_project_sources&lt;/f0&gt; are mapped to the local OmegaT project source folder, except all *.bak files but readme.bak.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T115538Z" creationid="Dick" creationdate="20201125T115538Z">
+        <seg>Alle inhoud van &lt;f0&gt;https://opslagplaats_voor_alle_OmegaT_team_project_bronnen&lt;/f0&gt; worden doorverwezen naar de lokale OmegaT project bronmap, behalve alle *.bak-bestanden, uitgezonderd readme.bak.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19000,6 +19094,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134621Z">
         <seg>Standaard is &lt;l0&gt;${filename}&lt;/l0&gt; - volledige bestandsnaam van het bronbestand met extensie: in dit geval is de naam van het vertaalde bestand hetzelfde als dat van het bronbestand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Default project mapping:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T115152Z" creationid="Dick" creationdate="20201125T115152Z">
+        <seg>Standaard mappen voor project:</seg>
       </tuv>
     </tu>
     <tu>
@@ -34063,6 +34165,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local file mapping:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T115820Z" creationid="Dick" creationdate="20201125T115820Z">
+        <seg>Lokaal bestand mappen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local installation path:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170104T180532Z" creationid="Dirk" creationdate="20170104T180532Z">
@@ -34719,6 +34829,30 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mapping for additional sources from remote repository, with filters:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T115310Z" creationid="Dick" creationdate="20201125T115310Z">
+        <seg>Mappen voor aanvullende bronnen uit de opslagplaats op afstand, met filters:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping for extra source files from the web: &lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T115647Z" creationid="Dick" creationdate="20201125T115647Z">
+        <seg>Mappen voor extra bronbestanden vanaf het web: &lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping for projects in a subdirectory of the repository:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T115232Z" creationid="Dick" creationdate="20201125T115232Z">
+        <seg>Mappen voor projecten in een submap van de opslagplaats:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mapping of Local Folders to Remote Folders in Repositories</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T161841Z" creationid="Dirk" creationdate="20160906T161841Z">
@@ -34729,8 +34863,16 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Mapping parameters</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20190516T125335Z" creationid="Dick" creationdate="20190516T125335Z">
-        <seg>Parameters voor rotutes naar mappen</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T115039Z" creationid="Dick" creationdate="20190516T125335Z">
+        <seg>Parameters voor routes naar mappen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping with renaming:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T115724Z" creationid="Dick" creationdate="20201125T115724Z">
+        <seg>Mappen met hernoemen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -43636,6 +43778,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T125503Z" creationid="Dick" creationdate="20190516T125503Z">
         <seg>Locatie op afstand van de te vertalen bestanden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remote location or directory of the files to translate.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T115128Z" creationid="Dick" creationdate="20201125T115128Z">
+        <seg>Locatie op afstand of map van de te vertalen bestanden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53037,6 +53187,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The mappings can be added by editing &lt;f0&gt;omegat.project&lt;/f0&gt; or via the UI: &lt;m1&gt; &lt;g2&gt;Project&lt;/g2&gt; &lt;g3&gt;Properties&lt;/g3&gt; &lt;g4&gt;Repository Mapping&lt;/g4&gt; &lt;/m1&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T115032Z" creationid="Dick" creationdate="20201125T115003Z">
+        <seg>De verwijzingen kunnen worden toegevoegd door &lt;f0&gt;omegat.project&lt;/f0&gt; te bewerken of via de UI: &lt;m1&gt; &lt;g2&gt;Project&lt;/g2&gt; &lt;g3&gt;Eigenschappen&lt;/g3&gt; &lt;g4&gt;Mappen in opslagplaats&lt;/g4&gt; &lt;/m1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The match statistics are accessed via&lt;g0&gt;Tools&gt;Match Statistics.&lt;/g0&gt; The evaluation is rather CPU intensive and can be time-consuming, so a progress bar is shown during the calculation.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T100027Z">
@@ -55989,6 +56147,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T125431Z" creationid="Dick" creationdate="20190516T125353Z">
         <seg>Dit kan zijn: http (inclusief https), svn of git.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This can be either http (which includes https), svn, git or file.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T115106Z" creationid="Dick" creationdate="20201125T115106Z">
+        <seg>Dit kan zijn: http (inclusief https), svn, git of bestand.</seg>
       </tuv>
     </tu>
     <tu>
