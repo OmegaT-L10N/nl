@@ -11958,6 +11958,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All other local changes to the project are reverted.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T120803Z" creationid="Dick" creationdate="20201125T120803Z">
+        <seg>Alle andere lokale wijzigingen aan het project worden teruggedraaid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All other non-permissive additional terms are considered "further</seg>
       </tuv>
       <tuv lang="nl">
@@ -27675,6 +27683,22 @@ copy of the Program in return for a fee.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the file does contain mappings, then local changes to mappings are lost.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T120853Z" creationid="Dick" creationdate="20201125T120853Z">
+        <seg>Als het bestand doorverwijzingen bevat, gaan de lokale wijzigingen van doorverwijzingen verloren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the file doesn't contain mappings, the existing local mappings are re-applied, and only those.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T120733Z" creationid="Dick" creationdate="20201125T120733Z">
+        <seg>Als het bestand doorverwijzingen bevat, worden de bestaande lokale doorverwijzingen opnieuw toegepast, maar alleen die.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the files to be translated are parts of a tree structure (as in a website), you need only specify the top-level subfolder and OmegaT will maintain the entire contents, while keeping the tree structure intact.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134849Z">
@@ -37124,6 +37148,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note about omegat.project and mappings</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T120237Z" creationid="Dick" creationdate="20201125T120237Z">
+        <seg>Opmerking over omegat.project en doorverwijzingen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note also that some fonts behave better for some language pairs than for others.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T165637Z">
@@ -37384,6 +37416,14 @@ measures.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142301Z">
         <seg>Onthoud dat de sleutel 38 tekens lang is.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that the omegat.project file in the repository is not changed automatically and still doesn't contain the mappings.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T120554Z" creationid="Dick" creationdate="20201125T120554Z">
+        <seg>Onthoud dat het bestand omegat.project in de opslagplaats niet automatisch wordt gewijzigd en nog steeds de doorverwijzingen niet bevat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53059,6 +53099,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The local file &lt;f0&gt;/home/me/myfiles/my/file.txt&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/file.txt&lt;/f1&gt; and &lt;f2&gt;/home/me/myfiles/some/file.txt&lt;/f2&gt; is mapped to the local file &lt;f3&gt;source/file2.txt&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T115937Z" creationid="Dick" creationdate="20201125T115937Z">
+        <seg>Het lokale bestand &lt;f0&gt;/home/me/myfiles/my/file.txt&lt;/f0&gt; wordt verwezen naar het lokale bestand &lt;f1&gt;source/file.txt&lt;/f1&gt; en &lt;f2&gt;/home/me/myfiles/some/file.txt&lt;/f2&gt; wordt doorverwezen naar het lokale bestand &lt;f3&gt;source/file2.txt&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The location does not matter, since you can add it to the command line at launch (see below).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T165459Z">
@@ -56411,6 +56459,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T170038Z">
         <seg>Deze externe opdracht mag geen "pipes", etc. bevatten, waarom het aanroepen van een script wordt aanbevolen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This feature is intended for gathering source files, but you're not restricted to source files.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T120219Z" creationid="Dick" creationdate="20201125T120219Z">
+        <seg>Deze mogelijkheid is bedoeld voor het verzamelen van bronbestanden, maar u bent niet beperkt tot bronbestanden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62151,6 +62207,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Warning: if a file does not exist, the project won't load.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T120036Z" creationid="Dick" creationdate="20201125T120036Z">
+        <seg>Waarschuwing: als een bestand niet bestaat, zal het project niet laden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Warning: in Microsoft Open XML formats (docx, xlsx, etc.), if all tags are displayed, DO NOT place any text before the first tag – it is a technical tag that must always begin the segment.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T110051Z" creationid="Dick" creationdate="20190516T110051Z">
@@ -62761,6 +62825,14 @@ technological measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you create a new project and commit that to a repository, the &lt;f0&gt;omegat.project&lt;/f0&gt; file doesn't contain any mapping.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T120334Z" creationid="Dick" creationdate="20201125T120334Z">
+        <seg>Wanneer u een nieuw project maakt en indient in een opslagplaats, bevat het bestand &lt;f0&gt;omegat.project&lt;/f0&gt; geen doorverwijzingen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you create a translation project, OmegaT automatically creates a folder with the specified name, and a list of folders:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134707Z">
@@ -62773,6 +62845,14 @@ technological measures.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T173758Z">
         <seg>Wanneer u de doeldocumenten maakt in een project van &lt;a0&gt;OmegaT&lt;/a0&gt;, wordt het vertaalgeheugen van het project uitgevoerd in de vorm van drie bestanden in de hoofdmap van uw project van &lt;a1&gt;OmegaT&lt;/a1&gt; (zie de bovenstaande beschrijving).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you download the project, the project is converted to a team project locally and a default mapping is added.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T120456Z" creationid="Dick" creationdate="20201125T120456Z">
+        <seg>Wanneer u het project download, wordt het project lokaal geconverteerd naar een teamproject en worden standaard doorverwijzingen toegevoegd.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62821,6 +62901,14 @@ technological measures.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T124945Z">
         <seg>Als u OmegaT laat weten welke bestanden u moet vertalen, zal het kijken naar de bestanden die het begrijpt, gebaseerd op regels voor bestandsfiltering, de tekstdelen daarin herkennen, de tekstgroepen opsplitsen op basis van segmentatieregels, en de segmenten één voor één tonen zodat u door kunt gaan met de vertaling.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you load a project, all changes in the repository are copied to the local project, including the &lt;f0&gt;omegat.project&lt;/f0&gt; file with project settings.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T120654Z" creationid="Dick" creationdate="20201125T120654Z">
+        <seg>Wanneer u een project laadt, worden alle wijzigingen in de opslagplaats gekopieerd naar het lokale project, inclusief het bestand &lt;f0&gt;omegat.project&lt;/f0&gt; met de projectinstellingen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63976,6 +64064,14 @@ for enforcing compliance by third parties with this License.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142929Z">
         <seg>U kunt een nieuwe term aan een woordenlijst toevoegen door te drukken op &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;, of bestaande woordenlijsten kopiëren naar de submap &lt;f1&gt;/glossary/&lt;/f1&gt; van uw projectmap en OmegaT zal automatisch daarin woorden opzoeken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can add as many mappings as you want, but only in the context of a team project, i.e. one of the mappings includes omegat.project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20201125T120136Z" creationid="Dick" creationdate="20201125T120136Z">
+        <seg>U mag net zoveel doorverwijzingen maken als u wilt, maar alleen in de context van een teamproject, d.i. één van de doorverwijzingen bevat omegat.project.</seg>
       </tuv>
     </tu>
     <tu>
