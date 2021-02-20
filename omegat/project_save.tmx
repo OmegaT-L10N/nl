@@ -15402,6 +15402,22 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check "&lt;l3/&gt;" below for more information.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210220T131820Z" creationid="Dick" creationdate="20210220T131820Z">
+        <seg>Bekijk "&lt;l3/&gt;" hieronder voor meer informatie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check "&lt;l4/&gt;" below for more information.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210220T131835Z" creationid="Dick" creationdate="20210220T131835Z">
+        <seg>Bekijk "&lt;l4/&gt;" hieronder voor meer informatie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check "Command line launching" below for more information.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T140854Z">
@@ -24003,6 +24019,14 @@ sale, or importing the Program or any portion of it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210220T132013Z" creationid="Dick" creationdate="20210220T132013Z">
+        <seg>Bijvoorbeeld (als de standaard is geaccepteerd) zal de vertaling vanuit de aanvullende TM worden geaccepteerd en worden vooraf gegaan door&lt;e3&gt; [fuzzy]&lt;/e3&gt;, zodat de vertaler de vertalingen op een later tijdstip kan nakijken en controleren of segmenten die op deze manier zijn getagd, juist zijn vertaald.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly&lt;m4&gt; &lt;g5&gt;.&lt;/g5&gt; &lt;/m4&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T110542Z" creationid="Dick" creationdate="20190517T110542Z">
@@ -29482,6 +29506,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In &lt;g0&gt;Heapwise&lt;/g0&gt; comparison mode, the texts are evaluated globally.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210220T132045Z" creationid="Dick" creationdate="20210220T132045Z">
+        <seg>In modus &lt;g0&gt;Heap-gewijze&lt;/g0&gt; worden de teksten globaal geëvalueerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In &lt;g0&gt;Heapwise&lt;/g0&gt; mode, the texts are evaluated globally.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T124808Z" creationid="Dick" creationdate="20190517T113053Z">
@@ -29494,6 +29526,14 @@ work and works based on it.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T095134Z">
         <seg>In &lt;g0&gt;Opties &gt; Externe TMXen&lt;/g0&gt; maken een aantal variabelen het mogelijk om de weergave van het venster Overeenkomsten te configureren:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In &lt;g1&gt;Parsewise&lt;/g1&gt; comparison mode, they are evaluated segment by segment.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210220T132058Z" creationid="Dick" creationdate="20210220T132058Z">
+        <seg>In modus &lt;g1&gt;Parse-gewijze&lt;/g1&gt; worden zij segment na segment geëvalueerd.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32813,6 +32853,14 @@ zelf bij de eerste keer dat het wordt uitgevoerd.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135819Z">
         <seg>Onthoud dat in een paar de openingstag vóór de sluitingstag moet komen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keep tags in translated text</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210220T132220Z" creationid="Dick" creationdate="20210220T132220Z">
+        <seg>Tags in vertaalde tekst behouden</seg>
       </tuv>
     </tu>
     <tu>
@@ -40521,6 +40569,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;Project files&lt;/l0&gt; window.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210220T131922Z" creationid="Dick" creationdate="20210220T131922Z">
+        <seg>Opent het &lt;l0&gt;venster Projectbestanden&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens the &lt;l0&gt;Segmentation Setup&lt;/l0&gt; options in the Preferences dialog.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T163747Z" creationid="Dick" creationdate="20190516T163747Z">
@@ -45964,6 +46020,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l0&gt;Use a team project&lt;/l0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210220T131903Z" creationid="Dick" creationdate="20210220T131903Z">
+        <seg>Bekijk &lt;l0&gt;Hoe een teamproject te gebruiken&lt;/l0&gt; voor de details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l0&gt;chapter Dictionaries&lt;/l0&gt; for more on this subject.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134726Z">
@@ -48492,6 +48556,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T124817Z" creationid="Dick" creationdate="20190516T124817Z">
         <seg>Speciaal geval: minimaal delen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Special case: selective sharing</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210220T131559Z" creationid="Dick" creationdate="20210220T131559Z">
+        <seg>Speciaal geval: selectief delen</seg>
       </tuv>
     </tu>
     <tu>
@@ -53363,6 +53435,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The mappings can be added via the UI: &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties&lt;/g2&gt; &lt;g3&gt;Repository Mapping&lt;/g3&gt; &lt;/m0&gt; or by editing &lt;f4&gt;omegat.project&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210220T131751Z" creationid="Dick" creationdate="20210220T131705Z">
+        <seg>De verwijzingen kunnen worden toegevoegd via de UI: &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Eigenschappen&lt;/g2&gt; &lt;g3&gt;Mappen in opslagplaats&lt;/g3&gt; &lt;/m0&gt; of door &lt;f4&gt;omegat.project&lt;/f4&gt; te bewerken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The match statistics are accessed via&lt;g0&gt;Tools&gt;Match Statistics.&lt;/g0&gt; The evaluation is rather CPU intensive and can be time-consuming, so a progress bar is shown during the calculation.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T100027Z">
@@ -53631,6 +53711,14 @@ to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134316Z">
         <seg>De optie maakt het voor OmegaT mogelijk om de specificatie in de koptekst van het PO-bestand te overschrijven en de standaard voor de geselecteerde doeltaal te gebruiken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The option only appears when such a selection is possible.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210220T132131Z" creationid="Dick" creationdate="20210220T132131Z">
+        <seg>De optie verschijnt alleen als een dergelijke selectie mogelijk is.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61196,6 +61284,14 @@ Opdrachten:
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T140906Z" creationid="Dick" creationdate="20190516T140906Z">
         <seg>Gebruik het bestand &lt;f0&gt;OmegaT.jar&lt;/f0&gt; dat zich bevindt in &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt; om &lt;a2&gt;OmegaT&lt;/a2&gt; vanaf de opdrachtregel te starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;g0&gt;ID&lt;/g0&gt; comparison mode to align Key=Value texts.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210220T132148Z" creationid="Dick" creationdate="20210220T132148Z">
+        <seg>Gebruik modus &lt;g0&gt;ID vergelijking&lt;/g0&gt; om teksten met Sleutel=Waarde uit te lijnen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69945,6 +70041,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>https://developers.google.com/translate/v2/pricing?hl=en-US</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://docs.oracle.com/javase/8/docs/api/java/util/regex/Pattern.html</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210220T131534Z" creationid="Dick" creationdate="20210220T131534Z">
+        <seg>https://docs.oracle.com/javase/8/docs/api/java/util/regex/Pattern.html</seg>
       </tuv>
     </tu>
     <tu>
