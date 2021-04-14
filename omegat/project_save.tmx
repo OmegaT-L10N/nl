@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_1ee7c8ead" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_5899b4458" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -60304,8 +60304,8 @@ Exacte zoekacties komen overeen met de gehele zoekterm.</seg>
       <tuv lang="en">
         <seg>Unable to connect to server.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20191031T121209Z" creationid="Dick" creationdate="20191031T121209Z">
-        <seg>Kan niet  verbinden met server.</seg>
+      <tuv lang="nl" changeid="Kos Ivantsov" changedate="20210414T200205Z" creationid="Dick" creationdate="20191031T121209Z">
+        <seg>Kan niet verbinden met server.</seg>
       </tuv>
     </tu>
     <tu>
