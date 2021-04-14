@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_1ee7c8ead" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9972,8 +9972,8 @@ Bekijk "Hoofdstuk 3.</seg>
       <tuv lang="en">
         <seg>===============</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dirk" changedate="20170914T132717Z" creationid="Dirk" creationdate="20170914T132717Z">
-        <seg>===============</seg>
+      <tuv lang="nl" changeid="Kos Ivantsov" changedate="20210414T142830Z" creationid="Dirk" creationdate="20170914T132717Z">
+        <seg>==============</seg>
       </tuv>
     </tu>
     <tu>
@@ -17301,9 +17301,9 @@ OmegaT gebruikt de volgende bibliotheken:
         <seg>Contributors
 ============</seg>
       </tuv>
-      <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T144719Z" creationid="DiGro (Dick)" creationdate="20170915T144719Z">
+      <tuv lang="nl" changeid="Kos Ivantsov" changedate="20210414T143019Z" creationid="DiGro (Dick)" creationdate="20170915T144719Z">
         <seg>Bijdragen
-============</seg>
+=========</seg>
       </tuv>
     </tu>
     <tu>
@@ -31233,9 +31233,9 @@ parts of the aggregate.</seg>
         <seg>Installing OmegaT (Linux)
 =========================</seg>
       </tuv>
-      <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T143509Z" creationid="DiGro (Dick)" creationdate="20170915T143509Z">
+      <tuv lang="nl" changeid="Kos Ivantsov" changedate="20210414T142854Z" creationid="DiGro (Dick)" creationdate="20170915T143509Z">
         <seg>Installeren van OmegaT (Linux)
-=========================</seg>
+==============================</seg>
       </tuv>
     </tu>
     <tu>
@@ -31251,9 +31251,9 @@ parts of the aggregate.</seg>
         <seg>Installing OmegaT (Mac)
 =======================</seg>
       </tuv>
-      <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T143347Z" creationid="DiGro (Dick)" creationdate="20170915T143347Z">
+      <tuv lang="nl" changeid="Kos Ivantsov" changedate="20210414T142849Z" creationid="DiGro (Dick)" creationdate="20170915T143347Z">
         <seg>Installeren van OmegaT (Mac)
-========================</seg>
+============================</seg>
       </tuv>
     </tu>
     <tu>
@@ -31279,9 +31279,9 @@ parts of the aggregate.</seg>
         <seg>Installing OmegaT (Solaris, FreeBSD, etc.)
 =========================================</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20200116T110133Z" creationid="Dick" creationdate="20200116T110133Z">
+      <tuv lang="nl" changeid="Kos Ivantsov" changedate="20210414T142907Z" creationid="Dick" creationdate="20200116T110133Z">
         <seg>Installeren van OmegaT (Solaris, FreeBSD, etc.)
-=========================================</seg>
+===============================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -31297,9 +31297,9 @@ parts of the aggregate.</seg>
         <seg>Installing OmegaT (Windows)
 ===========================</seg>
       </tuv>
-      <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T143327Z" creationid="DiGro (Dick)" creationdate="20170915T143327Z">
+      <tuv lang="nl" changeid="Kos Ivantsov" changedate="20210414T142844Z" creationid="DiGro (Dick)" creationdate="20170915T143327Z">
         <seg>Installeren van OmegaT (Windows)
-===========================</seg>
+================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -33607,9 +33607,9 @@ permissions.</seg>
         <seg>Launching OmegaT (Linux)
 ========================</seg>
       </tuv>
-      <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T144401Z" creationid="DiGro (Dick)" creationdate="20170915T144401Z">
+      <tuv lang="nl" changeid="Kos Ivantsov" changedate="20210414T143017Z" creationid="DiGro (Dick)" creationdate="20170915T144401Z">
         <seg>Starten van OmegaT (Linux)
-========================</seg>
+==========================</seg>
       </tuv>
     </tu>
     <tu>
@@ -33625,9 +33625,9 @@ permissions.</seg>
         <seg>Launching OmegaT (Mac)
 ======================</seg>
       </tuv>
-      <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T144254Z" creationid="DiGro (Dick)" creationdate="20170915T144254Z">
+      <tuv lang="nl" changeid="Kos Ivantsov" changedate="20210414T143015Z" creationid="DiGro (Dick)" creationdate="20170915T144254Z">
         <seg>Starten van OmegaT (Mac)
-======================</seg>
+========================</seg>
       </tuv>
     </tu>
     <tu>
@@ -33643,9 +33643,9 @@ permissions.</seg>
         <seg>Launching OmegaT (Windows)
 ==========================</seg>
       </tuv>
-      <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T143908Z" creationid="DiGro (Dick)" creationdate="20170915T143902Z">
+      <tuv lang="nl" changeid="Kos Ivantsov" changedate="20210414T143014Z" creationid="DiGro (Dick)" creationdate="20170915T143902Z">
         <seg>Starten van OmegaT (Windows)
-==========================</seg>
+============================</seg>
       </tuv>
     </tu>
     <tu>
@@ -33677,9 +33677,9 @@ permissions.</seg>
         <seg>Launching OmegaT from the command line (all systems)
 ====================================================</seg>
       </tuv>
-      <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T144630Z" creationid="DiGro (Dick)" creationdate="20170915T144630Z">
+      <tuv lang="nl" changeid="Kos Ivantsov" changedate="20210414T143018Z" creationid="DiGro (Dick)" creationdate="20170915T144630Z">
         <seg>Starten van OmegaT vanaf de opdrachtregel (alle systemen)
-====================================================</seg>
+=========================================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -34031,8 +34031,9 @@ permissions.</seg>
         <seg>Licensing information
 =====================</seg>
       </tuv>
-      <tuv lang="nl" changeid="Kos Ivantsov" changedate="20171206T162747Z" creationid="DiGro (Dick)" creationdate="20170915T143002Z">
-        <seg>Informatie over Licentie</seg>
+      <tuv lang="nl" changeid="Kos Ivantsov" changedate="20210414T142814Z" creationid="DiGro (Dick)" creationdate="20170915T143002Z">
+        <seg>Informatie over Licentie
+========================</seg>
       </tuv>
     </tu>
     <tu>
@@ -42268,8 +42269,9 @@ of er nog aanvullende stappen moeten worden uitgevoerd.</seg>
         <seg>Prerequisites for installing OmegaT
 ===================================</seg>
       </tuv>
-      <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T143142Z" creationid="DiGro (Dick)" creationdate="20170915T143142Z">
-        <seg>Vereisten voor installeren van OmegaT</seg>
+      <tuv lang="nl" changeid="Kos Ivantsov" changedate="20210414T142839Z" creationid="DiGro (Dick)" creationdate="20170915T143142Z">
+        <seg>Vereisten voor installeren van OmegaT
+=====================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -61475,9 +61477,9 @@ Opdrachten:
         <seg>Useful links
 ============</seg>
       </tuv>
-      <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T144838Z" creationid="DiGro (Dick)" creationdate="20170915T144838Z">
+      <tuv lang="nl" changeid="Kos Ivantsov" changedate="20210414T143020Z" creationid="DiGro (Dick)" creationdate="20170915T144838Z">
         <seg>Nuttige links
-============</seg>
+=============</seg>
       </tuv>
     </tu>
     <tu>
@@ -61798,9 +61800,9 @@ searchable without subscription:</seg>
         <seg>Using Java Web Start for installing OmegaT (all platforms)
 ===========================================================</seg>
       </tuv>
-      <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T143801Z" creationid="DiGro (Dick)" creationdate="20170915T143801Z">
+      <tuv lang="nl" changeid="Kos Ivantsov" changedate="20210414T143013Z" creationid="DiGro (Dick)" creationdate="20170915T143801Z">
         <seg>Java Web Start gebruiken voor het installeren van OmegaT (alle platforms)
-===========================================================</seg>
+=========================================================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -62617,8 +62619,9 @@ any other work released this way by its authors.</seg>
       <tuv lang="en">
         <seg>What is OmegaT?</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dirk" changedate="20160911T103358Z">
-        <seg>Wat is OmegaT?</seg>
+      <tuv lang="nl" changeid="Kos Ivantsov" changedate="20210414T142826Z">
+        <seg>Wat is OmegaT?
+</seg>
       </tuv>
     </tu>
     <tu>
