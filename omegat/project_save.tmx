@@ -44994,6 +44994,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Right-click on the underlined term and select a target term to insert it at the cursor location in the target part of the segment.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210504T094949Z" creationid="Dick" creationdate="20210504T094949Z">
+        <seg>Klik met rechts op de onderstreepte term en selecteer een doelterm om die in te voegen op de locatie van de cursor in het doelgedeelte van het segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Right-clicking on a filename opens a popup that allows to open the source file and (if it exists) the target file.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T125438Z" creationid="Dirk" creationdate="20160911T095910Z">
@@ -59275,6 +59283,14 @@ these rights or asking you to surrender the rights.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131227T171307Z" creationid="Dirk" creationdate="20131227T171307Z">
         <seg>Vertalen van de laatste kan alleen in OmegaT als u de extensie .php registreert in het filter voor HTML en XHTML, en wel als volgt:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To underline matching terms in the source part of the segment use &lt;g0&gt;View&lt;/g0&gt; &gt; &lt;g1&gt;Mark Glossary Matches&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210504T094842Z" creationid="Dick" creationdate="20210504T094842Z">
+        <seg>Gebruik, om overeenkomende termen in het brongedeelte van het segment te onderstrepen, &lt;g0&gt;Weergave&lt;/g0&gt; &gt; &lt;g1&gt;Overeenkomsten woordenlijst markeren&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
