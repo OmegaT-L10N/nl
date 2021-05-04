@@ -14588,6 +14588,14 @@ Neem nog een biertje.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bugs, feature requests and documentation issues are handled on SourceForge by the following tracking systems.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210504T095927Z" creationid="Dick" creationdate="20210504T095927Z">
+        <seg>Fouten, verzoeken voor mogelijkheden en problemen met de documentatie worden op SourceForge afgehandeld door de volgende volgsystemen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bugs, feature requests and documentation issues are handled on Sourceforge by the following tracking systems.</seg>
       </tuv>
       <tuv lang="nl">
@@ -30140,6 +30148,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In order to install the Web start version, you must already have Java version 1.8 or later installed on your computer.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210504T100635Z" creationid="Dick" creationdate="20210504T100635Z">
+        <seg>U moet al een Java versie 1.8 of later hebben geïnstalleerd op uw computer om de Web start-versie te kunnen installeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In order to make the workings of the script code clearer, each script essentially performs only one function.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131226T145350Z" creationid="Dirk" creationdate="20131226T145350Z">
@@ -37381,6 +37397,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Notarized vs Unsigned</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210504T100041Z" creationid="Dick" creationdate="20210504T100041Z">
+        <seg>Genotariseerd vs Niet ondertekend</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110716T151752Z">
@@ -38590,6 +38614,14 @@ OmegaT 4.0, Lees Mij-bestand</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT also has the following mailing lists and trackers, which are hosted on SourceForge:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210504T095941Z" creationid="Dick" creationdate="20210504T095825Z">
+        <seg>OmegaT heeft ook de volgende mailinglijsten en volgsystemen, die worden gehost op SourceForge:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT also has the following mailing lists and trackers, which are hosted on Sourceforge:</seg>
       </tuv>
       <tuv lang="nl">
@@ -38794,6 +38826,14 @@ OmegaT 4.0, Lees Mij-bestand</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T130453Z" creationid="DiGro (Dick)" creationdate="20170915T151704Z">
         <seg>OmegaT voor Mac OS X is beschikbaar in zowel ondertekende als niet ondertekende versies; functioneel zijn zij identiek, maar de voorkeur gaat uit naar de ondertekende versie omdat die door het systeem wordt herkend als zijnde afkomstig van een bekende ontwikkelaar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT for macOS is available in both Notarized and Unsigned versions; they are functionally identical, but the Notarized version is preferred as it is recognized by the system as being a) published by a known developer, and b) scanned by Apple.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210504T100354Z" creationid="Dick" creationdate="20210504T100354Z">
+        <seg>OmegaT voor Mac OS X is beschikbaar in zowel Genotariseerde als Niet-ondertekende versies; functioneel zijn zij identiek, maar de voorkeur gaat uit naar de genotariseerde versie omdat die door het systeem wordt herkend als a) gepubliceerd door een bekende ontwikkelaar en b) gescand door Apple.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41658,6 +41698,14 @@ Verdwenen als mist.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T154933Z" creationid="DiGro (Dick)" creationdate="20170915T154933Z">
         <seg>Periodieke builds zijn beschikbaar op CloudBees.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Periodic builds are available on SourceForge.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210504T100705Z" creationid="Dick" creationdate="20210504T100705Z">
+        <seg>Periodieke builds zijn beschikbaar op SourceForge.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46314,6 +46362,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T151231Z" creationid="Dirk" creationdate="20160906T151231Z">
         <seg>Bekijk OmegaT.jar/META-INF/MANIFEST.MF voor geldige waarden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Options &gt; File filters for a list of supported file formats.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210504T100749Z" creationid="Dick" creationdate="20210504T100749Z">
+        <seg>Bekijk Opties &gt; Bestandsfilters voor een lijst met ondersteunde bestandsindelingen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52052,6 +52108,14 @@ Probeer alstublieft de fout te corrigeren en herlaad het project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The certificate is signed by OmegaT's lead developer.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210504T100614Z" creationid="Dick" creationdate="20210504T100614Z">
+        <seg>Het certificaat is ondertekend door de hoofdontwikkelaar van OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The change will then become visible after a delay of at most the interval you selected (plus the time taken by OmegaT to save and produce the target files).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T155506Z" creationid="Dirk" creationdate="20131225T155506Z">
@@ -55851,6 +55915,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T154630Z" creationid="DiGro (Dick)" creationdate="20170915T151737Z">
         <seg>Er kan een vertraging optreden bij het publiceren van ondertekende versies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There may be a delay in publishing the Notarized version.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210504T100430Z" creationid="Dick" creationdate="20210504T100430Z">
+        <seg>Er kan een vertraging optreden bij het publiceren van de genotariseerde versie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61961,6 +62033,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120401T140635Z">
         <seg>Gebruikers hoeven dan ook OmegaT niet zelf te compileren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Users in a hurry can use the Unsigned version instead; if you have difficulty launching the app, see &lt;a0&gt;how to open an app from an unidentified developer&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210504T100526Z" creationid="Dick" creationdate="20210504T100526Z">
+        <seg>Gebruikers die haast hebben kunnen in plaats daarvan de niet ondertekende versie gebruiken; als u moeilijkheden ondervindt bij het starten van de app, bekijk dan &lt;a0&gt;Hoe een app van een niet bekende ontwikkelaar te openen&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72094,6 +72174,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T140919Z" creationid="Dick" creationdate="20190516T140919Z">
         <seg>macOS goodies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS tries to increase security by making it difficult to run unverified programs.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210504T100133Z" creationid="Dick" creationdate="20210504T100133Z">
+        <seg>macOS probeert de veiligheid te verhogen door het moeilijker te maken niet-geverifieerde programma's uit te voeren.</seg>
       </tuv>
     </tu>
     <tu>
