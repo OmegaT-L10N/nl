@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_5899b4458" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.4_0_ab439459" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10408,6 +10408,14 @@ consequence of further modification of the contributor version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A given project can have any number of reference glossaries, but only one glossary, the project default glossary, will be directly writable from the OmegaT user interface.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210504T092717Z" creationid="Dick" creationdate="20210504T092717Z">
+        <seg>En bepaald project mag elk aantal woordenboeken voor verwijzing hebben, maar naar slechts één woordenlijst, de standaard woordenlijst voor het project,  kan direct worden geschreven van de gebruikersinterface van OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A given source segment may require several different translations, depending on the context.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T095505Z">
@@ -19122,6 +19130,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Default glossary</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210504T092850Z" creationid="Dick" creationdate="20210504T092850Z">
+        <seg>Standaard woordenlijst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Default is &lt;l0&gt;${filename}&lt;/l0&gt;– full filename of the source file with extension: in this case the name of the translated file is the same as that of the source file.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134621Z">
@@ -25040,6 +25056,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossaries are terminology files.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210504T092359Z" creationid="Dick" creationdate="20210504T092359Z">
+        <seg>Woordenlijsten zijn bestanden voor terminologie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossaries, Glossary pane</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T140005Z">
@@ -27751,6 +27775,14 @@ copy of the Program in return for a fee.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135957Z">
         <seg>Als het bestand al bestaat, wordt er geen poging gedaan om de indeling of de tekenset van het bestand te verifiëren: de nieuwe items zullen altijd in de indeling tab-gescheiden en UTF-8 zijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the file already exists, no attempt is done to verify the format or the character set of the file: the new entries will always be in tab-separated format and the file will be saved in UTF-8 encoding.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210504T093247Z" creationid="Dick" creationdate="20210504T093247Z">
+        <seg>Als het bestand al bestaat, wordt er geen poging gedaan om de indeling of de tekenset van het bestand te verifiëren: de nieuwe items zullen altijd in de indeling tab-gescheiden en codering UTF-8 zijn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32453,6 +32485,14 @@ zelf bij de eerste keer dat het wordt uitgevoerd.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131227T155719Z" creationid="Dirk" creationdate="20131227T155719Z">
         <seg>De documentatie daarvan, ten minste in het Engels, is meestal redelijk bijgewerkt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Its name and location can be modified in the project properties dialog but its extension must be &lt;f0&gt;.txt&lt;/f0&gt; or &lt;f1&gt;.utf8&lt;/f1&gt; and its location must be contained in the &lt;f2&gt;/glossary&lt;/f2&gt; project folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210504T093132Z" creationid="Dick" creationdate="20210504T093132Z">
+        <seg>Zijn naam en locatie kunnen worden aangepast in het dialoogvenster Projecteigenschappen, maar de extensie ervan moet zijn &lt;f0&gt;.txt&lt;/f0&gt; of &lt;f1&gt;.utf8&lt;/f1&gt; en de locatie ervan moet zijn opgenomen in de projectmap &lt;f2&gt;/glossary&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43648,6 +43688,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regardless of the number of glossaries in a project, any term in a segment that has a match in a glossary will be displayed in the Glossary pane.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210504T092833Z" creationid="Dick" creationdate="20210504T092833Z">
+        <seg>Ongeacht het aantal woordenlijsten in een project, zal elke term in een segment die een overeenkomst heeft in een woordenlijst, worden weergegeven in het venster Woordenlijst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regardless of what server hosts the</seg>
       </tuv>
       <tuv lang="nl">
@@ -52246,6 +52294,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The default writable glossary is located in the the &lt;f0&gt;/glossary&lt;/f0&gt; project folder and is called &lt;f1&gt;glossary.txt&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210504T092934Z" creationid="Dick" creationdate="20210504T092934Z">
+        <seg>De standaard woordenlijst is geplaatst in de projectmap &lt;f0&gt;/glossary&lt;/f0&gt; en is genaamd &lt;f1&gt;glossary.txt&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The dialog allows to enable or disable the following options:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134247Z">
@@ -52530,6 +52586,14 @@ instead.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135956Z">
         <seg>Het bestand hoeft niet te bestaan als het wordt ingesteld, het zal worden gemaakt (indien nodig) bij het toevoegen van een item voor de woordenlijst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The file does not need to exist when setting it, it will be created when adding the first glossary entry.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210504T093211Z" creationid="Dick" creationdate="20210504T093211Z">
+        <seg>Het bestand hoeft niet te bestaan als het wordt ingesteld, het zal worden gemaakt bij het toevoegen van het eerste item voor de woordenlijst.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55945,6 +56009,14 @@ U bent het slachtoffer van één van de drie.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They can be created and updated manually or imported from other projects.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210504T092444Z" creationid="Dick" creationdate="20210504T092444Z">
+        <seg>Zij kunnen handmatig worden gemaakt en bijgewerkt, of geïmporteerd vanuit andere projecten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They can be found in the folders of the corresponding compiled versions.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131227T162132Z" creationid="Dirk" creationdate="20131227T162132Z">
@@ -58085,6 +58157,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T133051Z" creationid="Dick" creationdate="20190516T133051Z">
         <seg>Een nieuw bronbestand toevoegen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To add a new term to the writable glossary use &lt;g0&gt;Edit&lt;/g0&gt; &gt; &lt;g1&gt;Create Glossary Entry&lt;/g1&gt; (&lt;k2&gt;Ctrl+Shift+G&lt;/k2&gt;).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210504T093417Z" creationid="Dick" creationdate="20210504T093417Z">
+        <seg>Gebruik &lt;g0&gt;Bewerken&lt;/g0&gt; &gt; &lt;g1&gt;Item voor woordenlijst maken&lt;/g1&gt; (&lt;k2&gt;Ctrl+Shift+G&lt;/k2&gt;) om een nieuwe term toe te voegen aan de beschrijfbare woordenlijst.</seg>
       </tuv>
     </tu>
     <tu>
