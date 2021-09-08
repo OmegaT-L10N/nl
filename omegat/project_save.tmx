@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_6a16391ac" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1877,6 +1877,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20150413T104925Z" creationid="Dirk" creationdate="20150413T104925Z">
         <seg>Deze kleur he&amp;rstellen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Restart</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210908T101811Z" creationid="Dick" creationdate="20210908T101811Z">
+        <seg>&amp;Opnieuw starten</seg>
       </tuv>
     </tu>
     <tu>
@@ -15436,6 +15444,22 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210908T101857Z" creationid="Dick" creationdate="20210908T101857Z">
+        <seg>Tekens (met spaties)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210908T101842Z" creationid="Dick" creationdate="20210908T101842Z">
+        <seg>Tekens (zonder spaties)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Characters (without spaces)</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T185939Z">
@@ -25478,6 +25502,22 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120401T163354Z">
         <seg>Google zal uw sleutel voor de API genereren, een tekenreeks met ongeveer 39 tekens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Got unexpected HTTP response {0}</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210908T102214Z" creationid="Dick" creationdate="20210908T102214Z">
+        <seg>Kreeg onverwacht antwoord HTTP {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Got unexpected MIME TYPE {0}</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210908T102156Z" creationid="Dick" creationdate="20210908T102156Z">
+        <seg>Krreg onverwacht MIME TYPE {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -38552,6 +38592,22 @@ OmegaT 4.0, Lees Mij-bestand</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT Classic</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210908T102348Z" creationid="Dick" creationdate="20210908T102348Z">
+        <seg>OmegaT Klassiek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT Default</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210908T102340Z" creationid="Dick" creationdate="20210908T102327Z">
+        <seg>OmegaT Standaard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT Download Selector</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131227T163115Z" creationid="Dirk" creationdate="20131227T163115Z">
@@ -38720,6 +38776,14 @@ OmegaT 4.0, Lees Mij-bestand</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT classic theme</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210908T102413Z" creationid="Dick" creationdate="20210908T102413Z">
+        <seg>OmegaT klassiek thema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT compatibility</seg>
       </tuv>
       <tuv lang="nl">
@@ -38748,6 +38812,14 @@ OmegaT 4.0, Lees Mij-bestand</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210115T152128Z" creationid="Dick" creationdate="20210115T152128Z">
         <seg>OmegaT vereist momenteel versie 1.8 van de JRE of later.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT default theme</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210908T102337Z" creationid="Dick" creationdate="20210908T102337Z">
+        <seg>OmegaT standaard thema</seg>
       </tuv>
     </tu>
     <tu>
@@ -44066,6 +44138,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reload the current project to apply these changes</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210908T102315Z" creationid="Dick" creationdate="20210908T102315Z">
+        <seg>Laad het huidige project opnieuw om deze wijzigingen door te voeren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reload your OmegaT project.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120402T172603Z">
@@ -44094,6 +44174,22 @@ Deze woorden: 'Pagina niet gevonden'</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T190008Z">
         <seg>Resterende tekens (inclusief spaties)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remaining Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210908T102122Z" creationid="Dick" creationdate="20210908T102122Z">
+        <seg>Resterend aantal tekens (met spaties)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remaining Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210908T101937Z" creationid="Dick" creationdate="20210908T101937Z">
+        <seg>Resterend aantal tekens (zonder spaties)</seg>
       </tuv>
     </tu>
     <tu>
@@ -44896,6 +44992,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170927T103031Z" creationid="DiGro (Dick)" creationdate="20170927T103031Z">
         <seg>Bronnen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Restart OmegaT to apply these changes</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210908T102247Z" creationid="Dick" creationdate="20210908T102247Z">
+        <seg>Start OmegaT opnieuw om deze wijzigingen door te voeren</seg>
       </tuv>
     </tu>
     <tu>
@@ -55649,6 +55753,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Theme:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210908T101822Z" creationid="Dick" creationdate="20210908T101822Z">
+        <seg>Thema:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Then click on &lt;e0&gt;Search&lt;/e0&gt; button to display all the corresponding occurrences.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T170527Z">
@@ -59780,6 +59892,22 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Total Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210908T102112Z" creationid="Dick" creationdate="20210908T102053Z">
+        <seg>Totaal aantal tekens (met spaties)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210908T101920Z" creationid="Dick" creationdate="20210908T101920Z">
+        <seg>Totaal aantal tekens (zonder spaties)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Total Characters (without spaces)</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T190003Z">
@@ -60912,6 +61040,22 @@ Exacte zoekacties komen overeen met de gehele zoekterm.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unique Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210908T102128Z" creationid="Dick" creationdate="20210908T102128Z">
+        <seg>Unieke tekens (met spaties)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210908T102056Z" creationid="Dick" creationdate="20210908T101955Z">
+        <seg>Unieke tekens (zonder spaties)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unique Characters (without spaces)</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T190005Z">
@@ -60924,6 +61068,22 @@ Exacte zoekacties komen overeen met de gehele zoekterm.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T190010Z">
         <seg>Unieke resterende tekens (inclusief spaties)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Remaining Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210908T102137Z" creationid="Dick" creationdate="20210908T102137Z">
+        <seg>Resterende unieke tekens (met spaties)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Remaining Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20210908T102019Z" creationid="Dick" creationdate="20210908T102019Z">
+        <seg>Resterende unieke tekens (zonder spaties)</seg>
       </tuv>
     </tu>
     <tu>
