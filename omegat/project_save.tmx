@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.6.0_0_203361b5" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17838,6 +17838,14 @@ the conditions stated below.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20190418T092511Z" creationid="DiGro (Dick)" creationdate="20190418T092511Z">
         <seg>Copyright © 2000-2019 Keith Godfrey, Maxym Mykhalchuk en anderen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copyright © 2000-2021 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211115T112015Z" creationid="Dick" creationdate="20211115T112015Z">
+        <seg>Copyright © 2000-2021 Keith Godfrey, Maxym Mykhalchuk en anderen</seg>
       </tuv>
     </tu>
     <tu>
