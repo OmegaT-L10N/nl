@@ -24557,6 +24557,14 @@ sale, or importing the Program or any portion of it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with &lt;e3&gt;[fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T134456Z" creationid="Dick" creationdate="20211118T134456Z">
+        <seg>Bijvoorbeeld (als de standaard is geaccepteerd) zal de vertaling vanuit de aanvullende TM worden geaccepteerd en worden vooraf gegaan door &lt;e3&gt;[fuzzy]&lt;/e3&gt;, zodat de vertaler de vertalingen op een later tijdstip kan nakijken en controleren of segmenten die op deze manier zijn getagd, juist zijn vertaald.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly (see the &lt;l4&gt;Editing behavior&lt;/l4&gt; chapter) &lt;m5&gt; &lt;g6&gt;.&lt;/g6&gt; &lt;/m5&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T172439Z">
@@ -27903,6 +27911,14 @@ excuse you from the conditions of this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If it is clear from the very start, that translations in a given TM (or TMs) are all correct, one can put them into the &lt;f0&gt;tm/auto&lt;/f0&gt; folder and avoid confirming a lot of &lt;e1&gt;[fuzzy]&lt;/e1&gt; cases.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T134603Z" creationid="Dick" creationdate="20211118T134603Z">
+        <seg>Als het vanaf het begin duidelijk is dat de vertalingen in een bepaald TM (of TM's) allemaal juist zijn, kan één van hen in de map &lt;f0&gt;tm/auto&lt;/f0&gt; worden geplaatst en heel veel van de gevallen van bevestiging met &lt;e1&gt;[fuzzy]&lt;/e1&gt; worden voorkomen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If it is clear from the very start, that translations in a given TM (or TMs) are all correct, one can put them into the&lt;e0&gt; tm/auto&lt;/e0&gt; folder and avoid confirming a lot of&lt;e1&gt; [fuzzy]&lt;/e1&gt; cases.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T172506Z">
@@ -28391,6 +28407,14 @@ to choose that version for the Program.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T095506Z">
         <seg>Als de huidige vertaling van het segment niet past, kan de gebruiker &lt;g0&gt;Bewerken → Alternatieve vertaling maken&lt;/g0&gt; selecteren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the current translation of the segment does not fit, the user can select &lt;m0&gt;&lt;g1&gt;Edit&lt;/g1&gt;&lt;g2&gt;Create Alternative Translation&lt;/g2&gt;&lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T134006Z" creationid="Dick" creationdate="20211118T134006Z">
+        <seg>Als de huidige vertaling van het segment niet past, kan de gebruiker &lt;m0&gt;&lt;g1&gt;Bewerken&lt;/g1&gt;&lt;g2&gt;Alternatieve vertaling maken&lt;/g2&gt;&lt;/m0&gt; selecteren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29441,6 +29465,14 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you have TransTips option activated (&lt;m0&gt;&lt;g1&gt;Options&lt;/g1&gt;&lt;g2&gt;TransTips&lt;/g2&gt;&lt;/m0&gt;), you can right click on the highlighted word in the source segment to open a pop-up menu with suggested translation, as offered by your glossary.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T133908Z" creationid="Dick" creationdate="20211118T133908Z">
+        <seg>Als u de optie TransTips hebt geactiveerd (&lt;m0&gt;&lt;g1&gt;Opties&lt;/g1&gt;&lt;g2&gt;Transtips&lt;/g2&gt;&lt;/m0&gt;), kunt u met rechts klikken op het geaccentueerde woord om een keuzelijst te openen met de voorgestelde vertalingen, zoals die worden aangeboden door uw woordenlijst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have a PDF file made of scanned pages (sometimes such files are referred to as ‘dead’ PDFs), you need to use an OCR (optical character recognition) program to recognize the text and convert it to a format that can be handled by OmegaT.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T132406Z" creationid="Dirk" creationdate="20170914T132406Z">
@@ -29856,6 +29888,14 @@ to use Java Web Start.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T103920Z">
         <seg>Indien u het meegeleverde installatiescript gebruikte, zou u OmegaT moeten kunnen opstarten met:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you want the translation to be the same as the source, simply make the editing field empty by removing all the text (select all with &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;A&lt;/k2&gt;&lt;/k0&gt; and delete with &lt;k3&gt;Del&lt;/k3&gt;).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T133729Z" creationid="Dick" creationdate="20211118T133729Z">
+        <seg>Als u wilt dat het segment niet vertaald wordt, maakt u eenvoudigweg het bewerkingsveld leeg door alle tekst te verwijderen (selecteer alles met &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;A&lt;/k2&gt;&lt;/k0&gt; en verwijder het met &lt;k3&gt;Del&lt;/k3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -38487,6 +38527,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that the TMX files in the &lt;f0&gt;tm&lt;/f0&gt; folder can be compressed with gzip.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T134521Z" creationid="Dick" creationdate="20211118T134521Z">
+        <seg>Onthoud dat de TMX-bestanden in de map &lt;f0&gt;tm&lt;/f0&gt; kunnen worden gecomprimeerd met gzip.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that the TMX files in the tm folder can be compressed with gzip.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T172444Z">
@@ -43536,6 +43584,14 @@ lokaal project zonder functionaliteit voor team.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Press &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;M&lt;/k2&gt;&lt;/k0&gt; to replace the translation of the current segment with the suggested translation.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T133926Z" creationid="Dick" creationdate="20211118T133926Z">
+        <seg>Druk op &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;M&lt;/k2&gt;&lt;/k0&gt; om de vertaling van het huidige segment te vervangen door de voorgestelde vertaling.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Press &lt;k0&gt;Ctrl+M&lt;/k0&gt; to replace the translation of the current segment with the suggested translation.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T095522Z">
@@ -44498,6 +44554,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T173137Z" creationid="Dirk" creationdate="20160910T173137Z">
         <seg>Plaats de TMX in /tm/enforce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Put the TMX in &lt;f0&gt;tm/auto&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T134658Z" creationid="Dick" creationdate="20211118T134658Z">
+        <seg>Plaats het TMX-bestand in de map &lt;f0&gt;tm/auto&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47272,6 +47336,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;e4&gt;Translation editing&lt;/e4&gt; for more details.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T133743Z" creationid="Dick" creationdate="20211118T133743Z">
+        <seg>Zie &lt;e4&gt;Vertaling bewerken&lt;/e4&gt; voor meer details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l0&gt;Appendix ShortCut Customization&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T125922Z">
@@ -48764,6 +48836,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T174416Z">
         <seg>Indien u niet meer weet welke wijzigingen u aan de gebruikersinterface heeft aangebracht, kunt u op elk moment &lt;g0&gt;&lt;i1/&gt; &lt;i2/&gt;Opties → Hoofdvenster herstellen&lt;/g0&gt; gebruiken om terug te keren naar de originele lay-out.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Should you lose track of your changes to the user interface, you can use &lt;m0&gt;&lt;g1&gt;Options&lt;/g1&gt;&lt;g2&gt;Restore Main Window&lt;/g2&gt;&lt;/m0&gt; any time to return to the original layout.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T133700Z" creationid="Dick" creationdate="20211118T133700Z">
+        <seg>Indien u niet meer weet welke wijzigingen u aan de gebruikersinterface heeft aangebracht, kunt u op elk moment &lt;m0&gt;&lt;g1&gt;Opties&lt;/g1&gt;&lt;g2&gt;Hoofdvenster herstellen&lt;/g2&gt;&lt;/m0&gt; gebruiken om terug te keren naar de originele lay-out.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52288,6 +52368,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;f0&gt;tm&lt;/f0&gt; folder can contain any number of ancillary translation memories - i.e. tmx files.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T134308Z" creationid="Dick" creationdate="20211118T134308Z">
+        <seg>De map &lt;f0&gt;tm&lt;/f0&gt; kan een willekeurig aantal aanvullende vertaalgeheugens bevatten - d.i. tmx-bestanden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;f1&gt;project_save.tmx&lt;/f1&gt; file contains all the segments that have been recorded in memory since you started the project.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T172403Z">
@@ -53547,6 +53635,22 @@ instead.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134855Z">
         <seg>De inhoud van de submap target zal de huidige status van de vertaling weergeven, zoals die aanwezig is in het vertaalgeheugen van het project, opgeslagen in het huidige &lt;e8&gt;/omegat/project_save.tmx&lt;/e8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The contents of the target subfolder will reflect the current state of the translation, as present in the project translation memory, saved in the current &lt;f8&gt;/omegat/project_save.tmx&lt;/f8&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T134250Z" creationid="Dick" creationdate="20211118T134250Z">
+        <seg>De inhoud van de submap target zal de huidige status van de vertaling weergeven, zoals die aanwezig is in het vertaalgeheugen van het project, opgeslagen in het huidige &lt;f8&gt;/omegat/project_save.tmx&lt;/f8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The contents of translation memories in the &lt;f0&gt;tm&lt;/f0&gt; subfolder serve to generate suggestions for the text(s) to be translated.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T134324Z" creationid="Dick" creationdate="20211118T134324Z">
+        <seg>De inhoud van vertaalgeheugens in de submap &lt;f0&gt;tm&lt;/f0&gt; dienen om suggesties te genereren voor de tekst(en) om te worden vertaald.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61041,6 +61145,14 @@ these rights or asking you to surrender the rights.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To use the selected match in your translation, use &lt;k4&gt;&lt;k5&gt;Ctrl&lt;/k5&gt;&lt;k6&gt;R&lt;/k6&gt;&lt;/k4&gt; to replace the target field with the match or use &lt;k7&gt;&lt;k8&gt;Ctrl&lt;/k8&gt;&lt;k9&gt;I&lt;/k9&gt;&lt;/k7&gt; to insert it at the cursor position.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T133818Z" creationid="Dick" creationdate="20211118T133818Z">
+        <seg>Gebruik &lt;k4&gt;&lt;k5&gt;Ctrl&lt;/k5&gt;&lt;k6&gt;R&lt;/k6&gt;&lt;/k4&gt; om het doelveld te vervangen door die overeenkomst of &lt;k7&gt;&lt;k8&gt;Ctrl&lt;/k8&gt;&lt;k9&gt;I&lt;/k9&gt;&lt;/k7&gt; om die in te voegen op de cursorpositie, om de geselecteerde overeenkomst in uw vertaling te gebruiken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To use this filter, simply change the file extension of the XML file exported by Infix from .xml to .html.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120402T172548Z">
@@ -66604,6 +66716,14 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can browse through notes using &lt;m0&gt;&lt;g1&gt;GoTo&lt;/g1&gt;&lt;g2&gt;Next Note&lt;/g2&gt;&lt;/m0&gt; and &lt;m3&gt;&lt;g4&gt;GoTo&lt;/g4&gt;&lt;g5&gt;Previous Note&lt;/g5&gt;&lt;/m3&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T134203Z" creationid="Dick" creationdate="20211118T134203Z">
+        <seg>U kunt door de notities bladeren met behulp van &lt;m0&gt;&lt;g1&gt;Ga naar&lt;/g1&gt;&lt;g2&gt;Volgende notitie&lt;/g2&gt;&lt;/m0&gt; en &lt;m3&gt;&lt;g4&gt;Ga naar&lt;/g4&gt;&lt;g5&gt;Vorige notitie&lt;/g5&gt;&lt;/m3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can change or add filename patterns for files to be handled by each file filter.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134525Z" creationid="Dirk" creationdate="20160910T134525Z">
@@ -66752,6 +66872,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T095508Z">
         <seg>U kunt één van de alternatieven - bijvoorbeeld die welke het meest waarschijnlijk is - als de standaard vertaling instellen door te selecteren &lt;g1&gt;Bewerken → Als standaard vertaling gebruiken&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can define one of the alternative - for instance the most probable among them - as default translation by selecting &lt;m3&gt;&lt;g4&gt;Edit&lt;/g4&gt;&lt;g5&gt;Use as Default Translation&lt;/g5&gt;&lt;/m3&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T134059Z" creationid="Dick" creationdate="20211118T134059Z">
+        <seg>U kunt één van de alternatieven - bijvoorbeeld die welke het meest waarschijnlijk is - als de standaard vertaling instellen door te selecteren &lt;m3&gt;&lt;g4&gt;Bewerken&lt;/g4&gt;&lt;g5&gt;Als standaard vertaling gebruiken&lt;/g5&gt;&lt;/m3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
