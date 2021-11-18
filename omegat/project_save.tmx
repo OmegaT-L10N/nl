@@ -16388,6 +16388,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Clic on &lt;g0&gt;Exclusions...&lt;/g0&gt; to define the files or folders that will be ignored by OmegaT.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T123539Z" creationid="Dick" creationdate="20211118T123539Z">
+        <seg>Klik op &lt;g0&gt;Uitgesloten...&lt;/g0&gt; om de bestanden of mappen te definiëren  die zullen worden genegeerd door OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click &lt;e0&gt;Defaults&lt;/e0&gt; to reset the file filters to the default settings.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134245Z">
@@ -21756,6 +21764,14 @@ Uw helppagina werd niet gevonden</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T121224Z" creationid="Dick" creationdate="20190516T121224Z">
         <seg>Schakelt automatisch notificeren bij updates van&lt;a0&gt;OmegaT&lt;/a0&gt; in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enables automatic notification of OmegaT updates.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T123424Z" creationid="Dick" creationdate="20211118T123424Z">
+        <seg>Schakelt automatisch notificeren bij updates van OmegaT in.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29069,6 +29085,14 @@ free software which everyone can redistribute and change under these terms.</seg
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T170041Z">
         <seg>Indien u namen voor mappen invoert die nog niet bestaan, zal &lt;a0&gt;OmegaT&lt;/a0&gt; die voor u maken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you enter names of folders that do not exist yet, OmegaT creates them for you.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T123522Z" creationid="Dick" creationdate="20211118T123522Z">
+        <seg>Indien u namen voor mappen invoert die nog niet bestaan, zal OmegaT die voor u maken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42716,6 +42740,14 @@ of er nog aanvullende stappen moeten worden uitgevoerd.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Plugins are installed in the &lt;f0&gt;plugins&lt;/f0&gt; folder under the OmegaT installation folder or the platform-specific OmegaT user preferences folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T123358Z" creationid="Dick" creationdate="20211118T123358Z">
+        <seg>Plug-ins worden geïnstalleerd in de map &lt;f0&gt;plugins&lt;/f0&gt;  onder de OmegaT installatiemap of de platform-specifieke map voor voorkeuren van gebruikers voor OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Points regarding proprietary translation memory files:</seg>
       </tuv>
       <tuv lang="nl">
@@ -53224,6 +53256,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The entry &lt;g5&gt;Remove translation&lt;/g5&gt; in the same pop up menu also allows to delete the existing translation of the current segment.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T122624Z" creationid="Dick" creationdate="20211118T122624Z">
+        <seg>Het item &lt;g5&gt;Vertaling verwijderen&lt;/g5&gt; in hetzelfde pop-upmenu maakt het ook mogelijk de bestaande vertaling van het huidige segment te verwijderen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The entry will be greyed, if there's just one translation available.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T155514Z">
@@ -53348,6 +53388,14 @@ instead.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T133638Z">
         <seg>De bestanden verschijnen in de submap /script in de map met gebruikersbestanden van OmegaT, en bevatten:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The files appear in the &lt;f0&gt;script&lt;/f0&gt; subfolder in the OmegaT user files folder, and include:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T122808Z" creationid="Dick" creationdate="20211118T122808Z">
+        <seg>De bestanden verschijnen in de submap &lt;f0&gt;script&lt;/f0&gt; in de map met gebruikersbestanden van OmegaT, en bevatten:</seg>
       </tuv>
     </tu>
     <tu>
@@ -55245,6 +55293,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The segmentation settings only address the way the source files are handled by OmegaT.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T123507Z" creationid="Dick" creationdate="20211118T123507Z">
+        <seg>De instellingen voor segmentatie hebben alleen betrekking op de manier waarop de bronbestanden door OmegaT worden afgehandeld.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The segments are displayed in order of appearance in the project.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T171614Z">
@@ -55769,10 +55825,26 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The text export function exports data from within the current OmegaT project to plain text files.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T122728Z" creationid="Dick" creationdate="20211118T122728Z">
+        <seg>De functie Tekst exporteren exporteert gegevens vanuit het huidige project van OmegaT naar platte tekst-bestanden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The text export function exports data from within the current OmegaT project to plain-text files.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131226T140507Z" creationid="Dirk" creationdate="20131226T140507Z">
         <seg>De functie Tekst exporteren exporteert gegevens vanuit het huidige OmegaT-project naar platte tekst-bestanden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The text highlighted by the user, when &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;/k0&gt; is pressed or &lt;m4&gt;&lt;g5&gt;Edit&lt;/g5&gt;&lt;g6&gt;Export Selection&lt;/g6&gt;&lt;/m4&gt; is selected (&lt;f7&gt;selection.txt&lt;/f7&gt;).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T123016Z" creationid="Dick" creationdate="20211118T123016Z">
+        <seg>De tekst die door de gebruiker werd geaccentueerd, als &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;/k0&gt; werd ingedrukt of als &lt;m4&gt;&lt;g5&gt;Bewerken&lt;/g5&gt;&lt;g6&gt;Selectie exporteren&lt;/g6&gt;&lt;/m4&gt; is geselecteerd (&lt;f7&gt;selection.txt&lt;/f7&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -65245,6 +65317,14 @@ can then launch the Kaptain launch script with:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You achieve the same by clearing the target segment and pressing &lt;g6&gt;Enter&lt;/g6&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T122656Z" creationid="Dick" creationdate="20211118T122656Z">
+        <seg>U bereikt hetzelfde door het doelsegment leeg te maken en te drukken op &lt;g6&gt;Enter&lt;/g6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You already have the latest version.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20180605T080715Z" creationid="DiGro (Dick)" creationdate="20180605T080715Z">
@@ -71968,6 +72048,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T170049Z">
         <seg>wordt niet gekopieerd naar de map /target gedurende het proces van het maken van vertaalde bestanden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>is not copied in &lt;f0&gt;target&lt;/f0&gt; folder during the translated files creation process.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T123602Z" creationid="Dick" creationdate="20211118T123602Z">
+        <seg>wordt niet gekopieerd naar de map &lt;f0&gt;target&lt;/f0&gt; gedurende het proces van het maken van vertaalde bestanden.</seg>
       </tuv>
     </tu>
     <tu>
