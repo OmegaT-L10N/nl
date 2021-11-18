@@ -28767,10 +28767,26 @@ notice like this when it starts in an interactive mode:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If they &lt;e0&gt;don't need&lt;/e0&gt; to stay immune from further changes, then remove the TMX from &lt;f1&gt;tm/enforce&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T135010Z" creationid="Dick" creationdate="20211118T135010Z">
+        <seg>Als zij &lt;e0&gt;niet immuun&lt;/e0&gt; moeten blijven voor nadere wijzigingen, verwijder dan de TMX uit &lt;f1&gt;tm/enforce&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If they &lt;e0&gt;need&lt;/e0&gt; to stay immune from further changes, then keep the TMX in /tm/enforce.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T173441Z" creationid="Dirk" creationdate="20160910T173441Z">
         <seg>Als zij &lt;e0&gt;immuun&lt;/e0&gt; moeten blijven voor verdere wijzigingen, laat dan de TMX in /tm/enforce staan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If they &lt;e0&gt;need&lt;/e0&gt; to stay immune from further changes, then keep the TMX in &lt;f1&gt;tm/enforce&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T135020Z" creationid="Dick" creationdate="20211118T135020Z">
+        <seg>Als zij &lt;e0&gt;immuun&lt;/e0&gt; moeten blijven voor verdere wijzigingen, laat dan de TMX in &lt;f1&gt;tm/enforce&lt;/f1&gt; staan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28923,6 +28939,14 @@ where to find the applicable terms.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T140713Z">
         <seg>Als u al een versie van OmegaT hebt geïnstalleerd op uw PC en wilt upgraden naar een meer recente versie, heeft u twee opties:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you already have collected words you wish the spell checker to ignore / accept, you just need to copy the corresponding two files into the &lt;f0&gt;omegat&lt;/f0&gt; subfolder of your current project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T135403Z" creationid="Dick" creationdate="20211118T135403Z">
+        <seg>Als u al woorden hebt verzameld waarvan u wilt dat de spellingscontrole die negeert / accepteert, hoeft u slechts de corresponderende twee bestanden naar de submap &lt;f0&gt;omegat&lt;/f0&gt; van uw huidige project te kopiëren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29632,6 +29656,14 @@ to use Java Web Start.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T173126Z">
         <seg>Als u er niet aan twijfelt dat een TMX meer nauwkeurig is dan het bestand &lt;f0&gt;project_save.tmx&lt;/f0&gt; van OmegaT, plaats die TMX dan in /tm/enforce om bestaande standaard vertalingen onvoorwaardelijk te overschrijven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have no doubt that a TMX is more accurate than the &lt;f0&gt;project_save.tmx&lt;/f0&gt; of OmegaT, put this TMX in &lt;f1&gt;tm/enforce&lt;/f1&gt; to overwrite existing default translations unconditionally.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T134820Z" creationid="Dick" creationdate="20211118T134820Z">
+        <seg>Als u er niet aan twijfelt dat een TMX meer nauwkeurig is dan het bestand &lt;f0&gt;project_save.tmx&lt;/f0&gt; van OmegaT, plaats die TMX dan in &lt;f1&gt;tm/enforce&lt;/f1&gt; om bestaande standaard vertalingen onvoorwaardelijk te overschrijven.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38799,6 +38831,22 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note: if TMX is removed from &lt;f0&gt;tm/auto&lt;/f0&gt; before step 3, no extra Translation Unit is added.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T134753Z" creationid="Dick" creationdate="20211118T134753Z">
+        <seg>Opmerking: als de TMX vóór stap 3 uit &lt;f0&gt;tm/auto&lt;/f0&gt;wordt verwijderd, worden geen extra vertaaleenheden toegevoegd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note: if TMX is removed from &lt;f0&gt;tm/enforce&lt;/f0&gt; before step 3, enforcements aren't kept at all.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T135154Z" creationid="Dick" creationdate="20211118T135154Z">
+        <seg>Opmerking: als de TMX vóór stap 3 uit &lt;f0&gt;tm/enforce&lt;/f0&gt; wordt verwijderd, worden in het geheel geen forceringen behouden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note: in that case, &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k1&gt; can still be used, to force a Machine Translation call on an already translated segment.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T160847Z" creationid="Dirk" creationdate="20160910T160847Z">
@@ -39396,6 +39444,14 @@ OmegaT 4.0, Lees Mij-bestand</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T112558Z" creationid="Dick" creationdate="20190517T112558Z">
         <seg>OmegaT 4.2 - Gebruikershandleiding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT 4.3.1 - User's Guide</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T135705Z" creationid="Dick" creationdate="20211118T135705Z">
+        <seg>OmegaT 4.3.1 - Gebruikershandleiding</seg>
       </tuv>
     </tu>
     <tu>
@@ -44562,6 +44618,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T134658Z" creationid="Dick" creationdate="20211118T134658Z">
         <seg>Plaats het TMX-bestand in de map &lt;f0&gt;tm/auto&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Put the TMX in &lt;f0&gt;tm/enforce&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T134856Z" creationid="Dick" creationdate="20211118T134838Z">
+        <seg>Plaats de TMX in de map &lt;f0&gt;tm/enforce&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52360,6 +52424,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;f0&gt;omegat&lt;/f0&gt; subfolder contains at least one and possibly several other files.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T135215Z" creationid="Dick" creationdate="20211118T135215Z">
+        <seg>De submap &lt;f0&gt;omegat&lt;/f0&gt; bevat ten minste één en mogelijk meerdere andere bestanden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;f0&gt;project_stats.txt&lt;/f0&gt; located in the omegat folder of your project contains more detailed segment information, broken down by file.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T095922Z">
@@ -55099,6 +55171,14 @@ to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134736Z">
         <seg>Het meest belangrijke bestand is hier &lt;f1&gt;project_save.tmx, &lt;/f1&gt;dat het werkende vertaalgeheugen voor het project is.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The most important file here is the &lt;f1&gt;project_save.tmx&lt;/f1&gt;, that is the working translation memory for the project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T135232Z" creationid="Dick" creationdate="20211118T135232Z">
+        <seg>Het meest belangrijke bestand is hier &lt;f1&gt;project_save.tmx&lt;/f1&gt;, dat het werkende vertaalgeheugen voor het project is.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67411,6 +67491,14 @@ installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can view it by selecting &lt;m0&gt;&lt;g1&gt;Tools&lt;/g1&gt;&lt;g2&gt;Statistics&lt;/g2&gt;&lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T135318Z" creationid="Dick" creationdate="20211118T135318Z">
+        <seg>U kunt het bekijken door te selecteren &lt;m0&gt;&lt;g1&gt;Extra&lt;/g1&gt;&lt;g2&gt;Statistieken&lt;/g2&gt;&lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You create first an empty client folder on your disk.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T110643Z">
@@ -69948,6 +70036,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134751Z">
         <seg>bevat de laatste statistieken voor overeenkomsten in het project, gegenereerd door &lt;g0&gt;Extra &gt; Statistieken voor overeenkomsten&lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>contains the latest project match statistics, generated by &lt;m0&gt;&lt;g1&gt;Tools&lt;/g1&gt;&lt;g2&gt;Match Statistics&lt;/g2&gt;&lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T135443Z" creationid="Dick" creationdate="20211118T135443Z">
+        <seg>bevat de laatste statistieken voor overeenkomsten in het project, gegenereerd door &lt;m0&gt;&lt;g1&gt;Extra&lt;/g1&gt;&lt;g2&gt;Statistieken voor overeenkomsten&lt;/g2&gt;&lt;/m0&gt;</seg>
       </tuv>
     </tu>
     <tu>
