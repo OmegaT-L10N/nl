@@ -25322,6 +25322,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary layout</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T115543Z" creationid="Dick" creationdate="20211118T115543Z">
+        <seg>Lay-out woordenlijst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary matching does not use stemming or stop words, but is case-insensitive.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T161820Z" creationid="Dirk" creationdate="20160910T161820Z">
@@ -33946,6 +33954,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135918Z">
         <seg>Het activeren van deze functie – &lt;g0&gt;Ctrl+Shift+V&lt;i1/&gt;&lt;/g0&gt; - zal een venster openen dat alle segmenten uit het bestand, waarvan wordt vermoed dat ze zijn verbroken of slechte tags zijn, bevat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Layout variations can be added as plugins.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T115731Z" creationid="Dick" creationdate="20211118T115731Z">
+        <seg>Variaties voor de lay-out kunnen worden toegevoegd als plug-ins.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65727,6 +65743,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T115239Z" creationid="Dick" creationdate="20190517T115239Z">
         <seg>U kunt een bestand selecteren met de toetsen &lt;k1&gt;Naar boven&lt;/k1&gt; en &lt;k2&gt;Naar beneden&lt;/k2&gt;, en het voor vertaling openen door te drukken op &lt;k3&gt;Enter&lt;/k3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can select a glossary pane contents layout.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T115652Z" creationid="Dick" creationdate="20211118T115652Z">
+        <seg>U kunt een lay-out voor de inhoud van het venster Woordenlijst selecteren.</seg>
       </tuv>
     </tu>
     <tu>
