@@ -13906,6 +13906,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-completer is launched within the target segment via &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Space&lt;/k2&gt;&lt;/k0&gt; shortcut.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T121650Z" creationid="Dick" creationdate="20211118T121650Z">
+        <seg>Auto-aanvullen wordt gestart in het doelsegment met de sneltoets &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Spatie&lt;/k2&gt;&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-completion</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T161911Z">
@@ -21644,6 +21652,14 @@ Uw helppagina werd niet gevonden</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T162027Z" creationid="Dirk" creationdate="20160906T162027Z">
         <seg>lege URL voor opslagplaats voor de mappen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Empty translations are now allowed.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T122519Z" creationid="Dick" creationdate="20211118T122519Z">
+        <seg>Lege vertalingen zijn nu toegestaan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58285,6 +58301,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This option allows you to enter the translation without the need to remove the source text, thus saving you two keystrokes (&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;A&lt;/k2&gt;&lt;/k0&gt; and &lt;k3&gt;Del&lt;/k3&gt;).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T122507Z" creationid="Dick" creationdate="20211118T122507Z">
+        <seg>Deze optie stelt u in staat om de vertaling in te voeren zonder de brontekst te hoeven verwijderen, hetgeen u een aantal toetsaanslagen scheelt (&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;A&lt;/k2&gt;&lt;/k0&gt; en &lt;k3&gt;Del&lt;/k3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This option displays &lt;u0&gt;bidirectional control characters&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T155840Z">
@@ -59249,6 +59273,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T133559Z">
         <seg>Klik met rechts in een segment en selecteer "&lt;e2&gt;Lege vertaling instellen&lt;/e2&gt;".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To create one, right-click in a segment, and select &lt;g4&gt;Set empty translation&lt;/g4&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T122605Z" creationid="Dick" creationdate="20211118T122605Z">
+        <seg>Klik met rechts in een segment en selecteer &lt;g4&gt;Lege vertaling instellen&lt;/g4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
