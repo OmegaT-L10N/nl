@@ -26634,6 +26634,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, you should take precautions against data loss when using OmegaT, just as with any other application.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T124147Z" creationid="Dick" creationdate="20211118T124147Z">
+        <seg>U zou echter toch voorzorgen moeten nemen tegen gegevensverlies als u OmegaT gebruikt, net als met elke andere toepassing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Howto - Adding a preview function to OmegaT</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170927T103444Z" creationid="DiGro (Dick)" creationdate="20170927T103444Z">
@@ -28347,6 +28355,14 @@ notice like this when it starts in an interactive mode:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T165712Z">
         <seg>Als het bronbestand wordt gewijzigd nadat u de vertaling bent begonnen, kan het zijn dat &lt;a1&gt;OmegaT&lt;/a1&gt; een segment dat u al vertaald had niet meer kan vinden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the source file is modified after you have begun translating, OmegaT may be unable to find a segment that you have already translated.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T124439Z" creationid="Dick" creationdate="20211118T124439Z">
+        <seg>Als het bronbestand wordt gewijzigd nadat u de vertaling bent begonnen, kan het zijn dat OmegaT een segment dat u al vertaald had niet meer kan vinden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32226,6 +32242,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It can also be used in all the input fields found in OmegaT - in the search window, for segmentation rules etc.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T123850Z" creationid="Dick" creationdate="20211118T123850Z">
+        <seg>Het kan ook worden gebruikt in alle aanwezige invoervelden in OmegaT - in het zoekvenster, voor de segmentatieregels etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It can also be used to convert .docx and .odt files to .html format, but to do so from the command line, it also requires Unoconv, a plug-in.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T160728Z" creationid="Dirk" creationdate="20131225T160728Z">
@@ -32756,6 +32780,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135646Z">
         <seg>Waarbij dient te worden opgemerkt dat als &lt;a0&gt;OmegaT&lt;/a0&gt; in de modus RTL staat, zowel de bron als het doel worden weergegeven in de modus RTL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It should be noted that when OmegaT is in RTL mode, both source and target are displayed in RTL mode.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T124013Z" creationid="Dick" creationdate="20211118T124013Z">
+        <seg>Waarbij dient te worden opgemerkt dat als OmegaT in de modus RTL staat, zowel de bron als het doel worden weergegeven in de modus RTL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35080,6 +35112,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mac OS X users, note: use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; shortcut and not &lt;k4&gt;&lt;k5&gt;cmd&lt;/k5&gt;&lt;k6&gt;Ctrl&lt;/k6&gt;&lt;k7&gt;O&lt;/k7&gt;&lt;/k4&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T123947Z" creationid="Dick" creationdate="20211118T123947Z">
+        <seg>Opmerking voor Mac OS X-gebruikers: gebruik de sneltoets &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; en niet &lt;k4&gt;&lt;k5&gt;cmd&lt;/k5&gt;&lt;k6&gt;Ctrl&lt;/k6&gt;&lt;k7&gt;O&lt;/k7&gt;&lt;/k4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mac OSX users should install tcl/tk from their system media and Linux users should find it in their distribution's repository, if it is not already installed by default.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131226T145118Z" creationid="Dirk" creationdate="20131226T145118Z">
@@ -35300,6 +35340,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T165709Z">
         <seg>Maak regelmatig kopieën van het bestand /omegat/project_save.tmx naar back-upmedia, zoals CD of DVD.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make regular copies of the file &lt;f0&gt;/omegat/project_save.tmx&lt;/f0&gt; to backup media, such as CD or DVD.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T124331Z" creationid="Dick" creationdate="20211118T124331Z">
+        <seg>Maak regelmatig kopieën van het bestand &lt;f0&gt;/omegat/project_save.tmx&lt;/f0&gt; naar back-upmedia, zoals CD of DVD.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39506,6 +39554,14 @@ translation leveraging into updated projects.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is a robust application.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T124134Z" creationid="Dick" creationdate="20211118T124134Z">
+        <seg>OmegaT is een robuuste toepassing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is able to recognize that you have done this.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T133632Z">
@@ -39934,6 +39990,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T110507Z">
         <seg>OmegaT ondersteunt twee van de populaire systemen voor versiebeheer (afgekort VCS), &lt;u0&gt;Apache Subversion&lt;/u0&gt; (vaak afgekort tot SVN naar de naam van de opdracht svn) en &lt;u1&gt;Git&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT tags in RTL segments</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T124026Z" creationid="Dick" creationdate="20211118T124026Z">
+        <seg>OmegaT-tags in RTL-segmenten</seg>
       </tuv>
     </tu>
     <tu>
@@ -48232,6 +48296,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Should you run into problems, post a message in the &lt;u0&gt;OmegaT user group&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T124505Z" creationid="Dick" creationdate="20211118T124505Z">
+        <seg>Als u tegen problemen aanloopt, post dan een bericht in de &lt;u0&gt;OmegaT-gebruikersgroep&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Should you wish not to use OmegaT to translate files of a certain type, you can turn off the corresponding filter by deactivating the check box beside its name.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134242Z">
@@ -50842,6 +50914,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T121034Z" creationid="Dick" creationdate="20190516T121034Z">
         <seg>Zorg er voor dat u een notitie maakt van al deze details voordat u een nieuw wachtwoord maakt, omdat ze zullen worden verwijderd en opnieuw moeten worden ingevoerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Take particular care when making changes to the files in &lt;f0&gt;source&lt;/f0&gt; while in the middle of a project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T124416Z" creationid="Dick" creationdate="20211118T124416Z">
+        <seg>Wees in het bijzonder voorzichtig met het maken van wijzigingen in de bestanden in &lt;f0&gt;source&lt;/f0&gt; terwijl u midden in een project zit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61864,6 +61944,14 @@ op regel {1}, kolom {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Until you are familiar with OmegaT, create translated files at regular intervals and check that the translated file contains the latest version of your translation.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T124356Z" creationid="Dick" creationdate="20211118T124356Z">
+        <seg>Maak met regelmatige tussenpozen de vertaalde bestanden en controleer of dat vertaalde bestand de laatste versie van uw vertaling bevat, totdat u zich OmegaT eigen hebt gemaakt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Until you have some experience with OmegaT, it is safest to consider all settings final once the translation has started – unless of course you realize a major mistake has been made.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T165923Z">
@@ -62887,6 +62975,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Using &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; causes both text input and display in OmegaT to change.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T123825Z" creationid="Dick" creationdate="20211118T123825Z">
+        <seg>Gebruiken van &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; zorgt er voor dat zowel de tekstinvoer als de weergave in OmegaT worden gewijzigd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Using &lt;k2&gt; &lt;k3&gt;Shift&lt;/k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;O&lt;/k5&gt; &lt;/k2&gt; causes both text input and display in &lt;a6&gt;OmegaT&lt;/a6&gt; to change.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135634Z">
@@ -63045,6 +63141,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135632Z">
         <seg>Gebruiken van de modus RTL in &lt;a0&gt;OmegaT&lt;/a0&gt; heeft geen enkele invloed op de modus weergeven van de vertaalde documenten die werden gemaakt in &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using the RTL mode in OmegaT has no influence whatsoever on the display mode of the translated documents created in OmegaT.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T123729Z" creationid="Dick" creationdate="20211118T123729Z">
+        <seg>Gebruiken van de modus RTL in OmegaT heeft geen enkele invloed op de modus weergeven van de vertaalde documenten die werden gemaakt in OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64206,6 +64310,14 @@ technological measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you create the target documents in an OmegaT project, the translation memory of the project is output in the form of three files in the root folder of your OmegaT project (see the above description).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T124611Z" creationid="Dick" creationdate="20211118T124611Z">
+        <seg>Wanneer u de doeldocumenten maakt in een project van OmegaT, wordt het vertaalgeheugen van het project uitgevoerd in de vorm van drie bestanden in de hoofdmap van uw project van OmegaT (zie de bovenstaande beschrijving).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you download the project, the project is converted to a team project locally and a default mapping is added.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20201125T120456Z" creationid="Dick" creationdate="20201125T120456Z">
@@ -64306,6 +64418,14 @@ technological measures.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T165644Z">
         <seg>Bij het vertalen van uw bestanden slaat &lt;a2&gt;OmegaT&lt;/a2&gt; al uw voortgang op in het vertaalgeheugen &lt;l3&gt;project_save.tmx&lt;/l3&gt; die zich bevindt in de submap &lt;l4&gt;/omegat&lt;/l4&gt; van het project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you translate your files, OmegaT stores all your progress in the translation memory &lt;f0&gt;project_save.tmx&lt;/f0&gt; that resides in the project's &lt;f1&gt;omegat&lt;/f1&gt; subfolder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T124241Z" creationid="Dick" creationdate="20211118T124241Z">
+        <seg>Bij het vertalen van uw bestanden slaat OmegaT al uw voortgang op in het vertaalgeheugen &lt;f0&gt;project_save.tmx&lt;/f0&gt; dat zich bevindt in de submap &lt;f1&gt;/omegat&lt;/f1&gt; van het project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75544,6 +75664,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T125542Z">
         <seg>verwijder de tekens tot aan het begin van het huidige woord (Mac: &lt;e0&gt;Alt+Backspace&lt;/e0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>rename it &lt;f0&gt;project_save.tmx&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T124300Z" creationid="Dick" creationdate="20211118T124300Z">
+        <seg>hernoem dat naar &lt;f0&gt;project_save.tmx&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
