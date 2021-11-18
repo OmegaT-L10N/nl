@@ -5253,6 +5253,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;auto&gt; leaves the choice of encoding to OmegaT.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T121305Z" creationid="Dick" creationdate="20211118T121305Z">
+        <seg>&lt;auto&gt; laat de keuze van de codering aan OmegaT over.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;auto&gt; leaves the encoding choice to &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134551Z">
@@ -6653,6 +6661,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Compress whitespace in translated document&lt;/g0&gt;: multiple continuous whitespace characters will be converted into one single whitespace in the translated document.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T120750Z" creationid="Dick" creationdate="20211118T120750Z">
+        <seg>&lt;g0&gt;Witruimte in vertaalde documenten comprimeren&lt;/g0&gt;: meerdere doorlopende witruimten zullen worden geconverteerd naar één enkele witruimte in het vertaalde document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Ctrl+Shift+V&lt;/g0&gt;: Checks for missing or displaced tags in formatted files.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T160304Z">
@@ -6721,6 +6737,14 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T122721Z" creationid="Dick" creationdate="20190516T122721Z">
         <seg>&lt;g0&gt;Project&lt;/g0&gt; &lt;g1&gt;Nieuw…&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Remove HTML comments in translated document&lt;/g0&gt;: commented parts (between &lt;!-- and --&gt;) will not be copied into the translated document.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T120808Z" creationid="Dick" creationdate="20211118T120808Z">
+        <seg>&lt;g0&gt;HTML-opmerkingen in vertaalde document verwijderen&lt;/g0&gt;: alle delen met opmerkingen (tussen &lt;!-- en --&gt;) zullen niet worden gekopieerd naar het vertaalde document.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11796,6 +11820,14 @@ the above requirements apply either way.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T172002Z">
         <seg>Nadat het bronbestand in structurele eenheden is gesegmenteerd, zal &lt;a0&gt;OmegaT&lt;/a0&gt; deze blokken verder segmenteren in zinnen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After segmenting the source file into structural units, OmegaT will segment these blocks further into sentences.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T121542Z" creationid="Dick" creationdate="20211118T121542Z">
+        <seg>Nadat het bronbestand in structurele eenheden is gesegmenteerd, zal OmegaT deze blokken verder segmenteren in zinnen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24091,6 +24123,14 @@ freedoms that you received.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, if you wish the text filter to handle readme files (&lt;l4&gt;readme, read.me&lt;/l4&gt;, and &lt;l5&gt;readme.txt&lt;/l5&gt;) you should use the pattern &lt;l6&gt;read*&lt;/l6&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T121246Z" creationid="Dick" creationdate="20211118T121246Z">
+        <seg>Als u bijvoorbeeld wilt dat het tekstfilter readme-bestanden (&lt;l4&gt;readme, read.me&lt;/l4&gt; en &lt;l5&gt;readme.txt&lt;/l5&gt;) afhandelt, zou u het patroon &lt;l6&gt;read*&lt;/l6&gt; moeten gebruiken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, if you wish to create a pseudo-translation for testing purposes, OmegaT enables you to create an additional tmx file that contains all segments of the project.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T174034Z">
@@ -24151,6 +24191,14 @@ freedoms that you received.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134409Z">
         <seg>Het &lt;l0&gt;*.xhtml&lt;/l0&gt;-patroon zal bijvoorbeeld overeenkomen met elk bestand met de extensie &lt;l1&gt;.xhtml&lt;/l1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, the pattern &lt;l1&gt;*.xhtml &lt;/l1&gt;matches any file with the &lt;l2&gt;.xhtml&lt;/l2&gt; extension.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T121108Z" creationid="Dick" creationdate="20211118T121108Z">
+        <seg>Het patroon&lt;l1&gt;*.xhtml&lt;/l1&gt; zal bijvoorbeeld overeenkomen met elk bestand met de extensie &lt;l2&gt;.xhtml&lt;/l2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27797,6 +27845,14 @@ the predecessor has it or can get it with reasonable efforts.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If sentence segmentation has been selected, you can setup the rules by selecting &lt;m3&gt; &lt;g4&gt;Options&lt;/g4&gt; &lt;g5&gt;Segmentation...&lt;/g5&gt; &lt;/m3&gt;from the main menu.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T121457Z" creationid="Dick" creationdate="20211118T121457Z">
+        <seg>Als zinsegmentatie is geselecteerd kunt u de regels instellen door &lt;m3&gt; &lt;g4&gt;Opties&lt;/g4&gt; &lt;g5&gt;Segmentatie...&lt;/g5&gt; &lt;/m3&gt;te selecteren uit het hoofdmenu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If sentence segmentation has been selected, you can setup the rules by selecting &lt;m4&gt; &lt;g5&gt;Options&lt;/g5&gt; &lt;g6&gt;Segmentation...&lt;/g6&gt; &lt;/m4&gt;from the main menu.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T112720Z" creationid="Dick" creationdate="20190516T112720Z">
@@ -30426,6 +30482,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T103527Z">
         <seg>OmegaT vereist dat een Java Runtime Environment (JRE) versie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In order to select the type of segmentation, select &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties...&lt;/g2&gt; &lt;/m0&gt; from the main menu and tick or untick the check box provided.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T121420Z" creationid="Dick" creationdate="20211118T121420Z">
+        <seg>Selecteer &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt;&lt;g2&gt;eigenschappen…&lt;/g2&gt; &lt;/m0&gt; uit het hoofdmenu en selecteer het aanwezig keuzevak, of niet, om het type segmentatie te kiezen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39144,6 +39208,14 @@ OmegaT 4.0, Lees Mij-bestand</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT first parses the text for structure-level segmentation.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T121525Z" creationid="Dick" creationdate="20211118T121525Z">
+        <seg>OmegaT parst eerst de tekst voor segmentatie op niveau van de structuur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT follows very strict procedures when loading translation memory (tmx) files.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T173817Z">
@@ -39276,6 +39348,14 @@ OmegaT 4.0, Lees Mij-bestand</seg>
       </tuv>
       <tuv lang="nl">
         <seg>OmegaT heeft rudimentaire ondersteuning voor XLIFF, en een procedure voor het gebruiken van XLIFF in OmegaT in samenwerking met de programma's van Rainbow kan &lt;a0&gt;hier&lt;/a0&gt; worden gevonden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT has two ways to segment a text: by paragraph or by sentence segmentation (also referred to as “rule-based segmentation”).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T121341Z" creationid="Dick" creationdate="20211118T121341Z">
+        <seg>OmegaT heeft twee manieren om een tekst te segmenteren: alineasegmentatie en zinsegmentatie (waarnaar ook wel wordt verwezen als “op regels gebaseerde-segmentatie”).</seg>
       </tuv>
     </tu>
     <tu>
@@ -39928,6 +40008,14 @@ installed on your system.</seg>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170914T161153Z" creationid="DiGro (Dick)" creationdate="20170914T161153Z">
         <seg>OmegaT gebruikt de volgende bibliotheken:
 {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT uses the following sequence of steps:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T121512Z" creationid="Dick" creationdate="20211118T121512Z">
+        <seg>OmegaT gebruikt de volgende reeks stappen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -40702,8 +40790,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>Open Document Format (ODF) files</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dirk" changedate="20160910T134355Z">
-        <seg>Open Document Format (ODF)-bestanden</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T120847Z">
+        <seg>Open Document Format (ODF) bestanden</seg>
       </tuv>
     </tu>
     <tu>
@@ -48988,6 +49076,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source filename patterns use wild card characters similar to those used in &lt;e3&gt;Searches&lt;/e3&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T121142Z" creationid="Dick" creationdate="20211118T121142Z">
+        <seg>Patronen voor bronbestandsnamen gebruiken jokertekens die overeenkomen met die in &lt;e3&gt;Zoeken&lt;/e3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source files committed</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T121315Z" creationid="Dirk" creationdate="20170914T121315Z">
@@ -51444,6 +51540,14 @@ for making modifications to it.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T191750Z">
         <seg>De brontek&amp;st</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The '*' character matches zero or more characters.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T121154Z" creationid="Dick" creationdate="20211118T121154Z">
+        <seg>Het teken '*' komt overeen met nul of meer tekens.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58843,6 +58947,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To add a new file filter pattern, click &lt;g1&gt;Add&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T120921Z" creationid="Dick" creationdate="20211118T120921Z">
+        <seg>Klik op &lt;g1&gt;Toevoegen&lt;/g1&gt; om een nieuw patroon voor een bestandsfilter toe te voegen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To add a new source file:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T133051Z" creationid="Dick" creationdate="20190516T133051Z">
@@ -59593,6 +59705,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T112032Z" creationid="Dick" creationdate="20190516T112032Z">
         <seg>Pas de velden direct aan of klik op &lt;e0&gt;Bewerken&lt;/e0&gt; om een patroon voor het bestandsfilter aan te passen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To modify a file filter pattern, either modify the fields directly or click &lt;g0&gt;Edit&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T120909Z" creationid="Dick" creationdate="20211118T120909Z">
+        <seg>Pas de velden direct aan of klik op &lt;g0&gt;Bewerken&lt;/g0&gt; om een patroon voor het bestandsfilter aan te passen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63568,6 +63688,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T171600Z" creationid="Dirk" creationdate="20160910T171600Z">
         <seg>Als de optie &lt;e1&gt;Volledige/Halve breedte tekens ongevoelig&lt;/e1&gt; is geselecteerd, zullen zoekacties voor volledige vormen (CJK-tekens) overeenkomen met half brede vormen en vice versa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When OmegaT encounters a file in its &lt;f0&gt;source&lt;/f0&gt; folder, it attempts to select the filter based upon the file's extension.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T121021Z" creationid="Dick" creationdate="20211118T121021Z">
+        <seg>Als OmegaT een bestand tegenkomt in zijn map &lt;f0&gt;source&lt;/f0&gt;, probeert het dat filter te selecteren, gebaseerd op de extensie van het bestand.</seg>
       </tuv>
     </tu>
     <tu>
