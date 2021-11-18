@@ -6845,10 +6845,18 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Search in Files&lt;/g0&gt;: search in a single file or a folder containing a set of files.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T141740Z" creationid="Dick" creationdate="20211118T141740Z">
+        <seg>&lt;g0&gt;Zoeken in bestanden&lt;/g0&gt;: zoek in één enkel bestand of in een map die meerdere bestanden bevat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Search in Project&lt;/g0&gt;: check &lt;g1&gt;Memory&lt;/g1&gt; to include the project memory (&lt;f2&gt;project_save.tmx&lt;/f2&gt; file) in the search.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20211118T141542Z" creationid="Dick" creationdate="20211118T141542Z">
-        <seg>&lt;g0&gt;Zoeken in project&lt;/g0&gt;: selecteer &lt;e1&gt;Geheugen&lt;/e1&gt; om het vertaalgeheugen van het project (bestand project_save.tmx) op te nemen in de zoekactie.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T141646Z" creationid="Dick" creationdate="20211118T141542Z">
+        <seg>&lt;g0&gt;Zoeken in project&lt;/g0&gt;: selecteer &lt;g1&gt;Geheugen&lt;/g1&gt; om het vertaalgeheugen van het project (bestand project_save.tmx) op te nemen in de zoekactie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13704,6 +13712,14 @@ paragraph of section 11).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As OmegaT handles identical segments as one single entity, only the first unique segment is shown.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T141845Z" creationid="Dick" creationdate="20211118T141845Z">
+        <seg>Omdat OmegaT identieke segmenten behandelt als één entiteit wordt alleen het eerste unieke segment getoond.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As a result of this,
 all settings will be at their defaults, due to which you
 may experience unexpected, but correct behaviour.</seg>
@@ -16020,6 +16036,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check &lt;g5&gt;Glossaries&lt;/g5&gt; to include the glossaries located in the &lt;f6&gt;glossary&lt;/f6&gt; folder in the search.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T141721Z" creationid="Dick" creationdate="20211118T141721Z">
+        <seg>Selecteer &lt;g5&gt;Woordenlijsten&lt;/g5&gt; om de woordenlijsten, geplaatst in de map &lt;f6&gt;glossary&lt;/f6&gt;, op te nemen in de zoekactie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check Google Translate v2 (leaving the other options unchecked)</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120401T164341Z">
@@ -17636,6 +17660,14 @@ OmegaT gebruikt de volgende bibliotheken:
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20121207T201653Z">
         <seg>Verbinding beschikbaar, het project staat in modus teamproject.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Consequently, although OmegaT is quite able to handle &lt;f1&gt;tmx&lt;/f1&gt; files, it does not include them in the Search files search.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T141806Z" creationid="Dick" creationdate="20211118T141806Z">
+        <seg>Als consequentie daarvan zal OmegaT, hoewel het in staat is om &lt;f1&gt;tmx&lt;/f1&gt;-bestanden te behandelen, die niet opnemen bij zoekacties met Zoeken in bestanden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21092,6 +21124,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T111830Z" creationid="Dirk" creationdate="20160910T171744Z">
         <seg>Dubbelklikken op een segment opent het in het venster Bewerken voor aanpassingen (één enkele klik doet dat als de optie &lt;e0&gt;Automatisch synchroniseren met venster Bewerken&lt;/e0&gt; is geselecteerd).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Double-clicking on a segment opens it in the Editor for modifications (one single click does it when &lt;g0&gt;Auto-sync with Editor&lt;/g0&gt; option is checked).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T141904Z" creationid="Dick" creationdate="20211118T141904Z">
+        <seg>Dubbelklikken op een segment opent het in het venster Bewerken voor aanpassingen (één enkele klik doet dat als de optie &lt;g0&gt;Automatisch synchroniseren met venster Bewerken&lt;/g0&gt; is geselecteerd).</seg>
       </tuv>
     </tu>
     <tu>
@@ -43880,6 +43920,14 @@ lokaal project zonder functionaliteit voor team.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Press the &lt;g0&gt;Filter&lt;/g0&gt; button on the bottom to limit the shown entries in the editor window to those that match the current search.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T141919Z" creationid="Dick" creationdate="20211118T141919Z">
+        <seg>Druk onderaan op de knop &lt;g0&gt;Filter&lt;/g0&gt; om de weergegeven items in het venster Bewerken te beperken tot die welke overeenkomen met de huidige zoekactie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Press the keyboard shortcut you wish to assign, then click OK.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T130330Z" creationid="Dirk" creationdate="20170914T130330Z">
@@ -61153,6 +61201,14 @@ these rights or asking you to surrender the rights.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To remove a filter, press the &lt;g0&gt;Remove filter&lt;/g0&gt; button, or reload a project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T141950Z" creationid="Dick" creationdate="20211118T141950Z">
+        <seg>Druk op de knop &lt;g0&gt;Filter verwijderen&lt;/g0&gt;, of laadt een project opnieuw om een filter te verwijderen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To remove all traces of OmegaT from your system:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T143316Z" creationid="Dirk" creationdate="20131225T143316Z">
@@ -65096,6 +65152,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T171600Z" creationid="Dirk" creationdate="20160910T171600Z">
         <seg>Als de optie &lt;e1&gt;Volledige/Halve breedte tekens ongevoelig&lt;/e1&gt; is geselecteerd, zullen zoekacties voor volledige vormen (CJK-tekens) overeenkomen met half brede vormen en vice versa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When &lt;g1&gt;Full/Half width char insensitive&lt;/g1&gt; option is checked, searches for fullwidth forms (CJK characters) will match halfwidth forms and vice versa.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T141834Z" creationid="Dick" creationdate="20211118T141834Z">
+        <seg>Als de optie &lt;g1&gt;Volledige/Halve breedte tekens ongevoelig&lt;/g1&gt; is geselecteerd, zullen zoekacties voor volledige vormen (CJK-tekens) overeenkomen met half brede vormen en vice versa.</seg>
       </tuv>
     </tu>
     <tu>
