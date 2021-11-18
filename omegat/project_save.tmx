@@ -6629,10 +6629,66 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/g0&gt;: the target files often need to have a different character set encoding from the one in the source file (whether it is explicitly defined or implied).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T120610Z" creationid="Dick" creationdate="20211118T120610Z">
+        <seg>&lt;g0&gt;Codering-declaratie aan HTML- en XHTML-bestanden toevoegen of herschrijven&lt;/g0&gt;: regelmatig moeten de doelbestanden een andere tekenset voor de codering hebben dan die in het bronbestand (of dat nu expliciet gedefinieerd is of als gevolg van).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Aggregate tags&lt;/g0&gt;: if checked, tags with no translatable text between them will be aggregated into a single tag.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T120543Z" creationid="Dick" creationdate="20211118T120543Z">
+        <seg>&lt;g0&gt;Hoeveelheid tags&lt;/g0&gt;: Indien geselecteerd zullen tags, zonder vertaalbare tekst er tussen, worden samengevoegd tot één enkele tag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Allow blank translations in the target file&lt;/g0&gt;:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T120331Z" creationid="Dick" creationdate="20211118T120331Z">
+        <seg>&lt;g0&gt;Blanco vertalingen in het doelbestand toestaan&lt;/g0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Ctrl+Shift+V&lt;/g0&gt;: Checks for missing or displaced tags in formatted files.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T160304Z">
         <seg>&lt;g0&gt;Ctrl+Shift+V&lt;/g0&gt;: Controleert op ontbrekende of misplaatste tags in opgemaakte bestanden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Do not translate the content attribute of meta-tags ...:&lt;/g0&gt; The meta-tags in the box will not be translated.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T120643Z" creationid="Dick" creationdate="20211118T120643Z">
+        <seg>&lt;g0&gt;Vertaal het attribuut 'content' van metatags niet: …&lt;/g0&gt;: De metatags zullen niet worden vertaald.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Do not translate the content attribute of meta-tags ...&lt;/g0&gt;: the meta-tags in the box will not be translated.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T120506Z" creationid="Dick" creationdate="20211118T120506Z">
+        <seg>&lt;g0&gt;Vertaal het attribuut 'content' van metatags niet: …&lt;/g0&gt;: De metatags zullen niet worden vertaald.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Do not translate the content of tags with the following attribute key-value pairs (separate with commas)&lt;/g0&gt;: if a tag matches the list of key-value pairs, its content will be ignored.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T120523Z" creationid="Dick" creationdate="20211118T120523Z">
+        <seg>&lt;g0&gt;Vertaal NIET de inhoud van tags met de volgende paren van sleutels en waarden voor attributen (door komma's gescheiden):&lt;/g0&gt;: als een tag overeenkomt met een item in de lijst met sleutel-waardenparen zal de inhoud ervan worden genegeerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Ignore file context when identifying segments with alternate translations&lt;/g0&gt;: by default, OmegaT uses the source file name as part of the identification of an alternative translation.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T120252Z" creationid="Dick" creationdate="20211118T120252Z">
+        <seg>&lt;g0&gt;Negeer context van bestand bij identificeren van segmenten met wisselende vertalingen&lt;/g0&gt;: standaard gebruikt OmegaT de naam van het bronbestand als deel van de identificatie van een wisselende vertaling.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6645,10 +6701,50 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Preserve spaces for all tags&lt;/g0&gt;: check this option if the source documents contain significant spaces used to control the layout that must not be ignored.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T120234Z" creationid="Dick" creationdate="20211118T120234Z">
+        <seg>&lt;g0&gt;Behoud spaties voor alle tags&lt;/g0&gt;: selecteer deze optie als de brondocumenten significante spaties bevatten, gebruikt om de opmaak te beheren, die niet moeten worden genegeerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Preserve spaces for all tags&lt;/g0&gt;: if checked, "white space" (i.e. spaces and newlines) will be preserved, even if this option is not defined in the document.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T120553Z" creationid="Dick" creationdate="20211118T120553Z">
+        <seg>&lt;g0&gt;Spaties voor alle tags behouden&lt;/g0&gt;: Indien geselecteerd zal "witruimte" (d.i. spaties en nieuwe regels) worden behouden, zelfs als deze optie niet is gedefinieerd in het document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Project&lt;/g0&gt; &lt;g1&gt;New...&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T122721Z" creationid="Dick" creationdate="20190516T122721Z">
         <seg>&lt;g0&gt;Project&lt;/g0&gt; &lt;g1&gt;Nieuw…&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Remove leading and trailing tags&lt;/g0&gt;: uncheck this option to display all the tags, including tags at the beginning and end of the segment.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T120159Z" creationid="Dick" creationdate="20211118T120159Z">
+        <seg>&lt;g0&gt;Verwijder voorloop en achterliggende tags&lt;/g0&gt;: deselecteer deze optie om alle tags weer te geven, inclusief die aan het begin en einde van het segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Remove leading and trailing whitespace in non-segmented projects&lt;/g0&gt;: by default, OmegaT removes leading and trailing whitespace.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T120216Z" creationid="Dick" creationdate="20211118T120216Z">
+        <seg>&lt;g0&gt;Verwijder voor- en achterliggende witruimte in niet-gesegmenteerde projecten&lt;/g0&gt;: standaard verwijdert OmegaT voor- en achterliggende witruimte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Skip text matching regular expression&lt;/g0&gt;: any text matching the regular expression is skipped.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T120422Z" creationid="Dick" creationdate="20211118T120422Z">
+        <seg>&lt;g0&gt;Tekst die overeenkomt met reguliere uitdrukking overslaan&lt;/g0&gt;: De tekst die overeenkomt met de reguliere uitdrukking wordt overgeslagen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6661,10 +6757,26 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Start a new paragraph on&lt;/g0&gt;: the &lt;br&gt; HTML tag will constitute a paragraph break for segmentation purposes.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T120408Z" creationid="Dick" creationdate="20211118T120408Z">
+        <seg>&lt;g0&gt;Start een nieuwe alinea bij&lt;/g0&gt;: De &lt;br&gt; HTML-tag zal een alinea-einde voor segmentatiedoeleinden maken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Terminology Issues&lt;/g0&gt; (optional).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T165647Z" creationid="Dick" creationdate="20190516T165647Z">
         <seg>&lt;g0&gt;Problemen met  terminologie&lt;/g0&gt; (optioneel).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Translate the following attributes&lt;/g0&gt;: the selected attributes will appear as segments in the Editor window.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T120352Z" creationid="Dick" creationdate="20211118T120352Z">
+        <seg>&lt;g0&gt;Vertaal de volgende attributen&lt;/g0&gt;: De geselecteerde attributen zullen als segmenten in het venster Bewerken verschijnen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16264,6 +16376,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T110630Z">
         <seg>Klik op &lt;g0&gt;Create Project&lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;g1&gt;Defaults&lt;/g1&gt; to reset the file filters to the default settings.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T120110Z" creationid="Dick" creationdate="20211118T120110Z">
+        <seg>Klik op &lt;g1&gt;Standaardinstellingen&lt;/g1&gt; om de bestandsfilters terug te zetten naar de standaard instellingen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27051,6 +27171,14 @@ hoeft niet het volledige pad te worden ingevoerd.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a glossary item has alternate definitions, they will be displayed on the same line.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T115838Z" creationid="Dick" creationdate="20211118T115838Z">
+        <seg>Als een term voor de woordenlijst verschillende definities heeft, zullen zij worden weergegeven op dezelfde regel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If a license document contains</seg>
       </tuv>
       <tuv lang="nl">
@@ -35866,6 +35994,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Merge alternate definition for the same term</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T115755Z" creationid="Dick" creationdate="20211118T115755Z">
+        <seg>Verschillende definities voor dezelfde term samenvoegen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Merge alternate definitions for the same term</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210115T152614Z" creationid="Dick" creationdate="20210115T152614Z">
@@ -39928,6 +40064,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134243Z">
         <seg>OmegaT zal dan de betreffende bestanden weglaten bij het laden van projecten en zal ze ongewijzigd kopiëren bij het maken van de doeldocumenten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will then omit the corresponding files when loading projects, and will copy them unmodified to the &lt;f0&gt;target&lt;/f0&gt; folder when creating target documents.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T120052Z" creationid="Dick" creationdate="20211118T120052Z">
+        <seg>OmegaT zal dan de betreffende bestanden weglaten bij het laden van projecten en zal ze ongewijzigd naar de map &lt;f0&gt;target&lt;/f0&gt; kopiëren bij het maken van de doeldocumenten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52462,6 +52606,14 @@ Probeer alstublieft de fout te corrigeren en herlaad het project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The collections are downloaded as TBX glossaries and stored in the current &lt;f0&gt;glossary&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T115911Z" creationid="Dick" creationdate="20211118T115911Z">
+        <seg>De collecties worden gedownload als TBX-woordenlijsten en opgeslagen de huidige map &lt;f0&gt;glossary&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The collections are downloaded as TBX glossaries and stored in the current glossary folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T094057Z" creationid="Dick" creationdate="20190516T094057Z">
@@ -55905,6 +56057,22 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Theme</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T115921Z" creationid="Dick" creationdate="20211118T115921Z">
+        <seg>Thema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Theme can also be added as plugins.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T120012Z" creationid="Dick" creationdate="20211118T120012Z">
+        <seg>Thema's kunnen ook worden toegevoegd als plug-ins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Theme:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210908T101822Z" creationid="Dick" creationdate="20210908T101822Z">
@@ -59117,6 +59285,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To edit the files and encodings a filter is used for, select the filter in the list and click &lt;g2&gt;Edit&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T120126Z" creationid="Dick" creationdate="20211118T120126Z">
+        <seg>Selecteer het filter uit de lijst en klik op &lt;g2&gt;Bewerken&lt;/g2&gt; om de bestanden en de coderingen waarvoor het filter wordt gebruikt te bewerken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To edit this file, you may need Administrator mode, or to move it temporarily to a different location on your hard drive.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120401T163719Z">
@@ -59433,6 +59609,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T110405Z" creationid="Dick" creationdate="20190516T110405Z">
         <seg>Selecteer, om de opties aan te passen, het filter in de lijst en klik op &lt;e0&gt;Opties&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To modify the options, select the filter in the list and click &lt;g0&gt;Options...&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T120313Z" creationid="Dick" creationdate="20211118T120313Z">
+        <seg>Selecteer, om de opties aan te passen, het filter in de lijst en klik op &lt;g0&gt;Opties&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65751,6 +65935,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T115652Z" creationid="Dick" creationdate="20211118T115652Z">
         <seg>U kunt een lay-out voor de inhoud van het venster Woordenlijst selecteren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can select a theme for OmegaT's user interface.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T115952Z" creationid="Dick" creationdate="20211118T115952Z">
+        <seg>U kunt een thema selecteren voor de gebruikersinterface van OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
