@@ -15100,6 +15100,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, the &lt;f0&gt;tm&lt;/f0&gt; folder is below the project's root folder (e.g. ...&lt;f1&gt;MyProject/tm&lt;/f1&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T124836Z" creationid="Dick" creationdate="20211118T124836Z">
+        <seg>Standaard staat de map &lt;f0&gt;tm&lt;/f0&gt; onder de hoofdmap van het project (bijvoorbeeld ...&lt;f1&gt;/MijnProject/tm&lt;/f1&gt;), maar u kunt in het dialoogvenster Projecteigenschappen een andere map kiezen als u dat wilt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, the Go To Next Untranslated Segment command (Ctrl+U) skips to the next untranslated segment, skipping propagated translations in the process.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131226T133330Z" creationid="Dirk" creationdate="20131226T133330Z">
@@ -15848,6 +15856,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T124510Z">
         <seg>Controle op lander doel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check for possible Tag errors with &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;T&lt;/k2&gt;&lt;/k0&gt; and untranslated segments with &lt;k3&gt;&lt;k4&gt;Ctrl&lt;/k4&gt;&lt;k5&gt;U&lt;/k5&gt;&lt;/k3&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T124950Z" creationid="Dick" creationdate="20211118T124950Z">
+        <seg>Controleer op mogelijke fouten in tags met &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;T&lt;/k2&gt;&lt;/k0&gt; en op niet-vertaalde segmenten met &lt;k3&gt;&lt;k4&gt;Ctrl&lt;/k4&gt;&lt;k5&gt;U&lt;/k5&gt;&lt;/k3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17790,6 +17806,14 @@ the conditions stated below.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T164342Z" creationid="Dick" creationdate="20190516T164342Z">
         <seg>Kopieer de URL van de pagina (eindigende op &lt;g0&gt;action=edit&lt;/g0&gt;) en plak die in &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy the documents, you need the translation memory for, into the &lt;f0&gt;source&lt;/f0&gt; folder of the project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T124901Z" creationid="Dick" creationdate="20211118T124901Z">
+        <seg>Kopieer de documenten die u nodig hebt voor het vertaalgeheugen, naar de map &lt;f0&gt;source&lt;/f0&gt; van het project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31068,6 +31092,14 @@ sue for patent infringement).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this case, place the translation memories you wish to use in the &lt;f0&gt;/tm&lt;/f0&gt; or &lt;f1&gt;tm/auto&lt;/f1&gt; folder of your new project: in the former case you will get hits from these translation memories in the fuzzy matches viewer, and in the latter case these TMs will be used to pre-translate your source text.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T124756Z" creationid="Dick" creationdate="20211118T124756Z">
+        <seg>In dit geval plaatst u de vertaalgeheugens die u wilt gebruiken in de mappen &lt;f0&gt;/tm&lt;/f0&gt; of &lt;f1&gt;tm/auto&lt;/f1&gt; van uw nieuwe project: in het eerste geval zult u hits van deze vertaalgeheugens in het venster Overeenkomsten krijgen en in het laatste geval zullen deze TM's worden gebruikt om uw brontekst vooraf te vertalen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this case, the NL-EN translation memory can serve as a go-between to help generate NL to ZH translation.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T173957Z">
@@ -31798,6 +31830,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T140625Z">
         <seg>Installeren en uitvoeren van &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Installing and running OmegaT</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T125525Z" creationid="Dick" creationdate="20211118T125525Z">
+        <seg>Installeren en uitvoeren van OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -40548,6 +40588,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once OmegaT is installed, you can click on &lt;f0&gt;OmegaT.jar&lt;/f0&gt; to launch it directly or you can launch it directly from the command line.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T125619Z" creationid="Dick" creationdate="20211118T125619Z">
+        <seg>Als OmegaT eenmaal is geïnstalleerd, kunt u klikken op &lt;f0&gt;OmegaT.jar&lt;/f0&gt; om het direct te starten, of u kunt het direct vanaf de opdrachtregel starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once Priorview has been launched, however, you cannot select a different browser or conversion utility; these options are therefore hidden after launch.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T172432Z" creationid="Dirk" creationdate="20131225T172432Z">
@@ -45864,6 +45912,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T140641Z">
         <seg>&lt;a0&gt;OmegaT&lt;i1/&gt;&lt;/a0&gt; uitvoeren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Running OmegaT</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T125556Z" creationid="Dick" creationdate="20211118T125556Z">
+        <seg>OmegaT uitvoeren</seg>
       </tuv>
     </tu>
     <tu>
@@ -55517,6 +55573,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The solution in our example is to copy the existing translation memory into the &lt;f0&gt;tm/tmx2source/&lt;/f0&gt; subfolder and rename it to ZH_CN.tmx to indicate the target language of the tmx.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T125142Z" creationid="Dick" creationdate="20211118T125142Z">
+        <seg>De oplossing in ons voorbeeld is om het bestaande vertaalgeheugen te kopiëren naar de submap &lt;f0&gt;tm/tmx2source/&lt;/f0&gt; en het te hernoemen naar ZH_CN.tmx om de doeltaal van de tmx aan te geven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The solution in our example is to copy the existing translation memory into the tm/tmx2source/ subfolder and rename it to ZH_CN.tmx to indicate the target language of the tmx.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T173958Z">
@@ -57015,6 +57079,14 @@ U bent het slachtoffer van één van de drie.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T131648Z" creationid="Dirk" creationdate="20170914T131648Z">
         <seg>Zij bevatten informatie over de opmaak van de tekst, maar dergelijke informatie kan niet opnieuw worden gebruikt door &lt;a0&gt;OmegaT&lt;/a0&gt; om doelbestanden te maken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They contain text formatting information, but such information cannot be reused by OmegaT in order to create target files.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T125432Z" creationid="Dick" creationdate="20211118T125432Z">
+        <seg>Zij bevatten informatie over de opmaak van de tekst, maar dergelijke informatie kan niet opnieuw worden gebruikt door OmegaT om doelbestanden te maken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59349,6 +59421,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To check everything is as expected, you may press &lt;k6&gt;&lt;k7&gt;Ctrl&lt;/k7&gt;&lt;k8&gt;D&lt;/k8&gt;&lt;/k6&gt; to create the target documents and check their contents.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T125104Z" creationid="Dick" creationdate="20211118T125104Z">
+        <seg>U kunt op &lt;k6&gt;&lt;k7&gt;Ctrl&lt;/k7&gt;&lt;k8&gt;D&lt;/k8&gt;&lt;/k6&gt; drukken om de doeldocumenten te maken en hun inhoud te controleren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To check their syntax and their applicability, it is advisable to use tools which allow you to see their effect directly.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T172046Z">
@@ -59697,6 +59777,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T141424Z" creationid="Dick" creationdate="20190516T141424Z">
         <seg>Pak eenvoudigweg het bestand &lt;a0&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/a0&gt; uit om &lt;f1&gt;OmegaT&lt;/f1&gt; te installeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To install OmegaT, double-click on the program you have downloaded.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T125537Z" creationid="Dick" creationdate="20211118T125537Z">
+        <seg>Dubbelklik op het programma dat u hebt gedownload om OmegaT te installeren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66259,6 +66347,14 @@ installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can regard these three tmx files (&lt;f0&gt;-omegat.tmx&lt;/f0&gt;, &lt;f1&gt;-level1.tmx&lt;/f1&gt; and &lt;f2&gt;-level2.tmx&lt;/f2&gt;) as an "export translation memory", i.e. as an export of your current project's content in bilingual form.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T124657Z" creationid="Dick" creationdate="20211118T124657Z">
+        <seg>U kunt deze drie TMX-bestanden, (-&lt;f0&gt;omegat.tmx&lt;/f0&gt;", "&lt;f1&gt;-level1.tmx&lt;/f1&gt;" en "&lt;f2&gt;-level2.tmx&lt;/f2&gt;"), beschouwen als een "exporteerbaar vertaalgeheugen", dat is: een export van de inhoud van uw huidige project in tweetalige vorm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can regard these three tmx files (&lt;f2&gt;-omegat.tmx&lt;/f2&gt;, &lt;f3&gt;-level1.tmx&lt;/f3&gt; and &lt;f4&gt;-level2.tmx&lt;/f4&gt;) as an "export translation memory", i.e. as an export of your current project's content in bilingual form.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T173759Z">
@@ -69092,6 +69188,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T123414Z" creationid="Dick" creationdate="20190516T123414Z">
         <seg>kopieer de bestanden naar de map &lt;f0&gt;/source&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>copy the files to the &lt;f0&gt;source&lt;/f0&gt; folder</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T125156Z" creationid="Dick" creationdate="20211118T125156Z">
+        <seg>kopieer de bestanden naar de map &lt;f0&gt;source&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
