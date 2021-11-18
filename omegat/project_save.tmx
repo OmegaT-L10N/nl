@@ -6701,6 +6701,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Close&lt;/g0&gt;: close the window without any change.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T140857Z" creationid="Dick" creationdate="20211118T140857Z">
+        <seg>&lt;g0&gt;Sluiten:&lt;/g0&gt; sluit het venster zonder enige wijziging.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Compress whitespace in translated document&lt;/g0&gt;: multiple continuous whitespace characters will be converted into one single whitespace in the translated document.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T120750Z" creationid="Dick" creationdate="20211118T120750Z">
@@ -6713,6 +6721,22 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T160304Z">
         <seg>&lt;g0&gt;Ctrl+Shift+V&lt;/g0&gt;: Controleert op ontbrekende of misplaatste tags in opgemaakte bestanden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Display: all matching segments&lt;/g0&gt;: if checked, all the segments are displayed one by one, even if they are present several times in the same document or in different documents.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T141513Z" creationid="Dick" creationdate="20211118T141513Z">
+        <seg>&lt;g0&gt;Weergeven: alle overeenkomende segmenten&lt;/g0&gt;: indien geselecteerd worden alle segmenten één voor één weergegeven, zelfs als zij meerdere keren aanwezig zijn in hetzelfde document of in verschillende documenten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Display: file names&lt;/g0&gt;: if checked, the name of the file where each segment is found is displayed above each result.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T141530Z" creationid="Dick" creationdate="20211118T141530Z">
+        <seg>&lt;g0&gt;Weergeven: bestandsnamen&lt;/g0&gt;: indien geselecteerd, de naam van het bestand waar elk segment is gevonden wordt boven elk resultaat weergegeven.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6805,10 +6829,42 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Replace All&lt;/g0&gt;: operates replacement of all occurrences (after displaying a confirmation window where the number of occurrences is shown).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T140731Z" creationid="Dick" creationdate="20211118T140731Z">
+        <seg>&lt;g0&gt;Alles vervangen:&lt;/g0&gt; voert de vervanging uit voor alle items (na het weergeven van een bevestigingsvenster waarin het aantal vervangingen wordt weergegeven).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Replace:&lt;/g0&gt; operates a "one by one" replacement, by the mean of buttons in the header of the Editor pane.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T140807Z" creationid="Dick" creationdate="20211118T140807Z">
+        <seg>&lt;g0&gt;Vervangen:&lt;/g0&gt; voert een "één op één"-vervanging uit, door middel van de knoppen in de kop van het venster Bewerken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Search in Project&lt;/g0&gt;: check &lt;g1&gt;Memory&lt;/g1&gt; to include the project memory (&lt;f2&gt;project_save.tmx&lt;/f2&gt; file) in the search.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T141542Z" creationid="Dick" creationdate="20211118T141542Z">
+        <seg>&lt;g0&gt;Zoeken in project&lt;/g0&gt;: selecteer &lt;e1&gt;Geheugen&lt;/e1&gt; om het vertaalgeheugen van het project (bestand project_save.tmx) op te nemen in de zoekactie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Skip text matching regular expression&lt;/g0&gt;: any text matching the regular expression is skipped.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T120422Z" creationid="Dick" creationdate="20211118T120422Z">
         <seg>&lt;g0&gt;Tekst die overeenkomt met reguliere uitdrukking overslaan&lt;/g0&gt;: De tekst die overeenkomt met de reguliere uitdrukking wordt overgeslagen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Space matches nbsp&lt;/g0&gt;: when this option is checked, a space character put in search entry can match either a normal space character or a non-breacking space (\u00A) character.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T141144Z" creationid="Dick" creationdate="20211118T141144Z">
+        <seg>&lt;g0&gt;Spatie komt overeen met nbsp&lt;/g0&gt;: als deze optie is geselecteerd mag een teken spatie in het zoekitem overeenkomen met ofwel een normaal teken spatie of een teken niet-afbreekbare spatie (\u00A).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6841,6 +6897,70 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T120352Z" creationid="Dick" creationdate="20211118T120352Z">
         <seg>&lt;g0&gt;Vertaal de volgende attributen&lt;/g0&gt;: De geselecteerde attributen zullen als segmenten in het venster Bewerken verschijnen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Translated or untranslated&lt;/g0&gt;: search in both translated and untranslated segments.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T141324Z" creationid="Dick" creationdate="20211118T141324Z">
+        <seg>&lt;g0&gt;Vertaald of niet-vertaald&lt;/g0&gt;: zoek in zowel vertaalde als niet-vertaalde segmenten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Translated&lt;/g0&gt;: search only in translated segments.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T141429Z" creationid="Dick" creationdate="20211118T141429Z">
+        <seg>&lt;g0&gt;Vertaald&lt;/g0&gt;: zoek alleen in vertaalde segmenten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Untranslated&lt;/g0&gt;: search only in untranslated segments.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T141447Z" creationid="Dick" creationdate="20211118T141447Z">
+        <seg>&lt;g0&gt;Niet-vertaald&lt;/g0&gt;: zoek alleen in niet vertaalde segmenten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;case sensitive&lt;/g0&gt;: the search will be performed for the exact string specified; i.e. capitalization is observed.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T141211Z" creationid="Dick" creationdate="20211118T141110Z">
+        <seg>&lt;g0&gt;Hoofd-/kleine letter&lt;/g0&gt;: het zoeken zal worden uitgevoerd voor de exact opgegeven tekenreeks, d.i. met hoofdletters wordt rekening gehouden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;in comments&lt;/g0&gt;: search in comments to segments</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T141332Z" creationid="Dick" creationdate="20211118T141303Z">
+        <seg>&lt;g0&gt;in opmerkingen&lt;/g0&gt;: zoek in opmerkingen van segmenten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;in notes&lt;/g0&gt;: search in notes to segments</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T141341Z" creationid="Dick" creationdate="20211118T141251Z">
+        <seg>&lt;g0&gt;in notities&lt;/g0&gt;: zoek in notities van segmenten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;in source&lt;/g0&gt;: search in the source segments</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T141400Z" creationid="Dick" creationdate="20211118T141232Z">
+        <seg>&lt;g0&gt;in bron&lt;/g0&gt;: zoek in de bronsegmenten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;in translations&lt;/g0&gt;: search in the target segments</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T141348Z" creationid="Dick" creationdate="20211118T141241Z">
+        <seg>&lt;g0&gt;in vertaling&lt;/g0&gt;: zoek in de doelsegmenten</seg>
       </tuv>
     </tu>
     <tu>
@@ -15892,6 +16012,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check &lt;g3&gt;TMs&lt;/g3&gt; to include the translation memories located in the &lt;f4&gt;tm&lt;/f4&gt; folder in the search.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T141625Z" creationid="Dick" creationdate="20211118T141550Z">
+        <seg>Selecteer &lt;g3&gt;TM's&lt;/g3&gt; om de vertaalgeheugens, geplaatst in de map &lt;f4&gt;tm&lt;/f4&gt;, op te nemen in de zoekactie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check Google Translate v2 (leaving the other options unchecked)</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120401T164341Z">
@@ -16604,6 +16732,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click &lt;g1&gt;Replace Next&lt;/g1&gt; or &lt;g2&gt;Skip&lt;/g2&gt;, then end the replacement session with &lt;g3&gt;Finish&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T140844Z" creationid="Dick" creationdate="20211118T140844Z">
+        <seg>Klik op &lt;g1&gt;Volgende vervangen&lt;/g1&gt; of &lt;g2&gt;Overslaan&lt;/g2&gt;, en beëindig de sessie van het vervangen met &lt;g3&gt;Voltooien&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click Customize &gt; Choose commands.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120401T154448Z">
@@ -16808,6 +16944,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T170612Z">
         <seg>Klik op de pijl naar beneden van het vak &lt;e0&gt;Zoeken naar&lt;/e0&gt; on toegang te krijgen tot de 10 laatste zoekacties.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the dropdown arrow of the &lt;g0&gt;Search for&lt;/g0&gt; box to access the last 10 searches.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T141054Z" creationid="Dick" creationdate="20211118T141054Z">
+        <seg>Klik op de pijl naar beneden van het vak &lt;g0&gt;Zoeken naar&lt;/g0&gt; om toegang te krijgen tot de 10 laatste zoekacties.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22232,6 +22376,14 @@ Uw helppagina werd niet gevonden</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter the new word or phrase (regular expressions are not supported) in the &lt;g0&gt;Replace with&lt;/g0&gt; box, then click one of the following options:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T140719Z" creationid="Dick" creationdate="20211118T140719Z">
+        <seg>Voer het nieuwe woord of uitdrukking (reguliere uitdrukkingen worden niet ondersteund) in in het vak &lt;g0&gt;Vervangen door&lt;/g0&gt;, en klik dan op één van de volgende opties:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter the segment number:</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T185519Z">
@@ -22792,6 +22944,14 @@ Niemand hoort u schreeuwen.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T170547Z">
         <seg>Uitgezonderd één: selecteer &lt;e0&gt;Niet-vertaald&lt;/e0&gt; om Zoeken en vervangen ook uit te voeren op segmenten die nog niet zijn vertaald.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Except one: check &lt;g0&gt;Untranslated&lt;/g0&gt; in order to operate Search and replace also on segments that have not been translated yet.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T140914Z" creationid="Dick" creationdate="20211118T140914Z">
+        <seg>Uitgezonderd één: selecteer &lt;g0&gt;Niet-vertaald&lt;/g0&gt; om Zoeken en vervangen ook uit te voeren op segmenten die nog niet zijn vertaald.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41628,6 +41788,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open the Search window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; and enter the word or phrase you wish to search for in the &lt;g3&gt;Search for&lt;/g3&gt; box.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T141015Z" creationid="Dick" creationdate="20211118T141015Z">
+        <seg>Open het venster Zoeken met &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; en voer het woord of de frase waarnaar u wilt zoeken in het vak &lt;g3&gt;Zoeken naar&lt;/g3&gt; in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open the files TMXDialect.java and TMX filter in a text editor.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T150056Z" creationid="Dirk" creationdate="20131225T150056Z">
@@ -57109,6 +57277,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T170608Z">
         <seg>Het woord of de frase wordt automatisch ingevoegd in het vak &lt;e3&gt;Zoeken naar&lt;/e3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The word or phrase is entered in the &lt;g3&gt;Search for&lt;/g3&gt; box automatically.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T141031Z" creationid="Dick" creationdate="20211118T141031Z">
+        <seg>Het woord of de frase wordt automatisch ingevoegd in het vak &lt;g3&gt;Zoeken naar&lt;/g3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
