@@ -6165,6 +6165,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Privacy&lt;/e0&gt;: OmegaT Java Web Start does not save any of your information beyond the computer on which you are running it.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T130449Z" creationid="Dick" creationdate="20211118T130449Z">
+        <seg>&lt;e0&gt;Privacy&lt;/e0&gt;: OmegaT Java Web Start slaat geen informatie van u op buiten de computer waarop het wordt uitgevoerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Project properties&lt;/e0&gt;, &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt; Files and Folders:&lt;/e1&gt; a project in the context of OmegaT is the piece of work that OmegaT as a CAT tool is able to handle.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T125029Z">
@@ -11536,6 +11544,22 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Adding OmegaT to the Dock</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T130046Z" creationid="Dick" creationdate="20211118T130046Z">
+        <seg>OmegaT toevoegen aan het dock</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Adding OmegaT to your menus (KDE) or panels (Gnome)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T125700Z" creationid="Dick" creationdate="20211118T125700Z">
+        <seg>OmegaT toevoegen aan uw menu's (KDE) of panelen (Gnome)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Adding new source files</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T133030Z" creationid="Dick" creationdate="20190516T133030Z">
@@ -11860,6 +11884,14 @@ the above requirements apply either way.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T141909Z">
         <seg>Na de initiële installatie kunt u natuurlijk &lt;e5&gt;&lt;a6&gt;OmegaT&lt;/a6&gt;.jnlp&lt;/e5&gt; ook gebruiken als u offline bent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After the initial installation you can, of course, also use &lt;f2&gt;OmegaT.jnlp&lt;/f2&gt; also when you are offline.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T130436Z" creationid="Dick" creationdate="20211118T130436Z">
+        <seg>Na de initiële installatie kunt u natuurlijk &lt;f2&gt;OmegaT.jnlp&lt;/f2&gt; ook gebruiken als u offline bent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15644,6 +15676,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check "&lt;l2/&gt;" below for more information.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T130141Z" creationid="Dick" creationdate="20211118T130141Z">
+        <seg>Bekijk "&lt;l2/&gt;" hieronder voor meer informatie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check "&lt;l3/&gt;" below for more information.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210220T131820Z" creationid="Dick" creationdate="20210220T131820Z">
@@ -16608,6 +16648,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T135216Z" creationid="Dick" creationdate="20190516T135216Z">
         <seg>Klik op de pictogramknop, en druk dan op &lt;g0&gt;Bladeren…&lt;/g0&gt; en navigeer naar de submap &lt;f1&gt;/images&lt;/f1&gt; in de toepassingsmap &lt;a2&gt;OmegaT&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the icon button, then hit &lt;g0&gt;Browse...&lt;/g0&gt; and navigate to the &lt;f1&gt;images&lt;/f1&gt; subfolder in the OmegaT application folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T125951Z" creationid="Dick" creationdate="20211118T125951Z">
+        <seg>Klik op de pictogramknop, en druk dan op &lt;g0&gt;Bladeren…&lt;/g0&gt; en navigeer naar de submap &lt;f1&gt;/images&lt;/f1&gt; in de toepassingsmap van OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22000,10 +22048,26 @@ Uw helppagina werd niet gevonden</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter "OmegaT" in the "Name" field; in the "Command" field, use the navigation button to find your OmegaT launch script (the file named OmegaT in the unpacked folder).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T125925Z" creationid="Dick" creationdate="20211118T125925Z">
+        <seg>Voer "OmegaT" in in het veld "Naam"; gebruik, in het veld "Commando", de navigatieknop om uw startscript voor OmegaT te vinden (het bestand genaamd OmegaT in de uitgepakte map).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter &lt;a2&gt;OmegaT&lt;/a2&gt; as the name of the new item.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T140833Z">
         <seg>Voer &lt;a2&gt;OmegaT&lt;/a2&gt; in als de naam van het nieuwe item.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter OmegaT as the name of the new item.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T125732Z" creationid="Dick" creationdate="20211118T125732Z">
+        <seg>Voer OmegaT in als de naam van het nieuwe item.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23680,6 +23744,14 @@ Gossamer-drempel houdt u tegen
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Follow your system's instructions to install OmegaT shortcuts in convenient places of your choosing.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T130336Z" creationid="Dick" creationdate="20211118T130336Z">
+        <seg>Volg de instructies voor uw systeem om sneltoetsen voor OmegaT op handige plaatsen te installeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Font</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T174219Z">
@@ -24043,6 +24115,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T140423Z" creationid="Dick" creationdate="20190516T140423Z">
         <seg>Bijvoorbeeld: &lt;l2&gt;user.language=ja&lt;/l2&gt; (zonder de &lt;l3&gt;#&lt;/l3&gt;) zal &lt;a4&gt;OmegaT&lt;/a4&gt; starten met de gebruikersinterface in het Japans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, &lt;l2&gt;user.language=ja&lt;/l2&gt; (without the &lt;l3&gt;#&lt;/l3&gt;) will launch OmegaT with the user interface in Japanese.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T130112Z" creationid="Dick" creationdate="20211118T130112Z">
+        <seg>Bijvoorbeeld: &lt;l2&gt;user.language=ja&lt;/l2&gt; (zonder de &lt;l3&gt;#&lt;/l3&gt;) zal OmegaT starten met de gebruikersinterface in het Japans.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25149,6 +25229,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T140845Z">
         <seg>GNOME kan weigeren om de pictogrambestanden weer te geven in de beschikbare indelingen en in het begin een SVGbestand verwachten, maar als de map wordt geselecteerd, zouden de bestanden moeten verschijnen en kan &lt;a4&gt;OmegaT&lt;/a4&gt;.png worden geselecteerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GNOME may fail to display the icon files in the available formats and initially appear to expect an SVG file, but if the folder is selected, the files should appear and &lt;f3&gt;OmegaT.png&lt;/f3&gt; can be selected.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T130014Z" creationid="Dick" creationdate="20211118T130014Z">
+        <seg>GNOME kan weigeren om de pictogrambestanden weer te geven in de beschikbare indelingen en in het begin een SVGbestand verwachten, maar als de map wordt geselecteerd, zouden de bestanden moeten verschijnen en kan &lt;f3&gt;OmegaT.png&lt;/f3&gt; worden geselecteerd.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30754,6 +30842,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T140834Z">
         <seg>Gebruik, in het veld "Commando", de navigatieknop om uw &lt;a0&gt;OmegaT&lt;/a0&gt; startscript te vinden (het bestand genaamd &lt;a1&gt;OmegaT&lt;/a1&gt; in de uitgepakte map) en selecteer dat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the "Command" field, use the navigation button to find your OmegaT launch script (the file named OmegaT in the unpacked folder), and select it.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T125808Z" creationid="Dick" creationdate="20211118T125808Z">
+        <seg>Gebruik, in het veld "Commando", de navigatieknop om uw OmegaT startscript te vinden (het bestand genaamd OmegaT in de uitgepakte map) en selecteer dat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37775,6 +37871,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Normally, it is not necessary to start OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T130505Z" creationid="Dick" creationdate="20211118T130505Z">
+        <seg>Normaal gesproken is het niet nodig om OmegaT te starten vanaf de opdrachtregel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>North Ndebele</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T130356Z">
@@ -39240,6 +39344,14 @@ OmegaT 4.0, Lees Mij-bestand</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT contains the Java JRE 1.8</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T130029Z" creationid="Dick" creationdate="20211118T130029Z">
+        <seg>OmegaT bevat de Java JRE 1.8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT currently requires version 1.6 of the JRE or later.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T150501Z" creationid="DiGro (Dick)" creationdate="20170915T150501Z">
@@ -39638,6 +39750,14 @@ translation leveraging into updated projects.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>OmegaT is een open bron toepassing en project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is available bundled with a Oracle Java JRE for Linux (Intel x86) and Windows platforms.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T130217Z" creationid="Dick" creationdate="20211118T130217Z">
+        <seg>OmegaT is beschikbaar, gebundeld met een Oracle Java JRE voor Linux (Intel x86)- en Windows-platformen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40592,6 +40712,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T125619Z" creationid="Dick" creationdate="20211118T125619Z">
         <seg>Als OmegaT eenmaal is geïnstalleerd, kunt u klikken op &lt;f0&gt;OmegaT.jar&lt;/f0&gt; om het direct te starten, of u kunt het direct vanaf de opdrachtregel starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once OmegaT is installed, you can launch it directly from the command line, you can create a script that includes launch parameters for the command line or you can click on &lt;f0&gt;OmegaT.jar&lt;/f0&gt; to launch it directly.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T130402Z" creationid="Dick" creationdate="20211118T130402Z">
+        <seg>Als OmegaT eenmaal is geïnstalleerd, kunt u het direct vanaf de opdrachtregel starten, u kunt een script maken dat de startparameters voor de opdrachtregel bevat of u kunt op &lt;f0&gt;OmegaT.jar&lt;/f0&gt; klikken om het direct uit te voeren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41648,6 +41776,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T135035Z" creationid="Dick" creationdate="20190516T135035Z">
         <seg>Andere pictogrammen - Bladeren en navigeer naar de submap &lt;f0&gt;/images&lt;/f0&gt; in de toepassingsmap van &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other Icons - Browse, and navigate to the &lt;f0&gt;images&lt;/f0&gt; subfolder in the OmegaT application folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T125831Z" creationid="Dick" creationdate="20211118T125831Z">
+        <seg>Andere pictogrammen - Bladeren en navigeer naar de submap &lt;f0&gt;/images&lt;/f0&gt; in de toepassingsmap van OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47696,6 +47832,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select the &lt;f1&gt;OmegaT.png&lt;/f1&gt; icon.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T125841Z" creationid="Dick" creationdate="20211118T125841Z">
+        <seg>Selecteer het pictogram &lt;f1&gt;OmegaT.png&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select the &lt;f2&gt;OmegaT.png&lt;/f2&gt; icon.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T135100Z" creationid="Dick" creationdate="20190516T135100Z">
@@ -50106,6 +50250,14 @@ makes it unnecessary.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T141706Z" creationid="Dick" creationdate="20190516T141706Z">
         <seg>Opvolgende klikken op &lt;f1&gt;OmegaT.jnlp&lt;/f1&gt; zal leiden tot het controleren op upgrades, ze installeren als ze er zijn, en dan &lt;a2&gt;OmegaT&lt;/a2&gt; starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Subsequent clicks on &lt;f1&gt;OmegaT.jnlp&lt;/f1&gt; will check for any upgrades, install them, if there are any, and then start OmegaT.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T130422Z" creationid="Dick" creationdate="20211118T130422Z">
+        <seg>Opvolgende klikken op &lt;f1&gt;OmegaT.jnlp&lt;/f1&gt; zal leiden tot het controleren op upgrades, ze installeren als ze er zijn, en dan OmegaT starten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56657,6 +56809,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There are two ways of launching OmegaT using the command line.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T130519Z" creationid="Dick" creationdate="20211118T130519Z">
+        <seg>Er zijn twee manieren om OmegaT te starten met behulp van de opdrachtregel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There is a strong possibility that at some points, your translation will be longer than the original.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120402T174007Z">
@@ -57587,6 +57747,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This command changes the folder to the folder containing the executable OmegaT file.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T130617Z" creationid="Dick" creationdate="20211118T130617Z">
+        <seg>Deze opdracht wijzigt de map naar de map die het uitvoerbare OmegaT-bestand bevat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This command does not work once the modified segment has been validated.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T145641Z">
@@ -57647,6 +57815,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T141542Z">
         <seg>Dit maakt een map &lt;e2&gt;./OmegaT_3.n.n_Without_JRE/&lt;/e2&gt; in de werkmap waarin u alle benodigde bestanden zult vinden om &lt;a3&gt;OmegaT&lt;/a3&gt; uit te voeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This creates an &lt;f1&gt;./OmegaT_4.n.n_Without_JRE/&lt;/f1&gt; folder in the working folder with all the files necessary to run OmegaT.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T130323Z" creationid="Dick" creationdate="20211118T130323Z">
+        <seg>Dit maakt een map &lt;f1&gt;./OmegaT_4.n.n_Without_JRE/&lt;/f1&gt; in de werkmap waarin u alle benodigde bestanden zult vinden om OmegaT uit te voeren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58853,6 +59029,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will create an &lt;f0&gt;omegat&lt;/f0&gt; folder in the working folder in which you will find all the files needed to run OmegaT.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T125637Z" creationid="Dick" creationdate="20211118T125637Z">
+        <seg>Dit zal een map &lt;f0&gt;omegat/&lt;/f0&gt; maken in de werkmap waarin u alle nodige bestanden vindt om OmegaT uit te voeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will create an omegat/ folder in the working folder in which you will find all the files needed to run &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T140820Z">
@@ -59797,6 +59981,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To install OmegaT, simply unpack the &lt;f0&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f0&gt; file.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T130302Z" creationid="Dick" creationdate="20211118T130302Z">
+        <seg>Pak eenvoudigweg het bestand &lt;f0&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f0&gt; uit om OmegaT te installeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To install Priorview, simply unpack the zip archive at any suitable location on your hard drive.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131228T130153Z" creationid="Dirk" creationdate="20131225T171250Z">
@@ -59865,6 +60057,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135245Z">
         <seg>U moet dit bestand aanroepen vanaf de opdrachtregel of starten vanuit uw bestandsbeheerder, gewoonlijk door er op te dubbelklikken, om OmegaT te starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To launch OmegaT, you must normally type two commands.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T130531Z" creationid="Dick" creationdate="20211118T130531Z">
+        <seg>U moet normaal gesproken twee opdrachten typen om OmegaT te starten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60333,6 +60533,14 @@ these rights or asking you to surrender the rights.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T140822Z">
         <seg>Uitpakken van het &lt;e1&gt;.tar.gz&lt;/e1&gt; bestand:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To untar the &lt;f1&gt;.tar.gz&lt;/f1&gt; file:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T125649Z" creationid="Dick" creationdate="20211118T125649Z">
+        <seg>Uitpakken van het &lt;f1&gt;.tar.gz&lt;/f1&gt; bestand:</seg>
       </tuv>
     </tu>
     <tu>
@@ -62572,6 +62780,14 @@ Opdrachten:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the &lt;f0&gt;OmegaT.jar&lt;/f0&gt; file located in &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt; to launch OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T130132Z" creationid="Dick" creationdate="20211118T130132Z">
+        <seg>Gebruik het bestand &lt;f0&gt;OmegaT.jar&lt;/f0&gt; dat zich bevindt in &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt; om OmegaT vanaf de opdrachtregel te starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the &lt;g0&gt;ID&lt;/g0&gt; comparison mode to align Key=Value texts.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210220T132148Z" creationid="Dick" creationdate="20210220T132148Z">
@@ -63027,6 +63243,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T141436Z">
         <seg>Gebruikers van andere platformen (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64 etc) moeten een werkende compatibele Java JRE op hun systeem hebben om &lt;a1&gt;OmegaT&lt;/a1&gt; te kunnen gebruiken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Users of other platforms (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64 etc) must have a running compatible Java JRE on their system to be able to use OmegaT.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T130231Z" creationid="Dick" creationdate="20211118T130231Z">
+        <seg>Gebruikers van andere platformen (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64 etc) moeten een werkende compatibele Java JRE op hun systeem hebben om OmegaT te kunnen gebruiken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65641,6 +65865,14 @@ for enforcing compliance by third parties with this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can add OmegaT to your menus as follows:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T125712Z" creationid="Dick" creationdate="20211118T125712Z">
+        <seg>U kunt OmegaT als volgt aan uw menu's toevoegen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can add a new term to the glossary by pressing &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;, or copy existing glossaries to the &lt;f1&gt;/glossary/&lt;/f1&gt; subfolder of your project folder, and OmegaT will automatically look up words in them.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142929Z">
@@ -66527,6 +66759,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T141422Z">
         <seg>U kunt dus ergens in &lt;a2&gt;OmegaT&lt;/a2&gt; een woord selecteren en de Services gebruiken om het te controleren, bijvoorbeeld in Spotlight of in Google.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can thus select a word anywhere in OmegaT and use Services to check this word, for instance in Spotlight or in Google.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T130202Z" creationid="Dick" creationdate="20211118T130202Z">
+        <seg>U kunt dus overal in OmegaT een woord selecteren en de Services gebruiken om het te controleren, bijvoorbeeld in Spotlight of in Google.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78336,6 +78576,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T141942Z" creationid="Dick" creationdate="20190516T141942Z">
         <seg>waar &lt;p0&gt;map&lt;/p0&gt; de naam is van de map, met het complete pad, waarin uw &lt;a1&gt;OmegaT&lt;/a1&gt;-programma - specifiek het bestand &lt;f2&gt;OmegaT.jar&lt;/f2&gt; - is geplaatst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>where &lt;p0&gt;folder&lt;/p0&gt; is the name of the folder, with complete path, in which your OmegaT program - specifically, the file &lt;f1&gt;OmegaT.jar&lt;/f1&gt; - is located.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T130601Z" creationid="Dick" creationdate="20211118T130601Z">
+        <seg>waar &lt;p0&gt;map&lt;/p0&gt; de naam is van de map, met het complete pad, waarin uw OmegaT-programma - specifiek het bestand &lt;f1&gt;OmegaT.jar&lt;/f1&gt; - is geplaatst.</seg>
       </tuv>
     </tu>
     <tu>
