@@ -11984,6 +11984,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After you have translated each segment, press &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt; to move to the next untranslated segment (or &lt;k3&gt;&lt;k4&gt;Ctrl&lt;/k4&gt;&lt;k5&gt;Shift&lt;/k5&gt;&lt;k6&gt;U&lt;/k6&gt;&lt;/k3&gt; to move to the next translated segment).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T131851Z" creationid="Dick" creationdate="20211118T131851Z">
+        <seg>Nadat u elk segment hebt vertaald, druk op &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt; om naar het volgende niet-vertaalde segment te gaan (of op &lt;k3&gt;&lt;k4&gt;Ctrl&lt;/k4&gt;&lt;k5&gt;Shift&lt;/k5&gt;&lt;k6&gt;U&lt;/k6&gt;&lt;/k3&gt; om naar het volgende vertaalde segment te gaan).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After you have translated each segment, press &lt;k0&gt;Ctrl+U&lt;/k0&gt; to move to the next untranslated segment (or &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; to move to the next translated segment).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142854Z">
@@ -21282,6 +21290,14 @@ werd project_save.tmx niet echt geüpload en SVN schakelde naar een onstabiele s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>During translation, use the &lt;g11&gt;Edit&lt;/g11&gt; and &lt;g12&gt;Go To&lt;/g12&gt; menus to perform various useful functions.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T131957Z" creationid="Dick" creationdate="20211118T131957Z">
+        <seg>Gebruik, gedurende het vertalen, de menu's &lt;g11&gt;Bewerken&lt;/g11&gt; en &lt;g12&gt;Ga naar&lt;/g12&gt; om verschillende handige functies uit te voeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>During translation, use the &lt;g4&gt;Edit&lt;/g4&gt; and &lt;g5&gt;Go To&lt;/g5&gt; menus to perform various useful functions.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142905Z">
@@ -27961,6 +27977,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If no text is selected, OmegaT selects the word that contains the letter immediately to the right of the cursor.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T132603Z" creationid="Dick" creationdate="20211118T132603Z">
+        <seg>Indien geen tekst is geselecteerd, selecteert OmegaT het woord dat de letter bevat direct rechts naast de cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If not checked, source segments will not be shown.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T155805Z">
@@ -28903,6 +28927,14 @@ where to find the applicable terms.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T131744Z" creationid="Dick" creationdate="20211118T131744Z">
+        <seg>Indien u geïnteresseerd bent in andere instellingen van dit dialoogvenster, kunt u er op elk moment naar terugkeren door te drukken op &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142844Z">
@@ -29672,6 +29704,14 @@ to use Java Web Start.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142929Z">
         <seg>Als u bestanden van vertaalgeheugens plaats in de submap &lt;f6&gt;/tm/&lt;/f6&gt; van uw projectmap, zal OmegaT automatisch daarin zoeken naar overeenkomstige segmenten, genaamd "fuzzy overeenkomsten".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you place such translation memory files in the &lt;f6&gt;tm&lt;/f6&gt; subfolder of a project, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T132315Z" creationid="Dick" creationdate="20211118T132315Z">
+        <seg>Als u bestanden van vertaalgeheugens plaats in de submap &lt;f6&gt;tm&lt;/f6&gt; van uw projectmap, zal OmegaT automatisch daarin zoeken naar overeenkomstige segmenten, genaamd "fuzzy overeenkomsten".</seg>
       </tuv>
     </tu>
     <tu>
@@ -32726,6 +32766,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>Het is het echter waard om de filterinstellingen aan te passen voor optimale resultaten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt; for the &lt;g3&gt;Text Search&lt;/g3&gt; dialog at any time.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T132443Z" creationid="Dick" creationdate="20211118T132443Z">
+        <seg>Het is vaak handig om te zoeken naar woorden en frasen in de brontekst en in uw vertaling, dus druk op elk moment op &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt; voor het dialoogvenster &lt;g3&gt;Tekst zoeken&lt;/g3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40201,6 +40249,14 @@ be launched.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT remembers the segments executed.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T132614Z" creationid="Dick" creationdate="20211118T132614Z">
+        <seg>OmegaT onthoudt de verwerkte segmenten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT requires the Java Runtime Environment (JRE) version 1.8 or higher to be</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T133302Z" creationid="Dirk" creationdate="20170914T133302Z">
@@ -40544,6 +40600,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142848Z">
         <seg>OmegaT zal dan de geselecteerde bestanden kopiëren naar de submap &lt;f2&gt;/source/&lt;/f2&gt;van uw nieuw gemaakte project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will then copy the selected files to the &lt;f2&gt;source&lt;/f2&gt; subfolder of your newly created project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T131806Z" creationid="Dick" creationdate="20211118T131806Z">
+        <seg>OmegaT zal dan de geselecteerde bestanden kopiëren naar de submap &lt;f2&gt;source&lt;/f2&gt;van uw nieuw gemaakte project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40992,6 +41056,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160126T135627Z" creationid="Dirk" creationdate="20160126T135521Z">
         <seg>Als u eenmaal Abiword of de combinatie LibreOffice+Unoconv hebt geïnstalleerd, kunt u de door OmegaT geproduceerde vertaalde documenten converteren naar de indeling html om ze te kunnen laten lezen door de browser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;D&lt;/k2&gt;&lt;/k0&gt; to generate the target files, which will be created in the &lt;f3&gt;target&lt;/f3&gt; subfolder of your project folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T132140Z" creationid="Dick" creationdate="20211118T132140Z">
+        <seg>Als u zich er eenmaal van overtuigd hebt dat er geen tagfouten meer in uw vertaling staan, druk dan op &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;D&lt;/k2&gt;&lt;/k0&gt; om de doelbestanden te genereren, die zullen worden gemaakt in de submap &lt;f3&gt;target&lt;/f3&gt; van uw projectmap.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53752,6 +53824,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The exported contents are copied to the file &lt;f0&gt;selection.txt&lt;/f0&gt; located in the User's preference files folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T132552Z" creationid="Dick" creationdate="20211118T132552Z">
+        <seg>De geëxporteerde inhoud wordt gekopieerd naar het bestand &lt;f0&gt;selection.txt&lt;/f0&gt; dat is geplaatst in de voorkeursmap van de gebruiker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The exported contents are copied to the file &lt;f1&gt;selection.txt&lt;/f1&gt; located in the User's preference files folder (see &lt;x2/&gt;).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T154858Z">
@@ -57119,6 +57199,14 @@ covered work, you indicate your acceptance of this License to do so.</seg>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T142832Z" creationid="DiGro (Dick)" creationdate="20170915T142832Z">
         <seg>Therefore, by modifying or propagating a
 covered work, you indicate your acceptance of this License to do so.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Therefore, press &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt; before you generate your translated files, to validate that your tags are correct.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T132023Z" creationid="Dick" creationdate="20211118T132023Z">
+        <seg>Druk daarom op &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt; vóórdat u uw vertaalde document genereert, om te valideren dat uw tags juist zijn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60521,6 +60609,14 @@ these rights or asking you to surrender the rights.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To remind yourself of the project's initial settings, open the project properties dialog by pressing &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T132203Z" creationid="Dick" creationdate="20211118T132203Z">
+        <seg>Open het dialoogvenster Projecteigenschappen door te drukken op &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt; om uzelf te herinneren aan de initiële instellingen van het project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To remind yourself of the project's initial settings, open the project properties dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142922Z">
@@ -60597,6 +60693,14 @@ these rights or asking you to surrender the rights.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142925Z">
         <seg>Open het dialoogvenster &lt;g1&gt;Projectbestanden&lt;/g1&gt; door te drukken op &lt;k2&gt;Ctrl+L&lt;/k2&gt; om een lijst van bestanden in het project te zien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To see a list of files in the project, open the &lt;g3&gt;Project Files&lt;/g3&gt; dialog by pressing &lt;k4&gt;&lt;k5&gt;Ctrl&lt;/k5&gt;&lt;k6&gt;L&lt;/k6&gt;&lt;/k4&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T132242Z" creationid="Dick" creationdate="20211118T132242Z">
+        <seg>Open het dialoogvenster &lt;g3&gt;Projectbestanden&lt;/g3&gt; door te drukken op &lt;k4&gt;&lt;k5&gt;Ctrl&lt;/k5&gt;&lt;k6&gt;L&lt;/k6&gt;&lt;/k4&gt; om een lijst van bestanden in het project te zien.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64628,6 +64732,14 @@ any other work released this way by its authors.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When the user exits OmegaT, this file is not emptied, in order to be consistent with usual clipboard behavior.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T132537Z" creationid="Dick" creationdate="20211118T132537Z">
+        <seg>Wanneer de gebruiker OmegaT afsluit, wordt dit bestand niet geleegd, om consistent te zijn aan het gebruikelijke gedrag van het klembord.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When this file is executed, the commands within it are automatically carried out.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T141946Z">
@@ -64994,6 +65106,14 @@ technological measures.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142903Z">
         <seg>Wanneer u wilt zien hoe uw vertaling eruit zal zien in zijn uiteindelijke opmaak, druk op &lt;k2&gt;Ctrl+D&lt;/k2&gt; om het vertaalde document te genereren, dat zal worden gemaakt in de submap &lt;f3&gt;/target/&lt;/f3&gt; van uw projectmap.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whenever you want to see what your translation will look like in its final format, press &lt;k7&gt;&lt;k8&gt;Ctrl&lt;/k8&gt;&lt;k9&gt;D&lt;/k9&gt;&lt;/k7&gt; to generate the translated documents, which will be created in the &lt;f10&gt;target&lt;/f10&gt; subfolder of your project folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T131929Z" creationid="Dick" creationdate="20211118T131929Z">
+        <seg>Wanneer u wilt zien hoe uw vertaling eruit zal zien in zijn uiteindelijke opmaak, druk op &lt;k7&gt;&lt;k8&gt;Ctrl&lt;/k8&gt;&lt;k9&gt;D&lt;/k9&gt;&lt;/k7&gt; om het vertaalde document te genereren, dat zal worden gemaakt in de submap &lt;f10&gt;target&lt;/f10&gt; van uw projectmap.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66093,6 +66213,14 @@ for enforcing compliance by third parties with this License.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T125712Z" creationid="Dick" creationdate="20211118T125712Z">
         <seg>U kunt OmegaT als volgt aan uw menu's toevoegen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can add a new term to the glossary by pressing &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;G&lt;/k3&gt;&lt;/k0&gt;, or copy existing glossaries to the &lt;f4&gt;glossary&lt;/f4&gt; subfolder of your project folder, and OmegaT will automatically look up words in them.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T132351Z" creationid="Dick" creationdate="20211118T132351Z">
+        <seg>U kunt een nieuwe term aan een woordenlijst toevoegen door te drukken op &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;G&lt;/k3&gt;&lt;/k0&gt;, of bestaande woordenlijsten kopiëren naar de submap &lt;f4&gt;glossary&lt;/f4&gt; van uw projectmap en OmegaT zal automatisch daarin woorden opzoeken.</seg>
       </tuv>
     </tu>
     <tu>
