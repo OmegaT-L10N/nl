@@ -66349,6 +66349,14 @@ or can get the source code.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You must then press &lt;k6&gt;&lt;k7&gt;Ctrl&lt;/k7&gt;&lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt; again to insert the suggestion.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T111810Z" creationid="Dick" creationdate="20211118T111810Z">
+        <seg>Daarna moet u nogmaals op &lt;k6&gt;&lt;k7&gt;Ctrl&lt;/k7&gt;&lt;k8&gt;M&lt;/k8&gt;&lt;/k6&gt; drukken om de suggestie in te voeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You need not require recipients to copy the</seg>
       </tuv>
       <tuv lang="nl">
