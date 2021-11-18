@@ -5717,6 +5717,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Adding files to the project:&lt;/e0&gt; You can add source files to the project by clicking on the &lt;g1&gt;Import Source Files...&lt;/g1&gt; button.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T140243Z" creationid="Dick" creationdate="20211118T140243Z">
+        <seg>&lt;e0&gt;Bestanden toevoegen aan het project: &lt;/e0&gt;U kunt bronbestanden toevoegen aan het project door te klikken op de knop &lt;g1&gt;Bronbestanden importeren…&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags with no translatable text between them will be aggregated into a single tag.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T111436Z" creationid="Dick" creationdate="20190516T111436Z">
@@ -11932,6 +11940,14 @@ the above requirements apply either way.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T124206Z" creationid="Dick" creationdate="20190517T114248Z">
         <seg>Selecteer, na verscheidene van deze bewerkingen, &lt;m0&gt; &lt;g1&gt;Bewerken&lt;/g1&gt; &lt;g2&gt;Wachten op opnieuw uitlijnen&lt;/g2&gt; &lt;/m0&gt; om het uitlijnen van de andere segmenten bij te werken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After several of these operations, select &lt;m0&gt;&lt;g1&gt;Edit&lt;/g1&gt;&lt;g2&gt;Realign pending&lt;/g2&gt; &lt;/m0&gt; to update the alignment of the other segments.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T135922Z" creationid="Dick" creationdate="20211118T135922Z">
+        <seg>Selecteer, na verscheidene van deze bewerkingen, &lt;m0&gt;&lt;g1&gt;Bewerken&lt;/g1&gt;&lt;g2&gt;Wachten op opnieuw uitlijnen&lt;/g2&gt;&lt;/m0&gt; om het uitlijnen van de andere segmenten bij te werken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32626,6 +32642,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It also possible to change the position of a filename, by clicking on it and pressing &lt;g0&gt;Move ...&lt;/g0&gt; buttons.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T140128Z" creationid="Dick" creationdate="20211118T140128Z">
+        <seg>Het is ook mogelijk om de positie van een bestandsnaam te wijzigen door er op te klikken en te drukken op de knoppen &lt;g0&gt;Naar …&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It builds upon the strengths of Java but has additional power features inspired by languages like Python, Ruby and Smalltalk.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T131008Z">
@@ -41588,6 +41612,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open the Search and replace window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; and enter the word or expression you wish to replace in the &lt;g3&gt;Search for&lt;/g3&gt; box.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T140614Z" creationid="Dick" creationdate="20211118T140614Z">
+        <seg>Open het venster Zoeken en vervangen met &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; en voer het woord of de uitdrukking die/dat u wilt vervangen in in het vak &lt;g3&gt;Zoeken naar&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open the Search window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; and enter the word or phrase you wish to search for in the &lt;e3&gt;Search for&lt;/e3&gt; box.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T170602Z">
@@ -43692,6 +43724,14 @@ lokaal project zonder functionaliteit voor team.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T124021Z" creationid="Dick" creationdate="20190517T114104Z">
         <seg>Druk op de spatiebalk (sneltoets voor &lt;m0&gt; &lt;g1&gt;Bewerken&lt;/g1&gt; &lt;g2&gt;Pinpoint uitlijnen beginnen&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press the space bar (shortcut for &lt;m0&gt;&lt;g1&gt;Edit&lt;/g1&gt;&lt;g2&gt;Start Pinpoint Align&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T135846Z" creationid="Dick" creationdate="20211118T135846Z">
+        <seg>Druk op de spatiebalk (sneltoets voor &lt;m0&gt;&lt;g1&gt;Bewerken&lt;/g1&gt;&lt;g2&gt;Pinpoint uitlijnen beginnen&lt;/g2&gt;&lt;/m0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -52432,6 +52472,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;f0&gt;project_stats.txt&lt;/f0&gt; located in the &lt;f1&gt;omegat&lt;/f1&gt; folder of your project contains more detailed segment information, broken down by file.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T140211Z" creationid="Dick" creationdate="20211118T140211Z">
+        <seg>Het bestand &lt;f0&gt;project_stats.txt&lt;/f0&gt; dat is geplaatst in de map &lt;f1&gt;omegat&lt;/f1&gt; van uw project bevat meer gedetailleerde informatie over elk segment per bestand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;f0&gt;project_stats.txt&lt;/f0&gt; located in the omegat folder of your project contains more detailed segment information, broken down by file.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T095922Z">
@@ -52500,6 +52548,14 @@ for making modifications to it.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T115142Z" creationid="Dick" creationdate="20190517T115111Z">
         <seg>Het venster &lt;g2&gt;Projectbestanden&lt;/g2&gt; geeft de volgende informatie weer:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;g4&gt;Project Files&lt;/g4&gt; Window displays the following information:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T140038Z" creationid="Dick" creationdate="20211118T140038Z">
+        <seg>Het venster &lt;g4&gt;Projectbestanden&lt;/g4&gt; geeft de volgende informatie weer:</seg>
       </tuv>
     </tu>
     <tu>
@@ -56189,6 +56245,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The set of &lt;e0&gt;Unique&lt;/e0&gt; segments is computed by taking all the segments and removing all duplicate segments.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T140151Z" creationid="Dick" creationdate="20211118T140151Z">
+        <seg>De verzameling &lt;e0&gt;Unieke&lt;/e0&gt; segmenten wordt berekend door alle segmenten te nemen en daaruit de duplicaten te verwijderen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The settings in your project indicate which is the source and which the target language.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T173732Z">
@@ -57105,6 +57169,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Then click on &lt;g0&gt;Search&lt;/g0&gt; button to display all the corresponding occurrences.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T140657Z" creationid="Dick" creationdate="20211118T140657Z">
+        <seg>Klik dan op de knop &lt;g0&gt;Zoeken&lt;/g0&gt; om alle overeenkomende items weer te geven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Then enter the launch command itself, and confirm with ENTER.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T141016Z" creationid="Dirk" creationdate="20131225T141016Z">
@@ -57547,6 +57619,14 @@ not accept this License.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T095557Z">
         <seg>Dit zijn de bestanden die aanwezig zijn in de map /source in een indeling die OmegaT kan afhandelen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These are the files present in the &lt;f0&gt;source&lt;/f0&gt; folder in a format that OmegaT is able to recognize.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T140054Z" creationid="Dick" creationdate="20211118T140054Z">
+        <seg>Dit zijn de bestanden die aanwezig zijn in de map &lt;f0&gt;source&lt;/f0&gt; in een indeling die OmegaT kan afhandelen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59903,6 +59983,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T112804Z" creationid="Dick" creationdate="20190517T112804Z">
         <seg>Selecteer &lt;m0&gt; &lt;g1&gt;Extra&lt;/g1&gt; &lt;g2&gt;Bestanden uitlijnen…&lt;/g2&gt; &lt;/m0&gt; om toegang te krijgen tot dit venster.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To access this window, select &lt;m0&gt;&lt;g1&gt;Tools&lt;/g1&gt;&lt;g2&gt;Align Files...&lt;/g2&gt;&lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T135817Z" creationid="Dick" creationdate="20211118T135817Z">
+        <seg>Selecteer &lt;m0&gt;&lt;g1&gt;Extra&lt;/g1&gt;&lt;g2&gt;Bestanden uitlijnen…&lt;/g2&gt;&lt;/m0&gt; om toegang te krijgen tot dit venster.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63192,6 +63280,14 @@ Opdrachten:
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T161903Z" creationid="Dick" creationdate="20190516T161903Z">
         <seg>Gebruik &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;F3&lt;/k2&gt; &lt;/k0&gt; om tussen de vier keuzes te schakelen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;L&lt;/k2&gt;&lt;/k0&gt; to open and &lt;k3&gt;Esc&lt;/k3&gt; to close it.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T140018Z" creationid="Dick" creationdate="20211118T140018Z">
+        <seg>Gebruik &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;L&lt;/k2&gt;&lt;/k0&gt; om het te openen en &lt;k3&gt;Esc&lt;/k3&gt; om het te sluiten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66577,6 +66673,14 @@ for enforcing compliance by third parties with this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on &lt;g3&gt;Import from MediaWiki&lt;/g3&gt; button and providing the corresponding URL.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T140310Z" creationid="Dick" creationdate="20211118T140310Z">
+        <seg>U kunt ook bronbestanden toevoegen vanaf internetpagina's, geschreven in MediaWiki, door te klikken op de knop &lt;g3&gt;Importeren vanuit MediaWiki&lt;/g3&gt; en de corresponderende URL op te geven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on&lt;g3&gt; "Import from MediaWiki"&lt;/g3&gt; button and providing the corresponding URL.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T115800Z" creationid="Dick" creationdate="20190517T115800Z">
@@ -66734,6 +66838,14 @@ op het bureaublad en in het gebied voor snel starten om het van daaruit te koppe
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T120248Z" creationid="Dick" creationdate="20190517T120248Z">
         <seg>U kunt de geselecteerde macro's ook starten vanuit het hoofdmenu door hun items te gebruiken in het menu &lt;g0&gt;Extra &lt;/g0&gt; of door te drukken op&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (# 1 tot en met 12).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also start the selected macros from the main menu by using their entries in the &lt;g0&gt;Tools&lt;/g0&gt; menu or by pressing &lt;k1&gt;&lt;k2&gt;Ctrl&lt;/k2&gt;&lt;k3&gt;Alt&lt;/k3&gt;&lt;k4&gt;F#&lt;/k4&gt;&lt;/k1&gt; (# 1 to 12).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T140447Z" creationid="Dick" creationdate="20211118T140447Z">
+        <seg>U kunt de geselecteerde macro's ook starten vanuit het hoofdmenu door hun items te gebruiken in het menu &lt;g0&gt;Extra&lt;/g0&gt; of door te drukken op &lt;k1&gt;&lt;k2&gt;Ctrl&lt;/k2&gt;&lt;k3&gt;Alt&lt;/k3&gt;&lt;k4&gt;F#&lt;/k4&gt;&lt;/k1&gt; (# 1 tot en met 12).</seg>
       </tuv>
     </tu>
     <tu>
