@@ -5629,6 +5629,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;&lt;l1&gt;--mode=&lt;p2&gt;...&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; OmegaT starts in console mode to perform one of the following services automatically</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T131540Z" creationid="Dick" creationdate="20211118T131540Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;--mode=&lt;p2&gt;…&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; OmegaT begint in de console-modus om één van de volgende services automatisch uit te voeren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;&lt;l1&gt;-Dgoogle.api.key=&lt;p2&gt;A123456789B123456789C123456789D12345678&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; If you have signed up for the Google Translate services, enter your private Google API key here.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T143056Z" creationid="Dick" creationdate="20190516T143056Z">
@@ -5661,10 +5669,26 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Duser.language=&lt;p2&gt;XX&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Normally, i.e. when OmegaT is launched without any arguments, the program first detects the language of the user's operating system.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T130654Z" creationid="Dick" creationdate="20211118T130654Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Duser.language=&lt;p2&gt;XX&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Normaal gesproken, d.i. als OmegaT wordt gestart zonder enig argument, detecteert het programma eerst de taal van het besturingssysteem van de gebruiker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;&lt;l1&gt;-Xmx&lt;p2&gt;??&lt;/p2&gt;M&lt;/l1&gt;&lt;/e0&gt;This command assigns more memory to &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T142749Z" creationid="Dick" creationdate="20190516T142749Z">
         <seg>&lt;e0&gt;&lt;l1&gt;-Xmx&lt;p2&gt;??&lt;/p2&gt;M&lt;/l1&gt;&lt;/e0&gt;Deze opdracht wijst meer geheugen toe aan &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Xmx&lt;p2&gt;??&lt;/p2&gt;M&lt;/l1&gt;&lt;/e0&gt;This command assigns more memory to OmegaT.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T130836Z" creationid="Dick" creationdate="20211118T130836Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Xmx&lt;p2&gt;??&lt;/p2&gt;M&lt;/l1&gt;&lt;/e0&gt;Deze opdracht wijst meer geheugen toe aan OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7573,6 +7597,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt;&lt;/l0&gt; tells OmegaT in which folder the configuration files are stored.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T131424Z" creationid="Dick" creationdate="20211118T131424Z">
+        <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/pad/naar/config-bestanden/&lt;/p1&gt;&lt;/l0&gt; vertelt OmegaT in welke map de configuratiebestanden zijn opgeslagen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;--config-file=&lt;config-file&gt;&lt;/l0&gt; tells &lt;a1&gt;OmegaT&lt;/a1&gt; what configuration file to use.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142502Z" creationid="Dirk" creationdate="20160910T142502Z">
@@ -7585,6 +7617,14 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T144306Z" creationid="Dick" creationdate="20190516T144306Z">
         <seg>&lt;l0&gt;--config-file=&lt;p1&gt;/pad/naar/config-bestand/&lt;/p1&gt;&lt;/l0&gt; vertelt &lt;a2&gt;OmegaT&lt;/a2&gt; welk configuratiebestand te gebruiken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;--config-file=&lt;p1&gt;/path/to/config-file/&lt;/p1&gt;&lt;/l0&gt; tells OmegaT what configuration file to use.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T131527Z" creationid="Dick" creationdate="20211118T131527Z">
+        <seg>&lt;l0&gt;--config-file=&lt;p1&gt;/pad/naar/config-bestand/&lt;/p1&gt;&lt;/l0&gt; vertelt OmegaT welk configuratiebestand te gebruiken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7681,6 +7721,14 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T144006Z" creationid="Dick" creationdate="20190516T144006Z">
         <seg>&lt;l0&gt;/pad/naar/project&lt;/l0&gt; vertelt &lt;a1&gt;OmegaT&lt;/a1&gt; waar het te vertalen project te vinden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;/path/to/project&lt;/l0&gt; tells OmegaT where to find the project to translate.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T131359Z" creationid="Dick" creationdate="20211118T131359Z">
+        <seg>&lt;l0&gt;/pad/naar/project&lt;/l0&gt; vertelt OmegaT waar het te vertalen project te vinden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9832,6 +9880,22 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T095946Z">
         <seg>&lt;p0&gt;Vensters in OmegaT&lt;/p0&gt; &lt;s1&gt;tags valideren&lt;/s1&gt; &lt;s2&gt;tags&lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;p2&gt;XX&lt;/p2&gt; in the command stands for the two-digit code of the desired language.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T130802Z" creationid="Dick" creationdate="20211118T130802Z">
+        <seg>&lt;p2&gt;XX&lt;/p2&gt; in de opdracht staat voor de code van twee letters van de gewenste taal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;p3&gt;??&lt;/p3&gt; stands for the amount of memory assigned, in megabytes.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T130850Z" creationid="Dick" creationdate="20211118T130850Z">
+        <seg>&lt;p3&gt;??&lt;/p3&gt; staat voor de toegewezen geheugenruimte in megabytes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13456,6 +13520,14 @@ paragraph of section 11).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Arguments can be combined: to launch OmegaT with all the examples described above, the command would be:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T130914Z" creationid="Dick" creationdate="20211118T130914Z">
+        <seg>Argumenten mogen worden gecombineerd: Voor het starten van OmegaT met alle hierboven genoemde voorbeelden zou de opdracht zijn:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Armenian</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T130030Z">
@@ -14818,6 +14890,14 @@ Neem nog een biertje.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142651Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; bouwen vanuit de bron</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Building OmegaT From Source</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T131601Z" creationid="Dick" creationdate="20211118T131601Z">
+        <seg>OmegaT bouwen vanuit de bron</seg>
       </tuv>
     </tu>
     <tu>
@@ -27451,6 +27531,14 @@ not survive such relicensing or conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a user interface in this language is available, OmegaT uses it.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T130704Z" creationid="Dick" creationdate="20211118T130704Z">
+        <seg>Als een gebruikersinterface in deze taal beschikbaar is gebruikt OmegaT die.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If additional permissions</seg>
       </tuv>
       <tuv lang="nl">
@@ -27701,6 +27789,14 @@ excuse you from the conditions of this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If given, OmegaT starts in console mode and will translate the given project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T131411Z" creationid="Dick" creationdate="20211118T131411Z">
+        <seg>Indien opgegeven start OmegaT in de console-modus en zal het opgegeven project gaan vertalen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If in doubt, don't hesitate to ask project members directly either by sending them an e-mail from the SourceForge page or by sending a public mail to the user group.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135210Z">
@@ -27885,6 +27981,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T144158Z" creationid="Dick" creationdate="20190516T144158Z">
         <seg>Indien niet opgegeven gaat &lt;a3&gt;OmegaT&lt;/a3&gt; terug naar de standaard waarden (map &lt;a4&gt;OmegaT&lt;/a4&gt; onder beginmap van de gebruiker, of indien niet beschikbaar: de huidige werkmap).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If not given, OmegaT reverts to default values (OmegaT folder under user home or, if unavailable, the current working folder).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T131506Z" creationid="Dick" creationdate="20211118T131506Z">
+        <seg>Indien niet opgegeven gaat OmegaT terug naar de standaard waarden (map OmegaT onder beginmap van de gebruiker of, indien niet beschikbaar, de huidige werkmap).</seg>
       </tuv>
     </tu>
     <tu>
@@ -28361,6 +28465,14 @@ copy of the Program in return for a fee.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T142503Z" creationid="Dick" creationdate="20190516T142503Z">
         <seg>Als de taal van het besturingssysteem van de gebruiker niet beschikbaar is gebruikt &lt;a7&gt;OmegaT&lt;/a7&gt; standaard Engels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the language of the user's system is not available, OmegaT defaults to English.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T130735Z" creationid="Dick" creationdate="20211118T130735Z">
+        <seg>Als de taal van het besturingssysteem van de gebruiker niet beschikbaar is gebruikt OmegaT standaard Engels.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29019,6 +29131,14 @@ maar niet OmegaT.exe, wijzig dan de instellingen zodat de bestandsextensies word
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you can't run OmegaT normally (no graphical environment available): copy the settings files from some other OmegaT installation on another machine to a specific folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T131023Z" creationid="Dick" creationdate="20211118T131023Z">
+        <seg>Indien u OmegaT niet normaal kunt uitvoeren (geen grafische omgeving beschikbaar): kopieer de instellingen vanaf een andere installatie van OmegaT op een andere machine naar een bepaalde map.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you cannot convey a</seg>
       </tuv>
       <tuv lang="nl">
@@ -29616,6 +29736,14 @@ to use Java Web Start.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T165457Z">
         <seg>Indien u &lt;a1&gt;OmegaT&lt;/a1&gt; in console-modus start, zal het de instellingen gebruiken die u hebt geconfigureerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you start OmegaT in console mode, it will use the same settings.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T131000Z" creationid="Dick" creationdate="20211118T131000Z">
+        <seg>Indien u OmegaT in console-modus start, zal het dezelfde instellingen gebruiken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38391,6 +38519,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note the double &lt;l2&gt;-&lt;/l2&gt; character.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T131517Z" creationid="Dick" creationdate="20211118T131517Z">
+        <seg>Onthoud het dubbele teken &lt;l2&gt;-&lt;/l2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note the double &lt;l5&gt;-&lt;/l5&gt; character.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T144212Z" creationid="Dick" creationdate="20190516T144212Z">
@@ -46028,6 +46164,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Run OmegaT normally (with the GUI) and specify the settings.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T130951Z" creationid="Dick" creationdate="20211118T130951Z">
+        <seg>Voer OmegaT normaal uit (met de GUI) en maak de instellingen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Run script on slot #{0}.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120103T175540Z">
@@ -48956,6 +49100,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T142449Z" creationid="Dick" creationdate="20190516T142449Z">
         <seg>Dus, als het besturingssysteem van de gebruiker Russisch is en &lt;a5&gt;OmegaT&lt;/a5&gt; is vertaald in het Russisch, wordt &lt;a6&gt;OmegaT&lt;/a6&gt; weergegeven met een Russische gebruikersinterface, Russische menu's, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>So, if the user's operating system is Russian and OmegaT has been localized in Russian, OmegaT is displayed with a Russian user interface, Russian menus, etc.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T130724Z" creationid="Dick" creationdate="20211118T130724Z">
+        <seg>Dus, als het besturingssysteem van de gebruiker Russisch is en OmegaT is vertaald in het Russisch, wordt OmegaT weergegeven met een Russische gebruikersinterface, Russische menu's, etc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52064,6 +52216,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; argument causes OmegaT to use the language specified rather than the language of the user's operating system.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T130748Z" creationid="Dick" creationdate="20211118T130748Z">
+        <seg>Het argument &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; zorgt er voor dat OmegaT de gespecificeerde taal gebruikt, in plaats van de taal van het besturingssysteem van de gebruiker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Properties...&lt;/g6&gt; &lt;/m0&gt; dialog is used to define and modify the project folders and languages.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T165919Z">
@@ -53122,6 +53282,14 @@ Probeer alstublieft de fout te corrigeren en herlaad het project.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T103932Z">
         <seg>De opdracht om OmegaT te starten is:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The command to launch OmegaT with assignment of 2048 MB (2 GB) of memory is therefore:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T130903Z" creationid="Dick" creationdate="20211118T130903Z">
+        <seg>De opdracht om OmegaT te starten met toewijzing van 2048 Mb (2 GB) aan geheugen luidt dan ook:</seg>
       </tuv>
     </tu>
     <tu>
@@ -54679,6 +54847,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The most important is &lt;l0&gt;/path/to/project&lt;/l0&gt;, and optionally &lt;l1&gt;--config-dir=&lt;p2&gt;/path/to/config-files/&lt;/p2&gt;&lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T131347Z" creationid="Dick" creationdate="20211118T131347Z">
+        <seg>De meest belangrijke is &lt;l0&gt;/pad/naar/project&lt;/l0&gt;, en optioneel &lt;l1&gt;--config-dir=&lt;p2&gt;/pad/naar/config-bestanden/&lt;/p2&gt;&lt;/l1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The most important is &lt;l1&gt;/path/to/project&lt;/l1&gt;, and optionally &lt;l2&gt;--config-dir=&lt;p3&gt;/path/to/config-files/&lt;/p3&gt;&lt;/l2&gt;.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T143556Z" creationid="Dick" creationdate="20190516T143556Z">
@@ -55269,6 +55445,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The relevant files are &lt;f0&gt;filters.conf&lt;/f0&gt; and &lt;f1&gt;segmentation.conf&lt;/f1&gt; and can be found in the user home folder (e.g. &lt;f2&gt;C:\Documents and Settings\&lt;p3&gt;user&lt;/p3&gt;\OmegaT&lt;/f2&gt; under Windows, &lt;f4&gt;~/.omegat/&lt;/f4&gt; under Linux).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T131303Z" creationid="Dick" creationdate="20211118T131220Z">
+        <seg>De relevante bestanden zijn &lt;f0&gt;filters.conf&lt;/f0&gt; en &lt;f1&gt;segmentation.conf&lt;/f1&gt; en kunnen worden gevonden in de startmap van de gebruiker (bijv. &lt;f2&gt;C:\Documents and Settings\&lt;p3&gt;user&lt;/p3&gt;\OmegaT&lt;/f2&gt; onder Windows, &lt;f4&gt;~/.omegat/&lt;/f4&gt; onder Linux).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The relevant files are &lt;f2&gt;filters.conf&lt;/f2&gt; and &lt;f3&gt;segmentation.conf&lt;/f3&gt; and can be found in the user home folder (e.g. &lt;f4&gt;C:\Documents and Settings\&lt;p5&gt;user&lt;/p5&gt;\OmegaT&lt;/f4&gt; under Windows, &lt;f6&gt;~/.omegat/&lt;/f6&gt; under Linux).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T143251Z" creationid="Dick" creationdate="20190516T143251Z">
@@ -55537,6 +55721,14 @@ earlier work or a work "based on" the earlier work.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T141937Z">
         <seg>De tweede opdracht is de opdracht die &lt;a1&gt;OmegaT&lt;/a1&gt; echt start.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The second command is the command which actually launches OmegaT.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T130631Z" creationid="Dick" creationdate="20211118T130631Z">
+        <seg>De tweede opdracht is de opdracht die OmegaT echt start.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59021,6 +59213,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will create a full distribution of OmegaT in the &lt;f0&gt;./build/distributions&lt;/f0&gt; folder, where you will find a zip containing everything needed to run OmegaT.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T131621Z" creationid="Dick" creationdate="20211118T131621Z">
+        <seg>Dit zal een volledige distributie van OmegaT maken in de map &lt;f0&gt;./build/distributions&lt;/f0&gt;, waarin u alle benodigde bestanden zult vinden om OmegaT uit te voeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will create an &lt;f0&gt;omegat/&lt;/f0&gt; folder in the working folder in which you will find all the files needed to run &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T134835Z" creationid="Dick" creationdate="20190516T134835Z">
@@ -60053,6 +60253,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To launch OmegaT with a French interface (for example on a Russian operating system), the command would therefore be:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T130813Z" creationid="Dick" creationdate="20211118T130813Z">
+        <seg>De opdracht, om OmegaT te starten met een Franse interface (bijvoorbeeld op een Russisch besturingssysteem), zou daarom zijn:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To launch OmegaT, you must launch this file either from the command line or from your file manager, usually by double-clicking it.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135245Z">
@@ -60369,6 +60577,14 @@ these rights or asking you to surrender the rights.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To run OmegaT in the command line mode, a valid OmegaT project must be present.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T130938Z" creationid="Dick" creationdate="20211118T130938Z">
+        <seg>Een geldig OmegaT-project moet aanwezig zijn om OmegaT uit te kunnen voeren in de modus Opdrachtregel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To run OmegaT, a valid OmegaT project must be available.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T165450Z">
@@ -60421,6 +60637,14 @@ these rights or asking you to surrender the rights.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T141846Z">
         <seg>Laad de volgende URL in uw browser om OmegaT voor de eerste keer te starten met Java Web Start:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To start OmegaT in console mode, some extra parameters have to be passed to it on startup.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T131315Z" creationid="Dick" creationdate="20211118T131315Z">
+        <seg>Enkele extra parameters moeten bij het starten worden opgegeven om OmegaT in console-modus te starten.</seg>
       </tuv>
     </tu>
     <tu>
