@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.6.0_0_203361b5" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.0_0_8ae1ecfb" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -19680,6 +19680,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dictionaries in OmegaT are based on the StarDict or on the Lingvo DSL format.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T105837Z" creationid="Dick" creationdate="20211118T105837Z">
+        <seg>Woordenboeken in OmegaT zijn gebaseerd op StarDict of op de indeling Lingvo DSL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dictionary</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T192022Z">
@@ -20724,6 +20732,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T133504Z">
         <seg>Download het bestand - het zou een &lt;f0&gt;tarball&lt;/f0&gt;-archief (extensie &lt;e1&gt;tar.bz&lt;/e1&gt; of &lt;e2&gt;tar.bz2&lt;/e2&gt;) moeten zijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download the file - it should be a tarball archive (extension &lt;f0&gt;tar.bz&lt;/f0&gt; or &lt;f1&gt;tar.bz2&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T105951Z" creationid="Dick" creationdate="20211118T105951Z">
+        <seg>Download het bestand - het zou een tarball-archief (extensie &lt;f0&gt;tar.bz&lt;/f0&gt; of &lt;f1&gt;tar.bz2&lt;/f1&gt;) moeten zijn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27387,6 +27403,14 @@ excuse you from the conditions of this License.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T133542Z">
         <seg>Als het &lt;e0&gt;tar.bz&lt;/e0&gt; is, dan bent u vergeten het uit te pakken (untar).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If it is &lt;f0&gt;tar.bz&lt;/f0&gt;, you have forgotten to unpack (untar) it.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T110713Z" creationid="Dick" creationdate="20211118T110713Z">
+        <seg>Als het &lt;f0&gt;tar.bz&lt;/f0&gt; is, dan bent u vergeten het uit te pakken (untar).</seg>
       </tuv>
     </tu>
     <tu>
@@ -56089,6 +56113,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There should be three files, with extensions &lt;f2&gt;dz, idx &lt;/f2&gt;and &lt;f3&gt;ifo&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T110640Z" creationid="Dick" creationdate="20211118T110640Z">
+        <seg>Er zouden drie bestanden moeten zijn, met de extensies &lt;f2&gt;dz, idx &lt;/f2&gt;en &lt;f3&gt;ifo&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There was an error initializing LanguageTool.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170104T180700Z" creationid="Dirk" creationdate="20170104T180700Z">
@@ -61912,6 +61944,14 @@ Opdrachten:
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T162535Z">
         <seg>Gebruik deze mogelijkheid in de gevallen dat u één of meer componenten heeft losgemaakt, verplaatst of verborgen en u ze niet terug kan krijgen op de manier die u wilt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use untar utility (or its equivalent, for instance&lt;f0&gt; winrar&lt;/f0&gt; in Windows) to extract its contents into the &lt;f1&gt;dictionary&lt;/f1&gt; project folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T110558Z" creationid="Dick" creationdate="20211118T110558Z">
+        <seg>Gebruik untar (of iets soortgelijks, bijvoorbeeld&lt;f0&gt; winrar&lt;/f0&gt; in Windows) om de inhoud uit te pakken naar de projectmap &lt;f1&gt;dictionary&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
