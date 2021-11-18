@@ -6855,8 +6855,8 @@ Bekijk "Hoofdstuk 3.</seg>
       <tuv lang="en">
         <seg>&lt;g0&gt;Search in Project&lt;/g0&gt;: check &lt;g1&gt;Memory&lt;/g1&gt; to include the project memory (&lt;f2&gt;project_save.tmx&lt;/f2&gt; file) in the search.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20211118T141646Z" creationid="Dick" creationdate="20211118T141542Z">
-        <seg>&lt;g0&gt;Zoeken in project&lt;/g0&gt;: selecteer &lt;g1&gt;Geheugen&lt;/g1&gt; om het vertaalgeheugen van het project (bestand project_save.tmx) op te nemen in de zoekactie.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T142234Z" creationid="Dick" creationdate="20211118T141542Z">
+        <seg>&lt;g0&gt;Zoeken in project&lt;/g0&gt;: selecteer &lt;g1&gt;Geheugen&lt;/g1&gt; om het vertaalgeheugen van het project (bestand &lt;f2&gt;project_save.tmx&lt;/f2&gt;) op te nemen in de zoekactie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60189,8 +60189,8 @@ computer or modifying a private copy.</seg>
       <tuv lang="en">
         <seg>To access &lt;f0&gt;Configuration.properties&lt;/f0&gt;, right-click on &lt;f1&gt;OmegaT.app&lt;/f1&gt; and select "Show Package Contents", then open the file in &lt;f2&gt;Contents/Resources&lt;/f2&gt; by right-clicking on it and selecting your text editor of choice.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20190516T140038Z" creationid="Dick" creationdate="20190516T140038Z">
-        <seg>Klik met rechts op &lt;f1&gt;OmegaT.app&lt;/f1&gt; en selecteer "Pakketinhoud weergeven" om toegang te krijgen tot &lt;f0&gt;Configuration.properties&lt;/f0&gt;, en open dan het bestand &lt;f2&gt;Contents/Resources&lt;/f2&gt; door er met rechts op te klikken en selecteer de tekstverwerker van uw keuze.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T142449Z" creationid="Dick" creationdate="20190516T140038Z">
+        <seg>Klik met rechts, om toegang te krijgen tot &lt;f0&gt;Configuration.properties&lt;/f0&gt;, op &lt;f1&gt;OmegaT.app&lt;/f1&gt; en selecteer "Pakketinhoud weergeven", en open dan het bestand &lt;f2&gt;Contents/Resources&lt;/f2&gt; door er met rechts op te klikken en selecteer de tekstverwerker van uw keuze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60495,8 +60495,8 @@ computer or modifying a private copy.</seg>
       <tuv lang="en">
         <seg>To come back to the standard mode "&lt;g2&gt;Cursor lock on&lt;/g2&gt;", press &lt;k3&gt;F2&lt;/k3&gt; again.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dirk" changedate="20160911T095025Z" creationid="Dirk" creationdate="20160911T095025Z">
-        <seg>Druk opnieuw op  &lt;k3&gt;F2&lt;/k3&gt; om terug te gaan naar de standaard modus "&lt;g2&gt;Cursor vastgezet&lt;/g2&gt;",.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T142540Z" creationid="Dirk" creationdate="20160911T095025Z">
+        <seg>Druk opnieuw op &lt;k3&gt;F2&lt;/k3&gt; om terug te gaan naar de standaard modus "&lt;g2&gt;Cursor vastgezet&lt;/g2&gt;".</seg>
       </tuv>
     </tu>
     <tu>
@@ -60631,8 +60631,8 @@ computer or modifying a private copy.</seg>
       <tuv lang="en">
         <seg>To display the &lt;g0&gt;Autocompletion&lt;/g0&gt; contextual menu for the glossary matches, hit the OS dependant key (&lt;k1&gt;Escape&lt;/k1&gt; for macOS, &lt;k2&gt;Ctrl+Space&lt;/k2&gt; for the other platforms).</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20210504T094653Z" creationid="Dick" creationdate="20210504T094653Z">
-        <seg>Druk op de van het besturingssysteem afhankelijke toets (&lt;k1&gt;Escape&lt;/k1&gt; voor macOS, &lt;k2&gt;Ctrl+Spatie&lt;/k2&gt; voor de andere platformen) om het contextmenu voor &lt;g0&gt;Auto-aanvullen&lt;/g0&gt; voor de overeenkomsten van de woordenlijst weer te geven.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20211118T142340Z" creationid="Dick" creationdate="20210504T094653Z">
+        <seg>Druk, om het contextmenu voor &lt;g0&gt;Auto-aanvullen&lt;/g0&gt; voor de overeenkomsten van de woordenlijst weer te geven, op de van het besturingssysteem afhankelijke toets (&lt;k1&gt;Escape&lt;/k1&gt; voor macOS, &lt;k2&gt;Ctrl+Spatie&lt;/k2&gt; voor de andere platformen).</seg>
       </tuv>
     </tu>
     <tu>
