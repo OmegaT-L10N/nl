@@ -15516,6 +15516,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Call to external program was interrupted: {0}</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20220217T105136Z" creationid="Dick" creationdate="20220217T105136Z">
+        <seg>Aanroep naar extern programma werd onderbroken: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Camtasia for Windows</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20130601T175456Z">
@@ -15588,6 +15596,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cannot find GPG executable on the bash $PATH</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20220217T105032Z" creationid="Dick" creationdate="20220217T105032Z">
+        <seg>Kan geen uitvoering voor GPG vinden in de bash $PATH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cannot install</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20150713T070953Z" creationid="Dirk" creationdate="20150713T070953Z">
@@ -15600,6 +15616,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T190310Z">
         <seg>Kan gespecificeerde XML-bestand niet laden!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cannot prepare GPG environment properly</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20220217T105114Z" creationid="Dick" creationdate="20220217T105114Z">
+        <seg>Kan niet correct een omgeving voor GPG voorbereiden</seg>
       </tuv>
     </tu>
     <tu>
@@ -22692,6 +22716,14 @@ Niemand hoort u schreeuwen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error while getting output of external program</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20220217T104947Z" creationid="Dick" creationdate="20220217T104947Z">
+        <seg>Fout bij verkrijgen van uitvoer van extern programma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error while reading MT results</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T123316Z" creationid="Dirk" creationdate="20170914T123316Z">
@@ -23208,6 +23240,14 @@ Gossamer-drempel houdt u tegen
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>External GPG did not return a valid signature; got: {0}</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20220217T105531Z" creationid="Dick" creationdate="20220217T105531Z">
+        <seg>Externe GPG gaf geen geldige handtekening terug; ontving: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External Lin&amp;ks</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T121649Z" creationid="Dirk" creationdate="20170914T121649Z">
@@ -23316,6 +23356,14 @@ Gossamer-drempel houdt u tegen
       </tuv>
       <tuv lang="nl">
         <seg>Externe documentatie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External program failed({1}): {0}</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20220217T105148Z" creationid="Dick" creationdate="20220217T105148Z">
+        <seg>Extern programma mislukt({1}): {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -35632,6 +35680,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Looking for a GPG executable: path {0} from $PATH is not accessible; skipping</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20220217T105325Z" creationid="Dick" creationdate="20220217T105325Z">
+        <seg>Zoeken naar een uitvoerbaar bestand voor GPG: pad {0} van $PATH is niet toegankelijk; overgeslagen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Losing them may affect the project's integrity and your ability to complete a job.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134656Z">
@@ -38087,6 +38143,22 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20180605T081647Z" creationid="DiGro (Dick)" creationdate="20180605T081647Z">
         <seg>Geen .DOCX-bestanden om op te schonen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No GPG executable found; set it in the Git preferences in section "Committing", or define it in the git config gpg.program</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20220217T105502Z" creationid="Dick" creationdate="20220217T105502Z">
+        <seg>Geen uitvoerbaar bestand voor GPG gevonden; stel dat in in de voorkeuren voor Git in het gedeelte "Committing", of definieer het in het git config gpg.program</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No GPG key found for key ID ''{0}''; check or set git config user.signingKey</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20220217T105233Z" creationid="Dick" creationdate="20220217T105233Z">
+        <seg>Geen GPG-sleutel gevonden voor sleutel ID ''{0}''; controleer of stel git config user.signingKey in</seg>
       </tuv>
     </tu>
     <tu>
@@ -63946,6 +64018,14 @@ Opdrachten:
       </tuv>
       <tuv lang="nl">
         <seg>User Product is transferred to the recipient in perpetuity or for a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User canceled signing (no passphrase provided)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20220217T105352Z" creationid="Dick" creationdate="20220217T105352Z">
+        <seg>Gebruiker annuleerde ondertekening (geen passphrase opgegeven)</seg>
       </tuv>
     </tu>
     <tu>
