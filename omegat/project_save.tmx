@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.0_0_8ae1ecfb" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -917,6 +917,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T185444Z">
         <seg>&amp;Afsluiten altijd bevestigen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Apply this font size to dictionary pane</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20220411T152456Z" creationid="Dick" creationdate="20220411T152428Z">
+        <seg>Deze grootte lettertype toepassen voor venster Woordenboek</seg>
       </tuv>
     </tu>
     <tu>
@@ -35768,6 +35776,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MT engine error({0}) {1}</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20220411T152542Z" creationid="Dick" creationdate="20220411T152542Z">
+        <seg>MT-programma fout({0}) {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mac OS X</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131227T165830Z" creationid="Dirk" creationdate="20131227T165830Z">
@@ -35876,6 +35892,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T160351Z">
         <seg>Machinevertaling</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Machine Translate Highlight</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20220411T152614Z" creationid="Dick" creationdate="20220411T152614Z">
+        <seg>Machinevertaling accentuering</seg>
       </tuv>
     </tu>
     <tu>
@@ -47158,6 +47182,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Save origin of &amp;translation</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20220411T152523Z" creationid="Dick" creationdate="20220411T152523Z">
+        <seg>Bron van &amp;vertaling opslaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Save the PDF.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120402T171906Z">
@@ -49580,6 +49612,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T121328Z" creationid="Dirk" creationdate="20170914T121328Z">
         <seg>Grootte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Size on Dictionary pane</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20220411T152440Z" creationid="Dick" creationdate="20220411T152331Z">
+        <seg>Grootte in venster Woordenboek</seg>
       </tuv>
     </tu>
     <tu>
@@ -63104,6 +63144,14 @@ Exacte zoekacties komen overeen met de gehele zoekterm.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unknown/Manual</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20220411T152629Z" creationid="Dick" creationdate="20220411T152629Z">
+        <seg>Onbekend/Handleiding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unlike te-notags, it is possible for the translator to work in this window, then copy and paste the content in full to the OmegaT editor pane.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131226T152149Z" creationid="Dirk" creationdate="20131226T152149Z">
@@ -63504,6 +63552,14 @@ Opdrachten:
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20180313T120939Z" creationid="DiGro (Dick)" creationdate="20180313T120939Z">
         <seg>Gebruik $n om te verwijzen naar de N-e groep.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;Condensed view</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20220411T152304Z" creationid="Dick" creationdate="20220411T152304Z">
+        <seg>&amp;Gecomprimeerde weergave gebruiken</seg>
       </tuv>
     </tu>
     <tu>
