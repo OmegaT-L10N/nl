@@ -3085,6 +3085,35 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- Anthony Baldwin (localisation manager)
+- Vincent Bidaux (documentation manager)
+- Didier Briel (project manager)
+- Alex Buloichik (lead developer)
+- Sabine Cretella
+- Dmitri Gabinski
+- Aaron Madlon-Kay (project manager)
+- Maxym Mykhalchuk (lead developer)
+- Samuel Murray
+- Henry Pijffers (release manager)
+- Marc Prior (project co-ordinator, webmaster)
+- Vito Smolej (documentation manager)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20220817T092444Z" creationid="Dick" creationdate="20220817T092444Z">
+        <seg>- Anthony Baldwin (localisatie-manager)
+- Vincent Bidaux (documentatie-manager)
+- Didier Briel (projectmanager)
+- Alex Buloichik (hoofdontwikkelaar)
+- Sabine Cretella
+- Dmitri Gabinski
+- Maxym Mykhalchuk (hoofdontwikkelaar)
+- Samuel Murray
+- Henry Pijffers (uitgave-manager)
+- Marc Prior (projectcoördinator, webmaster)
+- Vito Smolej (documentatie-manager)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>- Before editing OmegaT.l4J.ini&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170916T103304Z" creationid="DiGro (Dick)" creationdate="20170916T103304Z">
@@ -3313,6 +3342,24 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
       </tuv>
       <tuv lang="nl">
         <seg>- Magento CE Locale CSV (*.csv)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>- Marco Cevoli (Telegram community manager)
+- Jean-Christophe Helary (Twitter community manager)
+- Kos Ivantsof (localisation manager)
+- Concepción Martin (Facebook community manager)
+- Briac Pilpré (webmaster)
+- Lucie Vecerova (Facebook community manager)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20220817T092238Z" creationid="Dick" creationdate="20220817T092238Z">
+        <seg>- Marco Cevoli (manager Telegram gemeenschap)
+- Jean-Christophe Helary (manager Twitter gemeenschap)
+- Kos Ivantsof (localisatie-manager)
+- Concepción Martin (manager Facebook gemeenschap)
+- Briac Pilpré (webmaster)
+- Lucie Vecerova (manager Facebook gemeenschap)</seg>
       </tuv>
     </tu>
     <tu>
@@ -33895,6 +33942,14 @@ zelf bij de eerste keer dat het wordt uitgevoerd.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20180605T081253Z" creationid="DiGro (Dick)" creationdate="20180605T081253Z">
         <seg>Jean-Christophe Helary (eigenaar ondersteuningsgroep, localisatiemanager)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Jean-Christophe Helary is the OmegaT project manager.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20220817T081822Z" creationid="Dick" creationdate="20220817T081822Z">
+        <seg>Jean-Christophe Helary is de OmegaT project manager.</seg>
       </tuv>
     </tu>
     <tu>
