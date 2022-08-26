@@ -1297,6 +1297,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Export TMs</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20220826T170132Z" creationid="Dick" creationdate="20220826T170132Z">
+        <seg>TM's &amp;exporteren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;File</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110926T165743Z">
@@ -23259,6 +23267,22 @@ Gossamer-drempel houdt u tegen
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T131803Z">
         <seg>Selectie exporteren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Export Translation Memory Files Folder</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20220826T170443Z" creationid="Dick" creationdate="20220826T170443Z">
+        <seg>Map voor exporteren van bestanden van vertaalgeheugens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Export Translation Memory Folder:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20220826T170337Z" creationid="Dick" creationdate="20220826T170315Z">
+        <seg>Map voor exporteren van vertaalgeheugen::</seg>
       </tuv>
     </tu>
     <tu>
@@ -45753,6 +45777,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remote project file lacks git setting.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20220826T170203Z" creationid="Dick" creationdate="20220826T170203Z">
+        <seg>Projectbestand op afstand heeft geen instelling voor git.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remote repository network communication error: {0}</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20180920T170431Z" creationid="DiGro (Dick)" creationdate="20180920T170431Z">
@@ -51529,6 +51561,22 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T123238Z" creationid="Dirk" creationdate="20170914T123238Z">
         <seg>Opties overeenkomsten TM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TMX Level 1</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20220826T170355Z" creationid="Dick" creationdate="20220826T170355Z">
+        <seg>TMX Niveau 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TMX Level 2</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20220826T170406Z" creationid="Dick" creationdate="20220826T170406Z">
+        <seg>TMX Niveau 2</seg>
       </tuv>
     </tu>
     <tu>
@@ -59596,6 +59644,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This may be intentional, but likely an oversight.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20220826T170241Z" creationid="Dick" creationdate="20220826T170241Z">
+        <seg>Dit zou met opzet kunnen zijn, maar is waarschijnlijk vergeten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This means for instance that you do not need to exit a project you are currently working on if you decide to add another ancillary TM to it: you simply reload the project, and the changes you have made will be included.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T173643Z">
@@ -62401,6 +62457,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T173757Z">
         <seg>Vertaalgeheugens kunnen ook vertaalgeheugens als verwijzingen bevatten: meertalige wetgeving, zoals van de Europese Gemeenschap is daarvan een typisch voorbeeld.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation memories to export:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20220826T170332Z" creationid="Dick" creationdate="20220826T170332Z">
+        <seg>Te exporteren vertaalgeheugens:</seg>
       </tuv>
     </tu>
     <tu>
