@@ -19659,6 +19659,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Custom branch</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20220826T170611Z" creationid="Dick" creationdate="20220826T170611Z">
+        <seg>Aangepaste tak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Custom colours...</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T162154Z">
@@ -19839,6 +19847,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T191714Z">
         <seg>Standaard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Default branch</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20220826T170604Z" creationid="Dick" creationdate="20220826T170604Z">
+        <seg>Standaard tak</seg>
       </tuv>
     </tu>
     <tu>
@@ -23299,6 +23315,22 @@ Gossamer-drempel houdt u tegen
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120402T171857Z">
         <seg>Exporteer de tekst vanuit de PDF naar Infix's XML-indeling met Document &gt; Translate &gt; Export XML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Export translation memory folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20220826T170516Z" creationid="Dick" creationdate="20220826T170516Z">
+        <seg>Ingevoerde map voor exporteren van vertaalgeheugens bestaat niet!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Export translation memory folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20220826T170546Z" creationid="Dick" creationdate="20220826T170546Z">
+        <seg>Map voor exporteren van vertaalgeheugens {0} bestaat niet.</seg>
       </tuv>
     </tu>
     <tu>
