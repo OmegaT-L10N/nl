@@ -47871,6 +47871,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See /docs/libraries.txt</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20220831T144310Z" creationid="Dick" creationdate="20220831T144310Z">
+        <seg>Bekijk /docs/libraries.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;e2&gt;Translation editing&lt;/e2&gt; for more details.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T175256Z">
