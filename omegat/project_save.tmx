@@ -3876,6 +3876,16 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--config-dir=&lt;path&gt;
+	  The folder used to read or write OmegaT configuration files.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221214T144040Z" creationid="Dick" creationdate="20221214T144040Z">
+        <seg>--config-dir=&lt;pad&gt;
+	  De map die wordt gebruikt voor het lezen of schrijven naar Omegat confoguratie-bestanden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--config-file=/path/to/config-file/ \</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142453Z" creationid="Dirk" creationdate="20160910T142453Z">
@@ -3956,6 +3966,16 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T143748Z" creationid="Dick" creationdate="20190516T143748Z">
         <seg>--mode=&lt;p3&gt;console-translate|console-createpseudotranslatetmx|console-align&lt;/p3&gt; \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=[console mode name]
+	  Specify a mode other than the GUI default.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221214T144218Z" creationid="Dick" creationdate="20221214T144218Z">
+        <seg>--mode=[console mode name]
+	  Specificeer een andere modus dan de standaard GUI.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4098,6 +4118,16 @@ en laad het project.</seg>
 		Een Java .properties-bestand om te gebruiken voor de tekst van de interface
 	--config-dir=&lt;pad&gt;
 		De map van waaruit/waarnaar configuratiebestanden van OmegaT moeten worden geschreven/gelezen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--resource-bundle=&lt;path&gt;
+	  A Java .properties file to use for the interface text.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221214T144119Z" creationid="Dick" creationdate="20221214T144119Z">
+        <seg>--resource-bundle=&lt;pad&gt;
+	  Een Java .properties-bestand om te gebruiken voor de tekst van de interface..</seg>
       </tuv>
     </tu>
     <tu>
