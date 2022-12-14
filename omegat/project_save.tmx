@@ -3830,6 +3830,20 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--ITokenizer=&lt;classname&gt;
+	--ITokenizerTarget=&lt;classname&gt;
+	  Source- or target-language tokenizer to use (overrides project
+	  settings).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221214T143834Z" creationid="Dick" creationdate="20221214T143834Z">
+        <seg>--ITokenizer=&lt;klassenaam&gt;
+	--ITokenizerTarget=&lt;klassenaam&gt;
+	Bron- of doeltaal tokenizer die moet worden gebruikt (overschrijft de project-
+	instellingen)..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--alignDir=&lt;p0&gt;&lt;location of translated files&gt;&lt;/p0&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T160225Z" creationid="Dick" creationdate="20190516T160225Z">
@@ -3888,6 +3902,16 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--config-file=&lt;path&gt;
+	  A Java .properties file from which to load default settings.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221214T143915Z" creationid="Dick" creationdate="20221214T143915Z">
+        <seg>--config-file=&lt;pad&gt;
+	Een Java .properties-bestand van waaruit de standaard instellingen moeten worden geladen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--disable-location-save
 		Do not remember the last directory opened in the file picker.</seg>
       </tuv>
@@ -3898,12 +3922,32 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--disable-location-save
+	  Do not remember the last folder opened in the file picker.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221214T143755Z" creationid="Dick" creationdate="20221214T143755Z">
+        <seg>--disable-location-save
+	Onthoud niet de laatste map die werd geopend in de bestandskeuze..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--disable-project-locking
 		Do not attempt to lock the project's omegat.project file.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T173834Z" creationid="Dirk" creationdate="20160906T150957Z">
         <seg>--disable-project-locking
 		Probeer niet het omegat.project-bestand van het project te vergrendelen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--disable-project-locking
+	  Do not attempt to lock the omegat.project file.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221214T143736Z" creationid="Dick" creationdate="20221214T143736Z">
+        <seg>--disable-project-locking
+	Probeer niet het omegat.project-bestand van het project te vergrendelen..</seg>
       </tuv>
     </tu>
     <tu>
@@ -28286,6 +28330,16 @@ excuse you from the conditions of this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If invoked in a git working tree or svn checkout, the results
+	  will be staged/added.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221214T143644Z" creationid="Dick" creationdate="20221214T143644Z">
+        <seg>Indien geactiveerd in een werkende omgeving (tak) van GIT of SVN checkout, zullen de resultaten
+	worden opgeslagen/toegevoegd..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T125205Z" creationid="Dirk" creationdate="20170914T125205Z">
@@ -32179,6 +32233,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>Informatie over procedures en mogelijkheden van OmegaT voor gevorderde gebruikers die op andere sites kunnen worden gevonden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Initialize a minimal team project with the specified languages.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221214T143529Z" creationid="Dick" creationdate="20221214T143529Z">
+        <seg>Initialiseer een minimaal teamproject met de gespecificeerde talen..</seg>
       </tuv>
     </tu>
     <tu>
