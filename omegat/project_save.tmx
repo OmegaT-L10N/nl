@@ -38442,6 +38442,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No option: Launch GUI.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221214T143042Z" creationid="Dick" creationdate="20221214T143042Z">
+        <seg>Geen optie: Gebruikersinterface starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No project loaded.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20180605T081436Z" creationid="DiGro (Dick)" creationdate="20180605T081436Z">
@@ -40780,6 +40788,14 @@ be launched.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T110801Z">
         <seg>OmegaT op het web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT options:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221214T143014Z" creationid="Dick" creationdate="20221214T143014Z">
+        <seg>Opties voor OmegaT:</seg>
       </tuv>
     </tu>
     <tu>
@@ -44801,6 +44817,14 @@ lokaal project zonder functionaliteit voor team.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project path only: Launch GUI and load specified project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221214T143141Z" creationid="Dick" creationdate="20221214T143141Z">
+        <seg>Alleen vor projectpad: Gebruikersinterface starten en gespecificeerd project laden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project properties</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T162739Z">
@@ -48043,6 +48067,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20200725T120742Z" creationid="Dick" creationdate="20200725T120742Z">
         <seg>Bekijk &lt;u0&gt;https://en.wikipedia.org/wiki/Stemming&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Help &gt; User Guide for details, including available Java options.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221214T142950Z" creationid="Dick" creationdate="20221214T142950Z">
+        <seg>Bekijk Help &gt; Gebruikershandleiding voor meer details, inclusief Java-opties..</seg>
       </tuv>
     </tu>
     <tu>
@@ -63695,6 +63727,14 @@ Commands:
 Opdrachten:
 	-h, --help
 		Informatie over gebruik weergeven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Usage: java -jar [&lt;java options&gt;] OmegaT.jar [&lt;OmegaT options&gt;] [&lt;project path&gt;]</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221214T142914Z" creationid="Dick" creationdate="20221214T142914Z">
+        <seg>Gebruik: java -jar [&lt;java-opties&gt;] OmegaT.jar [&lt;OmegaT-opties&gt;] [&lt;projectpad&gt;]</seg>
       </tuv>
     </tu>
     <tu>
