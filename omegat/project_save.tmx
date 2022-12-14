@@ -3976,6 +3976,16 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--no-team
+	  Disable team project functionality.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221214T143347Z" creationid="Dick" creationdate="20221214T143347Z">
+        <seg>--no-team
+	 Schakel functionaliteit voor teamproject uit..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--output-tag-validation-={regexp}</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142611Z">
@@ -4018,6 +4028,18 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
         <seg>--remote-project
 		Download een omegat.project-bestand vanaf de URL die is opgegeven als &lt;projectpad&gt;
 en laad het project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--remote-project
+	  Download an omegat.project file from the URL given as &lt;project
+	  path&gt; and load the project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221214T143319Z" creationid="Dick" creationdate="20221214T143319Z">
+        <seg>--remote-project
+	Download een Omegat.project-bestand vanaf de URL die is opgegeven als &lt;projectpad&gt;
+                  en laad het project..</seg>
       </tuv>
     </tu>
     <tu>
@@ -4158,6 +4180,16 @@ en laad het project.</seg>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T150500Z" creationid="Dirk" creationdate="20160906T150229Z">
         <seg>-h, --help
 		Informatie over gebruik weergeven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>-h, --help
+	  Print this help message.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221214T143205Z" creationid="Dick" creationdate="20221214T143205Z">
+        <seg>-h, --help
+	 Dit bericht van Help afdrukken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78471,6 +78503,16 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131226T150833Z" creationid="Dirk" creationdate="20131226T150833Z">
         <seg>te-warning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>team init &lt;source language&gt; &lt;target language&gt;
+	  Team project tool.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221214T143502Z" creationid="Dick" creationdate="20221214T143502Z">
+        <seg>team init &lt;brontaal&gt; &lt;doeltaal&gt;
+	  Gereedschap voor Team-project..</seg>
       </tuv>
     </tu>
     <tu>
