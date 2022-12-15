@@ -3835,11 +3835,11 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
 	  Source- or target-language tokenizer to use (overrides project
 	  settings).</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20221214T143834Z" creationid="Dick" creationdate="20221214T143834Z">
+      <tuv lang="nl" changeid="Dick" changedate="20221215T150000Z" creationid="Dick" creationdate="20221214T143834Z">
         <seg>--ITokenizer=&lt;klassenaam&gt;
 	--ITokenizerTarget=&lt;klassenaam&gt;
 	Bron- of doeltaal tokenizer die moet worden gebruikt (overschrijft de project-
-	instellingen)..</seg>
+	instellingen).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3935,9 +3935,9 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
         <seg>--disable-location-save
 	  Do not remember the last folder opened in the file picker.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20221214T143755Z" creationid="Dick" creationdate="20221214T143755Z">
+      <tuv lang="nl" changeid="Dick" changedate="20221215T145956Z" creationid="Dick" creationdate="20221214T143755Z">
         <seg>--disable-location-save
-	Onthoud niet de laatste map die werd geopend in de bestandskeuze..</seg>
+	Onthoud niet de laatste map die werd geopend in de bestandskeuze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4006,10 +4006,34 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-createpseudotranslatetmx
+	  --pseudotranslatetmx=&lt;path&gt;
+	    The output pseudotranslated TMX file.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221215T150204Z" creationid="Dick" creationdate="20221215T150204Z">
+        <seg>--mode=console-createpseudotranslatetmx
+	  --pseudotranslatetmx=&lt;pad&gt;
+	    Het uitgevoerde pseudovertaalde TMX-bestand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-translate</seg>
       </tuv>
       <tuv lang="nl">
         <seg>--mode=console-translate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-translate
+	  --source-pattern=&lt;pattern&gt;
+	    A regex whitelist of source files to process.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221215T150123Z" creationid="Dick" creationdate="20221215T150123Z">
+        <seg>--mode=console-translate
+	  --source-pattern=&lt;pattroon&gt;
+	    Een regex whitelist van te verwerken bronbestanden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4043,9 +4067,9 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
         <seg>--no-team
 	  Disable team project functionality.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20221214T143347Z" creationid="Dick" creationdate="20221214T143347Z">
+      <tuv lang="nl" changeid="Dick" changedate="20221215T145927Z" creationid="Dick" creationdate="20221214T143347Z">
         <seg>--no-team
-	 Schakel functionaliteit voor teamproject uit..</seg>
+	 Schakel functionaliteit voor teamproject uit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4100,10 +4124,10 @@ en laad het project.</seg>
 	  Download an omegat.project file from the URL given as &lt;project
 	  path&gt; and load the project.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20221214T143319Z" creationid="Dick" creationdate="20221214T143319Z">
+      <tuv lang="nl" changeid="Dick" changedate="20221215T145932Z" creationid="Dick" creationdate="20221214T143319Z">
         <seg>--remote-project
 	Download een Omegat.project-bestand vanaf de URL die is opgegeven als &lt;projectpad&gt;
-                  en laad het project..</seg>
+                  en laad het project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17897,6 +17921,14 @@ OmegaT gebruikt de volgende bibliotheken:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Console mode names and their options:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221215T150050Z" creationid="Dick" creationdate="20221215T150050Z">
+        <seg>Namen voor modi van de console en hun opties:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Console-align mode:
 	--alignDir=&lt;path&gt;
 		A directory containing the translated files.</seg>
@@ -28363,9 +28395,9 @@ excuse you from the conditions of this License.</seg>
         <seg>If invoked in a git working tree or svn checkout, the results
 	  will be staged/added.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20221214T143644Z" creationid="Dick" creationdate="20221214T143644Z">
+      <tuv lang="nl" changeid="Dick" changedate="20221215T145911Z" creationid="Dick" creationdate="20221214T143644Z">
         <seg>Indien geactiveerd in een werkende omgeving (tak) van GIT of SVN checkout, zullen de resultaten
-	worden opgeslagen/toegevoegd..</seg>
+	worden opgeslagen/toegevoegd.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32269,8 +32301,8 @@ parts of the aggregate.</seg>
       <tuv lang="en">
         <seg>Initialize a minimal team project with the specified languages.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20221214T143529Z" creationid="Dick" creationdate="20221214T143529Z">
-        <seg>Initialiseer een minimaal teamproject met de gespecificeerde talen..</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20221215T145916Z" creationid="Dick" creationdate="20221214T143529Z">
+        <seg>Initialiseer een minimaal teamproject met de gespecificeerde talen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48197,8 +48229,8 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       <tuv lang="en">
         <seg>See Help &gt; User Guide for details, including available Java options.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20221214T142950Z" creationid="Dick" creationdate="20221214T142950Z">
-        <seg>Bekijk Help &gt; Gebruikershandleiding voor meer details, inclusief Java-opties..</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20221215T145946Z" creationid="Dick" creationdate="20221214T142950Z">
+        <seg>Bekijk Help &gt; Gebruikershandleiding voor meer details, inclusief Java-opties.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78602,9 +78634,9 @@ create its configuration folder.</seg>
         <seg>team init &lt;source language&gt; &lt;target language&gt;
 	  Team project tool.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20221214T143502Z" creationid="Dick" creationdate="20221214T143502Z">
+      <tuv lang="nl" changeid="Dick" changedate="20221215T145921Z" creationid="Dick" creationdate="20221214T143502Z">
         <seg>team init &lt;brontaal&gt; &lt;doeltaal&gt;
-	  Gereedschap voor Team-project..</seg>
+	  Gereedschap voor Team-project.</seg>
       </tuv>
     </tu>
     <tu>
