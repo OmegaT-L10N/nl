@@ -4155,6 +4155,16 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--quiet
+	  Reduce output to command line stdout.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221215T150657Z" creationid="Dick" creationdate="20221215T150657Z">
+        <seg>--quiet
+	  Beperk de uitvoer tot de stdout van de opdrachtregel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--remote-project
 		Download an omegat.project file from the URL given as &lt;project
 		path&gt; and load the project.</seg>
@@ -4213,6 +4223,16 @@ en laad het project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--script=&lt;path&gt;
+	  A script file to be executed on project events.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221215T150744Z" creationid="Dick" creationdate="20221215T150721Z">
+        <seg>--script=&lt;pad&gt;
+	  Een scriptbestand dat moet worden uitgevoerd bij gebeurtenissen van het project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--source-pattern=&lt;p0&gt;regexp&lt;/p0&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T160346Z" creationid="Dick" creationdate="20190516T160346Z">
@@ -4261,6 +4281,16 @@ en laad het project.</seg>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T151409Z" creationid="Dirk" creationdate="20160906T151322Z">
         <seg>--tag-validation=[abort|warn]
 		Tags valideren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--tag-validation=[abort|warn]
+	  Validate tags.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221215T150737Z" creationid="Dick" creationdate="20221215T150737Z">
+        <seg>--tag-validation=[abort|warn]
+	  Tags valideren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17982,6 +18012,14 @@ OmegaT gebruikt de volgende bibliotheken:
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221215T150050Z" creationid="Dick" creationdate="20221215T150050Z">
         <seg>Namen voor modi van de console en hun opties:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Console only options:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221215T150633Z" creationid="Dick" creationdate="20221215T150633Z">
+        <seg>Opties alleen voor de console:</seg>
       </tuv>
     </tu>
     <tu>
@@ -43586,6 +43624,18 @@ alles in.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Place source files in ./source and supplementary
+material in ./tm, ./glossary, and ./dictionary as required, then commit
+everything.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221215T150915Z" creationid="Dick" creationdate="20221215T150915Z">
+        <seg>Plaats bronbestanden in ./source en aanvullend
+materiaal in ./tm, ./glossary, en ./dictionary zoals vereist, dien daarna
+alles in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Place the archive in any suitable folder and unpack it.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T134041Z" creationid="Dirk" creationdate="20170914T133756Z">
@@ -63966,6 +64016,16 @@ Opdrachten:
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221214T142914Z" creationid="Dick" creationdate="20221214T142914Z">
         <seg>Gebruik: java -jar [&lt;java-opties&gt;] OmegaT.jar [&lt;OmegaT-opties&gt;] [&lt;projectpad&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Usage: team init &lt;source language&gt; &lt;target language&gt;
+	See --help.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221215T150835Z" creationid="Dick" creationdate="20221215T150835Z">
+        <seg>Gebruik: team init &lt;brontaal&gt; &lt;doeltaal&gt;
+	Bekijk --help.</seg>
       </tuv>
     </tu>
     <tu>
