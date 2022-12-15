@@ -3998,6 +3998,18 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-align
+	  --alignDir=&lt;path&gt;
+	    A folder containing the translated files.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221215T150317Z" creationid="Dick" creationdate="20221215T150317Z">
+        <seg>--mode=console-align
+	  --alignDir=&lt;pad&gt;
+	    Een map die de vertaalde documenten bevat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-createpseudotranslatetmx</seg>
       </tuv>
       <tuv lang="nl">
@@ -4014,6 +4026,18 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
         <seg>--mode=console-createpseudotranslatetmx
 	  --pseudotranslatetmx=&lt;pad&gt;
 	    Het uitgevoerde pseudovertaalde TMX-bestand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-stats
+	  project_path
+	    The path to the project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221215T150330Z" creationid="Dick" creationdate="20221215T150330Z">
+        <seg>--mode=console-stats
+	  project_path
+	    Het pad naar het project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4074,6 +4098,19 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--output-file=[stats-output-file]
+	    Prints to the specified file, or to standard output
+	    if no file is given or the option is not used.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221215T150509Z" creationid="Dick" creationdate="20221215T150509Z">
+        <seg>--output-file=[stats-output-file]
+	    Drukt af naar het gespecificeerde bestand, of naar de standaard
+              uitvoer als geen bestand is opgegeven of de optie wordt niet
+              gebruikt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--output-tag-validation-={regexp}</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142611Z">
@@ -4104,6 +4141,16 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
       <tuv lang="nl" changeid="Dirk" changedate="20160906T151725Z" creationid="Dirk" creationdate="20160906T151725Z">
         <seg>--pseudotranslatetype=[equal|empty]
 		Waarmee de pseudovertaalde TMX moet worden gevuld.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--pseudotranslatetype=[equal|empty]
+	    What to put in the pseudotranslated TMX.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221215T150240Z" creationid="Dick" creationdate="20221215T150240Z">
+        <seg>--pseudotranslatetype=[equal|empty]
+	    Wat moet in de pseudovertaalde TMX geplaatst.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4194,6 +4241,16 @@ en laad het project.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>--source-pattern={regexp} \</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--stats-type=[xml|text|txt|json]
+	    Specifies the output format.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221215T150528Z" creationid="Dick" creationdate="20221215T150528Z">
+        <seg>--stats-type=[xml|text|txt|json]
+	    Specificeert de indeling voor de uitvoer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20037,6 +20094,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Defaults to xml.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221215T150620Z" creationid="Dick" creationdate="20221215T150620Z">
+        <seg>Standaard XML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Define the paragraph tags, in this case by changing the line:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T150545Z" creationid="Dirk" creationdate="20131225T150545Z">
@@ -27830,6 +27895,16 @@ menu, a prominent item in the list meets this criterion.</seg>
         <seg>If
 the interface presents a list of user commands or options, such as a
 menu, a prominent item in the list meets this criterion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If --stats-type is not specified, the format is
+	    detected from the file extension.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221215T150547Z" creationid="Dick" creationdate="20221215T150547Z">
+        <seg>If --stats-type is not specified, the format is
+	    gedetecteerd vanuit de bestandsextensie.</seg>
       </tuv>
     </tu>
     <tu>
