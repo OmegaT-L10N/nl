@@ -47236,6 +47236,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Run OmegaT" in the user guide.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T130916Z" creationid="Dick" creationdate="20221218T130916Z">
+        <seg>OmegaT uitvoeren" in de gebrukershandleiding.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Run script on slot #{0}.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120103T175540Z">
@@ -48196,6 +48204,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170914T161017Z" creationid="DiGro (Dick)" creationdate="20170914T161017Z">
         <seg>Zie "Hoofdstuk 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See "How To...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T130755Z" creationid="Dick" creationdate="20221218T130755Z">
+        <seg>Bekijk "How To...</seg>
       </tuv>
     </tu>
     <tu>
@@ -60899,6 +60915,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To add files to the project you can:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T131034Z" creationid="Dick" creationdate="20221218T131034Z">
+        <seg>U kunt, om bestanden toe te voegen aan het project:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To add new terms to reference glossaries, edit them in an external text editor.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210504T093539Z" creationid="Dick" creationdate="20210504T093539Z">
@@ -64066,6 +64090,18 @@ Opdrachten:
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T130912Z">
         <seg>Gebruiken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" from the command 
+line or in the OmegaT start script;
+The current setting is {0}MB;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T130747Z" creationid="Dick" creationdate="20221218T130747Z">
+        <seg>Gebruik "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" vanaf de
+opdrachtregel of in het OmegaT startscript;
+De huidige instelling is {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
@@ -69150,6 +69186,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T185147Z">
         <seg>Uw project bevat geen bestanden in een formaat dat ondersteund wordt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your project does not seem to contain translatable files.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T131000Z" creationid="Dick" creationdate="20221218T131000Z">
+        <seg>Uw project lijkt geen vertaalbare bestanden te bevatten.</seg>
       </tuv>
     </tu>
     <tu>
