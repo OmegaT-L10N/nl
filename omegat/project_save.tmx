@@ -24559,6 +24559,14 @@ Gossamer-drempel houdt u tegen
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Files containing formatting (ODF, HTML, or other documents) are divided at block-level (paragraph) tags.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T141242Z" creationid="Dick" creationdate="20221218T141242Z">
+        <seg>Bestanden die opmaak bevatten (ODF, HTML en andere documenten) worden gesegmenteerd op het blokniveau van (alinea)tags.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Files in Microsoft Office XML format can be translated directly in OmegaT.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131226T153955Z" creationid="Dirk" creationdate="20131226T153955Z">
@@ -50119,6 +50127,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sentence-level segmentation</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T141316Z" creationid="Dick" creationdate="20221218T141316Z">
+        <seg>Segmentatie op niveau van de zin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Separate different patterns with a semicolon.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20200725T115517Z" creationid="Dick" creationdate="20200725T115517Z">
@@ -63423,6 +63439,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T132511Z">
         <seg>TransTips/Transtips inschakelen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translatable object attributes in XHTML or HTML files can be extracted as separate "paragraphs".</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T141307Z" creationid="Dick" creationdate="20221218T141307Z">
+        <seg>Vertaalbare object-attributen in XHTML of HTML-bestanden kunnen als afzonderlijke "alinea's" worden uitgenomen.</seg>
       </tuv>
     </tu>
     <tu>
