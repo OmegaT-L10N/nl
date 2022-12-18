@@ -39498,6 +39498,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Not using &lt;e0&gt;sentence&lt;/e0&gt; segmentation on a document is equivalent to using &lt;e1&gt;paragraph&lt;/e1&gt; segmentation.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T140414Z" creationid="Dick" creationdate="20221218T140414Z">
+        <seg>Niet gebruiken van &lt;e0&gt;zin-&lt;/e0&gt; segmentatie voor een document is hetzelfde als het gebruiken van &lt;e1&gt;alinea-&lt;/e1&gt; segmentatie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Notarized vs Unsigned</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210504T100041Z" creationid="Dick" creationdate="20210504T100041Z">
@@ -43823,6 +43831,14 @@ Verdwenen als mist.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20190418T092605Z" creationid="DiGro (Dick)" creationdate="20190418T092605Z">
         <seg>Indeling alinea-scheiding:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paragraph or sentence?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T140010Z" creationid="Dick" creationdate="20221218T140005Z">
+        <seg>Alinea of zin?</seg>
       </tuv>
     </tu>
     <tu>
@@ -49443,6 +49459,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T185937Z">
         <seg>Segmenten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segments are by default &lt;e0&gt;paragraphs&lt;/e0&gt; defined by the file format itself.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T140314Z" creationid="Dick" creationdate="20221218T140314Z">
+        <seg>Segmenten zijn standaard &lt;e0&gt;alinea's&lt;/e0&gt;, gedefinieerd door de indeling van het bestand zelf.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65249,6 +65273,14 @@ De huidige instelling is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the &lt;l0/&gt; project property to select the type of segmentation.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T140231Z" creationid="Dick" creationdate="20221218T140231Z">
+        <seg>Gebruik de &lt;l0/&gt; projecteigenschappn om het type segmentatie te selecteren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the Iceni Infix filter.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T132001Z" creationid="Dirk" creationdate="20170914T132001Z">
@@ -66717,6 +66749,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T114058Z">
         <seg>Wanneer een enkel bestand meer segmenten heeft dan dit, zullen aanvullende segmenten op aanvraag worden geladen als u scrollt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a translation is entered, the segment containing the source text is stored with its translation in the project memory, and subsequently used to match other source segments in the project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T140158Z" creationid="Dick" creationdate="20221218T140158Z">
+        <seg>Wanneer een vertaling wordt ingevoerd, wordt het segment dat de brontekst bevat, opgeslagen met zijn vertaling in the projectgeheugen, en vervolgens gebruikt voor overeenkomsten met andere bronsegmenten in het project.</seg>
       </tuv>
     </tu>
     <tu>
