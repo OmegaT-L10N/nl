@@ -2041,6 +2041,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Sentence case</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T133131Z" creationid="Dick" creationdate="20221218T133131Z">
+        <seg>&amp;Hoofdletter zin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Sheet Names</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T190650Z">
@@ -2209,6 +2217,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;UPPER CASE</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T133123Z" creationid="Dick" creationdate="20221218T133123Z">
+        <seg>&amp;Hoofdletters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Undo Changes</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T125726Z" creationid="Dirk" creationdate="20170914T125726Z">
@@ -2293,6 +2309,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20150713T070730Z" creationid="Dirk" creationdate="20150713T070730Z">
         <seg>Beschrijfbare &amp;woordenlijst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;lower case</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T133119Z" creationid="Dick" creationdate="20221218T133119Z">
+        <seg>&amp;Kleine letters</seg>
       </tuv>
     </tu>
     <tu>
@@ -19049,6 +19073,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create A&amp;lternative Translation</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T133457Z" creationid="Dick" creationdate="20221218T133457Z">
+        <seg>A&amp;lternatieve vertaling maken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create Alternative Translation</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110504T162911Z">
@@ -32763,6 +32795,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Unicode Control C&amp;haracter</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T133157Z" creationid="Dick" creationdate="20221218T133157Z">
+        <seg>Unicode besturings&amp;teken invoegen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Unicode Control Character</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T160357Z" creationid="Dirk" creationdate="20160906T160357Z">
@@ -35537,10 +35577,26 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Left-to-Right Embedding (LRE U+202&amp;A)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T133243Z" creationid="Dick" creationdate="20221218T133243Z">
+        <seg>Inbedden van Links naar rechts (LRE U+202&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Left-to-Right Embedding (LRE U+202A)</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T160455Z" creationid="Dirk" creationdate="20160906T160455Z">
         <seg>Inbedden van Links naar rechts (LRE U+202A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Left-to-Right Mark (LRM U+200&amp;E)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T133213Z" creationid="Dick" creationdate="20221218T133213Z">
+        <seg>Markering van Links naar rechts (LRM U+200&amp;E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -44387,6 +44443,14 @@ of er nog aanvullende stappen moeten worden uitgevoerd.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pop Directional Formatting (PDF U+202&amp;C)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T133425Z" creationid="Dick" creationdate="20221218T133425Z">
+        <seg>Pop Directionele opmaak toepassen (PDF U+202&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pop Directional Formatting (PDF U+202C)</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T120705Z" creationid="Dirk" creationdate="20170914T120705Z">
@@ -46843,6 +46907,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T133101Z" creationid="Dick" creationdate="20221218T133101Z">
+        <seg>Vervangen…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replaces the current target segment contents with the selected match (the first match is selected by default)</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T162811Z">
@@ -47331,10 +47403,26 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Right-to-Left Embedding (RLE U+202&amp;B)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T133250Z" creationid="Dick" creationdate="20221218T133250Z">
+        <seg>Inbedden van Rechts naar links (RLE U+202&amp;B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Right-to-Left Embedding (RLE U+202B)</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T160846Z" creationid="Dirk" creationdate="20160906T160846Z">
         <seg>Inbedden van Rechts naar links (RLE U+202B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-to-Left Mark (RLM U+200&amp;F)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T133234Z" creationid="Dick" creationdate="20221218T133234Z">
+        <seg>Markering van rechts naar links (RLM U+200&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -47542,6 +47630,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
         <seg>S&amp;witch Case To</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T192133Z">
+        <seg>&amp;Schakel Hoofd-/kleine letters naar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>S&amp;witch Case to</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T133113Z" creationid="Dick" creationdate="20221218T133113Z">
         <seg>&amp;Schakel Hoofd-/kleine letters naar</seg>
       </tuv>
     </tu>
@@ -64541,6 +64637,14 @@ De huidige instelling is {0}MB;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T130413Z" creationid="Dick" creationdate="20190516T123307Z">
         <seg>Gebruik een cliënt voor SVN of Git om de te vertalen bestanden toe te voegen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use as Default Translati&amp;on</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T133448Z" creationid="Dick" creationdate="20221218T133448Z">
+        <seg>A&amp;ls standaard vertaling gebruiken</seg>
       </tuv>
     </tu>
     <tu>
