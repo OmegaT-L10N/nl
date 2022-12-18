@@ -6748,6 +6748,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Sentence segmentation&lt;/e0&gt; relies on a number of rules (called &lt;e1&gt;segmentation rules&lt;/e1&gt;) that define what constitutes a sentence in the source language.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T140904Z" creationid="Dick" creationdate="20221218T140904Z">
+        <seg>&lt;e0&gt;Zin-segmentatie&lt;/e0&gt; vertrouwd op een aantal regels (&lt;e1&gt;segmentatieregels&lt;/e1&gt; genoemd) die definiëren wat een zin samenstelt in de brontaal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Shortcuts customization:&lt;/e0&gt; shortcuts can be customized to your personal preferences</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T125055Z">
@@ -25426,6 +25434,14 @@ freedoms that you received.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, text files may be segmented on line breaks, empty lines, or not at all.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T141145Z" creationid="Dick" creationdate="20221218T141145Z">
+        <seg>Tekstbestanden kunnen bijvoorbeeld gesegmenteerd worden op regeleinden, lege regels of helemaal niet gesegmenteerd worden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, text files may be segmented on line breaks, empty lines, or not be segmented at all.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T171958Z">
@@ -41043,6 +41059,14 @@ OmegaT 4.0, Lees Mij-bestand</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT first parses the text for paragraph-level segmentation.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T141041Z" creationid="Dick" creationdate="20221218T141041Z">
+        <seg>OmegaT parst eerst de tekst voor segmentatie op niveau van de alinea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT first parses the text for structure-level segmentation.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T121525Z" creationid="Dick" creationdate="20211118T121525Z">
@@ -43879,6 +43903,14 @@ Verdwenen als mist.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134305Z">
         <seg>Alineasegmentatie op regeleinden, lege regels of nooit:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paragraph-Level segmentation</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T141026Z" creationid="Dick" creationdate="20221218T141026Z">
+        <seg>Segmentatie op niveau van de alinea</seg>
       </tuv>
     </tu>
     <tu>
@@ -61044,6 +61076,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This process relies only on the structure of the source file to produce segments.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T141125Z" creationid="Dick" creationdate="20221218T141125Z">
+        <seg>Dit proces vertrouwd alleen op de structuur van het bronbestand om de segemnten te maken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.</seg>
       </tuv>
       <tuv lang="nl">
@@ -61144,6 +61184,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131226T131220Z" creationid="Dirk" creationdate="20131226T131220Z">
         <seg>Dit segment kan nu zoals gewenst worden vertaald zonder dat andere items ervan automatisch identiek daaraan gemaakt worden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This setting works well with documents where repetitions or similar sentences are common, such as technical or legal documents.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T141011Z" creationid="Dick" creationdate="20221218T141011Z">
+        <seg>Deze instelling werkt goed met documenten waarin herhalingen of soortgelijke zinnen veel voorkomen, zoals technische of gerechtelijke documenten.</seg>
       </tuv>
     </tu>
     <tu>
