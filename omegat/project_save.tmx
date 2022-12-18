@@ -3807,6 +3807,22 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- verify that their format is supported by OmegaT:
+	  if per-project filter settings are enabled
+	  use Project &gt; Properties... &gt; Local File Filters...,
+	  otherwise use Options &gt; Global File Filters...;
+	- open them in their original application and verify that they are not empty.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T131708Z" creationid="Dick" creationdate="20221218T131708Z">
+        <seg>- verifieer dat hun indeling wordt ondersteund door OmegaT:
+	  ials project-specifieke filterinstellingen zijn ingeschakeld
+	  gebtuik Project &gt; Eigenschappen... &gt; Local File Filters...,
+	  otherwise use Options &gt; Global File Filters...;
+	- open them in their original application and verify that they are not empty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>---- Localization Notes ----</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20140813T171848Z" creationid="Dirk" creationdate="20140813T171848Z">
@@ -29286,6 +29302,14 @@ notice like this when it starts in an interactive mode:</seg>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T142903Z" creationid="DiGro (Dick)" creationdate="20170915T142903Z">
         <seg>If the program does terminal interaction, make it output a short
 notice like this when it starts in an interactive mode:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the project contains files but their content is not displayed here:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T131558Z" creationid="Dick" creationdate="20221218T131558Z">
+        <seg>Als het project wel bestanden bevat, maar hun inhoud wordt hier niet weergegeven:</seg>
       </tuv>
     </tu>
     <tu>
