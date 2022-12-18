@@ -16987,6 +16987,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check whether this is intentional.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T134655Z" creationid="Dick" creationdate="20221218T134655Z">
+        <seg>Controleer of dat met opzet zo is.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check whole project</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T124504Z">
@@ -24123,6 +24131,14 @@ Gossamer-drempel houdt u tegen
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T185927Z">
         <seg>Maken van het project is mislukt!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to create the translated files!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T134418Z" creationid="Dick" creationdate="20221218T134418Z">
+        <seg>Maken van de vertaalde documenten mislukt!</seg>
       </tuv>
     </tu>
     <tu>
@@ -46441,6 +46457,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reload the project now?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T134338Z" creationid="Dick" creationdate="20221218T134338Z">
+        <seg>Het project nu opnieuw laden?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reload your OmegaT project.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120402T172603Z">
@@ -58720,6 +58744,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There are no Git settings in the remote project file.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T134636Z" creationid="Dick" creationdate="20221218T134636Z">
+        <seg>Er staan geen instellingen voor Git in het projectbestand op afstand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There are no local working copies in {0}.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170923T100121Z" creationid="DiGro (Dick)" creationdate="20170923T100121Z">
@@ -63847,6 +63879,14 @@ Exacte zoekacties komen overeen met de gehele zoekterm.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to create the translated files due to missing or damaged tags.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T134453Z" creationid="Dick" creationdate="20221218T134453Z">
+        <seg>Het was niet mogelijk om de vertaalde documenten te maken omdat enkele tags ontbreken of zijn beschadigd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to download team project!</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T161735Z" creationid="Dirk" creationdate="20160906T161735Z">
@@ -64797,6 +64837,14 @@ De huidige instelling is {0}MB;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T132445Z" creationid="Dirk" creationdate="20160910T132445Z">
         <seg>Termen die afzonderlijk in de brontekst verschijnen gebruiken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use Tools &gt; Check Issues... to correct the tag errors and try again.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T134545Z" creationid="Dick" creationdate="20221218T134545Z">
+        <seg>Gebruik Extra &gt; Controleren op problemen… om de fouten in de tags te repareren en probeer het opnieuw.</seg>
       </tuv>
     </tu>
     <tu>
