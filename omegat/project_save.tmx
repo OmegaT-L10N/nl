@@ -1689,6 +1689,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Next Segment with xAUTO</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T133648Z" creationid="Dick" creationdate="20221218T133648Z">
+        <seg>Volge&amp;nde segment met xAUTO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Notes</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T190646Z">
@@ -1765,6 +1773,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T185322Z">
         <seg>&amp;Vorige segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Previous Segment with xAUTO</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T133715Z" creationid="Dick" creationdate="20221218T133715Z">
+        <seg>Vori&amp;ge segment met xAUTO</seg>
       </tuv>
     </tu>
     <tu>
@@ -14577,6 +14593,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-Popu&amp;lated Segments</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T133621Z" creationid="Dick" creationdate="20221218T133621Z">
+        <seg>Automatisch ingevu&amp;lde segmenten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-completer is launched within the target segment via &lt;e0&gt;Ctrl+Space&lt;/e0&gt; shortcut.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T161953Z" creationid="Dirk" creationdate="20160910T161953Z">
@@ -22495,6 +22519,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T122122Z" creationid="Dirk" creationdate="20170914T122122Z">
         <seg>Opties venster Bewerken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Editor Pane</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T133759Z" creationid="Dick" creationdate="20221218T133759Z">
+        <seg>venster Bewerken</seg>
       </tuv>
     </tu>
     <tu>
@@ -36987,6 +37019,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark &amp;Non-Breakable Spaces</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T133852Z" creationid="Dick" creationdate="20221218T133852Z">
+        <seg>&amp;Niet-afbreekbare spaties markeren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark &amp;Non-breakable Spaces</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120327T163940Z">
@@ -38386,6 +38426,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>Māori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>N&amp;ext Segment with xENFORCED</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T133727Z" creationid="Dick" creationdate="20221218T133727Z">
+        <seg>Volge&amp;nde segment met xENFORCED</seg>
       </tuv>
     </tu>
     <tu>
@@ -39854,6 +39902,14 @@ measures.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110926T165403Z">
         <seg>Notities</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notes Pane</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T133757Z" creationid="Dick" creationdate="20221218T133757Z">
+        <seg>venster Notities</seg>
       </tuv>
     </tu>
     <tu>
@@ -43343,6 +43399,14 @@ free programs, and that you know you can do these things.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>P&amp;revious Segment with xENFORCED</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T133752Z" creationid="Dick" creationdate="20221218T133752Z">
+        <seg>Vo&amp;rige segment met xENFORCED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>P&amp;roject Folder</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221218T132801Z" creationid="Dick" creationdate="20221218T132801Z">
@@ -44503,6 +44567,14 @@ of er nog aanvullende stappen moeten worden uitgevoerd.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170916T114939Z" creationid="DiGro (Dick)" creationdate="20170916T114939Z">
         <seg>Krachtige gereedschappen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pre&amp;vious Note</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T133544Z" creationid="Dick" creationdate="20221218T133544Z">
+        <seg>&amp;Vorige notitie</seg>
       </tuv>
     </tu>
     <tu>
@@ -46169,6 +46241,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Register I&amp;dentical Translation</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T133529Z" creationid="Dick" creationdate="20221218T133529Z">
+        <seg>I&amp;dentieke vertaling registreren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Register Identical Translation</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T132040Z">
@@ -46381,6 +46461,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T131213Z" creationid="Dirk" creationdate="20170914T131213Z">
         <seg>Verw&amp;ijderen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remo&amp;ve Translation</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T133513Z" creationid="Dick" creationdate="20221218T133513Z">
+        <seg>Vertaling &amp;verwijderen</seg>
       </tuv>
     </tu>
     <tu>
@@ -49755,6 +49843,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T130108Z" creationid="Dirk" creationdate="20170914T130108Z">
         <seg>Ingesteld &amp; opgeslagen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set Empty Translation</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T133519Z" creationid="Dick" creationdate="20221218T133519Z">
+        <seg>Lege vertaling instellen</seg>
       </tuv>
     </tu>
     <tu>
