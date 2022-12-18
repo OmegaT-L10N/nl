@@ -953,6 +953,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Auto-Completion</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T134050Z" creationid="Dick" creationdate="20221218T134050Z">
+        <seg>&amp;Auto-aanvullen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Auto-propagation of Translations</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20121207T200800Z">
@@ -1165,6 +1173,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20150713T070605Z" creationid="Dirk" creationdate="20150713T070605Z">
         <seg>Woor&amp;denboeken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Dictionary</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T134037Z" creationid="Dick" creationdate="20221218T134037Z">
+        <seg>Woor&amp;denboek</seg>
       </tuv>
     </tu>
     <tu>
@@ -1597,6 +1613,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T192134Z">
         <seg>&amp;Kleine letters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Machine Translation</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T133955Z" creationid="Dick" creationdate="20221218T133955Z">
+        <seg>&amp;Machinevertaling</seg>
       </tuv>
     </tu>
     <tu>
@@ -2285,6 +2309,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20150713T070813Z" creationid="Dirk" creationdate="20150713T070813Z">
         <seg>&amp;Termen die afzonderlijk in de brontekst verschijnen gebruiken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;User Guide...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T134232Z" creationid="Dick" creationdate="20221218T134232Z">
+        <seg>Gebr&amp;uikershandleiding…</seg>
       </tuv>
     </tu>
     <tu>
@@ -11777,6 +11809,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Access &amp;Configuration Folder</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T134208Z" creationid="Dick" creationdate="20221218T134208Z">
+        <seg>Ga naar map voor &amp;configuratie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Access Configurat&amp;ion Folder</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T121229Z" creationid="Dirk" creationdate="20170914T121229Z">
@@ -16527,6 +16567,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170104T175635Z" creationid="Dirk" creationdate="20170104T175635Z">
         <seg>&amp;Huidige document controleren op problemen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check Issues for &amp;Current File</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T133940Z" creationid="Dick" creationdate="20221218T133940Z">
+        <seg>&amp;Huidig document controleren op problemen</seg>
       </tuv>
     </tu>
     <tu>
@@ -26449,6 +26497,22 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Global &amp;Segmentation Rules...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T134158Z" creationid="Dick" creationdate="20221218T134158Z">
+        <seg>Globale &amp;segmentatieregels…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Global File &amp;Filters...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T134143Z" creationid="Dick" creationdate="20221218T134143Z">
+        <seg>Globale bestands&amp;filters…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Global spell checking</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T124543Z">
@@ -27445,6 +27509,22 @@ Het is er wintertijd voor</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T121143Z" creationid="Dirk" creationdate="20170914T121143Z">
         <seg>Geschiedenis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>History &amp;Completion</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T134105Z" creationid="Dick" creationdate="20221218T134105Z">
+        <seg>Ges&amp;chiedenis aanvullen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>History &amp;Prediction</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T134123Z" creationid="Dick" creationdate="20221218T134123Z">
+        <seg>Geschiedenis voors&amp;pelling</seg>
       </tuv>
     </tu>
     <tu>
@@ -37091,6 +37171,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark Gl&amp;ossary Matches</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T133920Z" creationid="Dick" creationdate="20221218T133920Z">
+        <seg>Overeenk&amp;omsten woordenlijst markeren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark Glossary Matches</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20171204T142619Z" creationid="DiGro (Dick)" creationdate="20171204T142619Z">
@@ -41336,6 +41424,14 @@ be launched.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T095124Z">
         <seg>overeenkomst OmegaT, inclusief getallen en tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT needs to reload the project to take the modifications into account.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T134314Z" creationid="Dick" creationdate="20221218T134314Z">
+        <seg>OmegaT moet het project opnieuw laden om de aanpassingen door te voeren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64549,6 +64645,14 @@ De huidige instelling is {0}MB;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20220411T152304Z" creationid="Dick" creationdate="20220411T152304Z">
         <seg>&amp;Gecomprimeerde weergave gebruiken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;Fuzzy Matching</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T134019Z" creationid="Dick" creationdate="20221218T134019Z">
+        <seg>&amp;Fuzzy-overeenkomsten gebruiken</seg>
       </tuv>
     </tu>
     <tu>
