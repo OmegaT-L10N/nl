@@ -3672,6 +3672,21 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- drag and drop files on this pane;
+	- use Project &gt; Add Files...;
+	- use Project &gt; Source Files... and click on Add Files...;
+	- use your file manager to copy files to the 'source' folder,
+	  and then use Project &gt; Reload to reload the project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T131517Z" creationid="Dick" creationdate="20221218T131109Z">
+        <seg>- bestanden slepen en neerzetten in dit venster;
+          - Project &gt; Bestanden naar map Bronbestanden kopiëren gebruiken…;
+          - Project &gt; Bronbestanden… gebruiken en klikken op Bestanden toevoegen…
+          - bestanden kopiëren naar de map 'source' van uw project met uw bestandsbeheerder, en dan het project opnieuw laden met Project &gt; Herladen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>- flexible sentence segmenting (using an SRX-like method)</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T103436Z">
