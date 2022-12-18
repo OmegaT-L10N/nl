@@ -19569,6 +19569,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creating translated files: {0}</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T135141Z" creationid="Dick" creationdate="20221218T135141Z">
+        <seg>Vertaalde documenten maken: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creation date</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20140419T144638Z" creationid="Dirk" creationdate="20140419T144638Z">
@@ -23267,6 +23275,14 @@ Niemand hoort u schreeuwen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error monitoring post-processing commands!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T135510Z" creationid="Dick" creationdate="20221218T135510Z">
+        <seg>Fout bij het monitoren van opdrachten voor nabewerken!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error on application startup</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T192150Z">
@@ -23319,6 +23335,14 @@ Niemand hoort u schreeuwen.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20130310T120650Z">
         <seg>Fout bij begin van externe opdracht: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error starting post-processing commands: {0}</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T135310Z" creationid="Dick" creationdate="20221218T135310Z">
+        <seg>Fout bij het starten van opdracten voor nabewerken: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -23763,6 +23787,14 @@ Gossamer-drempel houdt u tegen
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T122855Z">
         <seg>Uitvoeren van externe opdracht…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Executing post-processing commands...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T135245Z" creationid="Dick" creationdate="20221218T135245Z">
+        <seg>Opdrachten voor nabewerken uitvoeren…</seg>
       </tuv>
     </tu>
     <tu>
@@ -44707,6 +44739,38 @@ of er nog aanvullende stappen moeten worden uitgevoerd.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Post-processing command failed.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T135402Z" creationid="Dick" creationdate="20221218T135402Z">
+        <seg>Opdracht voor nabewerken mislukt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Post-processing commands completed.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T135336Z" creationid="Dick" creationdate="20221218T135336Z">
+        <seg>Opdrachten voor nabewerken voltooid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Post-processing commands failed.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T135348Z" creationid="Dick" creationdate="20221218T135348Z">
+        <seg>Opdrachten voor nabewerken mislukt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Post-processing commands were interrupted.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T135434Z" creationid="Dick" creationdate="20221218T135434Z">
+        <seg>Opdrachten voor nabewerken werden onderbroken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Power Point</seg>
       </tuv>
       <tuv lang="nl">
@@ -63331,6 +63395,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated file created</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T135211Z" creationid="Dick" creationdate="20221218T135211Z">
+        <seg>Vertaald document gemaakt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated file path cannot be identical to the source file path:
 {0}</seg>
       </tuv>
@@ -63345,6 +63417,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T112406Z" creationid="Dick" creationdate="20190516T112351Z">
         <seg>Vertaalde bestandsnaam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated files created</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T135159Z" creationid="Dick" creationdate="20221218T135159Z">
+        <seg>Vertaalde documenten gemaakt</seg>
       </tuv>
     </tu>
     <tu>
