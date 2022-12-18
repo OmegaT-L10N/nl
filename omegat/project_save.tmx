@@ -6620,6 +6620,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Paragraph segmentation&lt;/e0&gt; works well with more literary or creative texts, as well as, more generally, with documents for which translation memory matches are not so important.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T140800Z" creationid="Dick" creationdate="20221218T140800Z">
+        <seg>&lt;e0&gt;Alinea-segmentatie&lt;/e0&gt; werkt zeer goed met meer letterlijke of creatieve teksten, als ook, meer algemeen, met documenten waarvoor overeenkomsten van vertaalgeheugens niet zo belangrijk zijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Power Point&lt;/e0&gt;: slide comments, slide masters, slide layouts</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134334Z">
@@ -32173,6 +32181,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T174009Z">
         <seg>In zulke gevallen wordt een bestaande vertaling, die wordt gevonden in het bestand, opgenomen in &lt;f0&gt;project_save.tmx&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In that case, each paragraph (as defined in the original document format) is displayed as a single segment, and the translator is free to reorganize the sentences within the segment in the translation.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T140610Z" creationid="Dick" creationdate="20221218T140610Z">
+        <seg>In dat geval wordt elke alinea (zoals gedefinieerd in de originele indeling van het document) weergegeven als één enkel segment, en het staat de vertaler vrij om de zinnen binnen het segemnte in de vertaling te herschikken.</seg>
       </tuv>
     </tu>
     <tu>
