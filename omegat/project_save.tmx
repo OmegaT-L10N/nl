@@ -4515,6 +4515,14 @@ en laad het project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1) Reduce the number of files in the source folder;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T130615Z" creationid="Dick" creationdate="20221218T130615Z">
+        <seg>1) Beperk het aantal bestanden in de bronmap;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1) Reduce the number of source files and translate in batches;</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T185020Z">
@@ -4663,6 +4671,14 @@ opdrachtregel of in het OmegaT startscript;
 De huidige instelling is {0}MB;
  
 Bekijk "Hoofdstuk 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>2) Increase the amount of memory available to OmegaT.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T130647Z" creationid="Dick" creationdate="20221218T130647Z">
+        <seg>2) Vergroot het beschikbare geheugen voor OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41101,6 +41117,14 @@ be launched.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT ran out of memory and will close when you click OK.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T130525Z" creationid="Dick" creationdate="20221218T130525Z">
+        <seg>OmegaT kwam geheugen tekort en zal afsluiten als u op OK drukt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T184832Z">
@@ -44184,6 +44208,14 @@ of er nog aanvullende stappen moeten worden uitgevoerd.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T130438Z">
         <seg>Portugees</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Possible solutions:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T130546Z" creationid="Dick" creationdate="20221218T130546Z">
+        <seg>Mogelijke oplossingen:</seg>
       </tuv>
     </tu>
     <tu>
