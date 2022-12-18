@@ -1137,6 +1137,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Current Source File</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T132849Z" creationid="Dick" creationdate="20221218T132849Z">
+        <seg>&amp;Huidig bronbestand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Cycle</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T192137Z">
@@ -1301,6 +1309,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20220826T170132Z" creationid="Dick" creationdate="20220826T170132Z">
         <seg>TM's &amp;exporteren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Exported TMs</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T132831Z" creationid="Dick" creationdate="20221218T132831Z">
+        <seg>&amp;Geëxporteerde TM's</seg>
       </tuv>
     </tu>
     <tu>
@@ -1977,6 +1993,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Search...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T133054Z" creationid="Dick" creationdate="20221218T133054Z">
+        <seg>&amp;Zoeken…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Segment Number...</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T122018Z">
@@ -2253,6 +2277,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T192138Z">
         <seg>&amp;Weergave</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Writable Glossary</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T132930Z" creationid="Dick" creationdate="20221218T132930Z">
+        <seg>Beschrijfbare &amp;woordenlijst</seg>
       </tuv>
     </tu>
     <tu>
@@ -15851,6 +15883,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>C&amp;urrent Target File</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T132915Z" creationid="Dick" creationdate="20221218T132915Z">
+        <seg>H&amp;uidig doelsbestand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>C:\Program Files\apache-ant-1.7.0-bin\apache-ant-1.7.0\bin\ant</seg>
       </tuv>
       <tuv lang="nl">
@@ -19001,10 +19041,26 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create &amp;Translated Files</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T132657Z" creationid="Dick" creationdate="20221218T132657Z">
+        <seg>Ver&amp;taalde documenten maken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create Alternative Translation</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110504T162911Z">
         <seg>Alternatieve vertaling maken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create Current Translate&amp;d File</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T132719Z" creationid="Dick" creationdate="20221218T132719Z">
+        <seg>Vertaald huidig &amp;document maken</seg>
       </tuv>
     </tu>
     <tu>
@@ -32651,6 +32707,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Next Missing T&amp;ag</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T133031Z" creationid="Dick" creationdate="20221218T133031Z">
+        <seg>Volgende ontbrekende t&amp;ag invoegen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Next Missing Tag</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20130411T171707Z">
@@ -43223,6 +43287,14 @@ free programs, and that you know you can do these things.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>P&amp;roject Folder</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T132801Z" creationid="Dick" creationdate="20221218T132801Z">
+        <seg>P&amp;rojectmap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS),</seg>
       </tuv>
       <tuv lang="nl">
@@ -48095,6 +48167,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Se&amp;lect Source Text</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T133002Z" creationid="Dick" creationdate="20221218T133002Z">
+        <seg>Brontekst se&amp;lecteren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Se&amp;t</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T131150Z" creationid="Dirk" creationdate="20170914T131150Z">
@@ -50371,6 +50451,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T140031Z">
         <seg>Dus het ingevoegde "pojavni meni" in de nominatieve vorm - moet worden gewijzigd naar "pojavnem meniju", d.i. naar de locatief.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>So&amp;urce Files...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T132752Z" creationid="Dick" creationdate="20221218T132752Z">
+        <seg>Bronbe&amp;standen…</seg>
       </tuv>
     </tu>
     <tu>
