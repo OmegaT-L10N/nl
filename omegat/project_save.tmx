@@ -11927,10 +11927,34 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add Files to Source Folder...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T132304Z" creationid="Dick" creationdate="20221218T132304Z">
+        <seg>Bestanden aan de bronmap toevoegen…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add Glossary Entry</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T164759Z" creationid="Dirk" creationdate="20160906T164759Z">
         <seg>Item voor woordenlijst toevoegen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add Online MediaWiki Pa&amp;ge...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T132339Z" creationid="Dick" creationdate="20221218T132339Z">
+        <seg>Online pa&amp;gina van MediaWiki toevoegen…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add Online MediaWiki Page</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T132357Z" creationid="Dick" creationdate="20221218T132357Z">
+        <seg>Online pagina van MediaWiki toevoegen</seg>
       </tuv>
     </tu>
     <tu>
@@ -17485,6 +17509,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Co&amp;mmit Source Files</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T132618Z" creationid="Dick" creationdate="20221218T132618Z">
+        <seg>Br&amp;onbestanden indienen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Code has been contributed by</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T104024Z">
@@ -17607,6 +17639,14 @@ OmegaT gebruikt de volgende bibliotheken:
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131226T152508Z" creationid="Dirk" creationdate="20131226T152508Z">
         <seg>Combineert de functies substitueren en accentueren van te-gloss-highlight en te-gloss-subst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Comm&amp;it Target Files</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T132645Z" creationid="Dick" creationdate="20221218T132628Z">
+        <seg>Do&amp;elbestanden indienen</seg>
       </tuv>
     </tu>
     <tu>
@@ -23903,10 +23943,26 @@ Gossamer-drempel houdt u tegen
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to copy files</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T132537Z" creationid="Dick" creationdate="20221218T132537Z">
+        <seg>Kopiëren van bestanden mislukt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to create project!</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T185927Z">
         <seg>Maken van het project is mislukt!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to download Mediawiki page</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T132516Z" creationid="Dick" creationdate="20221218T132516Z">
+        <seg>Downloaden van pagina van Mediawiki mislukt</seg>
       </tuv>
     </tu>
     <tu>
@@ -42111,6 +42167,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Online Mediawiki Page URL</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T132454Z" creationid="Dick" creationdate="20221218T132454Z">
+        <seg>URL van online pagina van MediaWiki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Online repositories of spelling dictionaries for use within OmegaT.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120401T125844Z">
@@ -45669,6 +45733,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131228T110121Z" creationid="Dirk" creationdate="20131228T110121Z">
         <seg>Maak in plats daarvan liever twee afzonderlijke zip- of tar.gz-bestanden, één die alleen de vertaalde doeldocumenten bevat, en de ander die alleen de tmx-bestanden bevat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Re&amp;load</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T132558Z" creationid="Dick" creationdate="20221218T132558Z">
+        <seg>Her&amp;laden</seg>
       </tuv>
     </tu>
     <tu>
