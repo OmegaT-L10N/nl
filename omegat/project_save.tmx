@@ -857,6 +857,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Add Files...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T135019Z" creationid="Dick" creationdate="20221218T135019Z">
+        <seg>&amp;Bestanden toevoegen…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Add...</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T121801Z">
@@ -921,6 +929,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Apply a different font size to the dictionary pane</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T134857Z" creationid="Dick" creationdate="20221218T134857Z">
+        <seg>&amp;Pas een andere grootte lettertype toe voor venster Woordenboek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Apply this font size to dictionary pane</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20220411T152456Z" creationid="Dick" creationdate="20220411T152428Z">
@@ -933,6 +949,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20150413T105325Z" creationid="Dirk" creationdate="20150413T105325Z">
         <seg>Dit lettertype op tabulaire gegevens toep&amp;assen (projectbestanden, statistieken, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Apply this font to tabular data (source files list, statistics, etc.)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T134823Z" creationid="Dick" creationdate="20221218T134823Z">
+        <seg>Dit lettertype op tabulaire gegevens toep&amp;assen (lijst met bronbestanden, statistieken, etc.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18071,6 +18095,14 @@ OmegaT gebruikt de volgende bibliotheken:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Completed and current translations saved as {0}</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T135055Z" creationid="Dick" creationdate="20221218T135055Z">
+        <seg>Voltooide en huidige vertalingen opgeslagen als {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Component, and (b) serves only to enable use of the work with that</seg>
       </tuv>
       <tuv lang="nl">
@@ -26821,6 +26853,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T130438Z" creationid="Dirk" creationdate="20170914T130438Z">
         <seg>Ga naar Voorkeuren &gt; Extern zoeken om in te schakelen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Segment</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T134702Z" creationid="Dick" creationdate="20221218T134702Z">
+        <seg>Ga naar segment</seg>
       </tuv>
     </tu>
     <tu>
@@ -46465,6 +46505,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reload the project?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T134721Z" creationid="Dick" creationdate="20221218T134721Z">
+        <seg>Het project opnieuw laden?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reload your OmegaT project.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120402T172603Z">
@@ -51147,6 +51195,22 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source Files ({0} of {1})</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T134959Z" creationid="Dick" creationdate="20221218T134959Z">
+        <seg>Bronbestanden ({0} van {1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source Files ({0})</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T134930Z" creationid="Dick" creationdate="20221218T134930Z">
+        <seg>Bronbestanden ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source Files Folder</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T190051Z">
@@ -51359,6 +51423,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>Source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source/translation length (characters)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T134735Z" creationid="Dick" creationdate="20221218T134735Z">
+        <seg>Lengte bron/vertaling (tekens)</seg>
       </tuv>
     </tu>
     <tu>
@@ -51713,6 +51785,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T191645Z">
         <seg>Start een nieuwe alinea bij:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start new project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T135112Z" creationid="Dick" creationdate="20221218T135112Z">
+        <seg>Nieuw project starten.</seg>
       </tuv>
     </tu>
     <tu>
