@@ -20863,6 +20863,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dictionaries folder:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T135857Z" creationid="Dick" creationdate="20221218T135857Z">
+        <seg>map Woordenboeken:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dictionaries in &lt;a0&gt;OmegaT&lt;/a0&gt; are based on the StarDict or on the Lingvo DSL format.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T133445Z">
@@ -23341,8 +23349,8 @@ Niemand hoort u schreeuwen.</seg>
       <tuv lang="en">
         <seg>Error starting post-processing commands: {0}</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20221218T135310Z" creationid="Dick" creationdate="20221218T135310Z">
-        <seg>Fout bij het starten van opdracten voor nabewerken: {0}</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T135514Z" creationid="Dick" creationdate="20221218T135310Z">
+        <seg>Fout bij het starten van opdrachten voor nabewerken: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -23899,6 +23907,14 @@ Gossamer-drempel houdt u tegen
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120402T171857Z">
         <seg>Exporteer de tekst vanuit de PDF naar Infix's XML-indeling met Document &gt; Translate &gt; Export XML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Export translation memories folder:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T135914Z" creationid="Dick" creationdate="20221218T135914Z">
+        <seg>Map voor exporteren van vertaalgeheugens:</seg>
       </tuv>
     </tu>
     <tu>
@@ -26629,6 +26645,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210504T092359Z" creationid="Dick" creationdate="20210504T092359Z">
         <seg>Woordenlijsten zijn bestanden voor terminologie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossaries folder:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T135825Z" creationid="Dick" creationdate="20221218T135825Z">
+        <seg>map Woordenlijsten:</seg>
       </tuv>
     </tu>
     <tu>
@@ -36347,6 +36371,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local File &amp;Filters...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T135705Z" creationid="Dick" creationdate="20221218T135705Z">
+        <seg>Lokale bestands&amp;filters…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local File/Folder</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T161903Z" creationid="Dirk" creationdate="20160906T161903Z">
@@ -36359,6 +36391,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T171424Z" creationid="Dirk" creationdate="20160906T171424Z">
         <seg>Lokale map van project:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local Segmentation R&amp;ules...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T135724Z" creationid="Dick" creationdate="20221218T135724Z">
+        <seg>Lokale segmentatie&amp;regels…</seg>
       </tuv>
     </tu>
     <tu>
@@ -48591,6 +48631,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Se&amp;ntence-level segmenting</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T135640Z" creationid="Dick" creationdate="20221218T135640Z">
+        <seg>Segme&amp;ntering op zin-niveau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Se&amp;t</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T131150Z" creationid="Dirk" creationdate="20170914T131150Z">
@@ -51383,6 +51431,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T190124Z">
         <seg>De opgegeven map voor de bronbestanden bestaat niet!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source files folder:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T135802Z" creationid="Dick" creationdate="20221218T135802Z">
+        <seg>map Bronbestanden:</seg>
       </tuv>
     </tu>
     <tu>
@@ -63437,6 +63493,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated files folder:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T135902Z" creationid="Dick" creationdate="20221218T135902Z">
+        <seg>map Vertaalde documenten:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated files location not defined</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120301T174330Z">
@@ -63569,6 +63633,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T124933Z">
         <seg>Vertaalgeheugens kunnen zeer nuttig zijn in een vertaling waar veel herhalingen of redelijk overeenkomende segmenten tekst staan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation memories folder:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T135814Z" creationid="Dick" creationdate="20221218T135814Z">
+        <seg>map Vertaalgeheugens:</seg>
       </tuv>
     </tu>
     <tu>
@@ -65109,6 +65181,14 @@ De huidige instelling is {0}MB;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142632Z">
         <seg>Gebruik hem als OmegaT de inhoud van het project niet moet synchroniseren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use local &amp;segmentation rules</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T135753Z" creationid="Dick" creationdate="20221218T135753Z">
+        <seg>Lokale &amp;segmentatieregels gebruiken</seg>
       </tuv>
     </tu>
     <tu>
@@ -67829,6 +67909,14 @@ Uw pagina werd niet gevonden</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T165810Z">
         <seg>Werken met platte tekst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writable glossary file:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T135849Z" creationid="Dick" creationdate="20221218T135849Z">
+        <seg>Te beschrijven bestand voor de woordenlijst:</seg>
       </tuv>
     </tu>
     <tu>
