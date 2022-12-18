@@ -3813,12 +3813,12 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
 	  otherwise use Options &gt; Global File Filters...;
 	- open them in their original application and verify that they are not empty.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20221218T131708Z" creationid="Dick" creationdate="20221218T131708Z">
+      <tuv lang="nl" changeid="Dick" changedate="20221218T132038Z" creationid="Dick" creationdate="20221218T131708Z">
         <seg>- verifieer dat hun indeling wordt ondersteund door OmegaT:
-	  ials project-specifieke filterinstellingen zijn ingeschakeld
-	  gebtuik Project &gt; Eigenschappen... &gt; Local File Filters...,
-	  otherwise use Options &gt; Global File Filters...;
-	- open them in their original application and verify that they are not empty.</seg>
+	  als projectspecifieke filterinstellingen zijn ingeschakeld
+	  gebtuik Project &gt; Eigenschappen... &gt; Lokale bestandsfilters...,
+	  gebruik anders Opties &gt; Globale bestandsfilters...;
+	- open ze in hun originele toepassing en verifieer dat zij niet leeg zijn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11915,6 +11915,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T161745Z" creationid="Dirk" creationdate="20160906T161745Z">
         <seg>Toevoegen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add &amp;Files...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T132245Z" creationid="Dick" creationdate="20221218T132245Z">
+        <seg>&amp;Bestanden toevoegen...</seg>
       </tuv>
     </tu>
     <tu>
@@ -21283,6 +21291,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20150520T153913Z" creationid="Dirk" creationdate="20150520T153913Z">
         <seg>Wilt u die vervangen door die welke u aan het verplaatsen bent?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do&amp;wnload Team Project...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T132157Z" creationid="Dick" creationdate="20221218T132157Z">
+        <seg>Teamproject do&amp;wnloaden…</seg>
       </tuv>
     </tu>
     <tu>
@@ -40339,6 +40355,14 @@ OmegaT 4.0, Lees Mij-bestand</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT automatically chose the 'Yes' option.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T132115Z" creationid="Dick" creationdate="20221218T132115Z">
+        <seg>OmegaT koos automatisch de optie 'Ja'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT automatically detects glossary files in this folder when a project is opened.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T110938Z" creationid="Dick" creationdate="20211118T110938Z">
@@ -42187,6 +42211,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T165618Z" creationid="Dick" creationdate="20190516T165618Z">
         <seg>Werkt alleen als een woordenboek voor spelling is geïnstalleerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Op&amp;en Recent...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T132227Z" creationid="Dick" creationdate="20221218T132227Z">
+        <seg>Recent project op&amp;enen...</seg>
       </tuv>
     </tu>
     <tu>
@@ -56600,6 +56632,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T175012Z">
         <seg>Het project in het voorbeeld is zeker voltooid, omdat alle unieke segmenten zijn vertaald.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project is empty</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221218T132047Z" creationid="Dick" creationdate="20221218T132047Z">
+        <seg>Het project is leeg</seg>
       </tuv>
     </tu>
     <tu>
