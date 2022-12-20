@@ -993,6 +993,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Auto-propagation of translations</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T101950Z" creationid="Dick" creationdate="20221220T101950Z">
+        <seg>&amp;Automatisch vergroten van vertalingen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Auto-text...</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20130930T163756Z" creationid="Dirk" creationdate="20130930T163756Z">
@@ -15485,6 +15493,22 @@ Neem nog een biertje.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bro&amp;wse...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T102237Z" creationid="Dick" creationdate="20221220T102237Z">
+        <seg>Blad&amp;eren…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Brow&amp;se...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T102303Z" creationid="Dick" creationdate="20221220T102303Z">
+        <seg>Blade&amp;ren…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Brows&amp;e</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T190046Z">
@@ -15505,6 +15529,14 @@ Neem nog een biertje.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T093917Z" creationid="Dick" creationdate="20190516T093917Z">
         <seg>TaaS Collections bladeren…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Browse&amp;...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T102226Z" creationid="Dick" creationdate="20221220T102226Z">
+        <seg>Bladeren&amp;…</seg>
       </tuv>
     </tu>
     <tu>
@@ -22811,6 +22843,14 @@ Uw helppagina werd niet gevonden</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T122926Z" creationid="Dirk" creationdate="20170914T121407Z">
         <seg>Schakel ze in via &lt;b&gt;Voorkeuren &gt; Opslaan en uitvoer…&lt;/b&gt;.&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enable them in Preferences &gt; Saving and Output....</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T102205Z" creationid="Dick" creationdate="20221220T102205Z">
+        <seg>Schakel ze in via Voorkeuren &gt; Opslaan en uitvoer….</seg>
       </tuv>
     </tu>
     <tu>
@@ -36459,6 +36499,30 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local post-processing commands</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T102040Z" creationid="Dick" creationdate="20221220T102040Z">
+        <seg>Lokale opdrachten voor nabewerken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local post-processing commands (disabled):</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T102107Z" creationid="Dick" creationdate="20221220T102107Z">
+        <seg>Lokale opdrachten voor nabewerken (uitgeschakeld):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local post-processing commands are disabled and will not be executed.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T102134Z" creationid="Dick" creationdate="20221220T102134Z">
+        <seg>Lokale opdrachten voor nabewerken zijn uitgeschakeld en zullen niet worden uitgevoerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local translation not synchronized with remote repository.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T123748Z">
@@ -47065,6 +47129,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove ta&amp;gs</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T102013Z" creationid="Dick" creationdate="20221220T102013Z">
+        <seg>Ta&amp;gs verwijderen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove tags from DOCX documents</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20180605T081427Z" creationid="DiGro (Dick)" creationdate="20180605T081427Z">
@@ -51531,10 +51603,26 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source files language:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T101920Z" creationid="Dick" creationdate="20221220T101920Z">
+        <seg>Taal bronbestanden:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source folder {0} does not exist.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120301T174622Z">
         <seg>Map Bronbestanden {0} bestaat niet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source language tokenizer:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T101956Z" creationid="Dick" creationdate="20221220T101931Z">
+        <seg>Tokenizer brontaal:</seg>
       </tuv>
     </tu>
     <tu>
@@ -53337,6 +53425,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120301T174636Z">
         <seg>Map Vertaalde documenten {0} bestaat niet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target language tokenizer:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T102000Z" creationid="Dick" creationdate="20221220T101936Z">
+        <seg>Tokenizer doeltaal:</seg>
       </tuv>
     </tu>
     <tu>
@@ -63609,6 +63705,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221218T135902Z" creationid="Dick" creationdate="20221218T135902Z">
         <seg>map Vertaalde documenten:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated files language:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T101925Z" creationid="Dick" creationdate="20221220T101925Z">
+        <seg>Taal vertaalde documenten:</seg>
       </tuv>
     </tu>
     <tu>
