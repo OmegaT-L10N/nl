@@ -1561,6 +1561,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Ignore matches with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T152447Z" creationid="Dick" creationdate="20221220T152447Z">
+        <seg>&amp;Overeenkomsten met hele andere letters negeren (bijv. FOO vs foo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20140419T143511Z" creationid="Dirk" creationdate="20140419T143439Z">
@@ -1661,6 +1669,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T123125Z" creationid="Dirk" creationdate="20170914T123125Z">
         <seg>&amp;Lokale server starten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Layout:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T152455Z" creationid="Dick" creationdate="20221220T152455Z">
+        <seg>&amp;Lay-out:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21723,6 +21739,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display TBX &amp;glossaries context description</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T152308Z" creationid="Dick" creationdate="20221220T152308Z">
+        <seg>Beschrijving van inhoud van woordenboeken TBX weergeven</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display all &amp;source segments in bold</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T191804Z">
@@ -27826,6 +27850,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T130438Z" creationid="Dirk" creationdate="20170914T130438Z">
         <seg>Ga naar Voorkeuren &gt; Extern zoeken om in te schakelen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Preferences &gt; Global External Searches to enable them.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T152559Z" creationid="Dick" creationdate="20221220T152559Z">
+        <seg>Ga naar Voorkeuren &gt; Extern zoeken om ze in te schakelen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37610,6 +37642,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local project commands are disabled for security reasons.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T152539Z" creationid="Dick" creationdate="20221220T152539Z">
+        <seg>Lokale projectopdrachten zijn om veiligheidsredenen uitgeschakeld.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local translation not synchronized with remote repository.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T123748Z">
@@ -38762,6 +38802,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Match term groups even if the terms appear separately</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T152349Z" creationid="Dick" creationdate="20221220T152349Z">
+        <seg>Laat groepen van termen overeenkomen, zelfs als de termen afzonderlijk verschijnen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Match type</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T172638Z" creationid="Dirk" creationdate="20160906T172638Z">
@@ -39047,6 +39095,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
         <seg>Merge alternate definitions for the same term</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210115T152614Z" creationid="Dick" creationdate="20210115T152614Z">
+        <seg>Verschillende definities voor dezelfde term samenvoegen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Merge alternate definitions of the same term</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T152450Z" creationid="Dick" creationdate="20221220T152450Z">
         <seg>Verschillende definities voor dezelfde term samenvoegen</seg>
       </tuv>
     </tu>
@@ -48868,6 +48924,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace matches when inserting source text</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T152427Z" creationid="Dick" creationdate="20221220T152427Z">
+        <seg>Overeenkomsten vervangen bij invoegen brontekst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace spaces with non-breakable spaces where appropriate in French</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T124524Z">
@@ -50350,6 +50414,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110114T184406Z">
         <seg>Zoeken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search &amp;automatically</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T152520Z" creationid="Dick" creationdate="20221220T152520Z">
+        <seg>&amp;Automatisch zoeken</seg>
       </tuv>
     </tu>
     <tu>
@@ -67293,10 +67365,26 @@ De huidige instelling is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &amp;fuzzy matching</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T152501Z" creationid="Dick" creationdate="20221220T152501Z">
+        <seg>&amp;Fuzzy-overeenkomsten gebruiken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &amp;fuzzy matching for dictionary entries</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T120913Z" creationid="Dirk" creationdate="20170914T120913Z">
         <seg>F&amp;uzzy overeenkomsten voor items woordenboek gebruiken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;stemming</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T152402Z" creationid="Dick" creationdate="20221220T152402Z">
+        <seg>&amp;Stemming gebruiken</seg>
       </tuv>
     </tu>
     <tu>
