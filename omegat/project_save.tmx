@@ -1715,8 +1715,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Move Down</seg>
       </tuv>
-      <tuv lang="nl" changeid="DiGro" changedate="20110112T191725Z">
-        <seg>Naar ben&amp;eden</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T121423Z">
+        <seg>Naar be&amp;neden</seg>
       </tuv>
     </tu>
     <tu>
@@ -13047,6 +13047,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All sets that match the project source language are applied.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T121245Z" creationid="Dick" creationdate="20221220T121245Z">
+        <seg>Alle instellingen die overeenkomen met de brontaal van het project worden toegepast.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All the changes will be synchronised the next time a connection is available.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T133535Z" creationid="Dick" creationdate="20190516T133535Z">
@@ -14189,6 +14197,14 @@ paragraph of section 11).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T144921Z">
         <seg>Bent u online?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Are you sure you want to remove the {0} segmentation rules set?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T121507Z" creationid="Dick" creationdate="20221220T121507Z">
+        <seg>Weet u zeker dat u de {0} verzameling van segmentatieregels wilt verwijderen?</seg>
       </tuv>
     </tu>
     <tu>
@@ -35698,6 +35714,14 @@ zelf bij de eerste keer dat het wordt uitgevoerd.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Language sets</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T121435Z" creationid="Dick" creationdate="20221220T121435Z">
+        <seg>Taalinstellingen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LanguageTool</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170104T181254Z" creationid="Dirk" creationdate="20170104T181254Z">
@@ -38512,6 +38536,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mo&amp;ve Up</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T121412Z" creationid="Dick" creationdate="20221220T121347Z">
+        <seg>Naar &amp;boven</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Model Id:</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20180920T170331Z" creationid="DiGro (Dick)" creationdate="20180920T170331Z">
@@ -38904,7 +38936,7 @@ Verloren in paradijs</seg>
       <tuv lang="en">
         <seg>Move &amp;Last</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dirk" changedate="20150413T102854Z" creationid="Dirk" creationdate="20150413T102854Z">
+      <tuv lang="nl" changeid="Dick" changedate="20221220T121326Z" creationid="Dirk" creationdate="20150413T102854Z">
         <seg>Naar &amp;laatste</seg>
       </tuv>
     </tu>
@@ -38930,6 +38962,14 @@ Verloren in paradijs</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20140419T142443Z" creationid="Dirk" creationdate="20140419T142443Z">
         <seg>Naar beneden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move F&amp;irst</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T121253Z" creationid="Dick" creationdate="20221220T121253Z">
+        <seg>Naar &amp;eerste</seg>
       </tuv>
     </tu>
     <tu>
@@ -50968,6 +51008,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T172106Z">
         <seg>Stel een segment in na "。" (Japanse punt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set contents</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T121445Z" creationid="Dick" creationdate="20221220T121445Z">
+        <seg>Inhoud instellingen</seg>
       </tuv>
     </tu>
     <tu>
