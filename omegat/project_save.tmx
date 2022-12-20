@@ -11459,6 +11459,14 @@ consequence of further modification of the contributor version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A note is simply a remark about the source text or its translation.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T123249Z" creationid="Dick" creationdate="20221220T123249Z">
+        <seg>Een notitie is eenvoudigweg een opmerking met betrekking tot de brontekst en zijn vertaling.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A number of interactive tools are available to develop and test regular expressions.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T170408Z">
@@ -26027,6 +26035,14 @@ sale, or importing the Program or any portion of it.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T145616Z">
         <seg>Bijvoorbeeld:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For file formats and filters that support comments (e.g. PO-filter), displays the comments for the translator concerning the active segment, if any.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T123447Z" creationid="Dick" creationdate="20221220T123447Z">
+        <seg>Voor bestandsindelingen en filters die opmerkibgen ondersteunen (bijv. PO-filter), geeft het de opmerkingen voor de verta;er met betreking tot het actieve segment weer, indien aanwezig.</seg>
       </tuv>
     </tu>
     <tu>
