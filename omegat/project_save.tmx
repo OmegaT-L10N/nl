@@ -30165,6 +30165,14 @@ notice like this when it starts in an interactive mode:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If there is a declaration, that encoding will be used regardless of the setting specified here.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T110846Z" creationid="Dick" creationdate="20221220T110846Z">
+        <seg>Als er een declaratie voor de codering is, zal die worden gebruikt, ongeacht welke waarde u voor deze instelling specificeert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If there's no file name displayed, the source is the internal project translation memory.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T095113Z">
@@ -31734,6 +31742,30 @@ work and works based on it.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170104T181209Z" creationid="Dirk" creationdate="20170104T181209Z">
         <seg>Negeren: “{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignored &lt;meta&gt; tags "content" attribute</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T111025Z" creationid="Dick" creationdate="20221220T111025Z">
+        <seg>Genegeerde &lt;meta&gt;-tags attribuut "content"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignored paragraphs (regular expression)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T110952Z" creationid="Dick" creationdate="20221220T110952Z">
+        <seg>Genegeerde alinea's (reguliere expressie)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignored tags (attribute=value)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T111043Z" creationid="Dick" creationdate="20221220T111043Z">
+        <seg>Genegeerde tags (attribuut=waarde)</seg>
       </tuv>
     </tu>
     <tu>
@@ -38524,6 +38556,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T124540Z">
         <seg>Aangepaste segmenten:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modify encoding declaration</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T110916Z" creationid="Dick" creationdate="20221220T110916Z">
+        <seg>Declaratie voor codering aanpassen</seg>
       </tuv>
     </tu>
     <tu>
