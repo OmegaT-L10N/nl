@@ -15503,6 +15503,14 @@ Neem nog een biertje.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Block the creation of translated files with tag &amp;issues</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T122459Z" creationid="Dick" creationdate="20221220T122459Z">
+        <seg>Maken van vertaalde bestanden bij problemen met ta&amp;gs blokkeren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Blog pages on OmegaT.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131227T163002Z" creationid="Dirk" creationdate="20131227T163002Z">
@@ -16577,6 +16585,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T165941Z">
         <seg>Wijzigen van de instellingen voor segmentatie kunnen er voor zorgen dat sommige reeds vertaalde segmenten opgedeeld of samengevoegd worden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changing the tag order may break the translated file!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T122415Z" creationid="Dick" creationdate="20221220T122415Z">
+        <seg>Wijzigen van de volgorde van de tags zou het vertaalde bestand kunnen beschadigen!</seg>
       </tuv>
     </tu>
     <tu>
@@ -19403,6 +19419,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Count &amp;flagged text and custom tags in statistics</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T122531Z" creationid="Dick" creationdate="20221220T122531Z">
+        <seg>Ge&amp;vlagde tekst en aangepaste tags in statistieken tellen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Count &amp;protected text and custom tags in statistics</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20150417T165643Z" creationid="Dirk" creationdate="20150417T165643Z">
@@ -20517,6 +20541,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Custom tags (regular expression):</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T122623Z" creationid="Dick" creationdate="20221220T122555Z">
+        <seg>Aangepaste tags (reguliere expressie):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Customer ID (corresponds to &lt;c0&gt;microsoft.api.client_id&lt;/c0&gt; command-line parameter)</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T144901Z">
@@ -21553,6 +21585,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays entries from in glossary files located in the /glossary/ folder if they are found in the source segment.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T122838Z" creationid="Dick" creationdate="20221220T122838Z">
+        <seg>Geeft de items uit de woordenlijstbestanden weer, die zijn geplaatst in de map /glossary/, als zij gevonden worden in het bronsegment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays the &lt;a0&gt;OmegaT&lt;/a0&gt; help files in a separate window</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T163014Z">
@@ -21684,6 +21724,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
         <seg>Displays the translation memories segments that match the source segment.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120327T162910Z">
+        <seg>Geeft de segmenten in vertaalgeheugens weer die overeenkomen met het bronsegment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays the translation memory segments that match the source segment.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T122654Z" creationid="Dick" creationdate="20221220T122654Z">
         <seg>Geeft de segmenten in vertaalgeheugens weer die overeenkomen met het bronsegment.</seg>
       </tuv>
     </tu>
@@ -25190,6 +25238,14 @@ Gossamer-drempel houdt u tegen
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T173821Z">
         <seg>Reparaties zijn kleine bewerkingen en OmegaT assisteert bij het oplossen van problemen met het gerelateerde foutbericht.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Flagged text (regular expression):</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T122618Z" creationid="Dick" creationdate="20221220T122618Z">
+        <seg>Gevlagde tekst (reguliere expressie):</seg>
       </tuv>
     </tu>
     <tu>
@@ -38274,6 +38330,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120327T163007Z">
         <seg>Overeenkomsten kunnen worden gevonden in uw huidige vertaling of in de TMX-bestanden die u in de map /tm/ hebt geplaatst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches come from your current translation or the TMX files placed in the /tm/ folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T122726Z" creationid="Dick" creationdate="20221220T122726Z">
+        <seg>Overeenkomsten komen uit uw huidige vertaling of de TMX-bestanden die u in de map /tm/ hebt geplaatst.</seg>
       </tuv>
     </tu>
     <tu>
