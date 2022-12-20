@@ -2017,6 +2017,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Reset Colour</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151256Z" creationid="Dick" creationdate="20221220T151256Z">
+        <seg>Deze kleur he&amp;rstellen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Reset Master Password</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T130048Z" creationid="Dirk" creationdate="20170914T130048Z">
@@ -7582,6 +7590,22 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151309Z" creationid="Dick" creationdate="20221220T151309Z">
+        <seg>&lt;html&gt;&lt;i&gt;Voorkeuren&lt;/i&gt; &amp;gt; &lt;i&gt;Algemeen&lt;/i&gt; &amp;gt; &lt;i&gt;TAB gebruiken om door te gaan&lt;/i&gt; is geselecteerd&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant format): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151128Z" creationid="Dick" creationdate="20221220T151128Z">
+        <seg>&lt;html&gt;Patronen toevoegen met jokertekens (Apache Ant-indeling): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Voorbeeld: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant style): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T172049Z" creationid="Dirk" creationdate="20160906T172049Z">
@@ -12945,9 +12969,25 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aligner "Accepted" group</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151246Z" creationid="Dick" creationdate="20221220T151246Z">
+        <seg>Groep "Geaccepteerd" voor uitlijnen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Aligner "Needs Review" Group</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T172226Z" creationid="Dirk" creationdate="20160906T172226Z">
+        <seg>Groep "Werk nodig" voor uitlijnen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aligner "Needs Review" group</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151248Z" creationid="Dick" creationdate="20221220T151248Z">
         <seg>Groep "Werk nodig" voor uitlijnen</seg>
       </tuv>
     </tu>
@@ -12964,6 +13004,22 @@ the above requirements apply either way.</seg>
         <seg>Aligner Table Row Highlight</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T172258Z" creationid="Dirk" creationdate="20160906T172258Z">
+        <seg>Rij accentueren voor tabel uitlijnen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aligner highlight</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151250Z" creationid="Dick" creationdate="20221220T151250Z">
+        <seg>Accentueren voor uitlijnen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aligner table row highlight</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151252Z" creationid="Dick" creationdate="20221220T151252Z">
         <seg>Rij accentueren voor tabel uitlijnen</seg>
       </tuv>
     </tu>
@@ -25452,6 +25508,14 @@ Gossamer-drempel houdt u tegen
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Flagged text</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151147Z" creationid="Dick" creationdate="20221220T151147Z">
+        <seg>Gevlagde tekst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Flagged text (regular expression):</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T122618Z" creationid="Dick" creationdate="20221220T122618Z">
@@ -27566,6 +27630,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary matches</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151155Z" creationid="Dick" creationdate="20221220T151155Z">
+        <seg>Overeenkomsten woordenlijst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary matching does not use stemming or stop words, but is case-insensitive.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T161820Z" creationid="Dirk" creationdate="20160910T161820Z">
@@ -27600,8 +27672,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="en">
         <seg>Glossary source</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20210115T152709Z" creationid="Dick" creationdate="20210115T152709Z">
-        <seg>Bron woordenlijst</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151231Z" creationid="Dick" creationdate="20210115T152709Z">
+        <seg>Woordenlijst bron</seg>
       </tuv>
     </tu>
     <tu>
@@ -36134,6 +36206,14 @@ zelf bij de eerste keer dat het wordt uitgevoerd.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Language checker</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151153Z" creationid="Dick" creationdate="20221220T151153Z">
+        <seg>Taalcontrole</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Language name</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T125940Z">
@@ -37802,6 +37882,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Machine translate highlight</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151253Z" creationid="Dick" creationdate="20221220T151253Z">
+        <seg>Machinevertaling accentuering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Machine translation - trouble shooting</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T144918Z">
@@ -38626,10 +38714,50 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Matches changed</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151159Z" creationid="Dick" creationdate="20221220T151159Z">
+        <seg>Gewijzigde overeenkomsten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Matches come from your current translation or the TMX files placed in the /tm/ folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T122726Z" creationid="Dick" creationdate="20221220T122726Z">
         <seg>Overeenkomsten komen uit uw huidige vertaling of de TMX-bestanden die u in de map /tm/ hebt geplaatst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches deleted active</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151205Z" creationid="Dick" creationdate="20221220T151205Z">
+        <seg>Verwijderde actieve overeenkomsten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches deleted inactive</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151206Z" creationid="Dick" creationdate="20221220T151206Z">
+        <seg>Verwijderde inactieve overeenkomsten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches inserted active</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151202Z" creationid="Dick" creationdate="20221220T151202Z">
+        <seg>Ingevoegde actieve overeenkomsten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches inserted inactive</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151203Z" creationid="Dick" creationdate="20221220T151203Z">
+        <seg>Inactieve ingevoegde overeenkomsten</seg>
       </tuv>
     </tu>
     <tu>
@@ -38646,6 +38774,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T095137Z">
         <seg>Instellen venster Overeenkomsten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches unchanged</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151200Z" creationid="Dick" creationdate="20221220T151200Z">
+        <seg>Ongewijzigde overeenkomsten</seg>
       </tuv>
     </tu>
     <tu>
@@ -50154,6 +50290,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search found mark</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151237Z" creationid="Dick" creationdate="20221220T151237Z">
+        <seg>Gevonden markering zoeken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search in</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20130411T172148Z">
@@ -50190,6 +50334,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T162831Z">
         <seg>Zoeken in project</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search replaced mark</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151240Z" creationid="Dick" creationdate="20221220T151240Z">
+        <seg>Vervangen markering zoeken</seg>
       </tuv>
     </tu>
     <tu>
