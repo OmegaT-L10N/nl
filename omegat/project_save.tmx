@@ -945,6 +945,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Always confirm quit</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T152214Z" creationid="Dick" creationdate="20221220T152214Z">
+        <seg>&amp;Afsluiten altijd bevestigen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Apply a different font size to the dictionary pane</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221218T134857Z" creationid="Dick" creationdate="20221218T134857Z">
@@ -22371,6 +22379,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Double-check and try again.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T152157Z" creationid="Dick" creationdate="20221220T152157Z">
+        <seg>Controleer het nogmaals en probeer het opnieuw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Double-check it and try again.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T150805Z" creationid="Dick" creationdate="20221220T150805Z">
@@ -23816,6 +23832,14 @@ is the language code and YY is the region or country code (optional).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T162506Z">
         <seg>Voer hier uw naam in en die zal worden gekoppeld aan alle door u vertaalde segmenten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter your password again for confirmation.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T152148Z" creationid="Dick" creationdate="20221220T152148Z">
+        <seg>Voer ter bevestiging nogmaals uw wachtwoord in.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33766,6 +33790,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T124454Z">
         <seg>Niet-consistente getallen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Incorrect password.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T152133Z" creationid="Dick" creationdate="20221220T152133Z">
+        <seg>Onjuist wachtwoord.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59083,8 +59115,8 @@ content, constitutes a covered work.</seg>
       <tuv lang="en">
         <seg>The password cannot be empty.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dirk" changedate="20170914T125423Z" creationid="Dirk" creationdate="20170914T125423Z">
-        <seg>Het  wachtwoord mag niet leeg zijn.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T152140Z" creationid="Dirk" creationdate="20170914T125423Z">
+        <seg>Het wachtwoord mag niet leeg zijn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59093,6 +59125,14 @@ content, constitutes a covered work.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T125402Z" creationid="Dirk" creationdate="20170914T125402Z">
         <seg>Het wachtwoord dat u invoerde kwam niet overeen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The passwords do not match.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T152153Z" creationid="Dick" creationdate="20221220T152153Z">
+        <seg>De wachtwoorden komen niet overeen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67224,6 +67264,14 @@ De huidige instelling is {0}MB;</seg>
         <seg>Use &amp;TAB to Advance</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T185358Z">
+        <seg>&amp;Tab gebruiken om door te gaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;TAB to advance</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T152210Z" creationid="Dick" creationdate="20221220T152210Z">
         <seg>&amp;Tab gebruiken om door te gaan</seg>
       </tuv>
     </tu>
