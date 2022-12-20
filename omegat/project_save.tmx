@@ -15519,6 +15519,14 @@ Neem nog een biertje.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Break/exception</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T121015Z" creationid="Dick" creationdate="20221220T121015Z">
+        <seg>Afbreken/Uitzondering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Breton</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T130056Z">
@@ -18261,6 +18269,14 @@ OmegaT gebruikt de volgende bibliotheken:
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20121207T201259Z">
         <seg>Witruimte in vertaalde document comprimeren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Compress whitespace in translated file</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T120844Z" creationid="Dick" creationdate="20221220T120844Z">
+        <seg>Witruimte in vertaald bestand comprimeren</seg>
       </tuv>
     </tu>
     <tu>
@@ -26952,6 +26968,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T110249Z" creationid="Dick" creationdate="20221220T110249Z">
         <seg>Globale bestandsfilters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Global Segmentation Rules</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T121033Z" creationid="Dick" creationdate="20221220T121033Z">
+        <seg>Globale segmentatieregels</seg>
       </tuv>
     </tu>
     <tu>
@@ -35666,6 +35690,14 @@ zelf bij de eerste keer dat het wordt uitgevoerd.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Language pattern</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T121013Z" creationid="Dick" creationdate="20221220T121013Z">
+        <seg>Taalpatroon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LanguageTool</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170104T181254Z" creationid="Dirk" creationdate="20170104T181254Z">
@@ -36858,6 +36890,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221218T135724Z" creationid="Dick" creationdate="20221218T135724Z">
         <seg>Lokale segmentatie&amp;regels…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local Segmentation Rules</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T121047Z" creationid="Dick" creationdate="20221220T121047Z">
+        <seg>Lokale segmentatieregels</seg>
       </tuv>
     </tu>
     <tu>
@@ -40561,6 +40601,14 @@ measures.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T191624Z">
         <seg>Opmerking: De instelling van Codering voor bronbestand heeft alleen invloed op de HTML-bestanden die zelf geen codering-declaratie in zich hebben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note: The Source File Encoding setting only affects HHC and HHK files with no encoding declaration.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T120953Z" creationid="Dick" creationdate="20221220T120953Z">
+        <seg>Opmerking: Codering voor bronbestanden is alleen van invloed op HHC- en HHK-bestanden die geen declaratie voor de codering bevatten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44590,6 +44638,22 @@ Verdwenen als mist.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pattern after</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T121017Z" creationid="Dick" creationdate="20221220T121017Z">
+        <seg>Patroon na</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pattern before</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T121016Z" creationid="Dick" creationdate="20221220T121016Z">
+        <seg>Patroon vóór</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pattern...</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T124457Z" creationid="Dirk" creationdate="20160906T173127Z">
@@ -47496,6 +47560,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20121207T201324Z">
         <seg>HTML-opmerkingen in vertaalde document verwijderen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove HTML comments in translated file</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T120859Z" creationid="Dick" creationdate="20221220T120859Z">
+        <seg>HTML-opmerkingen in vertaald bestand verwijderen</seg>
       </tuv>
     </tu>
     <tu>
@@ -52460,6 +52532,16 @@ can do so.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T123041Z" creationid="Dick" creationdate="20190516T123041Z">
         <seg>Specifieke parameters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specific sets should be put above general sets:
+"FR-CA" should be above "FR.*", which should be above ".*".</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T121203Z" creationid="Dick" creationdate="20221220T121203Z">
+        <seg>Specifieke instellingen zouden boven de algemene instellingen moeten worden geplaatst:
+"FR-CA" zou boven "FR.*" moeten staan, wat boven ".*" zou moeten staan.</seg>
       </tuv>
     </tu>
     <tu>
