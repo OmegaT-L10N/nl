@@ -2417,6 +2417,16 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', 'running', etc.)
+'?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T103934Z" creationid="Dick" creationdate="20221220T103934Z">
+        <seg>'*' komt overeen met nul of meer tekens ('run*' komt overeen met 'run', 'runs', 'running', etc.)
+'?' komt overeen met exact één teken ('run?' komt overeen met 'runs' en 'rung', maar niet met 'run' of 'running').</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
 '?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
       </tuv>
@@ -14761,6 +14771,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-sync with editor</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T104033Z" creationid="Dick" creationdate="20221220T104033Z">
+        <seg>Automatisch synchroniseren met venster Bewerken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-text configuration</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T115035Z">
@@ -17705,6 +17723,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T173714Z">
         <seg>Sluit het project</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Close the search window.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T104125Z" creationid="Dick" creationdate="20221220T104125Z">
+        <seg>Sluit het zoekvenster.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23432,6 +23458,14 @@ Niemand hoort u schreeuwen.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T190255Z">
         <seg>Fout bij het zoeken in de mappenstructuur!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error searching folder tree!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T104107Z" creationid="Dick" creationdate="20221220T104107Z">
+        <seg>Fout bij het zoeken in de boom met mappen!</seg>
       </tuv>
     </tu>
     <tu>
@@ -37840,6 +37874,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T095137Z">
         <seg>Instellen venster Overeenkomsten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matching segments: {0}</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T104149Z" creationid="Dick" creationdate="20221220T104149Z">
+        <seg>Overeenkomende segmenten: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -53973,6 +54015,16 @@ this License.</seg>
     <tu>
       <tuv lang="en">
         <seg>Text Replace:
+Replace applies to the target segments of the project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T104022Z" creationid="Dick" creationdate="20221220T104022Z">
+        <seg>Tekst vervangen:
+Vervangen wordt toegepast op de doelsegmenten van het project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text Replace:
 The scope of a text replacement is the target segments of the project, whether they already have contents or not.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T113051Z">
@@ -64621,6 +64673,14 @@ Exacte zoekacties komen overeen met de gehele zoekterm.</seg>
         <seg>Unable to initialize read of XML file!</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T190307Z">
+        <seg>Niet in staat om het lezen van het XML-bestand te initialiseren!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to initialize reading of XML file!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T104208Z" creationid="Dick" creationdate="20221220T104208Z">
         <seg>Niet in staat om het lezen van het XML-bestand te initialiseren!</seg>
       </tuv>
     </tu>
@@ -81740,6 +81800,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>which are not part of the work.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>wildcards.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T103840Z" creationid="Dick" creationdate="20221220T103840Z">
+        <seg>jokertekens.</seg>
       </tuv>
     </tu>
     <tu>
