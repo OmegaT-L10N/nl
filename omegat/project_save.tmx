@@ -2137,6 +2137,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Sheet names</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T105316Z" creationid="Dick" creationdate="20221220T105316Z">
+        <seg>&amp;Werkbladnamen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Show All</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170104T180819Z" creationid="Dirk" creationdate="20170104T180819Z">
@@ -21721,6 +21729,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DocBook files must have a proper DOCTYPE declaration.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T105306Z" creationid="Dick" creationdate="20221220T105306Z">
+        <seg>DocBookbestanden moeten een juiste declaratie DOCTYPE hebben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dock</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T192025Z">
@@ -38418,8 +38434,8 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       <tuv lang="en">
         <seg>Monolin&amp;gual</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20221220T104742Z" creationid="Dick" creationdate="20221220T104742Z">
-        <seg>Ëéntali&amp;g</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T105207Z" creationid="Dick" creationdate="20221220T104742Z">
+        <seg>Eéntali&amp;g</seg>
       </tuv>
     </tu>
     <tu>
@@ -38434,8 +38450,8 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       <tuv lang="en">
         <seg>Monolingual XLIFF</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20221220T105025Z" creationid="Dick" creationdate="20221220T105025Z">
-        <seg>Ëéntalige XLIFF</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T105154Z" creationid="Dick" creationdate="20221220T105025Z">
+        <seg>Eéntalige XLIFF</seg>
       </tuv>
     </tu>
     <tu>
@@ -53506,6 +53522,14 @@ APPLICABLE LAW.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tag handling compatibility</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T105349Z" creationid="Dick" creationdate="20221220T105349Z">
+        <seg>Compatibiliteit voor afhandelem van tags </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tag name:</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T190315Z">
@@ -53534,6 +53558,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135811Z">
         <seg>Tag-bewerkingen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tag shortcuts (do not apply to OmegaT 2.6 compatible files):</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T105452Z" creationid="Dick" creationdate="20221220T105452Z">
+        <seg>Sneltoetsen voor tags (niet van toepassing voor OmegaT 2.6 compatibele bestanden):</seg>
       </tuv>
     </tu>
     <tu>
@@ -68622,6 +68654,14 @@ Uw pagina werd niet gevonden</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T164015Z" creationid="Dirk" creationdate="20160906T164015Z">
         <seg>Wordpress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wordpress XML export</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T105234Z" creationid="Dick" creationdate="20221220T105234Z">
+        <seg>Wordpress XML-export</seg>
       </tuv>
     </tu>
     <tu>
