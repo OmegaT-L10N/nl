@@ -19131,6 +19131,14 @@ the conditions stated below.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copyright © 2000-2022 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T105855Z" creationid="Dick" creationdate="20221220T105855Z">
+        <seg>Copyright © 2000-2022 Keith Godfrey, Maxym Mykhalchuk en anderen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cornish</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T130114Z">
@@ -20429,6 +20437,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Customize the processed source filename patterns, the translated file names and their respective encodings.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T110209Z" creationid="Dick" creationdate="20221220T110209Z">
+        <seg>Pas de verwerkte patronen voor de bronbestanden, de namen voor de vertaalde ebstanden en hun respectievelijke coderingen aan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Customizing the Fuzzy matches pane</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T095131Z">
@@ -21685,6 +21701,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T185530Z">
         <seg>Wilt u werkelijk afsluiten?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you really want to remove pattern {0}?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T110031Z" creationid="Dick" creationdate="20221220T110031Z">
+        <seg>Wilt u het patroon {0} echt verwijderen?</seg>
       </tuv>
     </tu>
     <tu>
@@ -24594,6 +24618,14 @@ Gossamer-drempel houdt u tegen
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File &amp;format</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T110059Z" creationid="Dick" creationdate="20221220T110059Z">
+        <seg>Bestandsindeling</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File &gt; Close (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt; &lt;/k0&gt;): close the search window (in the same way as &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T170900Z" creationid="Dirk" creationdate="20160910T170900Z">
@@ -24854,6 +24886,14 @@ Gossamer-drempel houdt u tegen
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T190515Z">
         <seg>Filter '{0}' kon niet worden geladen van '{1}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Filter Settings</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T105955Z" creationid="Dick" creationdate="20221220T105955Z">
+        <seg>Filterinstellingen</seg>
       </tuv>
     </tu>
     <tu>
@@ -41704,6 +41744,14 @@ translation leveraging into updated projects.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is a free and open source multiplatform computer-assisted translation (CAT) tool offering fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T105937Z" creationid="Dick" creationdate="20221220T105937Z">
+        <seg>OmegaT is een vrij en open source multiplatform Computer Assisted Translation (CAT)-programma met fuzzy overeenkomsten, vertaalgeheugen, zoeken op sleutelwoorden, woordenlijsten en vertalinguitbreiding in bijgewerkte projecten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is a free open-source translation memory application for professional translators written in Java.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170927T103015Z" creationid="DiGro (Dick)" creationdate="20170927T103015Z">
@@ -47492,6 +47540,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove pattern</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T110037Z" creationid="Dick" creationdate="20221220T110037Z">
+        <seg>Patroon verwijderen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove pattern?</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T191539Z">
@@ -51628,6 +51684,14 @@ can do so.</seg>
         <seg>Some devices are designed to deny users access to install or run
 modified versions of the software inside them, although the manufacturer
 can do so.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some filters do not allow encoding modifications.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T110239Z" creationid="Dick" creationdate="20221220T110239Z">
+        <seg>Sommige filters staan het aanpassen van de codering niet toe.</seg>
       </tuv>
     </tu>
     <tu>
