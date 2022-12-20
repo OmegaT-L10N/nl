@@ -1137,6 +1137,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Check issues when leaving a segment</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T121751Z" creationid="Dick" creationdate="20221220T121751Z">
+        <seg>Tags bij het verlaten van een segment &amp;controleren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Clear Menu</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20180605T080210Z" creationid="DiGro (Dick)" creationdate="20180605T080210Z">
@@ -2253,6 +2261,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T185353Z">
         <seg>&amp;Statistieken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Stop at segments that are untranslated or have alternative translations</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T121648Z" creationid="Dick" creationdate="20221220T121648Z">
+        <seg>&amp;Stop bij segmenten die niet vertaald zijn of alternatieve vertalingen hebben</seg>
       </tuv>
     </tu>
     <tu>
@@ -14667,6 +14683,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Attempt to convert fuzzy match &amp;numbers</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T121731Z" creationid="Dick" creationdate="20221220T121731Z">
+        <seg>Poging om &amp;nummers te converteren bij een fuzzy overeenkomst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Attempt to convert numbers when inserting a fuzzy match</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T133617Z">
@@ -22487,6 +22511,14 @@ werd project_save.tmx niet echt geüpload en SVN schakelde naar een onstabiele s
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T185252Z">
         <seg>Selectie e&amp;xporteren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>E&amp;xport the segment to a text file</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T121615Z" creationid="Dick" creationdate="20221220T121615Z">
+        <seg>Segment naar een tekstbestand e&amp;xporteren</seg>
       </tuv>
     </tu>
     <tu>
@@ -33302,6 +33334,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Initial number of loaded segments:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T121811Z" creationid="Dick" creationdate="20221220T121811Z">
+        <seg>Initieel aantal geladen segmenten:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Initialize a minimal team project with the specified languages.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221215T145916Z" creationid="Dick" creationdate="20221214T143529Z">
@@ -39489,6 +39529,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>New language and country</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T121511Z" creationid="Dick" creationdate="20221220T121511Z">
+        <seg>Nieuwe taal en land</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>New spelling dictionaries can be installed from within OmegaT in the Options &gt; Spell Checking dialog.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131226T133956Z" creationid="Dirk" creationdate="20131226T133956Z">
@@ -44506,6 +44554,14 @@ Verdwenen als mist.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20190418T092605Z" creationid="DiGro (Dick)" creationdate="20190418T092605Z">
         <seg>Indeling alinea-scheiding:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paragraph delimiter:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T121822Z" creationid="Dick" creationdate="20221220T121822Z">
+        <seg>Alinea-scheiding:</seg>
       </tuv>
     </tu>
     <tu>
@@ -51160,6 +51216,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T174213Z">
         <seg>dialoogvensters Instellingen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Settings for tags originating from non-OmegaT TMX files:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T121904Z" creationid="Dick" creationdate="20221220T121904Z">
+        <seg>Instellingen voor tags die van origine uit niet-OmegaT TMX-bestanden komen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -67994,6 +68058,14 @@ any other work released this way by its authors.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When entering an empty segment:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T121556Z" creationid="Dick" creationdate="20221220T121556Z">
+        <seg>Bij het invoeren van een leeg segment:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When hovering the mouse over the underlined phrase, an explanation will appear.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T130712Z">
@@ -71267,6 +71339,14 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131227T161605Z" creationid="Dirk" creationdate="20131227T161605Z">
         <seg>Uw documenten en vertaalgeheugens blijven op uw computer, en het OmegaT-project zal geen toegang hebben tot uw werk of informatie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your name/ID is used to identify your translations.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T121536Z" creationid="Dick" creationdate="20221220T121536Z">
+        <seg>Uw naam/ID wordt gebruikt om uw vertalingen te identificeren.</seg>
       </tuv>
     </tu>
     <tu>
