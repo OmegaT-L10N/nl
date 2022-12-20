@@ -1441,6 +1441,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Force &lt;it pos="end"&gt; tags shortcut to "&lt;f &gt;"</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T105604Z" creationid="Dick" creationdate="20221220T105604Z">
+        <seg>&amp;Forceeer snelyoets voor tags&lt;zijn positie="end"&gt; naar "&lt;f &gt;"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Force shortcut to "f" for &lt;it pos="end"&gt; tags</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T113459Z">
@@ -1829,6 +1837,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110416T095721Z">
         <seg>&amp;Spaties voor alle tags behouden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Preserve whitespace for all tags</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T105824Z" creationid="Dick" creationdate="20221220T105824Z">
+        <seg>Witruimte voor alle tags be&amp;houden</seg>
       </tuv>
     </tu>
     <tu>
@@ -11695,6 +11711,14 @@ included in conveying the object code work.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T190737Z">
         <seg>Hoeveelheid tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A&amp;ggregate tags</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T105757Z" creationid="Dick" creationdate="20221220T105757Z">
+        <seg>Hoeveelheid ta&amp;gs</seg>
       </tuv>
     </tu>
     <tu>
@@ -22257,6 +22281,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Duplicate fallbac&amp;k text</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T105705Z" creationid="Dick" creationdate="20221220T105705Z">
+        <seg>Herstelte&amp;kst dupliceren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Duplicate segments: {0}</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20150413T102732Z" creationid="Dirk" creationdate="20150413T102732Z">
@@ -24270,6 +24302,14 @@ Gossamer-drempel houdt u tegen
       </tuv>
       <tuv lang="nl">
         <seg>Externe documentatie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External lin&amp;ks</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T105737Z" creationid="Dick" creationdate="20221220T105737Z">
+        <seg>Externe &amp;koppelingen</seg>
       </tuv>
     </tu>
     <tu>
@@ -39717,6 +39757,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Non-visible instruction te&amp;xt</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T105654Z" creationid="Dick" creationdate="20221220T105654Z">
+        <seg>Onzichtbare instructie te&amp;kst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>None</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T130342Z" creationid="Dirk" creationdate="20170914T130342Z">
@@ -43910,6 +43958,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T110528Z">
         <seg>Andere besturingssystemen (Linux, OS X) bieden soortgelijke pakketten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other options:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T105742Z" creationid="Dick" creationdate="20221220T105742Z">
+        <seg>Andere opties:</seg>
       </tuv>
     </tu>
     <tu>
@@ -48438,6 +48494,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>S&amp;lide comments</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T105717Z" creationid="Dick" creationdate="20221220T105717Z">
+        <seg>&amp;Dia notities</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>S&amp;pace matches nbsp</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20150520T153641Z" creationid="Dirk" creationdate="20150520T153641Z">
@@ -51380,6 +51444,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sli&amp;de masters</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T105720Z" creationid="Dick" creationdate="20221220T105720Z">
+        <seg>Dia&amp;modellen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Slide External Lin&amp;ks</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131214T141431Z" creationid="Dirk" creationdate="20131214T141431Z">
@@ -51392,6 +51464,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T190722Z">
         <seg>Dia &amp;Lay-outs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Slide la&amp;youts</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T105731Z" creationid="Dick" creationdate="20221220T105731Z">
+        <seg>Dia &amp;lay-outs</seg>
       </tuv>
     </tu>
     <tu>
@@ -52453,6 +52533,14 @@ can do so.</seg>
         <seg>Start a New Paragraph &amp;on Word Soft Return</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20150914T102120Z" creationid="Dirk" creationdate="20150914T102120Z">
+        <seg>Een nieuwe alinea bij W&amp;ord zachte return beginnen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start a new paragraph &amp;on Word soft return</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T105835Z" creationid="Dick" creationdate="20221220T105835Z">
         <seg>Een nieuwe alinea bij W&amp;ord zachte return beginnen</seg>
       </tuv>
     </tu>
@@ -53838,6 +53926,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T124422Z">
         <seg>Doel langer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target segment status</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T105625Z" creationid="Dick" creationdate="20221220T105625Z">
+        <seg>Status doelsegment</seg>
       </tuv>
     </tu>
     <tu>
@@ -65660,6 +65756,14 @@ The current setting is {0}MB;</seg>
         <seg>Gebruik "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" vanaf de
 opdrachtregel of in het OmegaT startscript;
 De huidige instelling is {0}MB;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use "needs-review-translation" instead of "translated"</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T105646Z" creationid="Dick" creationdate="20221220T105646Z">
+        <seg>Gebruik "vertaling-moet-worden-nagekeken" in plaats van "vertaald"</seg>
       </tuv>
     </tu>
     <tu>
