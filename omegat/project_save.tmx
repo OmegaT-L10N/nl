@@ -42810,6 +42810,16 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT was refused access to the system property containing
+the name of your OS and/or the system property containing
+your home folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T144704Z" creationid="Dick" creationdate="20221220T144704Z">
+        <seg>OmegaT kreeg geen toegang tot de systeemeigenschap die de naam van uw besturingssysteem bevat en/of de systeemeigenschap die uw werkmap bevat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT will automatically parse even the most complex source folder</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T103515Z">
@@ -62697,6 +62707,16 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T151850Z" creationid="Dirk" creationdate="20131225T151850Z">
         <seg>Dit zal de weergave van de TMX-bestanden netter maken, maar opnieuw, het is niet absoluut essentieel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This will reset all
+settings to their defaults.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T144745Z" creationid="Dick" creationdate="20221220T144745Z">
+        <seg>Dit zal alle
+instellingen herstellen naar nun standardwaarden.</seg>
       </tuv>
     </tu>
     <tu>
