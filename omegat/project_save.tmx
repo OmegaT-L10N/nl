@@ -1777,6 +1777,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;None</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T122246Z" creationid="Dick" creationdate="20221220T122246Z">
+        <seg>&amp;Geen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Notes</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T190646Z">
@@ -2197,6 +2205,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T120942Z" creationid="Dirk" creationdate="20170914T120942Z">
         <seg>Relevante &amp;suggesties automatisch weergeven</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Simple variables (e.g., %s, %d)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T122324Z" creationid="Dick" creationdate="20221220T122303Z">
+        <seg>&amp;Eenvoudige variabelen (bijv. %s, %d)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13127,6 +13143,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All variables (e.g., %s, %-s)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T122320Z" creationid="Dick" creationdate="20221220T122320Z">
+        <seg>Alle variabelen (bijv. %s, %-s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allo&amp;w tag editing</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T122248Z" creationid="Dirk" creationdate="20170914T122248Z">
@@ -14711,6 +14735,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T190157Z">
         <seg>Aut&amp;eur:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Authenticated proxy credentials:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T122205Z" creationid="Dick" creationdate="20221220T122205Z">
+        <seg>Geauthenticeerde gegevens voor proxy:</seg>
       </tuv>
     </tu>
     <tu>
@@ -16677,6 +16709,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check &amp;Java MessageFormat placeholders (e.g. {0})</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T122351Z" creationid="Dick" creationdate="20221220T122351Z">
+        <seg>Plaatsvervangers voor &amp;Java MessageFormat controleren (bijv. {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check &amp;all printf-variables (e.g., %s, %-s)</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T192018Z">
@@ -16985,6 +17025,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T113231Z" creationid="Dick" creationdate="20190516T113231Z">
         <seg>Selecteer of deselecteer de regels, afhankelijk van het feit of zij relevant zijn voor het type tekst dat u vertaalt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check printf function variables:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T122241Z" creationid="Dick" creationdate="20221220T122241Z">
+        <seg>Printf-variabelen controleren:</seg>
       </tuv>
     </tu>
     <tu>
@@ -20489,6 +20537,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20130930T165522Z" creationid="Dirk" creationdate="20130930T165522Z">
         <seg>Tabel met tekens aanpassen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Customize segment modification &amp;information</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T122135Z" creationid="Dick" creationdate="20221220T122135Z">
+        <seg>Aangepaste sjablonen voor &amp;Info over wijzigingen segmenten gebruiken</seg>
       </tuv>
     </tu>
     <tu>
@@ -38006,6 +38062,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark all non-unique segments</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T122025Z" creationid="Dick" creationdate="20221220T122025Z">
+        <seg>Alle niet-unieke segmenten markeren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark each paragraph by clicking on it repeatedly until the entire paragraph is highlighted.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120401T151338Z">
@@ -51556,6 +51620,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Simplify tag &amp;tooltips</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T122048Z" creationid="Dick" creationdate="20221220T122048Z">
+        <seg>&amp;Helptips van tags vereenvoudigen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Simplify the original text</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135930Z">
@@ -52878,6 +52950,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20171124T172804Z" creationid="DiGro (Dick)" creationdate="20171124T172804Z">
         <seg>Standaard versie - {{site.data.versions.standard.name}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Standard template</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T122055Z" creationid="Dick" creationdate="20221220T122055Z">
+        <seg>Standaard sjabloon</seg>
       </tuv>
     </tu>
     <tu>
@@ -54504,6 +54584,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>Telugu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Template for segments without date</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T122112Z" creationid="Dick" creationdate="20221220T122112Z">
+        <seg>Sjabloon voor segmenten zonder datum</seg>
       </tuv>
     </tu>
     <tu>
