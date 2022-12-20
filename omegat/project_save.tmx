@@ -21737,6 +21737,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays the translation of the current segment provided by the machine translation services selected in Preferences &gt; Machine Translation if those services are available.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T123132Z" creationid="Dick" creationdate="20221220T123132Z">
+        <seg>Geeft de vertaling van het bronsegment weer door de services voor de machinevertalingen die zijn geselecteerd in Voorkeuren &gt; Machinevertaling, als deze services beschikbaar zijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays the translation of the source segment by the machine translation services you have selected in Options &gt; Machine Translate, if those services are available.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120327T163533Z">
@@ -41033,6 +41041,14 @@ otherwise be available to you under applicable patent law.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Notify Me Even If There Are No Search Results</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T123055Z" creationid="Dick" creationdate="20221220T123055Z">
+        <seg>Laat het me weten als er geen zoekresultaten zijn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Notify Me When a Segment Has "{0}"</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T172507Z" creationid="Dirk" creationdate="20160906T172507Z">
@@ -52276,6 +52292,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T124154Z" creationid="Dirk" creationdate="20170914T124154Z">
         <seg>Vol&amp;ledige tekst sorteren, geen sneltoets</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sort by Target Term Length</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T123015Z" creationid="Dick" creationdate="20221220T123015Z">
+        <seg>Op lengte van doeltermen sorteren</seg>
       </tuv>
     </tu>
     <tu>
@@ -66442,6 +66466,14 @@ De huidige instelling is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use Create Glossary Entry in the Edit menu to add new entries.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T122937Z" creationid="Dick" creationdate="20221220T122937Z">
+        <seg>Gebruik Item voor woordenlijst maken in het menu Bewerken om nieuwe items toe te voegen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use Dave Turner's CodeZapper macro.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120401T155505Z">
@@ -67723,6 +67755,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T191548Z">
         <seg>Bekijk of bewerk bestandsfilters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>View, add, remove or edit a note in the active segment.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T123217Z" creationid="Dick" creationdate="20221220T123217Z">
+        <seg>Bekijk, voeg toe, verwijder of bewerk een notitie in het actieve segment.</seg>
       </tuv>
     </tu>
     <tu>
