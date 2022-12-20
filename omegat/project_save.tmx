@@ -66218,6 +66218,14 @@ De huidige instelling is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &amp;XML notation for standalone tags (e.g., &lt;i/&gt;)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T121940Z" creationid="Dick" creationdate="20221220T121940Z">
+        <seg>Gebruik notatie &amp;XML voor zelfstandige tags (bijv.: &lt;i/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &amp;fuzzy matching for dictionary entries</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T120913Z" creationid="Dirk" creationdate="20170914T120913Z">
