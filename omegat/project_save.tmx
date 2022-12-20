@@ -14675,6 +14675,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto &amp;replace plural specification</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T104708Z" creationid="Dick" creationdate="20221220T104708Z">
+        <seg>Automatisch &amp;vervangen van specificatie van meervoud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20121207T200941Z">
@@ -19479,6 +19487,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20180605T081944Z" creationid="DiGro (Dick)" creationdate="20180605T081944Z">
         <seg>Back-upbestanden van originele DOCX maken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create paragraphs on:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T104819Z" creationid="Dick" creationdate="20221220T104819Z">
+        <seg>Alinea's maken op:</seg>
       </tuv>
     </tu>
     <tu>
@@ -26223,6 +26239,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T124943Z">
         <seg>Voor uw verwijzing geeft OmegaT de vertaling van woorden weer als die zowel aanwezig zijn in het segment en ook zijn geregistreerd in de woordenlijst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Force Unicode literals compatibility with Java 8</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T105010Z" creationid="Dick" creationdate="20221220T105010Z">
+        <seg>Compatibiliteit voor letterlijke tekens voor Unicode forceren met Java 8</seg>
       </tuv>
     </tu>
     <tu>
@@ -35137,6 +35161,14 @@ zelf bij de eerste keer dat het wordt uitgevoerd.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keep Unico&amp;de literals (\uXXXX)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T104921Z" creationid="Dick" creationdate="20221220T104921Z">
+        <seg>Letterlijke tekens voor Unico&amp;de (\uXXXX) behouden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keep in mind that a pair group must have both its opening and its closing tag deleted to ensure that all traces of the formatting are properly erased, otherwise the translated file may become corrupted.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135828Z">
@@ -36386,6 +36418,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>Limitation of Liability.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line length in target files (0 = no limit)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T104849Z" creationid="Dick" creationdate="20221220T104849Z">
+        <seg>Regellengte in doelbestanden (0 = geen beperking)</seg>
       </tuv>
     </tu>
     <tu>
@@ -38376,10 +38416,26 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Monolin&amp;gual</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T104742Z" creationid="Dick" creationdate="20221220T104742Z">
+        <seg>Ëéntali&amp;g</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Monolingual</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20130708T092851Z" creationid="Dirk" creationdate="20130708T092851Z">
         <seg>Eéntalig</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Monolingual XLIFF</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T105025Z" creationid="Dick" creationdate="20221220T105025Z">
+        <seg>Ëéntalige XLIFF</seg>
       </tuv>
     </tu>
     <tu>
@@ -43998,6 +44054,14 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120401T164704Z">
         <seg>PDF-bestanden vallen in twee categorieën: echte en "gescande" PDF's.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PDF text contents</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T104757Z" creationid="Dick" creationdate="20221220T104757Z">
+        <seg>PDF tekstinhoud</seg>
       </tuv>
     </tu>
     <tu>
@@ -52300,6 +52364,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20180605T080834Z" creationid="DiGro (Dick)" creationdate="20180605T080834Z">
         <seg>Stabiel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Standar&amp;d</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T104713Z" creationid="Dick" creationdate="20221220T104713Z">
+        <seg>Standaar&amp;d</seg>
       </tuv>
     </tu>
     <tu>
