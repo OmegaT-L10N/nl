@@ -4200,9 +4200,9 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
         <seg>--config-dir=&lt;path&gt;
 	  The folder used to read or write OmegaT configuration files.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20221214T144040Z" creationid="Dick" creationdate="20221214T144040Z">
+      <tuv lang="nl" changeid="Dick" changedate="20221220T153457Z" creationid="Dick" creationdate="20221214T144040Z">
         <seg>--config-dir=&lt;pad&gt;
-	  De map die wordt gebruikt voor het lezen of schrijven naar Omegat confoguratie-bestanden.</seg>
+	  De map die wordt gebruikt voor het lezen of schrijven naar Omegat configuratie-bestanden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4527,9 +4527,9 @@ en laad het project.</seg>
         <seg>--resource-bundle=&lt;path&gt;
 	  A Java .properties file to use for the interface text.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20221214T144119Z" creationid="Dick" creationdate="20221214T144119Z">
+      <tuv lang="nl" changeid="Dick" changedate="20221220T153431Z" creationid="Dick" creationdate="20221214T144119Z">
         <seg>--resource-bundle=&lt;pad&gt;
-	  Een Java .properties-bestand om te gebruiken voor de tekst van de interface..</seg>
+	  Een Java .properties-bestand om te gebruiken voor de tekst van de interface.</seg>
       </tuv>
     </tu>
     <tu>
