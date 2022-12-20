@@ -13319,6 +13319,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allow local external search commands</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T152744Z" creationid="Dick" creationdate="20221220T152744Z">
+        <seg>Opdrachten voor lokaal extern zoeken toestaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allow only unique characters</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20130930T165802Z" creationid="Dirk" creationdate="20130930T165703Z">
@@ -18890,6 +18898,14 @@ of er nog aanvullende stappen moeten worden uitgevoerd.</seg>
         <seg>Context Menu Priority:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T130953Z" creationid="Dirk" creationdate="20170914T130953Z">
+        <seg>Prioriteit contextmenu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Context menu priority:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T152748Z" creationid="Dick" creationdate="20221220T152748Z">
         <seg>Prioriteit contextmenu:</seg>
       </tuv>
     </tu>
@@ -24796,6 +24812,14 @@ Gossamer-drempel houdt u tegen
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>External Search Set</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T152807Z" creationid="Dick" creationdate="20221220T152807Z">
+        <seg>Instelling Extern zoeken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External Search...</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T121734Z" creationid="Dirk" creationdate="20170914T121422Z">
@@ -27506,6 +27530,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221218T134158Z" creationid="Dick" creationdate="20221218T134158Z">
         <seg>Globale &amp;segmentatieregels…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Global External Searches</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T152638Z" creationid="Dick" creationdate="20221220T152638Z">
+        <seg>Globaal extern zoeken</seg>
       </tuv>
     </tu>
     <tu>
@@ -32872,6 +32904,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In editor</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T152709Z" creationid="Dick" creationdate="20221220T152709Z">
+        <seg>In venster Bewerken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In fact, their structure is very similar to that of OpenOffice.org files: they consists of a zip archive containing multiple files, and the files containing the text are based upon the XML standard.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120401T133317Z">
@@ -37542,6 +37582,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T102512Z" creationid="Dick" creationdate="20221220T102512Z">
         <seg>Lokaal extern zoe&amp;ken…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local External Searches</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T152645Z" creationid="Dick" creationdate="20221220T152645Z">
+        <seg>Lokaal extern zoeken</seg>
       </tuv>
     </tu>
     <tu>
@@ -52100,8 +52148,8 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       <tuv lang="en">
         <seg>Sets</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dirk" changedate="20160906T170225Z" creationid="Dirk" creationdate="20160906T170225Z">
-        <seg>Sets</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T152703Z" creationid="Dirk" creationdate="20160906T170225Z">
+        <seg>Instellingen</seg>
       </tuv>
     </tu>
     <tu>
