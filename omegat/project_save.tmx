@@ -881,6 +881,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Allow blank target segments</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T104528Z" creationid="Dick" creationdate="20221220T104528Z">
+        <seg>Vertalen &amp;blanco bronsegmenten toestaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Allow blank translations in the target files</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20121207T200910Z">
@@ -17893,6 +17901,14 @@ OmegaT gebruikt de volgende bibliotheken:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Column index must be equal to 1</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T104510Z" creationid="Dick" creationdate="20221220T104510Z">
+        <seg>Kolomindex moet gelijk zijn aan 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Combines the substitution and highlighting functions of te-gloss-highlight and te-gloss-subst.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131226T152508Z" creationid="Dirk" creationdate="20131226T152508Z">
@@ -23398,6 +23414,14 @@ Niemand hoort u schreeuwen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error loading plugin from class '{0}': {1}: {2}</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T104451Z" creationid="Dick" creationdate="20221220T104451Z">
+        <seg>Fout bij laden plug-in vanuit klasse '{0}': {1}: {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error monitoring external command!</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20130310T120811Z">
@@ -23489,6 +23513,14 @@ Niemand hoort u schreeuwen.</seg>
         <seg>Error unload plugin from class '{0}': {1}</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20130518T113440Z">
+        <seg>Fout bij ontladen van plug-in vanuit klasse '{0}': {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error unloading plugin from class '{0}': {1}</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T104500Z" creationid="Dick" creationdate="20221220T104500Z">
         <seg>Fout bij ontladen van plug-in vanuit klasse '{0}': {1}</seg>
       </tuv>
     </tu>
@@ -31478,6 +31510,14 @@ work and works based on it.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T124601Z">
         <seg>Negeren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignore &amp;PO header</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T104632Z" creationid="Dick" creationdate="20221220T104632Z">
+        <seg>&amp;PO-koptekst negeren</seg>
       </tuv>
     </tu>
     <tu>
@@ -42340,8 +42380,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>OmegaT will try to resegment the TMX file...</seg>
       </tuv>
-      <tuv lang="nl" changeid="DiGro" changedate="20110112T190507Z">
-        <seg>OmegaT zal proberen het TMX-bestand opnieuw te segmenteren...</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T104433Z">
+        <seg>OmegaT zal proberen het TMX-bestand opnieuw te segmenteren…</seg>
       </tuv>
     </tu>
     <tu>
@@ -51228,6 +51268,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Skipped translation units for which no source segment was found.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T104327Z" creationid="Dick" creationdate="20221220T104327Z">
+        <seg>Overgeslagen vertaaleenheden waarvoor geen bronsegment werd gevonden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Skipping previously loaded plugin from class '{0}'</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20190418T093730Z" creationid="DiGro (Dick)" creationdate="20190418T093730Z">
@@ -51768,6 +51816,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source file encoding</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T104514Z" creationid="Dick" creationdate="20221220T104514Z">
+        <seg>Codering van bronbestand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source file loading complete</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T185921Z">
@@ -51780,6 +51836,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134406Z">
         <seg>Type bronbestand, patroon voor bestandsnaam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source filename pattern</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T104512Z" creationid="Dick" creationdate="20221220T104512Z">
+        <seg>Patroon voor bronbestandsnaam</seg>
       </tuv>
     </tu>
     <tu>
@@ -55152,6 +55216,22 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T190408Z">
         <seg>Het TMX-bestand kan niet worden geladen
 Probeer alstublieft de fout te corrigeren en herlaad het project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The TMX file will still be loaded.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T104412Z" creationid="Dick" creationdate="20221220T104412Z">
+        <seg>Het TMX-bestand zal nog steeds worden geladen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The TMX source language ({0}) differs from the project source language ({1}).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T104348Z" creationid="Dick" creationdate="20221220T104348Z">
+        <seg>De TMX-brontaal ({0}) verschilt van de brontaal van het project ({1}).</seg>
       </tuv>
     </tu>
     <tu>
@@ -63874,6 +63954,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translate &amp;blank source segments</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T104620Z" creationid="Dick" creationdate="20221220T104620Z">
+        <seg>B&amp;lanco bronsegmenten vertalen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translate a PDF file</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T130624Z" creationid="Dick" creationdate="20190516T130624Z">
@@ -63986,6 +64074,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated file encoding</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T104516Z" creationid="Dick" creationdate="20221220T104516Z">
+        <seg>Codering van vertaald bestand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated file path cannot be identical to the source file path:
 {0}</seg>
       </tuv>
@@ -64000,6 +64096,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T112406Z" creationid="Dick" creationdate="20190516T112351Z">
         <seg>Vertaalde bestandsnaam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated filename pattern</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T104517Z" creationid="Dick" creationdate="20221220T104517Z">
+        <seg>Patroon voor vertaalde bestandsnaam</seg>
       </tuv>
     </tu>
     <tu>
@@ -70581,6 +70685,14 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Your current project uses sentence segmentation, but the TMX file was created using paragraph segmentation.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T104423Z" creationid="Dick" creationdate="20221220T104423Z">
+        <seg>Uw huidige project gebruikt zin-segmentatie, maar het TMX-bestand werd gemaakt met alineasegmentatie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Your documents and translation memories remain on your computer, and the &lt;a2&gt;OmegaT&lt;/a2&gt; project will have no access to your work or information.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T141912Z">
@@ -76510,6 +76622,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T190319Z">
         <seg>geladen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>loaded {0} attributes.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T104239Z" creationid="Dick" creationdate="20221220T104239Z">
+        <seg>{0} attributen geladen.</seg>
       </tuv>
     </tu>
     <tu>
