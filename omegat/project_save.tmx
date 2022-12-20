@@ -2769,6 +2769,14 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(Leave the Password empty if you are using an API key.)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T145920Z" creationid="Dick" creationdate="20221220T145920Z">
+        <seg>(Laat het wachtwoord leeg als u een API-sleutel gebruikt.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(Not to be confused with the "Text Export" feature, which also enables scripts to be used with OmegaT, but on a more basic level.)</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131226T154631Z" creationid="Dirk" creationdate="20131226T154631Z">
@@ -18863,6 +18871,14 @@ OmegaT gebruikt de volgende bibliotheken:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Conversion to the new team project format cannot be performed in console mode.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T150313Z" creationid="Dick" creationdate="20221220T150313Z">
+        <seg>Cconversie naar de indeling voor het nieuwe teamproject kan niet worden uitgevoerd in de modus Console.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Convert</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20180605T081839Z" creationid="DiGro (Dick)" creationdate="20180605T081839Z">
@@ -21665,6 +21681,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays alternative translations you have created for repeated segments in the project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T150003Z" creationid="Dick" creationdate="20221220T150003Z">
+        <seg>Geeft alternatieve vertalingen weer die u hebt gemaakt voor segmenten die worden herhaald in het project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays comments in the active segment if they exist in the source file and the file filter supports it (e.g. PO-filter).</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120327T163730Z">
@@ -23590,6 +23614,14 @@ is the language code and YY is the region or country code (optional).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T110646Z">
         <seg>Voer, in het veld &lt;e0&gt;URL of repository&lt;/e0&gt;, de URL in die werd verschaft door ProjectLocker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter the name of this set:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T150030Z" creationid="Dick" creationdate="20221220T150030Z">
+        <seg>Voer de naam voor deze set in:</seg>
       </tuv>
     </tu>
     <tu>
@@ -27184,6 +27216,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120708T191209Z">
         <seg>Git '{0}' uitvoering begint</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Git notification: {0}</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T150157Z" creationid="Dick" creationdate="20221220T150157Z">
+        <seg>Git-notificatie: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -40235,6 +40275,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No writable glossary file in the glossary folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T150110Z" creationid="Dick" creationdate="20221220T150110Z">
+        <seg>Geen beschrijfbaar woordenlijstbestand in de map glossary.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Non-ASCII Only</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T130400Z" creationid="Dirk" creationdate="20170914T130400Z">
@@ -49082,6 +49130,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Run script in slot #{0}.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T150019Z" creationid="Dick" creationdate="20221220T150019Z">
+        <seg>Voer script uit via slot #{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Run script on slot #{0}.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120103T175540Z">
@@ -53692,6 +53748,14 @@ makes it unnecessary.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T123356Z" creationid="Dirk" creationdate="20170914T123356Z">
         <seg>Subscription Key:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Subscription key:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T145939Z" creationid="Dick" creationdate="20221220T145939Z">
+        <seg>Sleutel voor abonnement:</seg>
       </tuv>
     </tu>
     <tu>
@@ -59577,6 +59641,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The specified project is an OmegaT 3.6 team project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T150223Z" creationid="Dick" creationdate="20221220T150223Z">
+        <seg>Het gespecificeerde project is een OmegaT 3.6 teamproject.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The specified project is an OmegaT 3.6-style team project.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T123504Z" creationid="Dirk" creationdate="20170914T123504Z">
@@ -65025,6 +65097,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translate this plural as a plural form #{0}.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T150044Z" creationid="Dick" creationdate="20221220T150044Z">
+        <seg>Vertaal dit meervoud als meervoudsvorm #{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated File Encoding</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T190529Z">
@@ -65777,6 +65857,14 @@ Exacte zoekacties komen overeen met de gehele zoekterm.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T185926Z">
         <seg>Niet in staat om een nieuw TMX-bestand te maken!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to commit because remote translation was changed.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T150143Z" creationid="Dick" creationdate="20221220T150143Z">
+        <seg>Kan niet indienen omdat de vertaling op afstand werd gewijzigd.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67389,6 +67477,14 @@ searchable without subscription:</seg>
         <seg>Username or API Key:</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20180920T170317Z" creationid="DiGro (Dick)" creationdate="20180920T170317Z">
+        <seg>Gebruikersnaam of API-sleutel:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Username or API key:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T145904Z" creationid="Dick" creationdate="20221220T145904Z">
         <seg>Gebruikersnaam of API-sleutel:</seg>
       </tuv>
     </tu>
