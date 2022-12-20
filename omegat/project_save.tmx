@@ -43188,8 +43188,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>Only if (X)HTML file has an &amp;encoding declaration</seg>
       </tuv>
-      <tuv lang="nl" changeid="DiGro" changedate="20110112T191635Z">
-        <seg>Alleen als (X)HTML-bestand een &amp;codering-declaratie heeft</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T120823Z">
+        <seg>Alleen als (X)HTML-bestand een declaratie voor de &amp;codering heeft</seg>
       </tuv>
     </tu>
     <tu>
