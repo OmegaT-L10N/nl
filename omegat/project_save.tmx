@@ -14929,6 +14929,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>B&amp;rowse...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T102322Z" creationid="Dick" creationdate="20221220T102322Z">
+        <seg>B&amp;laderen…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Back in Iceni Infix, import the translated XML file back into &lt;i0&gt;the PDF from which you exported it&lt;/i0&gt;.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120402T173133Z">
@@ -15513,6 +15521,14 @@ Neem nog een biertje.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T190046Z">
         <seg>Blader&amp;en</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Brows&amp;e...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T102339Z" creationid="Dick" creationdate="20221220T102339Z">
+        <seg>Blader&amp;en…</seg>
       </tuv>
     </tu>
     <tu>
@@ -19313,6 +19329,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create Project Folder</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T102614Z" creationid="Dick" creationdate="20221220T102614Z">
+        <seg> Projectmap maken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create Translated Documents</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T131321Z">
@@ -20157,6 +20181,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20150914T101925Z" creationid="Dirk" creationdate="20150914T101925Z">
         <seg>Huidig geheugengebruik door de VM: {0}MB; waarvan vrij geheugen: {1}MB; maximaal beschikbaar: {2}MB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Current project configuration will be overridden by the remote project configuration.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T102722Z" creationid="Dick" creationdate="20221220T102722Z">
+        <seg>Huidige configuratie van het project zal worden overschreven door de configuratie op afstand van het project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26779,8 +26811,8 @@ that there is no warranty for this free software.</seg>
       <tuv lang="en">
         <seg>Glossary Files Folder</seg>
       </tuv>
-      <tuv lang="nl" changeid="DiGro" changedate="20110112T190053Z">
-        <seg>map Woordenlijst</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T102403Z">
+        <seg>map Woordenlijsten</seg>
       </tuv>
     </tu>
     <tu>
@@ -36447,6 +36479,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T185920Z">
         <seg>Laden: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local External Searc&amp;hes...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T102512Z" creationid="Dick" creationdate="20221220T102512Z">
+        <seg>Lokaal extern zoe&amp;ken…</seg>
       </tuv>
     </tu>
     <tu>
@@ -46369,6 +46409,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Re&amp;pository Mapping...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T102436Z" creationid="Dick" creationdate="20221220T102436Z">
+        <seg>Ma&amp;ppen in opslagplaats…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Read the tag operations section to see what can be done with tags.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135935Z">
@@ -51863,6 +51911,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T165840Z">
         <seg>Specificeer de codering voor uw 'platte tekst'-bestanden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specify their new location or recreate them.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T102558Z" creationid="Dick" creationdate="20221220T102558Z">
+        <seg>Specificeer hun nieuwe locatie of maak ze opnieuw.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63807,8 +63863,8 @@ install.sh.</seg>
       <tuv lang="en">
         <seg>Translation Memory Files Folder</seg>
       </tuv>
-      <tuv lang="nl" changeid="DiGro" changedate="20110112T190054Z">
-        <seg>map Vertaalgeheugen</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T102407Z">
+        <seg>map Vertaalgeheugens</seg>
       </tuv>
     </tu>
     <tu>
@@ -64017,6 +64073,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131227T163518Z" creationid="Dirk" creationdate="20131227T163518Z">
         <seg>Trunk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Trying with backup file</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T102640Z" creationid="Dick" creationdate="20221220T102640Z">
+        <seg>Proberen met back-upbestand</seg>
       </tuv>
     </tu>
     <tu>
@@ -68141,6 +68205,14 @@ Uw pagina werd niet gevonden</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T165810Z">
         <seg>Werken met platte tekst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writable Glossary File</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T102420Z" creationid="Dick" creationdate="20221220T102420Z">
+        <seg>Te beschrijven bestand voor de woordenlijst</seg>
       </tuv>
     </tu>
     <tu>
