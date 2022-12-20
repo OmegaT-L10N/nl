@@ -897,6 +897,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Allow local post-processing commands</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T150923Z" creationid="Dick" creationdate="20221220T150923Z">
+        <seg>Lok&amp;ale opdrachten voor nabewerken toestaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Allow only unique characters</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T124236Z" creationid="Dirk" creationdate="20170914T124236Z">
@@ -17269,6 +17277,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check the tag issues again.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T150957Z" creationid="Dick" creationdate="20221220T150957Z">
+        <seg>Controleer de problemen met tags opnieuw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check the web site for the latest list of implemented language pairs.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T143910Z">
@@ -19989,6 +20005,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creation of new team project cancelled</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T150728Z" creationid="Dick" creationdate="20221220T150728Z">
+        <seg>Maken van nieuw teamproject geannuleerd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creator</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20140419T144643Z" creationid="Dirk" creationdate="20140419T144643Z">
@@ -22259,6 +22283,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Double-check it and try again.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T150805Z" creationid="Dick" creationdate="20221220T150805Z">
+        <seg>Controleer het nogmaals en probeer het opnieuw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Double-click on &lt;f0&gt;OmegaT.app&lt;/f0&gt; or click on its location in the Dock.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T135905Z" creationid="Dick" creationdate="20190516T135905Z">
@@ -23891,6 +23923,14 @@ Niemand hoort u schreeuwen.</seg>
         <seg>Error retrieve {0} as remote project file</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T171623Z" creationid="Dirk" creationdate="20160906T171623Z">
+        <seg>Fout bij ophalen van {0} als projectbestand op afstand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error retrieving {0} as remote project file</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T150820Z" creationid="Dick" creationdate="20221220T150820Z">
         <seg>Fout bij ophalen van {0} als projectbestand op afstand</seg>
       </tuv>
     </tu>
@@ -25733,6 +25773,14 @@ actually uses, or expects or is expected to use, the product.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For best results, install the appropriate dictionaries via Preferences &gt; Spellchecker.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151053Z" creationid="Dick" creationdate="20221220T151053Z">
+        <seg>Installeer, voor de beste resultaten. de toepasselijke woordenboeken via Voorkeuren &gt; Spellingscontrole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For best results, please install the appropriate dictionaries via Options &gt; Spell Checking.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T115101Z">
@@ -27322,6 +27370,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T121033Z" creationid="Dick" creationdate="20221220T121033Z">
         <seg>Globale segmentatieregels</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Global post-processing commands</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T150909Z" creationid="Dick" creationdate="20221220T150909Z">
+        <seg>Globale opdrachten voor nabewerken</seg>
       </tuv>
     </tu>
     <tu>
@@ -40261,6 +40317,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No predefined credentials passed.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T150815Z" creationid="Dick" creationdate="20221220T150815Z">
+        <seg>Vooraf gedefinieerde inloggegevens niet doorgegeven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No project loaded.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20180605T081436Z" creationid="DiGro (Dick)" creationdate="20180605T081436Z">
@@ -46826,6 +46890,14 @@ lokaal project zonder functionaliteit voor team.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project data saving interval</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T150857Z" creationid="Dick" creationdate="20221220T150857Z">
+        <seg>Interval voor opslaan van projectgegevens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project file should be on http protocol.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T171449Z" creationid="Dirk" creationdate="20160906T171449Z">
@@ -48760,6 +48832,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T172310Z" creationid="Dirk" creationdate="20160906T172310Z">
         <seg>Conflicten oplossen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Resolve the conflicts by choosing a translation for each segment below.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151105Z" creationid="Dick" creationdate="20221220T151105Z">
+        <seg>Los de conflicten op door hieronder een vertaling voor elk segment te kiezen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55261,6 +55341,14 @@ Het bereik van een tekstvervanging zijn de doelsegmenten van het project, of zij
         <seg>Text to be removed</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20130310T121753Z">
+        <seg>Tekst die moet worden verwijderd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text to remove</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T150934Z" creationid="Dick" creationdate="20221220T150934Z">
         <seg>Tekst die moet worden verwijderd</seg>
       </tuv>
     </tu>
@@ -67399,6 +67487,14 @@ De huidige instelling is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>User credentials denied</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T150832Z" creationid="Dick" creationdate="20221220T150739Z">
+        <seg>Inloggegevens voor gebruiker geweigerd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>User denied credentials</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20121207T202102Z">
@@ -68689,6 +68785,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T162638Z">
         <seg>Als een ander venster op de voorgrond staat, klik dan op het hoofdvenster om het weer op de voorgrond te plaatsen of druk op &lt;k0&gt;Esc&lt;/k0&gt; om dat venster te sluiten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When checked, the items in the glossary auto-completer view will also contain the source text.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151018Z" creationid="Dick" creationdate="20221220T151018Z">
+        <seg>Indien geselecteerd zullen de items, in de weergave voor auto-aanvullen van de woordenlijst, ook de brontekst bevatten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70335,6 +70439,14 @@ for enforcing compliance by third parties with this License.</seg>
         <seg>You are trying to use the HunspellTokenizer with the language {0}, but no spelling dictionaries are installed for this language.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131214T141844Z" creationid="Dirk" creationdate="20131214T141733Z">
+        <seg>U probeert de HunspellTokenizer te gebruiken met de taal {0}, maar er zijn geen woordenboeken voor spelling geïnstalleerd voor deze taal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You are trying to use the HunspellTokenizer with {0}, but no spelling dictionaries are installed for this language.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151038Z" creationid="Dick" creationdate="20221220T151038Z">
         <seg>U probeert de HunspellTokenizer te gebruiken met de taal {0}, maar er zijn geen woordenboeken voor spelling geïnstalleerd voor deze taal.</seg>
       </tuv>
     </tu>
