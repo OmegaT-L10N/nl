@@ -11575,6 +11575,14 @@ the only significant mode of use of the product.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A rule ID can only contain Latin letters, underscores, and periods.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T145523Z" creationid="Dick" creationdate="20221220T145523Z">
+        <seg>Een ID van de regel mag alleen Latijnse letters, underscores en punten bevatten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A schematic diagram is shown below:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T161341Z" creationid="Dirk" creationdate="20131225T161341Z">
@@ -11814,6 +11822,22 @@ included in conveying the object code work.</seg>
         <seg>API Key:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T123329Z" creationid="Dirk" creationdate="20170914T123329Z">
+        <seg>API-sleutel:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>API key (optional)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T145805Z" creationid="Dick" creationdate="20221220T145805Z">
+        <seg>API-sleutel (optioneel)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>API key:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T145800Z" creationid="Dick" creationdate="20221220T145800Z">
         <seg>API-sleutel:</seg>
       </tuv>
     </tu>
@@ -20757,6 +20781,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DeepL API key not available.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T145858Z" creationid="Dick" creationdate="20221220T145858Z">
+        <seg>Sleutel voor DeepL API niet beschikbaar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DeepL Api key not available.</seg>
       </tuv>
       <tuv lang="nl" changeid="Kos Ivantsov" changedate="20180402T093247Z" creationid="Kos Ivantsov" creationdate="20180402T093247Z">
@@ -23129,6 +23161,14 @@ propagate that work, subject to this License.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T173731Z">
         <seg>Beide kunnen als bron of doel worden gebruikt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Either update to the latest JDK 1.6, or remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T145754Z" creationid="Dick" creationdate="20221220T145754Z">
+        <seg>Werk uw JDK 1.6 bij naar de laatste versie, of verwijder de jaxb-*.jar-bestanden uit de OmegaT map /lib</seg>
       </tuv>
     </tu>
     <tu>
@@ -27532,6 +27572,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go to Segment Source</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T145658Z" creationid="Dick" creationdate="20221220T145658Z">
+        <seg>Ga naar bronsegment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go to https://term.tilde.com/account/keys/create?system=omegaT to create your own key then give it to OmegaT with -Dtaas.user.key=xxxxx</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T171957Z" creationid="Dirk" creationdate="20160906T171957Z">
@@ -27544,6 +27592,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T132043Z">
         <seg>menu Ga naar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Google API key not available.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T145832Z" creationid="Dick" creationdate="20221220T145832Z">
+        <seg>Sleutel voor Google API niet beschikbaar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33632,6 +33688,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Match or Selection into Translation</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T145703Z" creationid="Dick" creationdate="20221220T145703Z">
+        <seg>Overeenkomst of selectie in vertaling invoegen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Missing Source &amp;Tags</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20130411T171654Z">
@@ -35920,6 +35984,14 @@ zelf bij de eerste keer dat het wordt uitgevoerd.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T192202Z">
         <seg>Taalcontrole</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Language Installer</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T145550Z" creationid="Dick" creationdate="20221220T145550Z">
+        <seg>Installatieporgramma voor taal</seg>
       </tuv>
     </tu>
     <tu>
@@ -40103,6 +40175,14 @@ measures.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T192130Z">
         <seg>Er zijn geen nieuwe woordenboeken beschikbaar op de server op afstand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No new languages available at the remote server.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T145627Z" creationid="Dick" creationdate="20221220T145627Z">
+        <seg>Er zijn geen nieuwe talen beschikbaar op de server op afstand.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45658,6 +45738,14 @@ of er nog aanvullende stappen moeten worden uitgevoerd.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Plugin Installer</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T145639Z" creationid="Dick" creationdate="20221220T145639Z">
+        <seg>Installatieporgramma voor plug-in</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Plugin successfully loaded from class '{0}'</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20130708T092816Z" creationid="Dirk" creationdate="20130708T092816Z">
@@ -50408,6 +50496,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the user guide for instructions.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T145850Z" creationid="Dick" creationdate="20221220T145850Z">
+        <seg>Bekijk de gebruikershandleiding voor instructies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Seen from this point of view, they are plain text files&lt;e1&gt; plus&lt;/e1&gt; translation memories.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135441Z">
@@ -50848,6 +50944,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select a plugin file (*.jar, *.zip)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T145653Z" creationid="Dick" creationdate="20221220T145653Z">
+        <seg>Selecteer bestand voor een plug-in (*.jar, *.zip)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select a supplier from the list and, if necessary, click &lt;g0&gt;Configure&lt;/g0&gt; to enter the identification details provided by the supplier.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T092645Z" creationid="Dick" creationdate="20190516T092645Z">
@@ -50956,6 +51060,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T173719Z">
         <seg>Selecteer de back-up van het vertaalgeheugen dat meest waarschijnlijk (bijv. de meest recente of de laatste versie van de dag ervoor) de gegevens bevat die u nodig hebt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the desired languages and click Install.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T145616Z" creationid="Dick" creationdate="20221220T145616Z">
+        <seg>Selecteer de gewenste taal en klik op Installeren.</seg>
       </tuv>
     </tu>
     <tu>
