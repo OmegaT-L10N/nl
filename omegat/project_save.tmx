@@ -12321,6 +12321,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add to Dictionary</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T145021Z" creationid="Dick" creationdate="20221220T145021Z">
+        <seg>Aan woordenboek toevoegen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Added {0} glossary entries from {1}</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131214T141318Z" creationid="Dirk" creationdate="20131214T141318Z">
@@ -15007,6 +15015,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T192132Z">
         <seg>Beschikbare woordenboeken:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Available languages:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T145057Z" creationid="Dick" creationdate="20221220T145057Z">
+        <seg>Beschikbare talen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -29203,6 +29219,16 @@ not survive such relicensing or conveying.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T130704Z" creationid="Dick" creationdate="20211118T130704Z">
         <seg>Als een gebruikersinterface in deze taal beschikbaar is gebruikt OmegaT die.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If access to the desired location is granted later,
+that location will be used and all settings will be reset to
+their default values.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T145009Z" creationid="Dick" creationdate="20221220T145009Z">
+        <seg>Indien later toch toegang tot de gewenste locatie wordt gegeven, zal die locatie worden gebruikt en zullen alle instellingen terugkeren naar hun standaardwaarden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52932,6 +52958,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Spellcheck the tr&amp;anslation</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T145047Z" creationid="Dick" creationdate="20221220T145047Z">
+        <seg>Voer spellingscontrole uit op de ver&amp;taling</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Spellchecker</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T124544Z">
@@ -52960,6 +52994,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120401T131328Z">
         <seg>Spellingscontrole</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spellchecking dictionaries location:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T145119Z" creationid="Dick" creationdate="20221220T145119Z">
+        <seg>Locatie van de woordenboeken voor spellingscontrole:</seg>
       </tuv>
     </tu>
     <tu>
@@ -62714,9 +62756,8 @@ protecting users' freedom to change the software.</seg>
         <seg>This will reset all
 settings to their defaults.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20221220T144745Z" creationid="Dick" creationdate="20221220T144745Z">
-        <seg>Dit zal alle
-instellingen herstellen naar nun standardwaarden.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T144916Z" creationid="Dick" creationdate="20221220T144745Z">
+        <seg>Dit zal alle instellingen herstellen naar nun standardwaarden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71327,6 +71368,15 @@ provided under this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You may therefore experience
+unexpected, but correct behaviour.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T144909Z" creationid="Dick" creationdate="20221220T144909Z">
+        <seg>U zou daarom iets onverwachts, maar correct gedrag, kunnen ervaren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You may try to solve this problem in one of the following ways:</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T184909Z">
@@ -71599,6 +71649,15 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
 create its configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T192035Z">
+        <seg>Uw besturingssysteem weigerde OmegaT zijn configuratiemap te laten maken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your operating system refused to let OmegaT
+create the configuration folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T144928Z" creationid="Dick" creationdate="20221220T144928Z">
         <seg>Uw besturingssysteem weigerde OmegaT zijn configuratiemap te laten maken.</seg>
       </tuv>
     </tu>
