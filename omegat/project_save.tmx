@@ -22723,6 +22723,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Duplicated</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151526Z" creationid="Dick" creationdate="20221220T151526Z">
+        <seg>Is duplicaat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>During SVN error({0}),
 project_save.tmx was not really uploaded and SVN switched to unstable status.</seg>
       </tuv>
@@ -28158,6 +28166,22 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>Hans-Peter Jacobs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Has Comment, see Comments Tab</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151721Z" creationid="Dick" creationdate="20221220T151721Z">
+        <seg>Heeft opmerking, bekijk de tab Opmerking</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Has Note, see Notes Tab</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151652Z" creationid="Dick" creationdate="20221220T151611Z">
+        <seg>Heeft notitie, bekijk de tab Notitie</seg>
       </tuv>
     </tu>
     <tu>
@@ -35869,10 +35893,26 @@ zelf bij de eerste keer dat het wordt uitgevoerd.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keep Remote Version</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151434Z" creationid="Dick" creationdate="20221220T151434Z">
+        <seg>Behoudt de versie op afstand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keep Unico&amp;de literals (\uXXXX)</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T104921Z" creationid="Dick" creationdate="20221220T104921Z">
         <seg>Letterlijke tekens voor Unico&amp;de (\uXXXX) behouden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keep Your Version</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151426Z" creationid="Dick" creationdate="20221220T151426Z">
+        <seg>Behoudt uw versie</seg>
       </tuv>
     </tu>
     <tu>
@@ -40269,6 +40309,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151535Z" creationid="Dick" creationdate="20221220T151535Z">
+        <seg>Nee</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No .DOCX files to clean.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20180605T081647Z" creationid="DiGro (Dick)" creationdate="20180605T081647Z">
@@ -40297,6 +40345,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170104T181113Z" creationid="Dirk" creationdate="20170104T181113Z">
         <seg>Geen problemen gevonden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No Note</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151657Z" creationid="Dick" creationdate="20221220T151618Z">
+        <seg>Geen notitie</seg>
       </tuv>
     </tu>
     <tu>
@@ -44656,6 +44712,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Original version</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151403Z" creationid="Dick" creationdate="20221220T151403Z">
+        <seg>Originele versie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Originally, these bilingual file formats may have been a by-product of the tool's architecture.</seg>
       </tuv>
       <tuv lang="nl">
@@ -48274,6 +48338,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remote version</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151416Z" creationid="Dick" creationdate="20221220T151416Z">
+        <seg>Versie op afstand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Removal of these codes is described below.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120401T150340Z">
@@ -51330,6 +51402,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select appropriate version</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151330Z" creationid="Dick" creationdate="20221220T151330Z">
+        <seg>Selecteer de juiste versie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select issue types to check.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T125130Z" creationid="Dirk" creationdate="20170914T125130Z">
@@ -51502,6 +51582,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120401T155100Z">
         <seg>Selecteer uw macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select your version, the original version or the remote version.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151354Z" creationid="Dick" creationdate="20221220T151354Z">
+        <seg>Selecteer uw versie, de originele versie of de versie op afstand.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65665,6 +65753,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation is</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151452Z" creationid="Dick" creationdate="20221220T151452Z">
+        <seg>Vertaling is</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation is fuzzy</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T172527Z" creationid="Dirk" creationdate="20160906T172527Z">
@@ -70463,6 +70559,14 @@ Uw pagina werd niet gevonden</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151446Z" creationid="Dick" creationdate="20221220T151446Z">
+        <seg>Ja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Yiddish</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T130630Z">
@@ -72329,6 +72433,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221218T131000Z" creationid="Dick" creationdate="20221218T131000Z">
         <seg>Uw project lijkt geen vertaalbare bestanden te bevatten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your version</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151409Z" creationid="Dick" creationdate="20221220T151409Z">
+        <seg>Uw versie</seg>
       </tuv>
     </tu>
     <tu>
@@ -79019,8 +79131,8 @@ create the configuration folder.</seg>
       <tuv lang="en">
         <seg>no</seg>
       </tuv>
-      <tuv lang="nl">
-        <seg>no</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151550Z">
+        <seg>nee</seg>
       </tuv>
     </tu>
     <tu>
@@ -79077,6 +79189,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>not convey it at all.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>not fuzzy</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151512Z" creationid="Dick" creationdate="20221220T151512Z">
+        <seg>niet fuzzy</seg>
       </tuv>
     </tu>
     <tu>
