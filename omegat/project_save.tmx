@@ -1617,6 +1617,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Jump to Segment</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T152106Z" creationid="Dick" creationdate="20221220T152106Z">
+        <seg>&amp;Spring naar segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Keyword search</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T190151Z">
@@ -12401,6 +12409,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add to Dictionary: “{0}”</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T152115Z" creationid="Dick" creationdate="20221220T152115Z">
+        <seg>Aan woordenboek toevoegen: “{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Added {0} glossary entries from {1}</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131214T141318Z" creationid="Dirk" creationdate="20131214T141318Z">
@@ -13463,6 +13479,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Alternative</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151739Z" creationid="Dick" creationdate="20221220T151739Z">
+        <seg>Alternatief</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alternative Language</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T123253Z" creationid="Dirk" creationdate="20170914T123253Z">
@@ -13976,6 +14000,14 @@ work under this License, and how to view a copy of this License.</seg>
         <seg>An item of the name "{0}" already exists at this location.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T173333Z" creationid="Dirk" creationdate="20160906T173333Z">
+        <seg>Een item met de naam "{0}" bestaat al op deze locatie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An item with the name "{0}" already exists at this location.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151946Z" creationid="Dick" creationdate="20221220T151946Z">
         <seg>Een item met de naam "{0}" bestaat al op deze locatie.</seg>
       </tuv>
     </tu>
@@ -24084,6 +24116,14 @@ Niemand hoort u schreeuwen.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20220217T104947Z" creationid="Dick" creationdate="20220217T104947Z">
         <seg>Fout bij verkrijgen van uitvoer van extern programma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error while loading the source files.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151827Z" creationid="Dick" creationdate="20221220T151827Z">
+        <seg>Fout bij het laden van de bronbestanden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40325,6 +40365,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No Comment</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151728Z" creationid="Dick" creationdate="20221220T151728Z">
+        <seg>Geen opmerking</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No GPG executable found; set it in the Git preferences in section "Committing", or define it in the git config gpg.program</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20220217T105502Z" creationid="Dick" creationdate="20220217T105502Z">
@@ -40733,6 +40781,14 @@ measures.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T130400Z">
         <seg>Noors Nynorsk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not Alternative</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151754Z" creationid="Dick" creationdate="20221220T151754Z">
+        <seg>Geen alternatief</seg>
       </tuv>
     </tu>
     <tu>
@@ -44700,6 +44756,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T141317Z" creationid="Dick" creationdate="20190516T141230Z">
         <seg>Oracle levert JRE's voor Solaris SPARC/x86 (Java 8) en voor Linux x64, Solaris x64, Windows x64 (Java 8) op &lt;u0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Origin</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T151807Z" creationid="Dick" creationdate="20221220T151807Z">
+        <seg>Origine</seg>
       </tuv>
     </tu>
     <tu>
