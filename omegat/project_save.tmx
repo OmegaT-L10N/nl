@@ -17333,6 +17333,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check whether your repository has correct commits and files.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T150615Z" creationid="Dick" creationdate="20221220T150615Z">
+        <seg>Controleer of uw opslagplaats de juiste commits en bestanden heeft.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check whole project</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T124504Z">
@@ -18697,6 +18705,16 @@ OmegaT gebruikt de volgende bibliotheken:
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T161300Z" creationid="DiGro (Dick)" creationdate="20170915T161300Z">
         <seg>Neem contact op met de relevante coördinator voor het werken aan de vertaling:&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contact your project administrator to find out if any
+additional steps need to be taken.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T150457Z" creationid="Dick" creationdate="20221220T150457Z">
+        <seg>Neem contact op met de beheerder van uw project om uit te zoeken
+of er nog aanvullende stappen moeten worden uitgevoerd.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23646,6 +23664,14 @@ is the language code and YY is the region or country code (optional).</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T185519Z">
         <seg>Voer het segmentnummer in:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter username/password for {0}</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T150649Z" creationid="Dick" creationdate="20221220T150649Z">
+        <seg>Voer uw gebruikersnaam/wachtwoord in {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -43910,6 +43936,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open it in the OmegaT GUI to convert it to the new format.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T150348Z" creationid="Dick" creationdate="20221220T150348Z">
+        <seg>Open het in de gebruikersinterface van OmegaT om het te converteren naar de nieuwe indeling.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open project</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T162714Z">
@@ -46158,6 +46192,14 @@ lokaal project zonder functionaliteit voor team.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Press 'OK' to convert the project into a 4.x team project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T150406Z" creationid="Dick" creationdate="20221220T150406Z">
+        <seg>Druk op 'OK' om het project te converteren naar 4.x teamproject.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Press 'OK' to convert the project into a 4.x-style team project.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T123556Z" creationid="Dirk" creationdate="20170914T123556Z">
@@ -46748,6 +46790,22 @@ lokaal project zonder functionaliteit voor team.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20180605T081522Z" creationid="DiGro (Dick)" creationdate="20180605T081522Z">
         <seg>Project bevat geen bestanden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project conversion failed.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T150544Z" creationid="Dick" creationdate="20221220T150544Z">
+        <seg>Conversie van project mislukt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project conversion successful.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T150451Z" creationid="Dick" creationdate="20221220T150451Z">
+        <seg>Project met succes geconverteerd.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48550,6 +48608,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T161847Z" creationid="Dirk" creationdate="20160906T161847Z">
         <seg>Opslagplaats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repository (type: {0}) URL not defined on path: {1}</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T150526Z" creationid="Dick" creationdate="20221220T150526Z">
+        <seg>Opslagplaats (type: {0}) URL niet gedefinieerd in pad: {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -62881,6 +62947,18 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will
+delete your local data and re-download the project contents from
+the server.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T150420Z" creationid="Dick" creationdate="20221220T150420Z">
+        <seg>Dit
+zal uw lokale gegevens verwijderen en de inhoud van het project opnieuw downloaden
+vanaf de server.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will actually do a checkout of the project in a local folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T110716Z">
@@ -71536,6 +71614,14 @@ om het vanaf elke locatie te kunnen starten.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120402T173754Z">
         <seg>U zou kunnen vinden dat de ingebedde lettertypen in de PDF niet alle tekens bevatten die u nodig hebt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may have forgotten an initial commit.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T150638Z" creationid="Dick" creationdate="20221220T150638Z">
+        <seg>U zou een initiële commit kunnen zijn vergeten.</seg>
       </tuv>
     </tu>
     <tu>
