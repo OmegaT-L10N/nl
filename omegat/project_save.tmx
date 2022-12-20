@@ -23143,6 +23143,15 @@ Uw helppagina werd niet gevonden</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter a language code in xx-YY, xxx-YY, xx_YY or xxx_YY format, where xx or xxx 
+is the language code and YY is the region or country code (optional).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T103019Z" creationid="Dick" creationdate="20221220T103019Z">
+        <seg>Voer een taalcode in als xx-YY, xxx-YY of xx_YY of xxx_YY zijn, waar xx of xxx de taalcode is en YY de regionale of landcode is (optioneel).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter a source term, a target term and a comment:</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T191807Z">
@@ -23859,6 +23868,14 @@ Gossamer-drempel houdt u tegen
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T113116Z">
         <seg>Wezen-segmenten uitgezonderd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exclude pattern</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T102912Z" creationid="Dick" creationdate="20221220T102912Z">
+        <seg>Patroon uitsluiten</seg>
       </tuv>
     </tu>
     <tu>
@@ -32823,6 +32840,14 @@ sue for patent infringement).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Include pattern</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T102919Z" creationid="Dick" creationdate="20221220T102919Z">
+        <seg>Patroon opnemen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T122454Z" creationid="Dirk" creationdate="20170914T122454Z">
@@ -33681,6 +33706,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T161940Z" creationid="Dirk" creationdate="20160906T161940Z">
         <seg>Ongeldig type opslagplaats: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Invalid translated file language!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T103045Z" creationid="Dick" creationdate="20221220T103045Z">
+        <seg>Ongeldig taal vertaald bestand!</seg>
       </tuv>
     </tu>
     <tu>
@@ -36531,6 +36564,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local file/folder</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T102908Z" creationid="Dick" creationdate="20221220T102908Z">
+        <seg>Lokaal bestand/map</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local installation path:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170104T180532Z" creationid="Dirk" creationdate="20170104T180532Z">
@@ -37278,6 +37319,14 @@ permissions.</seg>
         <seg>Mapping of Local Folders to Remote Folders in Repositories</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T161841Z" creationid="Dirk" creationdate="20160906T161841Z">
+        <seg>Mappen van lokale mappen naar mappen op afstand in opslagplaatsen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping of local folders to remote folders in repositories</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T102904Z" creationid="Dick" creationdate="20221220T102904Z">
         <seg>Mappen van lokale mappen naar mappen op afstand in opslagplaatsen</seg>
       </tuv>
     </tu>
@@ -46953,6 +47002,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remote file/folder</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T102910Z" creationid="Dick" creationdate="20221220T102910Z">
+        <seg>Bestand/Map op afstand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remote location of the files to translate.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T125503Z" creationid="Dick" creationdate="20190516T125503Z">
@@ -46973,6 +47030,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20220826T170203Z" creationid="Dick" creationdate="20220826T170203Z">
         <seg>Projectbestand op afstand heeft geen instelling voor git.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remote repositories</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T102859Z" creationid="Dick" creationdate="20221220T102859Z">
+        <seg>Opslagplaatsen op afstand</seg>
       </tuv>
     </tu>
     <tu>
@@ -57254,6 +57319,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The original file is backed up as: {0}</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T102847Z" creationid="Dick" creationdate="20221220T102755Z">
+        <seg>Het originele bestand is gebackupt als: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The output from running a</seg>
       </tuv>
       <tuv lang="nl">
@@ -58176,6 +58249,14 @@ earlier work or a work "based on" the earlier work.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T190117Z">
         <seg>De opgegeven taal voor de bronbestanden is ongeldig!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The source files folder does not exist!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T103116Z" creationid="Dick" creationdate="20221220T103116Z">
+        <seg>De map Bronbestanden bestaat niet!</seg>
       </tuv>
     </tu>
     <tu>
