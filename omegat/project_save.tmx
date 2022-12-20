@@ -21673,6 +21673,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do not use the file name to &amp;identify alternate translations</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T110552Z" creationid="Dick" creationdate="20221220T110552Z">
+        <seg>Gebruik niet de bestandsnaam om alternatieve vertalingen te &amp;identificeren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do you have a Java implementation compatible with Oracle's Java 1.6 JRE?</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T140628Z">
@@ -24810,6 +24818,14 @@ Gossamer-drempel houdt u tegen
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Filename variables:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T110605Z" creationid="Dick" creationdate="20221220T110605Z">
+        <seg>Bestandsnaam variabelen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Files containing formatting (ODF documents, HTML documents, etc.) are segmented on the block-level (paragraph) tags.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T171959Z">
@@ -26932,6 +26948,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Global File Filters</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T110249Z" creationid="Dick" creationdate="20221220T110249Z">
+        <seg>Globale bestandsfilters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Global spell checking</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T124543Z">
@@ -27504,6 +27528,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>HTML en XHTML, zijn XML equivalent, zijn de meest algemene bestandsindelingen voor webpagina's.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>HTML file too big!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T110623Z" creationid="Dick" creationdate="20221220T110623Z">
+        <seg>HTML-bestand te groot!</seg>
       </tuv>
     </tu>
     <tu>
@@ -36766,6 +36798,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local File Filters</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T110257Z" creationid="Dick" creationdate="20221220T110257Z">
+        <seg>Lokale bestandsfilters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local File/Folder</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T161903Z" creationid="Dirk" creationdate="20160906T161903Z">
@@ -40481,6 +40521,14 @@ measures.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T191624Z">
         <seg>Opmerking: De instelling van Codering voor bronbestand heeft alleen invloed op de HTML-bestanden die zelf geen codering-declaratie in zich hebben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note: The Source file encoding setting only affects HTML files with no encoding declaration.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T110726Z" creationid="Dick" creationdate="20221220T110726Z">
+        <seg>Opmerking: De instelling van Codering voor bronbestand heeft alleen invloed op HTML-bestanden die geen declaratie voor de codering in zich hebben.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45472,6 +45520,14 @@ of er nog aanvullende stappen moeten worden uitgevoerd.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Preserve &amp;spaces for all tags</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T110504Z" creationid="Dick" creationdate="20221220T110504Z">
+        <seg>&amp;Spaties voor alle tags behouden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Preserve spaces &amp;for all tags</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T122030Z" creationid="Dirk" creationdate="20170914T122030Z">
@@ -46056,6 +46112,14 @@ lokaal project zonder functionaliteit voor team.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T185936Z">
         <seg>Projectstatistieken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project autosaved at {0}</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T110609Z" creationid="Dick" creationdate="20221220T110609Z">
+        <seg>Project automatisch opgeslagen om {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -50324,6 +50388,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select a filter and click on Edit... or Options... to customize it.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T110417Z" creationid="Dick" creationdate="20221220T110417Z">
+        <seg>Selecteer een filter en klik opn Bewerken… of Opties… om het aan te passen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select a supplier from the list and, if necessary, click &lt;g0&gt;Configure&lt;/g0&gt; to enter the identification details provided by the supplier.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T092645Z" creationid="Dick" creationdate="20190516T092645Z">
@@ -52048,6 +52120,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source file encoding:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T110601Z" creationid="Dick" creationdate="20221220T110601Z">
+        <seg>Codering van bronbestand:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source file loading complete</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T185921Z">
@@ -52068,6 +52148,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T104512Z" creationid="Dick" creationdate="20221220T104512Z">
         <seg>Patroon voor bronbestandsnaam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source filename pattern:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T110558Z" creationid="Dick" creationdate="20221220T110558Z">
+        <seg>Patroon voor bronbestandsnaam:</seg>
       </tuv>
     </tu>
     <tu>
@@ -64346,6 +64434,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated file encoding:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T110603Z" creationid="Dick" creationdate="20221220T110603Z">
+        <seg>Codering van vertaald document:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated file path cannot be identical to the source file path:
 {0}</seg>
       </tuv>
@@ -65138,6 +65234,14 @@ Exacte zoekacties komen overeen met de gehele zoekterm.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T124935Z">
         <seg>Ongewijzigde zinnen worden automatisch vertaald, terwijl bijgewerkte zinnen worden getoond met de vertaling van de meest gelijkende oudere versie van dezelfde zin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Uncheck the box to disable it.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T110439Z" creationid="Dick" creationdate="20221220T110439Z">
+        <seg>Deselecteer het vak om het uit te schakelen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66116,6 +66220,14 @@ De huidige instelling is {0}MB;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221218T135753Z" creationid="Dick" creationdate="20221218T135753Z">
         <seg>Lokale &amp;segmentatieregels gebruiken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use local file fil&amp;ter settings</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T110327Z" creationid="Dick" creationdate="20221220T110327Z">
+        <seg>Gebruik instellingen voor lokale bestandfil&amp;ters</seg>
       </tuv>
     </tu>
     <tu>
