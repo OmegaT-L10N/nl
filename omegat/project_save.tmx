@@ -26417,6 +26417,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Full/half-&amp;width char insensitive</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T103444Z" creationid="Dick" creationdate="20221220T103444Z">
+        <seg>Volledige/Halve &amp;breedte tekens ongevoelig</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Further points to note regarding TMX files:</seg>
       </tuv>
       <tuv lang="nl">
@@ -35156,6 +35164,14 @@ zelf bij de eerste keer dat het wordt uitgevoerd.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T171158Z">
         <seg>Zoeken met sleutelwoord is hetzelfde als zoekacties "met alle woorden" in een internetzoekmachine zoals Google (logische EN).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keyword searches match all space-separated keywords in any order.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T103734Z" creationid="Dick" creationdate="20221220T103734Z">
+        <seg>Zoekacties op sleutelwoorden komen overeen met alle spatie gescheiden sleutelwoorden, ongeacht hun volgorde.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46794,6 +46810,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regular expression searches match Java regular expressions as documented in the user guide.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T103745Z" creationid="Dick" creationdate="20221220T103745Z">
+        <seg>Zoekacties met reguliere expressies komen overeen met de reguliere expressies voor Java, zoals gedocumenteerd in de gebruikershandleiding.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regular expression searches match Java regular expressions as documented in the user manual.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T113045Z">
@@ -48743,6 +48767,16 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     <tu>
       <tuv lang="en">
         <seg>Scope:
+Searches apply to the project and cover its source and target text, reference TMs, glossaries, notes, and comments by default.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T103554Z" creationid="Dick" creationdate="20221220T103554Z">
+        <seg>Bereik:
+Zoekacties worden standaard uitgevoerd op de bron en het doel, TM's als verwijzing, woordenlijsten, notities en opmerkingen van het project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scope:
 The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T113038Z">
@@ -49108,6 +49142,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T170555Z">
         <seg>Zoeken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Searches can also be performed on a specified folder hierarchy.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T103704Z" creationid="Dick" creationdate="20221220T103704Z">
+        <seg>Zoekacties kunnen ook worden uitgevoerd op een gespecificeerde hiërarchie van mappen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61875,6 +61917,14 @@ your copyrighted material outside their relationship with you.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tick or untick the appropriate boxes to change these settings.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T103624Z" creationid="Dick" creationdate="20221220T103624Z">
+        <seg>Selecteer of deselecteer de toepasselijke vakken om deze instellingen te wijzigen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tigrinya</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T130538Z">
@@ -67872,6 +67922,16 @@ technological measures.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>WiX Localization (*.wxl)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wildcards:
+Both exact and keyword searches support the * and ?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221220T103832Z" creationid="Dick" creationdate="20221220T103832Z">
+        <seg>Jokertekens:
+Zowel exacte als zoekacties op sleutelwoorden ondersteunen de * en ?</seg>
       </tuv>
     </tu>
     <tu>
