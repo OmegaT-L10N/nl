@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_d3885e17f" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -39420,6 +39420,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Model ID:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Kos Ivantsov" changedate="20221221T090616Z" creationid="Kos Ivantsov" creationdate="20221221T090616Z">
+        <seg>Model ID:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Model Id:</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20180920T170331Z" creationid="DiGro (Dick)" creationdate="20180920T170331Z">
@@ -46564,6 +46572,14 @@ of er nog aanvullende stappen moeten worden uitgevoerd.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>PowerPoint</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Kos Ivantsov" changedate="20221221T090603Z" creationid="Kos Ivantsov" creationdate="20221221T090603Z">
+        <seg>PowerPoint</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Powerful tools</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170916T114939Z" creationid="DiGro (Dick)" creationdate="20170916T114939Z">
@@ -49938,6 +49954,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>SUCH DAMAGES.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SVG  / Adobe Illustrator Export</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Kos Ivantsov" changedate="20221221T090559Z" creationid="Kos Ivantsov" creationdate="20221221T090559Z">
+        <seg>SVG / Adobe Illustrator Export</seg>
       </tuv>
     </tu>
     <tu>
@@ -76087,6 +76111,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>further charge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>fuzzy</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Kos Ivantsov" changedate="20221221T090535Z" creationid="Kos Ivantsov" creationdate="20221221T090535Z">
+        <seg>fuzzy</seg>
       </tuv>
     </tu>
     <tu>
