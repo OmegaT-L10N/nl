@@ -30557,6 +30557,14 @@ to choose that version for the Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the applicable functions are used, this folder can contain up to three text files:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T144538Z" creationid="Dick" creationdate="20221221T144538Z">
+        <seg>Als de toepasbare functies worden gebruikt kan deze map tot drie tekstbestanden bevatten:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the appropriate filter is found, the file is assigned to it for processing.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134410Z">
@@ -60983,6 +60991,22 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The text in the file is replaced each time a new segment is entered.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T144811Z" creationid="Dick" creationdate="20221221T144811Z">
+        <seg>De tekst in het bestand wordt elke keer vervangen als een nieuw segment wordt ingevoerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The text in the file is replaced each time this function is called.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T144651Z" creationid="Dick" creationdate="20221221T144651Z">
+        <seg>De tekst in het bestand wordt, elke keer als de functie wordt aangeroepen, vervangen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The text is exported to a plain text file.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T163001Z">
@@ -62913,6 +62937,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file contains the &lt;e0&gt;original text&lt;/e0&gt; from of the current segment when the &lt;l1/&gt; preference is enabled.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T144740Z" creationid="Dick" creationdate="20221221T144740Z">
+        <seg>Dit bestand bevat de &lt;e0&gt;originele tekst&lt;/e0&gt; uit het huidige segment als de voorkeur &lt;l1/&gt; is ingeschakeld.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file describes the overall OmegaT layout.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221221T144113Z" creationid="Dick" creationdate="20221221T144113Z">
@@ -62957,6 +62989,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134901Z">
         <seg>Dit bestand slaat foutberichten van Java op terwijl &lt;a0&gt;OmegaT&lt;/a0&gt; wordt uitgevoerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file stores the currently selected text when &lt;l0/&gt;&lt;l1/&gt; is used.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T144613Z" creationid="Dick" creationdate="20221221T144613Z">
+        <seg>Dit ebstand slaat de huidige geselecteerde tekst op als &lt;l0/&gt;&lt;l1/&gt; wordt gebruikt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67981,6 +68021,14 @@ De huidige instelling is {0}MB;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221221T143215Z" creationid="Dick" creationdate="20221221T143215Z">
         <seg>Gebruik &lt;l0/&gt;&lt;l1/&gt; om er direct toegang toe te krijgen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to view the contents of the file.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T144432Z" creationid="Dick" creationdate="20221221T144432Z">
+        <seg>Gebruik &lt;l0/&gt;&lt;l1/&gt; om de inhoud van het bestand te bekijken.</seg>
       </tuv>
     </tu>
     <tu>
