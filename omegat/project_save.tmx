@@ -18673,6 +18673,14 @@ OmegaT gebruikt de volgende bibliotheken:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Configuration Folder</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T143057Z" creationid="Dick" creationdate="20221221T143057Z">
+        <seg>Configuratiemap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Configuration in OmegaT</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120401T164259Z">
@@ -57644,6 +57652,14 @@ Probeer alstublieft de fout te corrigeren en herlaad het project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The configuration folder stores the majority of the OmegaT options and preferences for the user.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T143146Z" creationid="Dick" creationdate="20221221T143146Z">
+        <seg>De configuratiemap bevat de meerderheid van de opties voor OmegaT en de voorkeuren voor de gebruiker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The configuration folder will be used
 instead.</seg>
       </tuv>
@@ -67829,6 +67845,14 @@ De huidige instelling is {0}MB;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T140018Z" creationid="Dick" creationdate="20211118T140018Z">
         <seg>Gebruik &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;L&lt;/k2&gt;&lt;/k0&gt; om het te openen en &lt;k3&gt;Esc&lt;/k3&gt; om het te sluiten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access it directly.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T143215Z" creationid="Dick" creationdate="20221221T143215Z">
+        <seg>Gebruik &lt;l0/&gt;&lt;l1/&gt; om er direct toegang toe te krijgen.</seg>
       </tuv>
     </tu>
     <tu>
