@@ -36260,6 +36260,14 @@ zelf bij de eerste keer dat het wordt uitgevoerd.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Key shortcut description reminder:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T150601Z" creationid="Dick" creationdate="20221221T150601Z">
+        <seg>Hint voor beschrijving toets sneltoets:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>testen vand</note>
       <tuv lang="en">
         <seg>Key:</seg>
@@ -39250,10 +39258,26 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Menu items that do not have a shortcut indicated next to them have no default shortcut assigned by default.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T150432Z" creationid="Dick" creationdate="20221221T150432Z">
+        <seg>Menuitems die geen sneltoets naast zich hebben aangegeven, hebben standaard geen standaar sneltoets aan zich toegewezen gekregen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Menus</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T110324Z" creationid="Dick" creationdate="20190517T110324Z">
         <seg>Menu's</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Menus are where you access most of OmegaT's functions.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T150248Z" creationid="Dick" creationdate="20221221T150248Z">
+        <seg>Menu'szijn waar u toegang krijgt tot de meeste functies van OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39850,6 +39874,14 @@ your receipt of the notice.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T131030Z">
         <seg>Aan de meeste items die verschijnen in het hoofdmenu kan een sneltoets worden toegewezen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Most of the menu items are associated with a keyboard shortcut.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T150327Z" creationid="Dick" creationdate="20221221T150327Z">
+        <seg>De meeste menuitems zijn geassocieerd aan een sneltoets voor het toetsenbord.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51350,6 +51382,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221221T145043Z" creationid="Dick" creationdate="20221221T145043Z">
         <seg>Bekijk de appendix &lt;l0/&gt; voor details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l0/&gt; appendix if you want to modify or add shortcuts.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T150515Z" creationid="Dick" creationdate="20221221T150515Z">
+        <seg>Bekijk de appendix &lt;l0/&gt; wanneer u sneltoetsen wilt aanpassen of toevoegen.</seg>
       </tuv>
     </tu>
     <tu>
