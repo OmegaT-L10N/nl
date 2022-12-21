@@ -51354,6 +51354,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; preference for details.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T145502Z" creationid="Dick" creationdate="20221221T145502Z">
+        <seg>Bekijk de &lt;l0/&gt; voorkeuren voor details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; preferences for details.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221221T141842Z" creationid="Dick" creationdate="20221221T141842Z">
@@ -58302,6 +58310,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The file contents are not encrypted.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T145312Z" creationid="Dick" creationdate="20221221T145312Z">
+        <seg>De bestandsinhoud is niet versleuteld.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The file does not need to exist when setting it, it will be created (if necessary) when adding a glossary entry.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135956Z">
@@ -62969,6 +62985,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file contains the login information for your team project repositories.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T145257Z" creationid="Dick" creationdate="20221221T145257Z">
+        <seg>Dit bestand bevat de informatie voor het inloggen in uw opslagplaatsen voor teamprojecten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file describes the overall OmegaT layout.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221221T144113Z" creationid="Dick" creationdate="20221221T144113Z">
@@ -63033,10 +63057,26 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This folder contains your spelling dictionaries.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T145534Z" creationid="Dick" creationdate="20221221T145534Z">
+        <seg>Deze map bevat uw woordenboeken voor de spellingscontrole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This folder is initially empty.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134729Z">
         <seg>Deze map is bij aanvang leeg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder provides an alternative location for manually installed OmegaT extension plugins.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T145437Z" creationid="Dick" creationdate="20221221T145437Z">
+        <seg>Deze map verschaft een alternative locatie voor handmatig geïnstalleerde plug-ins voor het uitbreiden van OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63815,6 +63855,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221221T145122Z" creationid="Dick" creationdate="20221221T145122Z">
         <seg>Dit parameterbestand bevat aangepaste bestandsfilters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This parameter file contains customized segmentation parameters.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T145326Z" creationid="Dick" creationdate="20221221T145326Z">
+        <seg>Dit parameterbestand bevat aangepaste parameters voor segmentatie.</seg>
       </tuv>
     </tu>
     <tu>
