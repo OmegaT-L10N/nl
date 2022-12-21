@@ -51266,6 +51266,22 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; preferences for details.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T141842Z" creationid="Dick" creationdate="20221221T141842Z">
+        <seg>Bekijk de &lt;l0/&gt; voorkeuren voor details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l0/&gt; window for details.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T141935Z" creationid="Dick" creationdate="20221221T141935Z">
+        <seg>Bekijk het venster &lt;l0/&gt; voor details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the GNU General Public License for more detail.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T130908Z">
@@ -58342,6 +58358,38 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The folder where distributed scripts are located.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T141944Z" creationid="Dick" creationdate="20221221T141914Z">
+        <seg>De map waar gedistribueerde scripts zijn geplaatst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The folder where images used by OmegaT are stored.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T141714Z" creationid="Dick" creationdate="20221221T141714Z">
+        <seg>De map waarin afbeeldingen, die worden gebruikt voor OmegaT, zijn opgeslagen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The folder where the libraries used by OmegaT are stored.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T141752Z" creationid="Dick" creationdate="20221221T141752Z">
+        <seg>De map waar de bibliotheken die worden gebruikt door OmegaT zijn opgeslagen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The folder where you can install external plugins.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T141825Z" creationid="Dick" creationdate="20221221T141825Z">
+        <seg>De map waar u externe plug-ins kunt installeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The following code snippet in groovy for instance scans through all the segments in all files in the current project and, if the translation exists, prints out the source and the target of the segment:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T131014Z">
@@ -59001,6 +59049,14 @@ to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221221T141526Z" creationid="Dick" creationdate="20221221T141526Z">
         <seg>De lijst met individuele deelnemers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The list of libraries used by OmegaT.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T141634Z" creationid="Dick" creationdate="20221221T141634Z">
+        <seg>De lijst van door OmegaT gebruikte bibliotheken.</seg>
       </tuv>
     </tu>
     <tu>
