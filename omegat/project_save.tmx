@@ -29601,6 +29601,14 @@ hoeft niet het volledige pad te worden ingevoerd.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If OmegaT behaves erratically, include this file, or the relevant part thereof, to your report.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T144411Z" creationid="Dick" creationdate="20221221T144411Z">
+        <seg>Als OmegaT zich vreemd lijkt te gedragen is neem dan dit bestand, of het relevante gedeelte daarvan, op in uw foutenrapport.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If OmegaT needs to use an authenticated proxy server to access the Internet, enter the details provided by the proxy administrator here.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T120741Z" creationid="Dick" creationdate="20190516T120741Z">
@@ -44396,6 +44404,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142609Z">
         <seg>Alleen het bestand test.html in de map dir-10 zal worden verwerkt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only this preference currently requires manual modification.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T144040Z" creationid="Dick" creationdate="20221221T144040Z">
+        <seg>Momenteel vereist alleen deze voorkeur handmatige aanpassing.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59365,6 +59381,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The most current is &lt;f0&gt;OmegaT.log&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T144146Z" creationid="Dick" creationdate="20221221T144146Z">
+        <seg>Het meest recente is &lt;f0&gt;OmegaT.log&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The most frequently used functions are accessible with keyboard shortcuts, so once you become accustomed to them, you will no longer need to browse through the menus while translating.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T095528Z">
@@ -61933,6 +61957,14 @@ not accept this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These files record various internal state and program event messages generated while OmegaT is running.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T144258Z" creationid="Dick" creationdate="20221221T144258Z">
+        <seg>Deze bestanden leggen verschillende interne status en berichten voor programmagebeurtenissen vast, gegenereerd terwijl OmegaT wordt uitgevoerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These files won't be deleted automatically on the translator's side: you must ask them to delete the files manually.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T130146Z" creationid="Dick" creationdate="20190516T123732Z">
@@ -62881,6 +62913,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file describes the overall OmegaT layout.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T144113Z" creationid="Dick" creationdate="20221221T144113Z">
+        <seg>Dit bestand beschrijft de algehele lay-out van OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file format enables OmegaT users to deliver bilingual files to users of Déjà Vu DVX, who are then able to edit them further or to incorporate them into automated workflows.</seg>
       </tuv>
       <tuv lang="nl">
@@ -62917,6 +62957,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134901Z">
         <seg>Dit bestand slaat foutberichten van Java op terwijl &lt;a0&gt;OmegaT&lt;/a0&gt; wordt uitgevoerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder contains a number of log files.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T144133Z" creationid="Dick" creationdate="20221221T144133Z">
+        <seg>Deze map bevat een aantal logbestanden.</seg>
       </tuv>
     </tu>
     <tu>
