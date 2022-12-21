@@ -11475,6 +11475,14 @@ consequence of further modification of the contributor version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A link to the support page.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T141422Z" creationid="Dick" creationdate="20221221T141422Z">
+        <seg>Een koppeling naar de pagina voor ondersteuning.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A list of possible arguments is given below.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142145Z">
@@ -17257,6 +17265,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T144952Z">
         <seg>Controleer in Opties &gt; Machinevertaling of Google Translate V2 is geselecteerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check it if you need information on OmegaT's evolution.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T141327Z" creationid="Dick" creationdate="20221221T141327Z">
+        <seg>Controleer het om te zien of u informatie nodig hebt over de evolutie van OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23131,6 +23147,14 @@ propagate that work, subject to this License.</seg>
         <seg>Each time you convey a covered work, the recipient automatically
 receives a license from the original licensors, to run, modify and
 propagate that work, subject to this License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each translated user manual comes in a different language folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T141559Z" creationid="Dick" creationdate="20221221T141559Z">
+        <seg>Elke vertaalde gebruikershandleiding staat in een afzonderlijk map voor de taal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51234,6 +51258,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; chapter for details.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T141214Z" creationid="Dick" creationdate="20221221T141214Z">
+        <seg>Bekijk het hoofdstuk &lt;l0/&gt; voor details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the GNU General Public License for more detail.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T130908Z">
@@ -52702,6 +52734,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T130103Z" creationid="Dick" creationdate="20190516T114353Z">
         <seg>Voer op soortgelijke wijze &lt;u0&gt;&lt;.*?&gt;&lt;/u0&gt; in om er voor te zorgen dat HTML-tags (bijvoorbeeld) die zijn ingevoerd in de bron zonder aanpassingen worden behouden in de vertaling.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Simple installation and running instructions.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T141446Z" creationid="Dick" creationdate="20221221T141446Z">
+        <seg>Simpele instructies voor installatie en het uitvoeren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57942,6 +57982,22 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The documentation distribution license.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T141344Z" creationid="Dick" creationdate="20221221T141344Z">
+        <seg>De documentatie distributielicentie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The documentation folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T141506Z" creationid="Dick" creationdate="20221221T141506Z">
+        <seg>De map voor de documentatie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The documentation is Copyright ©2013 Vito Smolej, ©2014-2016 Vincent Bidaux.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T130748Z" creationid="Dirk" creationdate="20160910T130723Z">
@@ -58660,6 +58716,14 @@ parts of the General Public License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The index to the multilingual user manual.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T141406Z" creationid="Dick" creationdate="20221221T141406Z">
+        <seg>De index voor de meertalige gebruikershandleiding.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The individual bilingual file formats are described below.</seg>
       </tuv>
       <tuv lang="nl">
@@ -58921,6 +58985,22 @@ to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>De lijst hieronder is &lt;s0&gt;geen&lt;/s0&gt; volledige lijst van alle bestandsindelingen die worden ondersteund door OmegaT, maar is beperkt to die welke in het bijzonder interessant zijn voor gewone gebruikers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The list of improvements and bug fixes.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T141241Z" creationid="Dick" creationdate="20221221T141241Z">
+        <seg>De lijst met verbeteringen en opgeloste problemen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The list of individual contributors.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T141526Z" creationid="Dick" creationdate="20221221T141526Z">
+        <seg>De lijst met individuele deelnemers.</seg>
       </tuv>
     </tu>
     <tu>
