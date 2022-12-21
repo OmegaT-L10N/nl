@@ -12529,6 +12529,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Additional contents</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T144958Z" creationid="Dick" creationdate="20221221T144958Z">
+        <seg>Aanvullende inhoud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Additional parameter is required in this case, specifying the location of the target data:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142522Z">
@@ -51322,6 +51330,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; appendix for details.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T145043Z" creationid="Dick" creationdate="20221221T145043Z">
+        <seg>Bekijk de appendix &lt;l0/&gt; voor details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; chapter for details.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221221T141214Z" creationid="Dick" creationdate="20221221T141214Z">
@@ -62945,6 +62961,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file contains the &lt;e0&gt;translated text&lt;/e0&gt; from the current segment when the &lt;l1/&gt; preference is enabled.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T144833Z" creationid="Dick" creationdate="20221221T144833Z">
+        <seg>Dit bestand bevat de &lt;e0&gt;vertaalde tekst&lt;/e0&gt; uit het huidige segment als de voorkeur &lt;l1/&gt; is ingeschakeld.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file describes the overall OmegaT layout.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221221T144113Z" creationid="Dick" creationdate="20221221T144113Z">
@@ -63763,6 +63787,46 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This parameter file contains customized autotext parameters.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T145207Z" creationid="Dick" creationdate="20221221T145207Z">
+        <seg>Dit parameterbestand bevat aangepaste parameters voor autotekst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This parameter file contains customized editor shortcuts.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T145028Z" creationid="Dick" creationdate="20221221T145028Z">
+        <seg>Dit parameterbestand bevat aangepaste sneltoetsen voor de bewerker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This parameter file contains customized external search parameters.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T145149Z" creationid="Dick" creationdate="20221221T145149Z">
+        <seg>Dit parameterbestand bevat aangepaste parameters voor Extern zoeken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This parameter file contains customized file filters.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T145122Z" creationid="Dick" creationdate="20221221T145122Z">
+        <seg>Dit parameterbestand bevat aangepaste bestandsfilters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This parameter file contains customized user interface shortcuts.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T145104Z" creationid="Dick" creationdate="20221221T145104Z">
+        <seg>Dit parameterbestand bevat aangepaste sneltoetsen voor de gebruikersinterface.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This plan shows what translation/localization work has already been done on OmegaT, and what work is currently in progress.</seg>
       </tuv>
       <tuv lang="nl">
@@ -64204,6 +64268,14 @@ settings to their defaults.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>Thomas Huriaux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Those three files provide as a simple way to access some OmegaT content and process it with local programs such as shell scripts.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T144949Z" creationid="Dick" creationdate="20221221T144949Z">
+        <seg>Deze drie bestanden verschaffen een eenvoudige manier om toegang te verkijgen tot enige inhoud van OmegaT en het te verwerken met lokale programma's, zoals shell scripts.</seg>
       </tuv>
     </tu>
     <tu>
