@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_d3885e17f" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14381,6 +14381,14 @@ paragraph of section 11).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T105809Z" creationid="Dick" creationdate="20190517T105809Z">
         <seg>Appendices</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Application Folder</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T140827Z" creationid="Dick" creationdate="20221221T140827Z">
+        <seg>Toepassingsmap</seg>
       </tuv>
     </tu>
     <tu>
@@ -43744,6 +43752,22 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT's distribution license.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T141115Z" creationid="Dick" creationdate="20221221T141115Z">
+        <seg>OmegaT's distributielicentie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT's executable.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T141131Z" creationid="Dick" creationdate="20221221T141131Z">
+        <seg>OmegaT's uitvoerbare bestand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT's glossary files are plain-text files in the format:</seg>
       </tuv>
       <tuv lang="nl">
@@ -56618,6 +56642,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The GPL version 3.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T141121Z" creationid="Dick" creationdate="20221221T141121Z">
+        <seg>De GPL versie 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Glossary pane allows you to access your own collection of expressions and specialist terminology which you have built up in your glossary files.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T095444Z">
@@ -57176,6 +57208,22 @@ Probeer alstublieft de fout te corrigeren en herlaad het project.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T143030Z" creationid="Dirk" creationdate="20131225T143030Z">
         <seg>Het uiterlijk van lettertypen in OmegaT op Linux kan veel verschillen, afhankelijk van:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The application folder contains the &lt;f0&gt;OmegaT.jar&lt;/f0&gt; application and a number of other important files.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T140909Z" creationid="Dick" creationdate="20221221T140909Z">
+        <seg>De toepassingsmap bevat de toepassing &lt;f0&gt;OmegaT.jar&lt;/f0&gt; en een aantal andere belangrijke bestanden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The application folder location depends on your platform and on the way you have installed OmegaT.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T141009Z" creationid="Dick" creationdate="20221221T141009Z">
+        <seg>De locatie van de teopassingsmap is afhankelijk van uw  platform en de manier waarop OmegaT hebt geïnstalleerd.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59727,6 +59775,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T140340Z">
         <seg>De te herkennen extensies zijn &lt;f1&gt;TXT&lt;/f1&gt; en &lt;f2&gt;UTF8&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The recommended or default locations are the following:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T141037Z" creationid="Dick" creationdate="20221221T141037Z">
+        <seg>De aanbevolen of standaard locaties zijn de volgende:</seg>
       </tuv>
     </tu>
     <tu>
@@ -68069,6 +68125,14 @@ De huidige instelling is {0}MB;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T174202Z">
         <seg>Gebruikt om tags te valideren (openen met &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;V&lt;/k3&gt; &lt;/k0&gt;, sluiten met &lt;k4&gt;Esc&lt;/k4&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Used when launching OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T141152Z" creationid="Dick" creationdate="20221221T141152Z">
+        <seg>Gebruikt bij het opstarten van OmegaT vanaf de opdrachtregel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -80497,6 +80561,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>oss</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>other platforms</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T141056Z" creationid="Dick" creationdate="20221221T141056Z">
+        <seg>andere platforms</seg>
       </tuv>
     </tu>
     <tu>
