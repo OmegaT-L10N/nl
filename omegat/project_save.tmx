@@ -31619,6 +31619,14 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you do not use the default configuration folder, all modifications made in the &lt;l0&gt;preferences&lt;/l0&gt; will be stored in the specified configuration folder and will not appear when you resume work with the default configuration folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T143712Z" creationid="Dick" creationdate="20221221T143712Z">
+        <seg>Als u de standaard configuratiemap niet gebruikt, zullen alle wijzigingen die worden gemaakt in de &lt;l0&gt;voorkeuren&lt;/l0&gt; worden opgeslagen in de gespecificeerde configuratiemap en en zullen niet verschijnen wanneer u uw werk voortzet met de standaard configuratiemap.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you do not wish &lt;a0&gt;OmegaT&lt;/a0&gt; to send your source segments to Google to get translated, untick the Google Translate menu entry in Options.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T143853Z">
@@ -39552,6 +39560,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T124540Z">
         <seg>Aangepaste segmenten:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modified preferences are stored in the configuration folder used by the project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T143530Z" creationid="Dick" creationdate="20221221T143530Z">
+        <seg>Aangepaste voorkeuren worden opgeslagen in de configuratiemap die wordt gebruikt door het project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51274,6 +51290,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; how-to for details.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T143454Z" creationid="Dick" creationdate="20221221T143454Z">
+        <seg>Bekijk de &lt;l0/&gt; how-to voor details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; preferences for details.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221221T141842Z" creationid="Dick" creationdate="20221221T141842Z">
@@ -59129,6 +59153,14 @@ to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T140321Z">
         <seg>De locatie van het bestand &lt;f1&gt;.tbx&lt;/f1&gt; moet liggen binnen de map &lt;f2&gt;/glossary&lt;/f2&gt;, maar het mag in een diepere map staan (bijv. &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The location of the default configuration folder varies by system (the &lt;e0&gt;~&lt;/e0&gt; character represents your home folder):</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T143327Z" creationid="Dick" creationdate="20221221T143327Z">
+        <seg>De locatie van de standaard configuratiemap varieeert per systeem (het teken &lt;e0&gt;~&lt;/e0&gt; geeft uw thuismap aan):</seg>
       </tuv>
     </tu>
     <tu>
@@ -72182,6 +72214,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T171507Z" creationid="Dirk" creationdate="20131225T171507Z">
         <seg>U kunt eenvoudig starten door een scriptbestand te schrijven,d.i. een platte-tekstbestand dat deze twee regels bevat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can specify a configuration folder other than the default when you start OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T143445Z" creationid="Dick" creationdate="20221221T143445Z">
+        <seg>U kunt, als u OmegaT start vanaf de opdrachtregel, een andere dan de standaard configuratiemap specificeren.</seg>
       </tuv>
     </tu>
     <tu>
