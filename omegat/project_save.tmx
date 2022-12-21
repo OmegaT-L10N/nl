@@ -8134,6 +8134,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; or &lt;k1&gt;Control&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T150659Z" creationid="Dick" creationdate="20221221T150659Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; of &lt;k1&gt;Control&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;k0&gt;F1:&lt;/k0&gt; Opens this manual in the default browser.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T162618Z" creationid="Dirk" creationdate="20160910T162618Z">
@@ -8170,6 +8178,38 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>&lt;k0&gt;Shift&lt;/k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;alt / option&lt;/k0&gt; or &lt;k1&gt;⌥&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T150719Z" creationid="Dick" creationdate="20221221T150719Z">
+        <seg>&lt;k0&gt;alt / option&lt;/k0&gt; of &lt;k1&gt;⌥&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;command&lt;/k0&gt; or &lt;k1&gt;⌘&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T150708Z" creationid="Dick" creationdate="20221221T150708Z">
+        <seg>&lt;k0&gt;command&lt;/k0&gt; of &lt;k1&gt;⌘&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;control&lt;/k0&gt; or &lt;k1&gt;⌃&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T150730Z" creationid="Dick" creationdate="20221221T150730Z">
+        <seg>&lt;k0&gt;control&lt;/k0&gt; of &lt;k1&gt;⌃&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;shift&lt;/k0&gt; or &lt;k1&gt;⇧&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T150651Z" creationid="Dick" creationdate="20221221T150651Z">
+        <seg>&lt;k0&gt;shift&lt;/k0&gt; of &lt;k1&gt;⇧&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -36261,6 +36301,14 @@ zelf bij de eerste keer dat het wordt uitgevoerd.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Key identifier</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T150632Z" creationid="Dick" creationdate="20221221T150632Z">
+        <seg>Identificatie toets</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Key shortcut description reminder:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221221T150601Z" creationid="Dick" creationdate="20221221T150601Z">
@@ -39632,6 +39680,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221221T143530Z" creationid="Dick" creationdate="20221221T143530Z">
         <seg>Aangepaste voorkeuren worden opgeslagen in de configuratiemap die wordt gebruikt door het project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modifier key identifiers</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T150622Z" creationid="Dick" creationdate="20221221T150622Z">
+        <seg>Identificatie voor aanpassingstoetsen</seg>
       </tuv>
     </tu>
     <tu>
