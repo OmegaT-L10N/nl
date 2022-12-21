@@ -16119,6 +16119,14 @@ been installed in ROM).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Buttons are very few in OmegaT.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T145927Z" creationid="Dick" creationdate="20221221T145927Z">
+        <seg>Er zijn weinig knoppen OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By Arno Peters and Mariëtte van Drunen (in Dutch).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131226T155500Z" creationid="Dirk" creationdate="20131226T155500Z">
@@ -28806,14 +28814,6 @@ Het is er wintertijd voor</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>How To...</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20190517T110315Z" creationid="Dick" creationdate="20190517T110315Z">
-        <seg>How-To…</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>How they do so is very much up to them.</seg>
       </tuv>
       <tuv lang="nl">
@@ -39838,6 +39838,14 @@ your receipt of the notice.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Most of the action takes place with the help of shortcuts associated to menu items.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T150016Z" creationid="Dick" creationdate="20221221T150016Z">
+        <seg>De meeste acties vinden plaats met behulp van sneltoetsen die zijn geassocieerd aan menuitems.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Most of the items that appear in the main menu can have a new shortcut assigned.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T131030Z">
@@ -43263,6 +43271,14 @@ be launched.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T191527Z">
         <seg>OmegaT licentie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT looks a bit stern, if not outright unfriendly, to people who are used to button based interfaces.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T145917Z" creationid="Dick" creationdate="20221221T145917Z">
+        <seg>OmegaT ziet er een beetje nors, als het al niet gewoon onvriendelijk is, voor mensen die zijn gewend aan een gebruikersinterface met knoppen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52638,6 +52654,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T145004Z">
         <seg>Sneltoetsen worden geactiveerd door te drukken op &lt;k0&gt;Ctrl&lt;/k0&gt; en een letter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shortcuts are ubiquitous in this manual and you should be able very shortly to remember the few that are useful in the course of a standard translation day.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20221221T150216Z" creationid="Dick" creationdate="20221221T150216Z">
+        <seg>Sneltoetsen zijn in deze gebruikerhsndleiding overal aanwezig en u zou op korte termijn in staat moeten zijn om de paar te onthouden die nuttig zijn in het kader van een standaard vertaaldag.</seg>
       </tuv>
     </tu>
     <tu>
