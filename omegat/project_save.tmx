@@ -21859,6 +21859,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display &amp;Modification Info</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230129T132923Z" creationid="Dick" creationdate="20230129T132923Z">
+        <seg>Informatie over &amp;wijzigingen weergeven</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display &amp;Non-Breakable Spaces</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230129T132636Z" creationid="Dick" creationdate="20230129T132636Z">
@@ -39532,6 +39540,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Microsoft Office Open XML (legacy filter)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230129T133049Z" creationid="Dick" creationdate="20230129T133049Z">
+        <seg>Microsoft Office Open XML (oud filter)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Microsoft Office Open XML files</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134328Z">
@@ -39648,6 +39664,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20130411T173003Z">
         <seg>Ontbreekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Missing attribute '{0}' in &lt;{1}&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230129T133218Z" creationid="Dick" creationdate="20230129T133218Z">
+        <seg>Onbrekend attribuut '{0}' in &lt;{1}&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -49290,6 +49314,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Repeated segments: {0}</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230129T133018Z" creationid="Dick" creationdate="20230129T133018Z">
+        <seg>Herhaalde segmenten: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Repetitions from other files:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131214T141227Z" creationid="Dirk" creationdate="20131214T141227Z">
@@ -50256,6 +50288,22 @@ Deze woorden: 'Pagina niet gevonden'</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221218T133113Z" creationid="Dick" creationdate="20221218T133113Z">
         <seg>&amp;Schakel Hoofd-/kleine letters naar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SDL XLIFF</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230129T133114Z" creationid="Dick" creationdate="20230129T133114Z">
+        <seg>SDL-XLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SDL project</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230129T133110Z" creationid="Dick" creationdate="20230129T133110Z">
+        <seg>SDL-project</seg>
       </tuv>
     </tu>
     <tu>
@@ -51748,8 +51796,8 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       <tuv lang="en">
         <seg>Segment {0,number,#}</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dirk" changedate="20150413T102805Z" creationid="Dirk" creationdate="20150413T102805Z">
-        <seg>Segment {0,number,#}</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230129T133026Z" creationid="Dirk" creationdate="20150413T102805Z">
+        <seg>Segment {0,nummer,#}</seg>
       </tuv>
     </tu>
     <tu>
@@ -54542,6 +54590,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T191645Z">
         <seg>Start een nieuwe alinea bij:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start a new segment on:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230129T133249Z" creationid="Dick" creationdate="20230129T133249Z">
+        <seg>Begin een nieuw segment op:</seg>
       </tuv>
     </tu>
     <tu>
@@ -68395,8 +68451,8 @@ De huidige instelling is {0}MB;</seg>
       <tuv lang="en">
         <seg>Use Aggressive &amp;Font Fallback</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230129T132848Z" creationid="Dick" creationdate="20230129T132848Z">
-        <seg>Use Aggressief terugvallen op &amp;lettertype gebruiken</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230129T132854Z" creationid="Dick" creationdate="20230129T132848Z">
+        <seg>Aggressief terugvallen op &amp;lettertype gebruiken</seg>
       </tuv>
     </tu>
     <tu>
@@ -71623,6 +71679,14 @@ Uw pagina werd niet gevonden</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135504Z">
         <seg>XLIFF (*.xlf, *.xliff, *.sdlxliff) - van de variëteit bron=doel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XLIFF (legacy filter)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230129T133039Z" creationid="Dick" creationdate="20230129T133039Z">
+        <seg>XLIFF (oud filter)</seg>
       </tuv>
     </tu>
     <tu>
@@ -76723,6 +76787,14 @@ create the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>for &amp;All Segments</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230129T132952Z" creationid="Dick" creationdate="20230129T132952Z">
+        <seg>voor &amp;alle segmenten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>for (i in 0 ..&lt; files.size())</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170914T161739Z" creationid="DiGro (Dick)" creationdate="20170914T161739Z">
@@ -76735,6 +76807,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170914T161741Z" creationid="DiGro (Dick)" creationdate="20170914T161741Z">
         <seg>for (j in 0 ..&lt; files[i].entries.size())</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>for Current &amp;Segment</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230129T132940Z" creationid="Dick" creationdate="20230129T132940Z">
+        <seg>voor huidige &amp;segment</seg>
       </tuv>
     </tu>
     <tu>
