@@ -1273,6 +1273,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Do not insert the source text</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230129T133445Z" creationid="Dick" creationdate="20230129T133445Z">
+        <seg>&amp;Niet de brontekst invoegen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Do not unescape Unicode literals (\uXXXX)</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T113407Z">
@@ -15019,6 +15027,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Attempt to replace fuzzy match &amp;numbers</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230129T133532Z" creationid="Dick" creationdate="20230129T133532Z">
+        <seg>Poging over fuzzy overeenkomsten in &amp;nummers te vervangen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Attribute:</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120103T175722Z">
@@ -25808,6 +25824,14 @@ Gossamer-drempel houdt u tegen
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T153641Z" creationid="Dirk" creationdate="20131225T153641Z">
         <seg>Firefox:&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>First Steps</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230129T133612Z" creationid="Dick" creationdate="20230129T133612Z">
+        <seg>Eerste stappen</seg>
       </tuv>
     </tu>
     <tu>
@@ -39014,6 +39038,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T122025Z" creationid="Dick" creationdate="20221220T122025Z">
         <seg>Alle niet-unieke segmenten markeren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark all repeated segments</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230129T133559Z" creationid="Dick" creationdate="20230129T133559Z">
+        <seg>Alle herhaalde segmenten markeren</seg>
       </tuv>
     </tu>
     <tu>
@@ -57114,6 +57146,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The HTML parser threw an exception during file processing:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230129T133338Z" creationid="Dick" creationdate="20230129T133338Z">
+        <seg>De parser van HTML wierp een uitzondering op bij het verwerken van het bestand:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The HTML user manual for OmegaT standard version.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T145906Z" creationid="DiGro (Dick)" creationdate="20170915T145906Z">
@@ -60999,6 +61039,14 @@ earlier work or a work "based on" the earlier work.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T124747Z" creationid="Dirk" creationdate="20170914T124747Z">
         <seg>De gespecificeerde bestanden worden niet ondersteund.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The specified folder is not an OmegaT project, or the project file is broken, or there is no valid backup.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230129T133716Z" creationid="Dick" creationdate="20230129T133716Z">
+        <seg>De gespecificeerde map is geen OmegaT-project, of het projectbestand is defect, of er is nog geen geldige back-up.</seg>
       </tuv>
     </tu>
     <tu>
