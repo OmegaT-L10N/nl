@@ -1833,6 +1833,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Next Segment from tm/auto/</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230129T132203Z" creationid="Dick" creationdate="20230129T132203Z">
+        <seg>&amp;Volgende segment vanuit tm/auto/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Next Segment with xAUTO</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221218T133648Z" creationid="Dick" creationdate="20221218T133648Z">
@@ -1933,6 +1941,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T185322Z">
         <seg>&amp;Vorige segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Previous Segment from tm/auto/</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230129T132237Z" creationid="Dick" creationdate="20230129T132237Z">
+        <seg>Vorig&amp;e segment vanuit tm/auto/</seg>
       </tuv>
     </tu>
     <tu>
@@ -28734,6 +28750,22 @@ Het is er wintertijd voor</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Highlight &amp;Translated Segments</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230129T132350Z" creationid="Dick" creationdate="20230129T132350Z">
+        <seg>Ver&amp;taalde segmenten accentueren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight &amp;Untranslated Segments</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230129T132448Z" creationid="Dick" creationdate="20230129T132448Z">
+        <seg>N&amp;iet-vertaalde segmenten accentueren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Highlight Pattern...</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T123804Z" creationid="Dirk" creationdate="20160906T173011Z">
@@ -34198,6 +34230,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120401T132616Z">
         <seg>Inregelige tags binnen segmenten zijn getallen tussen accolades, d.i. {1}, {2}, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Bidi Control C&amp;haracter</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230129T132135Z" creationid="Dick" creationdate="20230129T132135Z">
+        <seg>Bidi-controle&amp;teken invoegen</seg>
       </tuv>
     </tu>
     <tu>
@@ -40333,6 +40373,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>N&amp;ext Segment from tm/enforce/</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230129T132257Z" creationid="Dick" creationdate="20230129T132257Z">
+        <seg>Volgend&amp;e segment vanuit tm/enforce/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>N&amp;ext Segment with xENFORCED</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221218T133727Z" creationid="Dick" creationdate="20221218T133727Z">
@@ -45532,6 +45580,14 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T121644Z" creationid="Dick" creationdate="20190517T121644Z">
         <seg>Modus Overschrijven</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>P&amp;revious Segment from tm/enforce/</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230129T132322Z" creationid="Dick" creationdate="20230129T132322Z">
+        <seg>Vo&amp;rige segment vanuit tm/enforce/</seg>
       </tuv>
     </tu>
     <tu>
