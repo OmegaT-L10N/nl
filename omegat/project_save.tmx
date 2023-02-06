@@ -34474,6 +34474,22 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert a LRM after a weak-directionality character that must run left-to-right in a right-to-left segment (e.g. an English excerpt inside Arabic text).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230206T142450Z" creationid="Dick" creationdate="20230206T142450Z">
+        <seg>Voeg een teken LRM in na een zwakke-richting teken die van links naar rechts moet loepn  in een segment dat gaat van rechts naar links (bijv. een English uittreksel binnen een Arabische tekst).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert a RLM after a weak-directionality character that must run right-to-left in a left-to-right segment (e.g. an Arabic excerpt inside English text).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230206T142619Z" creationid="Dick" creationdate="20230206T142619Z">
+        <seg>Voeg een teken RLM in na een zwakke-richting teken dat van rechts naar links moet lopen in een segment dat gaat van links naar rechts naar links (bijv. een Arabisch uittreksel binnen een Engelse tekst)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert an invisible character with a strong directionality to force a specific position for a character with weak or neutral directionality.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230206T142018Z" creationid="Dick" creationdate="20230206T142018Z">
@@ -39094,6 +39110,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210504T101207Z" creationid="Dick" creationdate="20210504T101207Z">
         <seg>Onbekende woorden markeren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Marks</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230206T142159Z" creationid="Dick" creationdate="20230206T142159Z">
+        <seg>Markeringen</seg>
       </tuv>
     </tu>
     <tu>
@@ -65216,6 +65240,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To change the position of a character with weak or neutral directionality (like punctuation symbols), insert an LRM or RLM character after the character, depending on the directionality of the segment:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230206T142315Z" creationid="Dick" creationdate="20230206T142315Z">
+        <seg>Voeg, om de positie van een teken met een zwakke of neutrale richting te wijzigen (zoals symbolen voor punctuatie), een teken LRM of RLM in na het teken, afhankelijk van de richting van het segment:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To check everything is as expected, you may press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to create the target documents and check their contents.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T173910Z">
@@ -68573,6 +68605,14 @@ De huidige instelling is {0}MB;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221221T143215Z" creationid="Dick" creationdate="20221221T143215Z">
         <seg>Gebruik &lt;l0/&gt;&lt;l1/&gt; om er direct toegang toe te krijgen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to show a visual indication of their position.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230206T142154Z" creationid="Dick" creationdate="20230206T142154Z">
+        <seg>Gebruik &lt;l0/&gt;&lt;l1/&gt; om een visuele indicatie van hun psitie weer te geven.</seg>
       </tuv>
     </tu>
     <tu>
