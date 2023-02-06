@@ -23639,6 +23639,22 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Embeddings</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230206T142652Z" creationid="Dick" creationdate="20230206T142652Z">
+        <seg>Inbedddingen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Embeddings can be used to create a longer section of text (containing several words and spaces) that must flow in the direction opposite that of the segment.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230206T142806Z" creationid="Dick" creationdate="20230206T142806Z">
+        <seg>Inbedddinge kunnen wordne gebruikt om een langere sectie tekst te maken (die meerdere woorden en spaties bevatten) die moeten lopen in de richting die tegengesteld is aan die van het segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Emptiness of soul
 Forever aching blackness
 Your help page not found</seg>
@@ -34476,8 +34492,8 @@ parts of the aggregate.</seg>
       <tuv lang="en">
         <seg>Insert a LRM after a weak-directionality character that must run left-to-right in a right-to-left segment (e.g. an English excerpt inside Arabic text).</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230206T142450Z" creationid="Dick" creationdate="20230206T142450Z">
-        <seg>Voeg een teken LRM in na een zwakke-richting teken die van links naar rechts moet loepn  in een segment dat gaat van rechts naar links (bijv. een English uittreksel binnen een Arabische tekst).</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230206T142641Z" creationid="Dick" creationdate="20230206T142450Z">
+        <seg>Voeg een teken LRM in na een zwakke-richting teken dat van links naar rechts moet lopen in een segment dat gaat van rechts naar links (bijv. een Engels uittreksel binnen een Arabische tekst).</seg>
       </tuv>
     </tu>
     <tu>
@@ -65320,6 +65336,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To create a left-to-right embedding in a right-to-left segment, insert a left-to-right embedding (LRE) character, type or insert the left-to-right text, and then insert the pop directional formatting (PDF) character.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230206T143119Z" creationid="Dick" creationdate="20230206T143119Z">
+        <seg>Voeg, om een inbedding van links naar rechts te maken in een segment dat loopt van rechts naar links, een LRE-teken (LRE) voor inbedding in, typ of voeg de tekst die loopt van links naar rechts in, en voeg dan het teken voor pop directional formatting (PDF) in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To create a project-specific set of file filters, click on the &lt;g0&gt;File filter ... &lt;/g0&gt;button, then activate &lt;g1&gt;Enable project specific filters&lt;/g1&gt; check box in the window that opens.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T165956Z">
@@ -72551,6 +72575,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20130930T163856Z" creationid="Dirk" creationdate="20130930T163856Z">
         <seg>U kunt items voor woordenlijsten maken met Item voor woordenlijst maken in het menu Bewerken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can create two kinds of embeddings depending on the directionality of the segment:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230206T142843Z" creationid="Dick" creationdate="20230206T142843Z">
+        <seg>U kunt twee sorten inbeddingen maken, afhankelijk van de richting van het segment:</seg>
       </tuv>
     </tu>
     <tu>
