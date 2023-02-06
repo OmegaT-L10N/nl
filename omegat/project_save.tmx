@@ -65352,6 +65352,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To create a right-to-left embedding in a left-to-right segment, insert a right-to-left embedding (RLE) character, type or insert the right-to-left text, and then insert the PDF character.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230206T143226Z" creationid="Dick" creationdate="20230206T143226Z">
+        <seg>Voeg, om een inbedding van rechts naar links te maken in een segment dat loopt van links naar rechts, een RLE-teken (LRE) voor inbedding in, typ of voeg de tekst die loopt van rechts naar links in, en voeg dan het teken voor pop directional formatting (PDF) in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To create a shortcut in Windows:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131228T124011Z" creationid="Dirk" creationdate="20131228T124011Z">
@@ -73004,8 +73012,8 @@ installation script (linux-install.sh).</seg>
       <tuv lang="en">
         <seg>You can specify a configuration folder other than the default when you start OmegaT from the command line.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20221221T143445Z" creationid="Dick" creationdate="20221221T143445Z">
-        <seg>U kunt, als u OmegaT start vanaf de opdrachtregel, een andere dan de standaard configuratiemap specificeren.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230206T143302Z" creationid="Dick" creationdate="20221221T143445Z">
+        <seg>Normaal gesproken is het niet nodig om OmegaT te starten vanaf de opdrachtregel.</seg>
       </tuv>
     </tu>
     <tu>
