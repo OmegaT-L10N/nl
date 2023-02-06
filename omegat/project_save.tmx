@@ -15791,6 +15791,14 @@ Neem nog een biertje.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bidi control characters are available from &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230206T141833Z" creationid="Dick" creationdate="20230206T141833Z">
+        <seg>Bi-drectionele beheerstekens zijn beschikbaar vanuit &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bidirectional control characters</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20141020T094641Z" creationid="Dirk" creationdate="20141020T094641Z">
@@ -20021,6 +20029,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create a section of text that flows in the direction opposite that of the segment.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230206T142059Z" creationid="Dick" creationdate="20230206T142059Z">
+        <seg>Een gedeelte tekst te maken dat tegengesteld loopt aan de tekst van het segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create an OmegaT project in the usual way.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120402T172112Z">
@@ -21815,6 +21831,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131226T160036Z" creationid="Dirk" creationdate="20131226T160036Z">
         <seg>Diptik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Directional Formatting Characters</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230206T141752Z" creationid="Dick" creationdate="20230206T141752Z">
+        <seg>Directionele opmaaktekens</seg>
       </tuv>
     </tu>
     <tu>
@@ -34446,6 +34470,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T160357Z" creationid="Dirk" creationdate="20160906T160357Z">
         <seg>Unicode besturingsteken invoegen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert an invisible character with a strong directionality to force a specific position for a character with weak or neutral directionality.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230206T142018Z" creationid="Dick" creationdate="20230206T142018Z">
+        <seg>Een onzichtbaar teken in te voegen met een streke richting om een specifieke positie voor een teken te forceren met een zwakke of neutrale richting.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62357,6 +62389,14 @@ not accept this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These control characters change directionality but are invisible.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230206T142126Z" creationid="Dick" creationdate="20230206T142126Z">
+        <seg>Deze beheerstekens wijzigen de richting, maar zijn onzichtbaar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These define subsegments that are presented outside the segment in which they are contained (footnotes are a good example).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T151612Z" creationid="Dirk" creationdate="20131225T151612Z">
@@ -62557,6 +62597,14 @@ U bent het slachtoffer van één van de drie.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131227T162132Z" creationid="Dirk" creationdate="20131227T162132Z">
         <seg>Zij kunnen worden gevonden in de mappen van de overeenkomende gecompileerde versies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They can be used to:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230206T141916Z" creationid="Dick" creationdate="20230206T141916Z">
+        <seg>Zij kunnen worden gebruikt om:</seg>
       </tuv>
     </tu>
     <tu>
