@@ -2537,6 +2537,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;User Manual...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T111604Z" creationid="Dick" creationdate="20230510T111604Z">
+        <seg>&amp;Gebruikershandleiding…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;User's Manual...</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T122108Z">
@@ -12405,6 +12413,22 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T164759Z" creationid="Dirk" creationdate="20160906T164759Z">
         <seg>Item voor woordenlijst toevoegen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add MediaWiki Pa&amp;ge...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T111502Z" creationid="Dick" creationdate="20230510T111502Z">
+        <seg>MediaWiki Pa&amp;gina toevoegen…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add MediaWiki Page</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T111518Z" creationid="Dick" creationdate="20230510T111518Z">
+        <seg>MediaWiki-pagine toevoegen</seg>
       </tuv>
     </tu>
     <tu>
@@ -25352,6 +25376,14 @@ Gossamer-drempel houdt u tegen
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221218T132516Z" creationid="Dick" creationdate="20221218T132516Z">
         <seg>Downloaden van pagina van Mediawiki mislukt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to download page</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T111533Z" creationid="Dick" creationdate="20230510T111533Z">
+        <seg>Downloaden van pagina mislukt</seg>
       </tuv>
     </tu>
     <tu>
@@ -53562,6 +53594,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Skipped source file {0} because it could not be loaded.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T111634Z" creationid="Dick" creationdate="20230510T111634Z">
+        <seg>Bronbestand {0} overgeslagen omdat het niet kon worden geladen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Skipped translation units for which no source segment was found.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T104327Z" creationid="Dick" creationdate="20221220T104327Z">
@@ -54242,6 +54282,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T101920Z" creationid="Dick" creationdate="20221220T101920Z">
         <seg>Taal bronbestanden:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source files loaded but skipping files(s) by filter error(s)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T111719Z" creationid="Dick" creationdate="20230510T111719Z">
+        <seg>Bronbestanden geladen maar bestand(en overgeslagen op filterfout(en)</seg>
       </tuv>
     </tu>
     <tu>
@@ -55598,6 +55646,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T123238Z" creationid="Dirk" creationdate="20170914T123238Z">
         <seg>Opties overeenkomsten TM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TM Search &amp;Options</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T111835Z" creationid="Dick" creationdate="20230510T111835Z">
+        <seg>TM &amp;Opties voor zoeken</seg>
       </tuv>
     </tu>
     <tu>
@@ -67695,6 +67751,14 @@ Exacte zoekacties komen overeen met de gehele zoekterm.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T161713Z" creationid="Dirk" creationdate="20160906T161713Z">
         <seg>Niet in staat om het project te converteren!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to create a backup file of {0}</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T111753Z" creationid="Dick" creationdate="20230510T111753Z">
+        <seg>Kan geen back-up-bestand maken van {0}</seg>
       </tuv>
     </tu>
     <tu>
