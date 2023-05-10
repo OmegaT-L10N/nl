@@ -24344,6 +24344,14 @@ Niemand hoort u schreeuwen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error loading : {0}</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T111945Z" creationid="Dick" creationdate="20230510T111945Z">
+        <seg>Fout bij laden : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error loading plugin from class '{0}': {1}: {2}</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T104451Z" creationid="Dick" creationdate="20221220T104451Z">
@@ -28890,6 +28898,14 @@ Het is er wintertijd voor</seg>
       </tuv>
       <tuv lang="nl">
         <seg>Herero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hide &amp;Options</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T111848Z" creationid="Dick" creationdate="20230510T111848Z">
+        <seg>&amp;Oties verbergen</seg>
       </tuv>
     </tu>
     <tu>
@@ -38582,6 +38598,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>Mailinglijsten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Main Memor&amp;y</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T111913Z" creationid="Dick" creationdate="20230510T111913Z">
+        <seg>Hoofdge&amp;heugen</seg>
       </tuv>
     </tu>
     <tu>
@@ -48698,6 +48722,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reference T&amp;Ms</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T111929Z" creationid="Dick" creationdate="20230510T111929Z">
+        <seg>Verwijzings-T&amp;M's</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reference windows</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T162703Z">
@@ -50512,6 +50544,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230129T133110Z" creationid="Dick" creationdate="20230129T133110Z">
         <seg>SDL-project</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SDL project (beta)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T112137Z" creationid="Dick" creationdate="20230510T112137Z">
+        <seg>SDL-project (bèta)</seg>
       </tuv>
     </tu>
     <tu>
@@ -57386,6 +57426,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Java Resource Bundles filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T112217Z" creationid="Dick" creationdate="20230510T112217Z">
+        <seg>Het filter Java Resource Bundles kwam een fout tegen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Java Resource Bundles filter threw an exception:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20140419T143248Z" creationid="Dirk" creationdate="20140419T143248Z">
@@ -57646,6 +57694,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20201125T104611Z" creationid="Dick" creationdate="20201125T104611Z">
         <seg>Het PO-filter behandelt al %..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The PO filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T112037Z" creationid="Dick" creationdate="20230510T112037Z">
+        <seg>Het PO-filter kwam een fout tegen:</seg>
       </tuv>
     </tu>
     <tu>
