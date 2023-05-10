@@ -28910,6 +28910,14 @@ Het is er wintertijd voor</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hide &amp;leading and trailing tags</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T112505Z" creationid="Dick" creationdate="20230510T112505Z">
+        <seg>Voorafgaande en achterliggende  tags verbergen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hide '{0}'</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T192149Z">
@@ -35754,6 +35762,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is stored in the TMX file.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T112650Z" creationid="Dick" creationdate="20230510T112650Z">
+        <seg>Het is opgeslagen in het TMX-bestand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is supported by OmegaT.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160126T135043Z" creationid="Dirk" creationdate="20160126T135043Z">
@@ -38542,6 +38558,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T095519Z">
         <seg>venster Machinevertaling</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Machine Translations</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T112624Z" creationid="Dick" creationdate="20230510T112624Z">
+        <seg>Machinevertaling</seg>
       </tuv>
     </tu>
     <tu>
@@ -49258,6 +49282,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove HTML comments</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T112535Z" creationid="Dick" creationdate="20230510T112535Z">
+        <seg>Opmerkingen van HTML verwijderen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove HTML comments in translated document</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20121207T201324Z">
@@ -57398,6 +57430,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T095444Z">
         <seg>Het venster Woordenlijst maakt het u mogelijk om uw eigen collectie uitdrukkingen en speciale terminologie, die u heeft verzameld in uw bestanden voor de woordenlijst, te gebruiken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The HTML parser encountered an error during file processing:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T112613Z" creationid="Dick" creationdate="20230510T112613Z">
+        <seg>De parser van HTML kwam een fout tegen bij de verwerking van het bestand:</seg>
       </tuv>
     </tu>
     <tu>
