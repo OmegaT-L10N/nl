@@ -24542,6 +24542,14 @@ Niemand hoort u schreeuwen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error while reading a TMX file in the project: {0}</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T113624Z" creationid="Dick" creationdate="20230510T113624Z">
+        <seg>Fout bij lezen van een bestand TMX in het project: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error while trying to edit the project!</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T185523Z">
@@ -38504,10 +38512,26 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MT engine error happened</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T113937Z" creationid="Dick" creationdate="20230510T113937Z">
+        <seg>In het MT-programma trad een fout op</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MT engine error({0}) {1}</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20220411T152542Z" creationid="Dick" creationdate="20220411T152542Z">
         <seg>MT-programma fout({0}) {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MT({0}) report error {1}</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T113907Z" creationid="Dick" creationdate="20230510T113907Z">
+        <seg>MT({0}) foutbericht {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -68081,6 +68105,14 @@ Exacte zoekacties komen overeen met de gehele zoekterm.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to parse source XML file</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T113653Z" creationid="Dick" creationdate="20230510T113653Z">
+        <seg>Kon bron-XML-bestand niet parsen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to parse translate service response</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20200725T115226Z" creationid="Dick" creationdate="20200725T115226Z">
@@ -68389,6 +68421,14 @@ Exacte zoekacties komen overeen met de gehele zoekterm.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T185945Z">
         <seg>Uniek:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unknown language code {0} specified</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T113835Z" creationid="Dick" creationdate="20230510T113835Z">
+        <seg>Onbekende taalcode {0} gespecificeerd</seg>
       </tuv>
     </tu>
     <tu>
