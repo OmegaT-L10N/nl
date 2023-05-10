@@ -4357,6 +4357,16 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=[console mode name] &lt;project path&gt; &lt;mode options&gt;
+	  Specify a mode other than the GUI default.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T113001Z" creationid="Dick" creationdate="20230510T113001Z">
+        <seg>--mode=[console mode name] &lt;projectpad&gt; &lt;modus opties&gt;
+	  Specificeer een andere modus dan de standaard voor de gebruikersinterface.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 		Specify a mode other than default (GUI).</seg>
       </tuv>
@@ -4383,6 +4393,18 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
         <seg>--mode=console-align
 	  --alignDir=&lt;pad&gt;
 	    Een map die de vertaalde documenten bevat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-align
+	  --alignDir=&lt;path&gt;
+	    The folder containing the translated files.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T113025Z" creationid="Dick" creationdate="20230510T113025Z">
+        <seg>--mode=console-align
+	  --alignDir=&lt;pad&gt;
+	    De map die de vertaalde documenten bevat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25420,6 +25442,14 @@ Gossamer-drempel houdt u tegen
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to load translation memory {0} for the project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T113131Z" creationid="Dick" creationdate="20230510T113131Z">
+        <seg>Laden van vertaalgeheugen {0} voor project mislukt!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to update project properties</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20171124T172446Z" creationid="DiGro (Dick)" creationdate="20171124T172446Z">
@@ -25520,6 +25550,14 @@ Gossamer-drempel houdt u tegen
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T110059Z" creationid="Dick" creationdate="20221220T110059Z">
         <seg>Bestandsindeling</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File (segs):</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T113042Z" creationid="Dick" creationdate="20230510T113042Z">
+        <seg>Bestand (segs):</seg>
       </tuv>
     </tu>
     <tu>
@@ -28930,6 +28968,14 @@ Het is er wintertijd voor</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T162112Z" creationid="Dirk" creationdate="20160906T162112Z">
         <seg>Gevorderde &amp;opties verbergen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hide Tags</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T112901Z" creationid="Dick" creationdate="20230510T112901Z">
+        <seg>Tags verbergen</seg>
       </tuv>
     </tu>
     <tu>
@@ -43114,6 +43160,14 @@ OmegaT 4.0, Lees Mij-bestand</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT does not have access to the remote repository: verify your connection or your credentials.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T112822Z" creationid="Dick" creationdate="20230510T112822Z">
+        <seg>OmegaT heeft geen toegang tot de opslagplaats op afstand: verifieer uw verbinding of uw inloggegevens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT does not have an integral preview function, but it is possible to provide much the same functionality using additional software.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T153220Z" creationid="Dirk" creationdate="20131225T153220Z">
@@ -48178,6 +48232,14 @@ lokaal project zonder functionaliteit voor team.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T113034Z" creationid="Dick" creationdate="20230510T113034Z">
+        <seg>Project</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Projects can be managed according to your development style and needs.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T110636Z">
@@ -51998,6 +52060,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T145850Z" creationid="Dick" creationdate="20221220T145850Z">
         <seg>Bekijk de gebruikershandleiding voor instructies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the user manual for instructions.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T112725Z" creationid="Dick" creationdate="20230510T112725Z">
+        <seg>Bekijk de Gebruikershandleiding voor instructies.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60639,6 +60709,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221218T132047Z" creationid="Dick" creationdate="20221218T132047Z">
         <seg>Het project is leeg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project is in offline mode.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T112847Z" creationid="Dick" creationdate="20230510T112847Z">
+        <seg>Het project staat in modus Offline.</seg>
       </tuv>
     </tu>
     <tu>
