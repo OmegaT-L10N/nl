@@ -17611,6 +17611,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check the omegat directory of the project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T113248Z" creationid="Dick" creationdate="20230510T113248Z">
+        <seg>Conteroleer de map omegat van het project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check the tag issues again.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T150957Z" creationid="Dick" creationdate="20221220T150957Z">
@@ -24862,6 +24870,14 @@ Niemand hoort u schreeuwen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exception while parsing "project_save.tmx":</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T113455Z" creationid="Dick" creationdate="20230510T113455Z">
+        <seg>Uitzondering bij parsen van "project_save.tmx":</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exception while parsing:</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T190359Z">
@@ -25434,6 +25450,30 @@ Gossamer-drempel houdt u tegen
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to load the project by a file access problem.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T113314Z" creationid="Dick" creationdate="20230510T113314Z">
+        <seg>Laden van project mislukt door probleem met toegang.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load the project due to file corruption.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T113221Z" creationid="Dick" creationdate="20230510T113221Z">
+        <seg>Laden van het project mislukt door beschadiging van het bestand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load the specified project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T113138Z" creationid="Dick" creationdate="20230510T113138Z">
+        <seg>Gespecificeerd project laden mislukt!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to load translation memory {0} for project!</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110926T164529Z">
@@ -25486,6 +25526,14 @@ Gossamer-drempel houdt u tegen
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T190404Z">
         <seg>Fatale fout op regel {0}, kolom {1} bij het parsen van:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fatal error while parsing "project_save.tmx" file(line {0}, column {1}):</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T113554Z" creationid="Dick" creationdate="20230510T113554Z">
+        <seg>Fatale fout bij parsen van bestand "project_save.tmx" (regel {0}, teken {1}):</seg>
       </tuv>
     </tu>
     <tu>
@@ -46694,6 +46742,14 @@ alles in.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T125932Z">
         <seg>Controleer alstublieft de&lt;u0&gt; ISO 639 Codetabellen&lt;/u0&gt; voor meer en meest recente informatie over taalcodes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please check you have permissions, or you can access files if there are files in cloud storage.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T113411Z" creationid="Dick" creationdate="20230510T113411Z">
+        <seg>Controleer of u rechten heeft, of dat u toegang tot de bestanden kunt krijgen als zij in de opslag in de cloud staan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -86017,6 +86073,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T150221Z" creationid="Dirk" creationdate="20160906T150221Z">
         <seg>{0}_{1}_{2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} matches</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T113435Z" creationid="Dick" creationdate="20230510T113435Z">
+        <seg>{0} overeenkomsten</seg>
       </tuv>
     </tu>
     <tu>
