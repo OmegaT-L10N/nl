@@ -57562,6 +57562,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Moodle PHP filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T112253Z" creationid="Dick" creationdate="20230510T112253Z">
+        <seg>Het filter Moodle PHP kwam een fout tegen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Moodle PHP filter threw an exception:</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20190102T172408Z" creationid="DiGro (Dick)" creationdate="20190102T172408Z">
@@ -57578,10 +57586,26 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Mozilla DTD filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T112312Z" creationid="Dick" creationdate="20230510T112312Z">
+        <seg>Het filter Mozilla DTD kwam een fout tegen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Mozilla DTD filter threw an exception:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20140419T143121Z" creationid="Dirk" creationdate="20140419T143121Z">
         <seg>Het Mozilla DTD-filter genereerde een uitzondering:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Mozilla FTL filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T112336Z" creationid="Dick" creationdate="20230510T112336Z">
+        <seg>Het filter Mozilla FTL kwam een fout tegen:</seg>
       </tuv>
     </tu>
     <tu>
