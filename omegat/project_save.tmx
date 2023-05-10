@@ -12137,6 +12137,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Abort...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T114258Z" creationid="Dick" creationdate="20230510T114258Z">
+        <seg>Afbreken…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Abort: Exit with an error if tags invalid.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T112150Z">
@@ -14937,6 +14945,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ask again...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T114157Z" creationid="Dick" creationdate="20230510T114157Z">
+        <seg>Opnieuw vragen…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Assamese</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T130032Z">
@@ -16735,6 +16751,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20220217T105032Z" creationid="Dick" creationdate="20220217T105032Z">
         <seg>Kan geen uitvoering voor GPG vinden in de bash $PATH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cannot get correct answer.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T114233Z" creationid="Dick" creationdate="20230510T114233Z">
+        <seg>Kan geen juist atwoord verkrijgen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24178,10 +24202,26 @@ is the language code and YY is the region or country code (optional).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter the password for {0}</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T114058Z" creationid="Dick" creationdate="20230510T114058Z">
+        <seg>Voer het wachtwoord voor {0} in}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter the segment number:</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T185519Z">
         <seg>Voer het segmentnummer in:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter the username for {0}</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T114041Z" creationid="Dick" creationdate="20230510T114041Z">
+        <seg>Voer de gebruikersnaam voor {0} in</seg>
       </tuv>
     </tu>
     <tu>
@@ -28472,6 +28512,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210908T102156Z" creationid="Dick" creationdate="20210908T102156Z">
         <seg>Krreg onverwacht MIME TYPE {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Got unexpected input.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T114138Z" creationid="Dick" creationdate="20230510T114138Z">
+        <seg>Kreeg onverwachte invoer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68065,6 +68113,14 @@ Exacte zoekacties komen overeen met de gehele zoekterm.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to get result</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T114010Z" creationid="Dick" creationdate="20230510T114010Z">
+        <seg>Kon geen resultaat verkrijgen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to initialize read of XML file!</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T190307Z">
@@ -72133,6 +72189,14 @@ Uw pagina werd niet gevonden</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120708T191324Z">
         <seg>Foutieve authenticatie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wrong password for {0}</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T114120Z" creationid="Dick" creationdate="20230510T114110Z">
+        <seg>Verkeerd wachtwoord voor {0}</seg>
       </tuv>
     </tu>
     <tu>
