@@ -1433,6 +1433,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Find Next</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T111249Z" creationid="Dick" creationdate="20230510T111249Z">
+        <seg>&amp;Zoek volgende</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Find...</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T123431Z" creationid="Dirk" creationdate="20160906T170101Z">
@@ -2081,6 +2089,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Replace and Find Next</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T111307Z" creationid="Dick" creationdate="20230510T111307Z">
+        <seg>&amp;Zoek en vervang volgende</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Replace...</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T123436Z" creationid="Dirk" creationdate="20160906T170104Z">
@@ -2285,6 +2301,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20150713T070916Z" creationid="Dirk" creationdate="20150713T070916Z">
         <seg>Relevante &amp;suggesties automatisch weergeven</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Show Replacements</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T111234Z" creationid="Dick" creationdate="20230510T111234Z">
+        <seg>&amp;Vervangingen weergeven</seg>
       </tuv>
     </tu>
     <tu>
@@ -19369,6 +19393,14 @@ the conditions stated below.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T164351Z">
         <seg>Bestanden naar map Bronbestanden kopiëren…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy error to clipboard</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T111409Z" creationid="Dick" creationdate="20230510T111409Z">
+        <seg>Fout kopiëren naar klembord</seg>
       </tuv>
     </tu>
     <tu>
@@ -50316,6 +50348,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Run OmegaT" in the user manual.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T111339Z" creationid="Dick" creationdate="20230510T111339Z">
+        <seg>OmegaT" uitvoeren in de gebruikershandleiding.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Run script in slot #{0}.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T150019Z" creationid="Dick" creationdate="20221220T150019Z">
@@ -51582,6 +51622,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221215T145946Z" creationid="Dick" creationdate="20221214T142950Z">
         <seg>Bekijk Help &gt; Gebruikershandleiding voor meer details, inclusief Java-opties.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Help &gt; User Manual for details, including available Java options.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230510T111217Z" creationid="Dick" creationdate="20230510T111217Z">
+        <seg>Bekijk Help &gt; Gebruikershandleiding voor details, inclusief beschikbare opties voor Java.</seg>
       </tuv>
     </tu>
     <tu>
