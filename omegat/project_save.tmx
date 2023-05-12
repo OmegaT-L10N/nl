@@ -35712,6 +35712,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is also possible to install plugins in the application &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230512T090153Z" creationid="Dick" creationdate="20230512T090153Z">
+        <seg>Het is ook mogelijk plug-ins te installeren in de map &lt;l0/&gt; voor de toepassing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is also worth asking on the &lt;a1&gt;localizers' list&lt;/a1&gt; (OmT-l10n) whether anyone has any reference material which might facilitate your translation.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131227T171721Z" creationid="Dirk" creationdate="20131227T171721Z">
@@ -63975,8 +63983,8 @@ permission to run the unmodified Program.</seg>
       <tuv lang="en">
         <seg>This file stores the currently selected text when &lt;l0/&gt;&lt;l1/&gt; is used.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20221221T144613Z" creationid="Dick" creationdate="20221221T144613Z">
-        <seg>Dit ebstand slaat de huidige geselecteerde tekst op als &lt;l0/&gt;&lt;l1/&gt; wordt gebruikt.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230512T085925Z" creationid="Dick" creationdate="20221221T144613Z">
+        <seg>Dit bestand slaat de huidige geselecteerde tekst op als &lt;l0/&gt;&lt;l1/&gt; wordt gebruikt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64009,6 +64017,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221221T145437Z" creationid="Dick" creationdate="20221221T145437Z">
         <seg>Deze map verschaft een alternative locatie voor handmatig geïnstalleerde plug-ins voor het uitbreiden van OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder provides the standard location for manually installed OmegaT extension plugins.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230512T090053Z" creationid="Dick" creationdate="20230512T090053Z">
+        <seg>Deze map verschaft de standaard locatie voor handmatig geïnstalleerde plug-ins voor uitbreiding van OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
