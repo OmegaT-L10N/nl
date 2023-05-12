@@ -21967,6 +21967,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Disable a filter by unchecking its box if you prefer not to translate the files that are associated to it.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230512T091135Z" creationid="Dick" creationdate="20230512T091135Z">
+        <seg>Schakel een filter uit door zijn vak te deselecteren als u wilt dat de bestanden die ermee zijn geassocieerd, niet moeten worden vertaald.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Disable rule “{0}”</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170104T181309Z" creationid="Dirk" creationdate="20170104T181309Z">
@@ -25984,6 +25992,14 @@ Gossamer-drempel houdt u tegen
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Filters in bold are used in the current project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230512T091021Z" creationid="Dick" creationdate="20230512T091021Z">
+        <seg>Filters in vet worden gebruikt door het huidige project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Filters...</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T124450Z" creationid="Dirk" creationdate="20160906T173120Z">
@@ -26555,6 +26571,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120401T134949Z">
         <seg>Voor details, zie de &lt;a0&gt;"Exporteren vanuit OmegaT naar vuile RTF" HOWTO&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For details, see:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230512T090903Z" creationid="Dick" creationdate="20230512T090903Z">
+        <seg>Bekijk, voor de details,:</seg>
       </tuv>
     </tu>
     <tu>
@@ -62403,6 +62427,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Their contents will not be displayed for translation.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230512T091157Z" creationid="Dick" creationdate="20230512T091157Z">
+        <seg>Hun inhoud zal niet worden weergegeven voor vertaling.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Theme</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T115921Z" creationid="Dick" creationdate="20211118T115921Z">
@@ -73530,6 +73562,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T171507Z" creationid="Dirk" creationdate="20131225T171507Z">
         <seg>U kunt eenvoudig starten door een scriptbestand te schrijven,d.i. een platte-tekstbestand dat deze twee regels bevat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can sort the filters by name or by whether they are enabled.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230512T091253Z" creationid="Dick" creationdate="20230512T091253Z">
+        <seg>U kunt de filters sorteren op naam óf of zij zijn ingeschakeld.</seg>
       </tuv>
     </tu>
     <tu>
