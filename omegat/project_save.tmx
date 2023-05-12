@@ -52150,6 +52150,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l2/&gt; preferences for details.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230512T085746Z" creationid="Dick" creationdate="20230512T085746Z">
+        <seg>Bekijk de &lt;l2/&gt; voorkeuren voor details..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the GNU General Public License for more detail.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T130908Z">
@@ -60715,6 +60723,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T165937Z">
         <seg>De vooraf ingestelde manier van het segmenteren van de bronnen is de segmentering op zin-niveau, dus dit keuzevak zou in normale gevallen geselecteerd moeten worden gelaten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The prefered location for plugin manual installs is the &lt;l0/&gt; folder located in the &lt;l1&gt;configuration&lt;/l1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230512T085708Z" creationid="Dick" creationdate="20230512T085708Z">
+        <seg>De voorkeutslocatie voor plug-in handmatige installatie is de map &lt;l0/&gt;, geplaatst in de map &lt;l1&gt;configuration&lt;/l1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -83337,6 +83353,14 @@ create the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>scripts/</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230512T085753Z" creationid="Dick" creationdate="20230512T085753Z">
+        <seg>scripts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>sd</seg>
       </tuv>
       <tuv lang="nl">
@@ -86223,6 +86247,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170914T161752Z" creationid="DiGro (Dick)" creationdate="20170914T161752Z">
         <seg>}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>~/.omegat</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230512T085818Z" creationid="Dick" creationdate="20230512T085818Z">
+        <seg>~/.Omegat</seg>
       </tuv>
     </tu>
     <tu>
