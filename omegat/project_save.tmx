@@ -18773,6 +18773,14 @@ OmegaT gebruikt de volgende bibliotheken:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Common preferences</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230512T092257Z" creationid="Dick" creationdate="20230512T092257Z">
+        <seg>Algemene voorkeuren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Comparison Mode:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T173058Z" creationid="Dirk" creationdate="20160906T173058Z">
@@ -21447,6 +21455,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T133232Z" creationid="Dick" creationdate="20190516T133232Z">
         <seg>Bronbestanden verwijderen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deleting that file also resets the filter preferences and reverts the project to global file filters.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230512T092247Z" creationid="Dick" creationdate="20230512T092247Z">
+        <seg>Verwijderen van dat bestand herstelt ook de voorkeuren voor het filter en zet het project terug naar globale bestandsfilters.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29150,6 +29166,22 @@ Het is er wintertijd voor</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230510T112901Z" creationid="Dick" creationdate="20230510T112901Z">
         <seg>Tags verbergen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hide leading and trailing tags</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230512T092306Z" creationid="Dick" creationdate="20230512T092306Z">
+        <seg>Voorafgaande en achterliggende  tags verbergen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hiding them from the translatable contents ensures that you will not erase or modify them by mistake.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230512T092505Z" creationid="Dick" creationdate="20230512T092505Z">
+        <seg>Ze verbergen in de te vertalen inhoud zorgt ervoor dat u ze niet zult wissen of per ongeluk zal aanpassen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37692,6 +37724,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Leading and trailing tags are generally required by OmegaT to properly recreate the translated segment.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230512T092405Z" creationid="Dick" creationdate="20230512T092405Z">
+        <seg>Voorafgaan de en achterliggende tags worden over het algemeen vereist door OmegaT om op de juiste manier het vertaalde segment te kunnen maken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Learn</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T124603Z">
@@ -40268,6 +40308,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230512T091945Z" creationid="Dick" creationdate="20230512T091945Z">
         <seg>Aangepaste globale voorkeuren voor bestandsfilters worden opgeslagen in de &lt;l0/&gt;, in de map voor de configuratie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modified local file filters are saved in the &lt;l0/&gt; file, located in the project folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230512T092142Z" creationid="Dick" creationdate="20230512T092142Z">
+        <seg>Aangepaste lokale bestandsfilters worden opgeslagen in het bestand &lt;l0/&gt;, geplaats in de map voor het project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52226,6 +52274,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221221T141935Z" creationid="Dick" creationdate="20221221T141935Z">
         <seg>Bekijk het venster &lt;l0/&gt; voor details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l1/&gt; chapter for details.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230512T092158Z" creationid="Dick" creationdate="20230512T092158Z">
+        <seg>Bekijk het hoofdstuk &lt;l1/&gt; voor details.</seg>
       </tuv>
     </tu>
     <tu>
