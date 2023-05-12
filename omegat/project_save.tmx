@@ -18225,6 +18225,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click on the relevant header to sort them in ascending or descending order.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230512T091337Z" creationid="Dick" creationdate="20230512T091337Z">
+        <seg>Klik op de relevante kop om ze in op- of aflopende volgorde te sorteren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click the &lt;g0&gt;Edit&lt;/g0&gt; tab on the Wikipedia page.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T164256Z" creationid="Dick" creationdate="20190516T164256Z">
@@ -54162,6 +54170,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some filters provide a &lt;g0&gt;Options...&lt;/g0&gt; button to further customize their settings.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230512T091705Z" creationid="Dick" creationdate="20230512T091705Z">
+        <seg>Sommige filters verschaffen een knop &lt;g0&gt;Opties…&lt;/g0&gt; om hun instellingen verder aan te passen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some inconvenient line breaks may be required for correct positioning of the text.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120402T174750Z">
@@ -66392,6 +66408,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T120909Z" creationid="Dick" creationdate="20211118T120909Z">
         <seg>Pas de velden direct aan of klik op &lt;g0&gt;Bewerken&lt;/g0&gt; om een patroon voor het bestandsfilter aan te passen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To modify the file extensions, target file name and encodings associated to a filter, select it in the list and click the &lt;g0&gt;Edit...&lt;/g0&gt; button.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230512T091617Z" creationid="Dick" creationdate="20230512T091617Z">
+        <seg>Selecteer, om de bestandsextensies, doel-bestandsnaam en coderingen, die zijn geassocieerd aan een filter, aan te passen, het in de lijst en klik op de knop &lt;g0&gt;Bewerken…&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
