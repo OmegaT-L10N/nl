@@ -12901,6 +12901,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After dividing the source file into structural units, OmegaT further divides those units into segments.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230512T093451Z" creationid="Dick" creationdate="20230512T093451Z">
+        <seg>Nadat het bronbestand in structurele eenheden is opgedeeld, zal OmegaT deze blokken verder opdelen in zinnen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After downloading the zip archive of the full or minimal package or the website localization package, unpack the archive.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T162028Z" creationid="DiGro (Dick)" creationdate="20170915T162028Z">
@@ -23491,6 +23499,14 @@ propagate the contents of its contributor version.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135704Z">
         <seg>Elke indeling voor de uitvoer heeft specifieke manieren om om te gaan met RTL-weergave, controleer de relevante handleidingen voor de toepassing voor details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each time the cursor moves to the next character, OmegaT checks whether:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230512T093651Z" creationid="Dick" creationdate="20230512T093651Z">
+        <seg>Elke keer als de cursor zich verplaatst naar het volgende teken, controleert, OmegaT of:</seg>
       </tuv>
     </tu>
     <tu>
@@ -73934,6 +73950,14 @@ installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can visualize segmentation as the process of moving the cursor along the text, one character at a time, and looking for the position where a break will occur, or where a break will not be allowed.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230512T093606Z" creationid="Dick" creationdate="20230512T093606Z">
+        <seg>Het proces van segmentering kan als volgt worden voorgesteld: de cursor verplaatst zich langs de tekst, één teken per keer, zoekend naar de positie waar een afbreking zal voorkomen, of waar een afbreking niet is toegestaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You create first an empty client folder on your disk.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T110643Z">
@@ -84799,6 +84823,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>the terms of this License in conveying all material for which you do</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the text before the location corresponds to a &lt;e0&gt;Before&lt;/e0&gt; rule,</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230512T093743Z" creationid="Dick" creationdate="20230512T093743Z">
+        <seg>de tekst voor de locatie correspondeert met een regel &lt;e0&gt;Vóór&lt;/e0&gt;,</seg>
       </tuv>
     </tu>
     <tu>
