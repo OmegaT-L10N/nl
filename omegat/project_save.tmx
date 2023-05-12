@@ -18241,6 +18241,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click the &lt;g0&gt;Restore Defaults&lt;/g0&gt; button to reset the file filters to their default settings.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230512T091843Z" creationid="Dick" creationdate="20230512T091843Z">
+        <seg>Klik op de knop &lt;g0&gt;Standaarden herstellen&lt;/g0&gt; om de bestandsfilters terug te zetten naar hun standaard instellingen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click the dropdown arrow of the &lt;e0&gt;Search for&lt;/e0&gt; box to access the last 10 searches.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T170612Z">
@@ -21439,6 +21447,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T133232Z" creationid="Dick" creationdate="20190516T133232Z">
         <seg>Bronbestanden verwijderen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deleting that file also resets the filter preferences.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230512T092034Z" creationid="Dick" creationdate="20230512T092034Z">
+        <seg>Verwijderen van dat bestand herstelt ook de voorkeuren voor het filter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40248,6 +40264,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modified global file filter preferences are saved in &lt;l0/&gt;, in the configuration folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230512T091945Z" creationid="Dick" creationdate="20230512T091945Z">
+        <seg>Aangepaste globale voorkeuren voor bestandsfilters worden opgeslagen in de &lt;l0/&gt;, in de map voor de configuratie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modified preferences are stored in the configuration folder used by the project.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221221T143530Z" creationid="Dick" creationdate="20221221T143530Z">
@@ -51882,6 +51906,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134733Z">
         <seg>Bekijk &lt;l0&gt;hoofdstuk Woordenlijsten&lt;/l0&gt; voor meer over dit onderwerp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;l1/&gt; for details.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230512T091959Z" creationid="Dick" creationdate="20230512T091959Z">
+        <seg>Bekijk &lt;l1/&gt; voor de details.</seg>
       </tuv>
     </tu>
     <tu>
