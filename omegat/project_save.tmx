@@ -16473,6 +16473,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, OmegaT removes any leading and trailing whitespace from the translatable contents.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230512T092650Z" creationid="Dick" creationdate="20230512T092650Z">
+        <seg>Standaard verwijdert OmegaT voorafgaande en achterliggende witruimte uit de te vertalen inhoud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, OmegaT uses automatic match propagation.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131226T125933Z" creationid="Dirk" creationdate="20131226T125933Z">
@@ -32490,6 +32498,14 @@ to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you keep the leading and trailing tags, make sure you also include them in the translated text.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230512T092607Z" creationid="Dick" creationdate="20230512T092607Z">
+        <seg>Als u de voorafgaande en achterliggende tags behoud, zorg er dan voor dat u ze ook opneemt in de vertaalde tekst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you later change filters, only the project filters will be updated, while the user filters stay unchanged.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134202Z">
@@ -33640,6 +33656,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135452Z">
         <seg>In de meeste vertalingen wordt het belangrijk geacht dat het vertaalde document er uitziet zoals het origineel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In non-segmented projects, disable this option to make leading and trailing whitespace modifiable in the translation.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230512T092815Z" creationid="Dick" creationdate="20230512T092815Z">
+        <seg>Schakel, in niet-gesegmenteerde projecten, deze optie uit om er voor te zorgen dat voorafgaande en achterliggende witruimte in de vertaling is aan te passen.</seg>
       </tuv>
     </tu>
     <tu>
