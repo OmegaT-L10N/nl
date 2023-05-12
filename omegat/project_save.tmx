@@ -75493,6 +75493,14 @@ create the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>and the text after the location corresponds to the associated &lt;e0&gt;After&lt;/e0&gt; rule.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230512T093842Z" creationid="Dick" creationdate="20230512T093842Z">
+        <seg>en of de tekst na de locatie correspondeert met de geassocieerde &lt;e0&gt;Na&lt;/e0&gt;-regel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>and then start OmegaT.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T103607Z">
