@@ -52590,6 +52590,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segments with the same characteristics located in other files will be translated the same way.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230512T093335Z" creationid="Dick" creationdate="20230512T093335Z">
+        <seg>Segmenten met dezelfe karakteristieken, geplaatst in andere bestanden, zullen op dezefde manier worden vertaald.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T184818Z">
