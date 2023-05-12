@@ -22551,6 +22551,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do not use the file name to identify alternate translations</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230512T093026Z" creationid="Dick" creationdate="20230512T093026Z">
+        <seg>Gebruik niet de bestandsnaam om alternatieve vertalingen te identificeren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do you have a Java implementation compatible with Oracle's Java 1.6 JRE?</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T140628Z">
@@ -31421,6 +31429,14 @@ notice like this when it starts in an interactive mode:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the source documents contain whitespace used to control the layout, the whitespace that must be will retained in the translated document.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230512T093003Z" creationid="Dick" creationdate="20230512T093003Z">
+        <seg>Als de brondocumenten witruimte bevat die wordt gebruikt om de lay-out te beheren, moet de witruimte die dat beheert worden behouden in het vertaalde document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the source file is modified after you have begun translating, &lt;a1&gt;OmegaT&lt;/a1&gt; may be unable to find a segment that you have already translated.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T165712Z">
@@ -31627,6 +31643,14 @@ Public License instead of this License.</seg>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T142926Z" creationid="DiGro (Dick)" creationdate="20170915T142926Z">
         <seg>If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If this option is checked, only the previous/next segments or a segment identifier will be used to characterize an alternative translation.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230512T093243Z" creationid="Dick" creationdate="20230512T093243Z">
+        <seg>Als deze optie is geselecteerd, zullen alleen de vorige/volgende segmenten of een identificatie voor een segment worden gebruikt om en alternatieve vertaling te karakteriseren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61675,6 +61699,14 @@ earlier work or a work "based on" the earlier work.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T190117Z">
         <seg>De opgegeven taal voor de bronbestanden is ongeldig!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The source file name is one of the elements that characterize an alternative translation.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230512T093111Z" creationid="Dick" creationdate="20230512T093111Z">
+        <seg>De bron-bestandsnaam is één van de elementen dat een alternatieve vertaling karakteriseert.</seg>
       </tuv>
     </tu>
     <tu>
