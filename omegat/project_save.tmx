@@ -44584,6 +44584,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT uses the encoding declaration in the source file, if present, to identify the encoding (HTML or XML based files).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230516T094655Z" creationid="Dick" creationdate="20230516T094655Z">
+        <seg>OmegaT gebruikt de codering van de declaratie van het bronbestand, indien aanwezig, om  de codering te identificeren (HTML- of op XML- gebaseerde bestanden).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT uses the following libraries:</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T191315Z">
@@ -53306,6 +53314,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T095452Z">
         <seg>Selecteren van één er van zal het invoegen op de huidige positie van de cursor in het doelsegment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selecting the &lt;g0&gt;&lt;auto&gt;&lt;/g0&gt; option leaves the choice of encoding to OmegaT, based on the following criteria:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230516T094512Z" creationid="Dick" creationdate="20230516T094512Z">
+        <seg>Selecteren van de optie &lt;g0&gt;&lt;auto&gt;&lt;/g0&gt; laat de keuze voor de codering aan OmegaT, gebaseerd op de volgende criteria:</seg>
       </tuv>
     </tu>
     <tu>
