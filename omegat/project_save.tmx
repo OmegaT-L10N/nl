@@ -65946,6 +65946,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To associate a filter to a file, OmegaT checks its file extension and attempts to match it to a source filename patterns in a filter.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230516T092624Z" creationid="Dick" creationdate="20230516T092624Z">
+        <seg>OmegaT controleert, om een filter met een bestand te associeren, de bestandsextensie en probeert het overeen te laten komen met een patroon voor een bron-bestandsnaam in een filter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To associate a script with a number:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T171553Z" creationid="Dick" creationdate="20190516T171553Z">
@@ -69761,6 +69769,14 @@ De huidige instelling is {0}MB;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T130132Z" creationid="Dick" creationdate="20211118T130132Z">
         <seg>Gebruik het bestand &lt;f0&gt;OmegaT.jar&lt;/f0&gt; dat zich bevindt in &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt; om OmegaT vanaf de opdrachtregel te starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;g0&gt;Filename Variables&lt;/g0&gt; drop-down menu to customize the target file name.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230516T092448Z" creationid="Dick" creationdate="20230516T092448Z">
+        <seg>Gebruik het keuzemenu &lt;g0&gt;Bestandsmaam variabelen&lt;/g0&gt; om de doel-bestandsnaam aan te passen.</seg>
       </tuv>
     </tu>
     <tu>
