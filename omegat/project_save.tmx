@@ -70706,6 +70706,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Using this pattern assigns the translated file the exact same name as the source file.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230516T095741Z" creationid="Dick" creationdate="20230516T095741Z">
+        <seg>Gebruiken van dit patroon wijst het vertaalde bestand exact dezelfde naam toe als het bronbestand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Using wild cards</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T171103Z">
@@ -81585,6 +81593,14 @@ create the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>name of the source file, without the extension</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230516T095833Z" creationid="Dick" creationdate="20230516T095833Z">
+        <seg>naam van het bronbestand, zonder de extensie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>nau</seg>
       </tuv>
       <tuv lang="nl">
@@ -82653,6 +82669,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>ori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>original file extension</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230516T095903Z" creationid="Dick" creationdate="20230516T095903Z">
+        <seg>originele bestandsextensie</seg>
       </tuv>
     </tu>
     <tu>
