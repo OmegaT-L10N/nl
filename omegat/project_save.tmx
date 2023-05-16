@@ -15047,6 +15047,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Associating a file extension to a filter is not sufficient to have the filter properly handle the file.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230516T093031Z" creationid="Dick" creationdate="20230516T093031Z">
+        <seg>Associeren van een bestandsextensie aan een filter is niet voldoende om het filter jet bestand correct te laten afhandelen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>At each cursor position rules, consisting of a &lt;e0&gt;Before &lt;/e0&gt;and &lt;e1&gt;After &lt;/e1&gt;pattern, are applied in their given order to see if any of the&lt;e2&gt; Before&lt;/e2&gt; patterns are valid for the text on the left and the corresponding &lt;e3&gt;After&lt;/e3&gt; pattern for the text on the right of the cursor.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T172007Z">
@@ -27019,6 +27027,14 @@ freedoms that you received.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, the pattern &lt;l0&gt;.xhtml&lt;/l0&gt; registered in the XHTML filter matches any file with the &lt;f1&gt;xhtml&lt;/f1&gt; extension.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230516T092759Z" creationid="Dick" creationdate="20230516T092759Z">
+        <seg>Het patroon &lt;l0&gt;*.xhtml&lt;/l0&gt; zal bijvoorbeeld overeenkomen met elk bestand met de extensie &lt;f1&gt;.xhtml&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, the pattern &lt;l1&gt;*.xhtml &lt;/l1&gt;matches any file with the &lt;l2&gt;.xhtml&lt;/l2&gt; extension.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T121108Z" creationid="Dick" creationdate="20211118T121108Z">
@@ -31087,6 +31103,14 @@ the predecessor has it or can get it with reasonable efforts.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T125046Z">
         <seg>Indien spellingscontrole is geactiveerd, worden spelfouten en typefouten herkend en kunnen die gecorrigeerd worden tijdens de vertaling.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If such a file is found in the &lt;l2/&gt; folder, the file will be handled by the XHTML filter.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230516T092848Z" creationid="Dick" creationdate="20230516T092848Z">
+        <seg>Als een dergelijk bestand wordt gevonden in de map &lt;l2/&gt;, zal het bestand worden afghandeld door het filter XHTML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73371,6 +73395,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134525Z" creationid="Dirk" creationdate="20160910T134525Z">
         <seg>U kunt patronen voor bestandsnamen toevoegen of wijzigen voor bestanden die door elk filter worden afgehandeld.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can change or add filename patterns to associate different files to a filter.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230516T092939Z" creationid="Dick" creationdate="20230516T092939Z">
+        <seg>U kunt patronen voor bestandsnamen toevoegen of wijzigen om verschillende bestanden aan een filter toe te wijzen.</seg>
       </tuv>
     </tu>
     <tu>
