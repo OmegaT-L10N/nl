@@ -44106,6 +44106,14 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties, for example).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230516T094713Z" creationid="Dick" creationdate="20230516T094713Z">
+        <seg>OmegaT is geïnstrueerd om een voorgeschreven codering te gebruiken voor bepaalde bestandsformaten ( Java-properties bijvoorbeeld)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is not particularly difficult to install or use, but it does require a willingness to read and follow the instructions.</seg>
       </tuv>
       <tuv lang="nl">
