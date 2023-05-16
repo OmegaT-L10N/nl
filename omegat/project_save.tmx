@@ -16059,6 +16059,14 @@ Neem nog een biertje.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Both dialogs allow you to customize the filename patterns for the source and target files associated to this the filter, and select their respective encoding.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230516T092222Z" creationid="Dick" creationdate="20230516T092222Z">
+        <seg>Beide dialoogvensters stellen u in staat de patronen voor de bestandsnamen aan  te passen voor de bron- en doelbestanden die zijn geassocieerd aan dit filter, en hun respectievelijke codering te selecteren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bottom right: the Priorview utility.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T172757Z" creationid="Dirk" creationdate="20131225T172757Z">
@@ -65822,6 +65830,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T143751Z">
         <seg>Ga naar &lt;g0&gt;Opties &gt; Machinevertaling...&lt;/g0&gt; en activeer de gewenste service om een van de services voor machinevertaling te activeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To add a filter pattern, click on &lt;g0&gt;Add...&lt;/g0&gt; to open a similar dialog.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230516T092023Z" creationid="Dick" creationdate="20230516T092023Z">
+        <seg>Klik op &lt;g0&gt;Toevoegen…&lt;/g0&gt; om een nieuw patroon voor een bestandsfilter toe te voegen, om een soortgelijk dialoogvenster te openen.</seg>
       </tuv>
     </tu>
     <tu>
