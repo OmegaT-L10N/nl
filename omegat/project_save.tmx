@@ -26080,6 +26080,14 @@ Gossamer-drempel houdt u tegen
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Files in the &lt;l0/&gt; folder are overwritten every time you create them if they are created with the same name.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230516T095026Z" creationid="Dick" creationdate="20230516T095026Z">
+        <seg>Bestanden in de map &lt;l0/&gt; worden, elke keer als u ze opnieuw maakt, overschreven, zelfs als zij worden gemaakt dezelfde naam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Files must be deleted by the project manager.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20201125T121011Z" creationid="Dick" creationdate="20201125T121011Z">
@@ -43542,6 +43550,14 @@ OmegaT 4.0, Lees Mij-bestand</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT can automatically create new file names for the files you create, by adding a language code or a time stamp, for example.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230516T095134Z" creationid="Dick" creationdate="20230516T095134Z">
+        <seg>OmegaT kan automatisch nieuwe bestandsnamen maken voor de bestanden die u maakt, door bijvoorbeeld een taalcode of tijdstempel toe te voegen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT can be customized to support other file formats as well.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T103514Z">
@@ -59482,6 +59498,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The easiest way to modify it is to use the &lt;g0&gt;Edit Pattern&lt;/g0&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230516T095344Z" creationid="Dick" creationdate="20230516T095344Z">
+        <seg>De eenvoudigste manier om die aan te passen is door het dialoogvenster &lt;g0&gt;Patroon bewerken&lt;/g0&gt; te gebruiken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The encoding of glossaries is determined automatically.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T140139Z" creationid="Dirk" creationdate="20160910T140041Z">
@@ -62279,6 +62303,14 @@ use, which is precisely where it is most unacceptable.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134615Z">
         <seg>Doelbestandsnaam-patronen gebruiken een speciale syntaxis, dus als u dit veld zou willen bewerken, moet u op &lt;e0&gt;Bewerken...&lt;/e0&gt; klikken en het dialoogvenster &lt;i1/&gt;Patroon bewerken gebruiken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The target filename pattern uses a special syntax.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230516T095218Z" creationid="Dick" creationdate="20230516T095218Z">
+        <seg>Het patroon voor de doel-bestandsnaam gebruikt een speciale syntaxis.</seg>
       </tuv>
     </tu>
     <tu>
