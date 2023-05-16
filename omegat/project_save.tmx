@@ -16641,6 +16641,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, the encoding of the translated file is the same as that of the source file.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230516T093746Z" creationid="Dick" creationdate="20230516T093746Z">
+        <seg>Standaard is de codering van het vertaalde bestand hetzelfde als die van het bronbestand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, the translated file encoding is the same as the source file encoding.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134549Z">
@@ -40738,6 +40746,14 @@ your receipt of the notice.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Most file formats allow various possible encodings.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230516T093637Z" creationid="Dick" creationdate="20230516T093637Z">
+        <seg>De meeste bestandsindelingen staan verschillen mogelijke coderingen toe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Most functions are also available via keyboard shortcuts.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T145003Z">
@@ -54818,6 +54834,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source and translated file encoding</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230516T093602Z" creationid="Dick" creationdate="20230516T093602Z">
+        <seg>Coderen van bron- en doelbestanden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source code</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131227T163330Z" creationid="Dirk" creationdate="20131227T163330Z">
@@ -61867,6 +61891,14 @@ earlier work or a work "based on" the earlier work.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T112320Z" creationid="Dick" creationdate="20190516T112320Z">
         <seg>De velden voor bron- en doelcodering gebruiken keuzelijsten waarin alle ondersteunde coderingen zijn opgenomen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The source and target encoding fields use drop-down menus listing all supported encodings.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230516T093809Z" creationid="Dick" creationdate="20230516T093809Z">
+        <seg>[DG]De velden voor bron- en doelcodering gebruiken keuzelijsten waarin alle ondersteunde coderingen zijn opgenomen.</seg>
       </tuv>
     </tu>
     <tu>
