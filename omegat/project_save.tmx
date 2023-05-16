@@ -61897,8 +61897,8 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="en">
         <seg>The source and target encoding fields use drop-down menus listing all supported encodings.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230516T093809Z" creationid="Dick" creationdate="20230516T093809Z">
-        <seg>[DG]De velden voor bron- en doelcodering gebruiken keuzelijsten waarin alle ondersteunde coderingen zijn opgenomen.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230516T094245Z" creationid="Dick" creationdate="20230516T093809Z">
+        <seg>De velden voor bron- en doelcodering gebruiken keuzelijsten waarin alle ondersteunde coderingen zijn opgenomen.</seg>
       </tuv>
     </tu>
     <tu>
