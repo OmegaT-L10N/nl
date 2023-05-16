@@ -27067,6 +27067,14 @@ freedoms that you received.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, use the pattern &lt;l0&gt;read*&lt;/l0&gt; if you want to have the text filter handle readme files (&lt;l1&gt;readme, read.me&lt;/l1&gt;, or &lt;l2&gt;readme.txt&lt;/l2&gt;).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230516T093544Z" creationid="Dick" creationdate="20230516T093544Z">
+        <seg>Als u bijvoorbeeld wilt dat het tekstfilter readme-bestanden (&lt;l1&gt;readme, read.me&lt;/l1&gt; of &lt;l2&gt;readme.txt&lt;/l2&gt;) afhandelt, zou u het patroon &lt;l0&gt;read*&lt;/l0&gt; moeten gebruiken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, when you have a Czech text file (very probably written in the &lt;e2&gt;ISO-8859-2&lt;/e2&gt; code) you just need to change the extension&lt;l3&gt; .txt&lt;/l3&gt; to &lt;l4&gt;.txt2 &lt;/l4&gt;and &lt;a5&gt;OmegaT&lt;/a5&gt; will interpret its contents correctly.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T165904Z">
@@ -54882,6 +54890,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source filename patterns use wild card characters : The &lt;l0&gt;*&lt;/l0&gt; character matches zero or more characters, while the &lt;l1&gt;?&lt;/l1&gt; character matches exactly one character.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230516T093430Z" creationid="Dick" creationdate="20230516T093430Z">
+        <seg>Patronen voor bronbestandsnamen gebruiken jokertekens: Het teken &lt;l0&gt;*&lt;/l0&gt; character komt overeen met nul of meer tekens, waar het teken &lt;l1&gt;?&lt;/l1&gt; overeenkomt met exact één teken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source filename patterns use wild card characters similar to those used in &lt;e2&gt;Searches.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134532Z">
@@ -59582,6 +59598,14 @@ instead.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T140313Z" creationid="Dirk" creationdate="20131225T140313Z">
         <seg>Het bestand is voorzien van opmerkingen om u te helpen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The file structure must also be compatible with the filter: even if you associate &lt;l0&gt;.odt&lt;/l0&gt; to the XHMTL filter, the filter will not be able to understand the contents of a LibreOffice Writer file.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230516T093257Z" creationid="Dick" creationdate="20230516T093257Z">
+        <seg>De bestandsstructuur moet ook compatibel zijn met het filter: zelfs als u &lt;l0&gt;.odt&lt;/l0&gt; associeert met het filter XHTML filter, zal het filter niet in staat zijn de inhoud van een bestand van OpenOffice Writer te begrijpen.</seg>
       </tuv>
     </tu>
     <tu>
