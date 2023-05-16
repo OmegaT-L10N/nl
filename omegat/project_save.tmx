@@ -2009,6 +2009,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Redo</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230516T091105Z" creationid="Dick" creationdate="20230516T091105Z">
+        <seg>&amp;Opnieuw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Redo Last Action</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T185240Z">
@@ -2149,6 +2157,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T185445Z">
         <seg>&amp;Hoofdvenster herstellen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Restore OmegaT Window</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230516T091207Z" creationid="Dick" creationdate="20230516T091207Z">
+        <seg>Hoofdvenster OmegaT &amp;herstellen</seg>
       </tuv>
     </tu>
     <tu>
@@ -2477,6 +2493,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221218T133123Z" creationid="Dick" creationdate="20221218T133123Z">
         <seg>&amp;Hoofdletters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Undo</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230516T091047Z" creationid="Dick" creationdate="20230516T091047Z">
+        <seg>&amp;Ongedaan maken</seg>
       </tuv>
     </tu>
     <tu>
@@ -4149,6 +4173,22 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T103435Z">
         <seg>- gebruiken van elk geldig TMX-bestand als een verwijzing voor de vertaling</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>- verify that their format is supported by OmegaT:
+	  if local filter settings are enabled
+	  use Project &gt; Properties... &gt; Local File Filters...,
+	  otherwise use Options &gt; Global File Filters...;
+	- open them in their original application and verify that they are not empty.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230516T091029Z" creationid="Dick" creationdate="20230516T091029Z">
+        <seg>- verifieer dat hun indeling wordt ondersteund door OmegaT:
+	  als projectspecifieke filterinstellingen zijn ingeschakeld
+	  gebtuik Project &gt; Eigenschappen… &gt; Lokale bestandsfilters…,
+	  gebruik anders Opties &gt; Globale bestandsfilters…;
+	- open ze in hun originele toepassing en verifieer dat zij niet leeg zijn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12155,6 +12195,14 @@ included in conveying the object code work.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230510T114258Z" creationid="Dick" creationdate="20230510T114258Z">
         <seg>Afbreken…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Abort: Exit with an error if tags are invalid.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230516T090943Z" creationid="Dick" creationdate="20230516T090943Z">
+        <seg>Afbreken: Afsluiten met een fout als tags ongeldig zijn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34798,6 +34846,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Missing &amp;Tags</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230516T091134Z" creationid="Dick" creationdate="20230516T091134Z">
+        <seg>Ontbrekende &amp;tags invoegen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Missing Source &amp;Tags</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20130411T171654Z">
@@ -39822,6 +39878,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Matches come from your current translation or the reference files placed in the /tm/ folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230516T091312Z" creationid="Dick" creationdate="20230516T091312Z">
+        <seg>Overeenkomsten komen uit uw huidige vertaling of de verwijzingsbestanden die u in de map /tm/ hebt geplaatst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Matches deleted active</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T151205Z" creationid="Dick" creationdate="20221220T151205Z">
@@ -42789,6 +42853,14 @@ otherwise be available to you under applicable patent law.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T165009Z" creationid="Dirk" creationdate="20160906T165009Z">
         <seg>Laat het me weten als een segment overeenkomsten met Opmerkingen heeft</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notify Me When the Segment Has Fuzzy Matches</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230516T091330Z" creationid="Dick" creationdate="20230516T091330Z">
+        <seg>Laat het me weten als het segment Fuzzy overeenkomsten heeft</seg>
       </tuv>
     </tu>
     <tu>
