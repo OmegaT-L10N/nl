@@ -11097,6 +11097,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;span translate="no"&gt;This content is not translatable&lt;/span&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T093317Z" creationid="Dick" creationdate="20230517T093317Z">
+        <seg>&lt;span translate="no"&gt;Deze inhoud is niet te vertalen&lt;/span&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t0&gt; &lt;t1&gt;TSV&lt;/t1&gt; &lt;t2&gt; &lt;f3&gt;.txt&lt;/f3&gt; &lt;/t2&gt; &lt;t4&gt;UTF-8&lt;/t4&gt; &lt;/t0&gt; &lt;t5&gt; &lt;t6&gt;TSV&lt;/t6&gt; &lt;t7&gt; &lt;f8&gt;.utf8&lt;/f8&gt; &lt;/t7&gt; &lt;t9&gt;UTF-8&lt;/t9&gt; &lt;/t5&gt; &lt;t10&gt; &lt;t11&gt;TSV&lt;/t11&gt; &lt;t12&gt; &lt;f13&gt;.tab&lt;/f13&gt; &lt;/t12&gt; &lt;t14&gt;OS default encoding&lt;/t14&gt; &lt;/t10&gt; &lt;t15&gt; &lt;t16&gt;TSV&lt;/t16&gt; &lt;t17&gt; &lt;f18&gt;.tsv&lt;/f18&gt; &lt;/t17&gt; &lt;t19&gt;OS default encoding&lt;/t19&gt; &lt;/t15&gt; &lt;t20&gt; &lt;t21&gt;CSV&lt;/t21&gt; &lt;t22&gt; &lt;f23&gt;.csv&lt;/f23&gt; &lt;/t22&gt; &lt;t24&gt;UTF-8&lt;/t24&gt; &lt;/t20&gt; &lt;t25&gt; &lt;t26&gt;TBX&lt;/t26&gt; &lt;t27&gt; &lt;f28&gt;.tbx&lt;/f28&gt; &lt;/t27&gt; &lt;t29&gt;UTF-8&lt;/t29&gt; &lt;/t25&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210504T095603Z" creationid="Dick" creationdate="20210504T095603Z">
@@ -13559,6 +13567,14 @@ conditions are met.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T131012Z">
         <seg>Alle talen hebben toegang tot het objectmodel van OmegaT, met het project als het hoogste object.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the tags that are marked with &lt;c0&gt;translate="no"&lt;/c0&gt; will be ignored.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T093401Z" creationid="Dick" creationdate="20230517T093401Z">
+        <seg>Alle tags die zijn gemarkeerd met &lt;c0&gt;translate="no"&lt;/c0&gt; zullen worden genegeerd.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21515,6 +21531,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Define the attribute values that make a tag non-translatable.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T093231Z" creationid="Dick" creationdate="20230517T093231Z">
+        <seg>Defineer de attribuutwaarden die een tag niet te vertalen maken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Define the paragraph tags, in this case by changing the line:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T150545Z" creationid="Dirk" creationdate="20131225T150545Z">
@@ -22627,6 +22651,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>Dmitri Gabinski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do not add quotation marks and separate the values with a comma.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T093054Z" creationid="Dick" creationdate="20230517T093054Z">
+        <seg>Voeg geen aanhalingstekens toe en scheidt de waarden door een komma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33350,6 +33382,22 @@ work and works based on it.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T093442Z" creationid="Dick" creationdate="20190516T093442Z">
         <seg>Hits met hele andere letters negeren (bijv. FOO vs foo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignore tags that contain translate="no"</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T093255Z" creationid="Dick" creationdate="20230517T093255Z">
+        <seg>Negeer tags die translate="no" bevatten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignore the content part of &lt;meta name="robots" content="index, follow"&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T093126Z" creationid="Dick" creationdate="20230517T093126Z">
+        <seg>Negeer het gedeelte inhoud van &lt;meta name="robots" content="index, follow"&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -66852,6 +66900,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To ignore this content:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T093139Z" creationid="Dick" creationdate="20230517T093139Z">
+        <seg>Deze inhoud negeren:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To install &lt;a0&gt;OmegaT&lt;/a0&gt;, double-click on the program you have downloaded.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T140633Z">
@@ -86287,6 +86343,22 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>use, which is precisely where it is most unacceptable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>use:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T093152Z" creationid="Dick" creationdate="20230517T093152Z">
+        <seg>gebruik:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>use: &lt;l0&gt;translate=no&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T093325Z" creationid="Dick" creationdate="20230517T093325Z">
+        <seg>gebruik: &lt;l0&gt;translate=no&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
