@@ -29394,6 +29394,14 @@ Het is er wintertijd voor</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Here, you can decide whether to add or modify the declaration of the target file</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T093811Z" creationid="Dick" creationdate="20230517T093811Z">
+        <seg>Hier kunt u bepalen om de declaratie van het doelbestand toe te voegen of te wijzigen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Herero</seg>
       </tuv>
       <tuv lang="nl">
@@ -45628,6 +45636,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only the options not available under the XHTML files filter (see above) are described here.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T093537Z" creationid="Dick" creationdate="20230517T093537Z">
+        <seg>Alleen de opties die niet beschikbaar zijn onder het filter XHTML-bestanden (zie hierboven) worden hier beschreven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only this preference currently requires manual modification.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221221T144040Z" creationid="Dick" creationdate="20221221T144040Z">
@@ -55090,6 +55106,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source and target files sometimes require a different encoding.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T093711Z" creationid="Dick" creationdate="20230517T093711Z">
+        <seg>Bron- en doelbestanden vereisen soms een verschillende codering.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source and translated file encoding</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230516T093602Z" creationid="Dick" creationdate="20230516T093602Z">
@@ -59790,6 +59814,14 @@ instead.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230516T095344Z" creationid="Dick" creationdate="20230516T095344Z">
         <seg>De eenvoudigste manier om die aan te passen is door het dialoogvenster &lt;g0&gt;Patroon bewerken&lt;/g0&gt; te gebruiken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The encoding of an HTML document is generally declared within a &lt;meta&gt; element situated in the &lt;head&gt; element.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T093637Z" creationid="Dick" creationdate="20230517T093637Z">
+        <seg>De codering van een HTML-document is over het algemeen gedeclareerd binnen een element &lt;meta&gt; dat is geplaats in het element &lt;head&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75977,6 +76009,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>alternative is allowed only occasionally and noncommercially, and</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>always, based on the file filter settings,</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T093839Z" creationid="Dick" creationdate="20230517T093839Z">
+        <seg>altijd, gebaseerd op de instellingen van het bestandsfilter,</seg>
       </tuv>
     </tu>
     <tu>
