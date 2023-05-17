@@ -82505,6 +82505,22 @@ create the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>only if the file already has a &lt;head&gt; tag,</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T093858Z" creationid="Dick" creationdate="20230517T093858Z">
+        <seg>alleen als het bestand al een tag &lt;head&gt; heeft,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>only if the file already has a declaration,</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T093912Z" creationid="Dick" creationdate="20230517T093912Z">
+        <seg>alleen als het bestand al een declaratie heeft,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>only if you received the object code with such an offer, in accord</seg>
       </tuv>
       <tuv lang="nl">
@@ -82773,6 +82789,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>or household purposes, or (2) anything designed or sold for incorporation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>or never and only save the target file in the encoding specified in the file filter settings.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T094016Z" creationid="Dick" creationdate="20230517T094016Z">
+        <seg>of nooit en sla het doelbestand alleen op in de codering die is gespecificeerd in de instellingen voor het bestandsfilter.</seg>
       </tuv>
     </tu>
     <tu>
