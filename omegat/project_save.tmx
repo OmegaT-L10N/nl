@@ -12789,6 +12789,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Additional variants are available for &lt;l0&gt;${nameOnly}&lt;/l0&gt; and &lt;l1&gt;${extension}&lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T085952Z" creationid="Dick" creationdate="20230517T085952Z">
+        <seg>Aanvullende varianten zijn beschikbaar voor &lt;l0&gt;${nameOnly}&lt;/l0&gt; en &lt;l1&gt;${extension}&lt;/l1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Additional variants are available for variables ${nameOnly} and ${Extension}.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134639Z">
@@ -31637,6 +31645,14 @@ notice like this when it starts in an interactive mode:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the use of multiple periods makes identifying the file name and extension ambiguous, you can use variables of the form &lt;l0&gt;${nameOnly-&lt;/l0&gt;&lt;e1&gt;number&lt;/e1&gt;} or &lt;l2&gt;${extension-&lt;/l2&gt;&lt;e3&gt;number} &lt;/e3&gt; to specify which portions are part of the name or extension, as shown in the example below.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T090231Z" creationid="Dick" creationdate="20230517T090231Z">
+        <seg>Als het gebruiken van meerdere perioden het identificeren van de bestandsnaam en extensie moeilijk maken, kunt u variabelen in de vorm van &lt;l0&gt;${nameOnly-&lt;/l0&gt;&lt;e1&gt;nummer&lt;/e1&gt;} of &lt;l2&gt;${extension-&lt;/l2&gt;&lt;e3&gt;nummer} &lt;/e3&gt;gebruiken om te specificeren welke delen deel uitmaken van de naam of de extensie, zoals weergegeven in het voorbeeld hieronder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the value is &lt;l1&gt;abort&lt;/l1&gt;, then on tag errors the errors are printed and the program stops.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142646Z">
@@ -40316,6 +40332,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170916T114845Z" creationid="DiGro (Dick)" creationdate="20170916T114845Z">
         <seg>Microsoft Word, Excel, Powerpoint</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Microsoft target locale</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T085925Z" creationid="Dick" creationdate="20230517T085925Z">
+        <seg>Microsoft doel-locale</seg>
       </tuv>
     </tu>
     <tu>
@@ -77741,6 +77765,22 @@ create the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>encoding of the source file</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T085902Z" creationid="Dick" creationdate="20230517T085902Z">
+        <seg>codering van het bronbestand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>encoding of the target file</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T085914Z" creationid="Dick" creationdate="20230517T085914Z">
+        <seg>codering van het doelbestand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>eng</seg>
       </tuv>
       <tuv lang="nl">
@@ -78755,6 +78795,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>holder fails to notify you of the violation by some reasonable means</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>host name on the system</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T085849Z" creationid="Dick" creationdate="20230517T085849Z">
+        <seg>hostnaam van het systeem</seg>
       </tuv>
     </tu>
     <tu>
@@ -81597,6 +81645,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T110749Z">
         <seg>najlepših - superlatief, meervoud, genitief voor M,F,N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>name of the operating system</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T085817Z" creationid="Dick" creationdate="20230517T085817Z">
+        <seg>naam van het besturingssysteem</seg>
       </tuv>
     </tu>
     <tu>
@@ -86015,6 +86071,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>users, your or third parties' legal rights to forbid circumvention of</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>user’s login name</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T085833Z" creationid="Dick" creationdate="20230517T085833Z">
+        <seg>login-naam van gebruiker</seg>
       </tuv>
     </tu>
     <tu>
