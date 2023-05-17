@@ -14565,6 +14565,14 @@ paragraph of section 11).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any paragraph matching the regular expression is ignored while loading and is not displayed for translation.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T092749Z" creationid="Dick" creationdate="20230517T092749Z">
+        <seg>Elke alinea die overeenkomt met de reguliere expressie wordt genegeerd bij het laden en wordt niet weergegeven voor vertalin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Any text, already translated and stored in those files, will appear among the fuzzy matches, if it is sufficiently similar to the text currently being translated.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T172437Z">
@@ -21495,6 +21503,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221215T150620Z" creationid="Dick" creationdate="20221215T150620Z">
         <seg>Standaard XML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Define the &lt;meta&gt; tag attribute values for which the associated "content" attribute will not be translated.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T093022Z" creationid="Dick" creationdate="20230517T093022Z">
+        <seg>Definieer de attribuutwaarden voor de tag &lt;meta&gt; waarvoor het geassocieerde attribuut "content" niet moet worden vertaald.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65435,6 +65451,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T155840Z">
         <seg>Deze optie geeft &lt;u0&gt;bidirectional control characters&lt;/u0&gt; weer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option is convenient when dealing with HTML parts that only contain non translatable text.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T092835Z" creationid="Dick" creationdate="20230517T092835Z">
+        <seg>Deze optie is handig bij het behandelen van delen van HTML die alleeen niet te vertalen tekst bevat.</seg>
       </tuv>
     </tu>
     <tu>
