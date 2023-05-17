@@ -52558,6 +52558,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;u0&gt;Oracle documentation&lt;/u0&gt; for examples.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T085801Z" creationid="Dick" creationdate="20230517T085801Z">
+        <seg>Bekijk de &lt;u0&gt;documentatie van Oracle&lt;/u0&gt; voor voorbeelden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the GNU General Public License for more detail.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T130908Z">
@@ -84601,6 +84609,14 @@ create the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>system time when the file was created</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T085726Z" creationid="Dick" creationdate="20230517T085726Z">
+        <seg>tijdstempel van toen het bestand werd gemaakt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ta</seg>
       </tuv>
       <tuv lang="nl">
@@ -84645,6 +84661,38 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170914T161750Z" creationid="DiGro (Dick)" creationdate="20170914T161750Z">
         <seg>target = project.getTranslationInfo(currSegment).translation;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target language code (xx)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T085656Z" creationid="Dick" creationdate="20230517T085656Z">
+        <seg>code doeltaal (xx)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target language+region (xx-YY)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T085645Z" creationid="Dick" creationdate="20230517T085645Z">
+        <seg>doeltaal+regio (xx-YY)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target language+region code (xx_YY)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T085626Z" creationid="Dick" creationdate="20230517T085626Z">
+        <seg>doeltaal+regiocode (xx_YY)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target region code (YY)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T085707Z" creationid="Dick" creationdate="20230517T085707Z">
+        <seg>code doelregio (YY)</seg>
       </tuv>
     </tu>
     <tu>
