@@ -8386,6 +8386,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;${extension-0}&lt;/l0&gt;: &lt;f1&gt;docx&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T090632Z" creationid="Dick" creationdate="20230517T090632Z">
+        <seg>[DG]&lt;l0&gt;${extension-0}&lt;/l0&gt; docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;${extension-1}&lt;/l0&gt; xx.docx</seg>
       </tuv>
       <tuv lang="nl">
@@ -8429,6 +8437,14 @@ Bekijk "Hoofdstuk 3.</seg>
         <seg>&lt;l0&gt;${nameOnly-0}&lt;/l0&gt; Document</seg>
       </tuv>
       <tuv lang="nl">
+        <seg>&lt;l0&gt;${nameOnly-0}&lt;/l0&gt; Document</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${nameOnly-0}&lt;/l0&gt;: &lt;f1&gt;Document&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T090432Z" creationid="Dick" creationdate="20230517T090432Z">
         <seg>&lt;l0&gt;${nameOnly-0}&lt;/l0&gt; Document</seg>
       </tuv>
     </tu>
@@ -26613,6 +26629,14 @@ actually uses, or expects or is expected to use, the product.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T103518Z">
         <seg>Voor een handleiding om snel te kunnen beginnen, start OmegaT en lees de weergegeven handleiding Snel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For a source file named Document.xx.docx, using the variable variants below will produce the following results:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T090426Z" creationid="Dick" creationdate="20230517T090426Z">
+        <seg>Voor een bronbestand dat is genaamd Document.xx.docx, zullen de volgende variabelen de volgende resultaten geven:</seg>
       </tuv>
     </tu>
     <tu>
@@ -56946,6 +56970,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20140813T172908Z" creationid="Dirk" creationdate="20140813T172908Z">
         <seg>Doel tellen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target file names</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T090348Z" creationid="Dick" creationdate="20230517T090348Z">
+        <seg>Namen doelbestanden</seg>
       </tuv>
     </tu>
     <tu>
