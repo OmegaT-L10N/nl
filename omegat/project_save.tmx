@@ -13173,6 +13173,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aggregate tags</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T092059Z" creationid="Dick" creationdate="20230517T092059Z">
+        <seg>Tags samenvoegen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Aggressive &amp;Font Fallback</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T123219Z" creationid="Dirk" creationdate="20170914T123219Z">
@@ -18815,8 +18823,8 @@ OmegaT gebruikt de volgende bibliotheken:
       <tuv lang="en">
         <seg>Comments and sheet names.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230517T091901Z" creationid="Dick" creationdate="20230517T091901Z">
-        <seg>Notitites en werkbladnamen.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T091922Z" creationid="Dick" creationdate="20230517T091901Z">
+        <seg>Notities en werkbladnamen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25540,6 +25548,14 @@ Gossamer-drempel houdt u tegen
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T105737Z" creationid="Dick" creationdate="20221220T105737Z">
         <seg>Externe &amp;koppelingen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External links, charts, diagrams, drawings, and WordArt.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T092046Z" creationid="Dick" creationdate="20230517T092046Z">
+        <seg>Externe koppelingen, grafieken, diagrammen, tekeningen en WordArt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42063,8 +42079,8 @@ measures.</seg>
       <tuv lang="en">
         <seg>Non-visible instruction text, comments, footnotes, endnotes, footers, duplicate fallback text, and document properties.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230517T091830Z" creationid="Dick" creationdate="20230517T091830Z">
-        <seg>Niet-zichtbare tekst voor instructies, opmerkingen, voernoten, eindnoten, voetteksten, duplicaat-tekst om op terug te vallen, en document-eigenschappen.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T091915Z" creationid="Dick" creationdate="20230517T091830Z">
+        <seg>Niet-zichtbare tekst voor instructies, notities, voetnoten, eindnoten, voetteksten, duplicaat-tekst om op terug te vallen, en document-eigenschappen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54478,6 +54494,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Slide comments, slide masters, and slide layouts.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T092000Z" creationid="Dick" creationdate="20230517T092000Z">
+        <seg>Notities van dia's, diaslablonen, en lay-outs van dia's.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Slide la&amp;youts</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T105731Z" creationid="Dick" creationdate="20221220T105731Z">
@@ -55658,6 +55682,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T105835Z" creationid="Dick" creationdate="20221220T105835Z">
         <seg>Een nieuwe alinea bij W&amp;ord zachte return beginnen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start a new paragraph on Word soft-returns</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T092305Z" creationid="Dick" creationdate="20230517T092305Z">
+        <seg>Een nieuwe alinea beginnen bij Word zachte return</seg>
       </tuv>
     </tu>
     <tu>
@@ -56946,6 +56978,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135720Z">
         <seg>Tags die zijn gereproduceerd in het vertaalde segment zullen aanwezig zijn in het vertaalde document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tags that do not enclose translatable text will be aggregated into a single tag.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T092150Z" creationid="Dick" creationdate="20230517T092150Z">
+        <seg>Tags, die geen vertaalbare tekst omsluiten, worden samengevoegd tot één enkele tag.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72291,6 +72331,14 @@ technological measures.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20130411T173110Z">
         <seg>Witruimte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whitespace (i.e., spaces and newlines) will be preserved, even if this option is not defined in the document.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T092233Z" creationid="Dick" creationdate="20230517T092233Z">
+        <seg>Witruimte (d.i. spaties en nieuwe regels) worden behouden, zelfs als deze optie niet is gedefinieerd in het document.</seg>
       </tuv>
     </tu>
     <tu>
