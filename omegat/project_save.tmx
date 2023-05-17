@@ -8386,14 +8386,6 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>&lt;l0&gt;${extension-0}&lt;/l0&gt;: &lt;f1&gt;docx&lt;/f1&gt;</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230517T090632Z" creationid="Dick" creationdate="20230517T090632Z">
-        <seg>[DG]&lt;l0&gt;${extension-0}&lt;/l0&gt; docx</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>&lt;l0&gt;${extension-1}&lt;/l0&gt; xx.docx</seg>
       </tuv>
       <tuv lang="nl">
@@ -53262,6 +53254,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select the filter in the list and click &lt;g0&gt;Options...&lt;/g0&gt; to modify them.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T091004Z" creationid="Dick" creationdate="20230517T091004Z">
+        <seg>Selecteer het filter in de lijst en klik op &lt;g0&gt;Opties…&lt;/g0&gt; om ze aan te passen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select the first segment.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T113945Z" creationid="Dick" creationdate="20190517T113945Z">
@@ -53810,6 +53810,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T110331Z" creationid="Dick" creationdate="20190516T110331Z">
         <seg>Verschillende filters (Tekstbestanden, XHTML-bestanden, HTML- en XHTML-bestanden, OpenDocument-bestanden en Microsoft Open XML-bestanden) hebben één of meer specifieke opties.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Several filters offer options.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T090915Z" creationid="Dick" creationdate="20230517T090915Z">
+        <seg>Verscheidene filters bieden opties aan.</seg>
       </tuv>
     </tu>
     <tu>
