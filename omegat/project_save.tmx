@@ -18813,6 +18813,14 @@ OmegaT gebruikt de volgende bibliotheken:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Comments and sheet names.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T091901Z" creationid="Dick" creationdate="20230517T091901Z">
+        <seg>Notitites en werkbladnamen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Comments are displayed after a number and each on a separate line.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210504T094211Z" creationid="Dick" creationdate="20210504T094211Z">
@@ -42053,6 +42061,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Non-visible instruction text, comments, footnotes, endnotes, footers, duplicate fallback text, and document properties.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T091830Z" creationid="Dick" creationdate="20230517T091830Z">
+        <seg>Niet-zichtbare tekst voor instructies, opmerkingen, voernoten, eindnoten, voetteksten, duplicaat-tekst om op terug te vallen, en document-eigenschappen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>None</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T130342Z" creationid="Dirk" creationdate="20170914T130342Z">
@@ -63821,6 +63837,14 @@ U bent het slachtoffer van één van de drie.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They will appear as separate segments in the editor.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T091652Z" creationid="Dick" creationdate="20230517T091652Z">
+        <seg>Zij zullen als afzonderlijke segmenten in de bewerker verschijnen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They will appear as separate segments in the translation.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134330Z">
@@ -72703,14 +72727,6 @@ Uw pagina werd niet gevonden</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Word</seg>
-      </tuv>
-      <tuv lang="nl" changeid="DiGro" changedate="20110112T190654Z">
-        <seg>Word</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>Word 2007 inserts a tag at page breaks, even automatic page breaks.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120401T145953Z">
@@ -73731,6 +73747,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120401T164432Z">
         <seg>U kunt het dagelijks gebruik controleren op uw account van Google.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can choose additional document elements to translate.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T091638Z" creationid="Dick" creationdate="20230517T091638Z">
+        <seg>U kunt kiezen welke aanvullende elementen van het document vertaald moeten worden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74919,6 +74943,14 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>You should have received a copy of the GNU General Public License</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You should only use it to avoid compatibility issues with previous projects containing files you handled with that filter.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T091602Z" creationid="Dick" creationdate="20230517T091602Z">
+        <seg>U zou het alleen moeten gebruiken om problemen met compatibiliteit met eerdere projecten, die bestanden bevatten die zijn afgehandeld met dat filter, te vermijden.</seg>
       </tuv>
     </tu>
     <tu>
