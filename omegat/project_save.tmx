@@ -11999,6 +11999,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A value of 0 sets no limits.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T091324Z" creationid="Dick" creationdate="20230517T091324Z">
+        <seg>Een waarde van 0 stelt geen begrenzing in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A vast range of functions, an uncluttered interface, and, most importantly, constant, regular open-source development!</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170916T115846Z" creationid="DiGro (Dick)" creationdate="20170916T115846Z">
@@ -17973,6 +17981,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131228T112846Z" creationid="Dirk" creationdate="20131228T112846Z">
         <seg>Kies een tokenizer uit de volgende lijst, overeenkomstig uw &lt;s0&gt;bron&lt;/s0&gt;taal:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose here the way OmegaT creates paragraphs in your text files.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T091223Z" creationid="Dick" creationdate="20230517T091223Z">
+        <seg>Kies hier de manier waarop OmegaT alinea's maakt in uw tekstbestanden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38350,6 +38366,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Line length</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T091230Z" creationid="Dick" creationdate="20230517T091230Z">
+        <seg>Regellengte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Line length in target files (0 = no limit)</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T104849Z" creationid="Dick" creationdate="20221220T104849Z">
@@ -40082,6 +40106,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T192026Z">
         <seg>Maximaliseren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Maximum line length</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T091331Z" creationid="Dick" creationdate="20230517T091331Z">
+        <seg>Maximale regellengte</seg>
       </tuv>
     </tu>
     <tu>
@@ -57430,6 +57462,14 @@ Het bereik van een tekstvervanging zijn de doelsegmenten van het project, of zij
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Text files do not have generic paragraph markers.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T091154Z" creationid="Dick" creationdate="20230517T091154Z">
+        <seg>Tekstbestanden hebben geen algemene markringen voor alinea's.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Text files segmentation</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T191715Z">
@@ -57822,6 +57862,14 @@ for making modifications to it.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T143827Z">
         <seg>De gebruiker van &lt;a0&gt;OmegaT&lt;/a0&gt; is niet gedwongen om Google Translate te gebruiken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;c0&gt;Microsoft Office Open XML (legacy filter)&lt;/c0&gt; is the original OmegaT filter.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T091449Z" creationid="Dick" creationdate="20230517T091449Z">
+        <seg>Het filter &lt;c0&gt;Microsoft Office Open XML (oud filter)&lt;/c0&gt; is het originele OmegaT-filter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -84477,6 +84525,22 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>specifically granted under this License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>specifies the maximum number of characters before breaking a long line.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T091305Z" creationid="Dick" creationdate="20230517T091305Z">
+        <seg>specificeert het maximale aantal tekens, vóór een lange regel wordt afgebroken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>specifies the maximum number of characters before cutting a line and ignoring the rest.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230517T091415Z" creationid="Dick" creationdate="20230517T091415Z">
+        <seg>specificeert het maximale aantal tekens, vóórdat een regel wordt afgebroken en negeert de rest.</seg>
       </tuv>
     </tu>
     <tu>
