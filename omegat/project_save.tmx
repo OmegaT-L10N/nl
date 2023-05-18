@@ -34958,6 +34958,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Index entries, bookmarks, bookmark references, notes, comments, presentation notes, links (URL), and sheet names.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T092453Z" creationid="Dick" creationdate="20230518T092453Z">
+        <seg>Indexitems, bladwijzers, verwijzingen naar bladwijzers, notities, opmerkingen, notities in presentaties, koppelingen (URL) en werkbladnamen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Indicate that this match is fuzzy (currently only for translations from PO files with the #fuzzy mark)</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T095440Z">
@@ -36897,6 +36905,14 @@ zelf bij de eerste keer dat het wordt uitgevoerd.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Java 9 and above requires UTF-8 encoding.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T092254Z" creationid="Dick" creationdate="20230518T092254Z">
+        <seg>Java 9 en daarboven vereisen codering van UTF-8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Java Properties XML</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T164006Z" creationid="Dirk" creationdate="20160906T164006Z">
@@ -37221,6 +37237,14 @@ zelf bij de eerste keer dat het wordt uitgevoerd.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T104921Z" creationid="Dick" creationdate="20221220T104921Z">
         <seg>Letterlijke tekens voor Unico&amp;de (\uXXXX) behouden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keep Unicode literals (\\uXXXX)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T092337Z" creationid="Dick" creationdate="20230518T092337Z">
+        <seg>Letterlijke tekens voor Unicode (\uXXXX) behouden</seg>
       </tuv>
     </tu>
     <tu>
@@ -54846,6 +54870,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some applications require some Unicode literals to be kept.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T092409Z" creationid="Dick" creationdate="20230518T092409Z">
+        <seg>Sommige toepassingen vereisen dat enkele letterlijke tekens van Unicode worden behouden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some devices are designed to deny users access to install or run</seg>
       </tuv>
       <tuv lang="nl">
@@ -65647,6 +65679,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This option allows for that.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T092424Z" creationid="Dick" creationdate="20230518T092424Z">
+        <seg>Deze optie maakt dat mogelijk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This option allows the tag validation in a batch mode.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142627Z">
@@ -65683,6 +65723,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T155840Z">
         <seg>Deze optie geeft &lt;u0&gt;bidirectional control characters&lt;/u0&gt; weer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option forces Java 8 compatibility.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T092318Z" creationid="Dick" creationdate="20230518T092318Z">
+        <seg>Deze optie forceert compabiliteit voor Java 8.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68327,6 +68375,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T191638Z">
         <seg>Vertaal de volgende attributen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translate the following elements</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T092432Z" creationid="Dick" creationdate="20230518T092432Z">
+        <seg>Vertaal de volgende elementen</seg>
       </tuv>
     </tu>
     <tu>
