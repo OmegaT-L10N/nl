@@ -13611,6 +13611,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allow blank target segments</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T091327Z" creationid="Dick" creationdate="20230518T091327Z">
+        <seg>Vertalen &amp;blanco bronsegmenten toestaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allow local external search commands</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T152744Z" creationid="Dick" creationdate="20221220T152744Z">
@@ -29222,6 +29230,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Having untranslated contents in the translated files sometimes creates compatibility issues.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T091235Z" creationid="Dick" creationdate="20230518T091235Z">
+        <seg>Niet vertaalde inhoud in de vertaalde bestanden veroorzaakt soms problemen met compatibiliteit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>He&amp;aders</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T190659Z">
@@ -43702,6 +43718,14 @@ OmegaT 4.0, Lees Mij-bestand</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT always reproduces the source contents when a segment is not provided.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T091408Z" creationid="Dick" creationdate="20230518T091408Z">
+        <seg>OmegaT reproducesert altijd de inhoud van de bron als een segment niet wordt verschaft.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT automatically chose the 'Yes' option.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221218T132115Z" creationid="Dick" creationdate="20221218T132115Z">
@@ -50306,6 +50330,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120103T175244Z">
         <seg>Vertaling verwijderen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove untranslated strings in the target files</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T091131Z" creationid="Dick" creationdate="20230518T091131Z">
+        <seg>Verwijder niet-vertaalde tekenreeksen in de doelbestanden</seg>
       </tuv>
     </tu>
     <tu>
@@ -57654,6 +57686,14 @@ Het bereik van een tekstvervanging zijn de doelsegmenten van het project, of zij
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Text in HTML comments (between &lt;l0&gt;&lt;!--&lt;/l0&gt; and &lt;l1&gt;--&gt;&lt;/l1&gt;) are not copied into the translated document.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T091119Z" creationid="Dick" creationdate="20230518T091119Z">
+        <seg>Tekst in opmerkingen van HTML (tussen &lt;l0&gt;&lt;!--&lt;/l0&gt; en &lt;l1&gt;--&gt;&lt;/l1&gt;) worden niet gekopieerd naar het vertaalde document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Text in source segment that matches is shown in italic.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134322Z">
@@ -60062,6 +60102,14 @@ instead.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131226T155427Z" creationid="Dirk" creationdate="20131226T155427Z">
         <seg>De bestanden van deze site, in een handig pakket voor hen die het wensen te vertalen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The filter checks printf variables ('%s', etc.) by default.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T091314Z" creationid="Dick" creationdate="20230518T091314Z">
+        <seg>Het filter controleert standaard printf-variabelen ('%s', etc.).</seg>
       </tuv>
     </tu>
     <tu>
@@ -70393,6 +70441,14 @@ De huidige instelling is {0}MB;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T162535Z">
         <seg>Gebruik deze mogelijkheid in de gevallen dat u één of meer componenten heeft losgemaakt, verplaatst of verborgen en u ze niet terug kan krijgen op de manier die u wilt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this option to leave a non translated segment blank.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T091439Z" creationid="Dick" creationdate="20230518T091439Z">
+        <seg>Gebruik deze optie om een niet vertaald segmeent blanco te laten.</seg>
       </tuv>
     </tu>
     <tu>
