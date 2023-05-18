@@ -19005,6 +19005,14 @@ OmegaT gebruikt de volgende bibliotheken:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Compatibility with OmegaT 2.6</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T092613Z" creationid="Dick" creationdate="20230518T092613Z">
+        <seg>Compatibiliteit met OmegaT 2.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Compatible with other translation memory applications (TMX, TTX, TXML, XLIFF, SDLXLIFF)</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131226T153715Z" creationid="Dirk" creationdate="20131226T153715Z">
@@ -24203,6 +24211,14 @@ Uw helppagina werd niet gevonden</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230517T092343Z" creationid="Dick" creationdate="20230517T092343Z">
         <seg>Schakel deze optie in indien soft-returns zijn bedoeld als begin van een nieuwe alinea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enable this option if you need to work with XLIFF files created with OmegaT 2.6.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T092649Z" creationid="Dick" creationdate="20230518T092649Z">
+        <seg>Schakel deze optie in als u moet werken met XLIFF-bestanden die zijn gemaakt met OmegaT 2.6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57078,6 +57094,14 @@ APPLICABLE LAW.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tag shortcuts</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T092850Z" creationid="Dick" creationdate="20230518T092850Z">
+        <seg>Sneltoetsen voor tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tag shortcuts (do not apply to OmegaT 2.6 compatible files):</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T105452Z" creationid="Dick" creationdate="20221220T105452Z">
@@ -63945,6 +63969,14 @@ not accept this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These options specify the way OmegaT creates tags from the XLIFF contents.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T092930Z" creationid="Dick" creationdate="20230518T092930Z">
+        <seg>Deze opties specificeren de manier waarop OmegaT tags maakt uit de inhoud van XLIFF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These segments are marked and delimited by special characters and MS Word formatting styles.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120401T134912Z">
@@ -64969,6 +65001,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230512T085925Z" creationid="Dick" creationdate="20221221T144613Z">
         <seg>Dit bestand slaat de huidige geselecteerde tekst op als &lt;l0/&gt;&lt;l1/&gt; wordt gebruikt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This filter is the original OmegaT XLIFF filter.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T092549Z" creationid="Dick" creationdate="20230518T092549Z">
+        <seg>Dit filter is het originele XLIFF-filter van OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70759,6 +70799,14 @@ De huidige instelling is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>User can select from three options, Previous and next paragraphs, &lt;trans unit&gt; ID, or &lt;trans-unit&gt; resname attribute when available, when unavailable, the ID will be used as a fallback.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T092834Z" creationid="Dick" creationdate="20230518T092834Z">
+        <seg>De gebruiker kan kiezen uit drie opties, Vorige en volgen alinea's, attribuut resname &lt;trans unit&gt;-ID, of &lt;trans-unit&gt; indien beschikbaar, indien niet beschikbaar zal de ID worden gebruikt om op terug te vallen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>User canceled signing (no passphrase provided)</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20220217T105352Z" creationid="Dick" creationdate="20220217T105352Z">
@@ -75398,6 +75446,14 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
         <seg>You should only use it to avoid compatibility issues with previous projects containing files you handled with that filter.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230517T091602Z" creationid="Dick" creationdate="20230517T091602Z">
+        <seg>U zou het alleen moeten gebruiken om problemen met compatibiliteit met eerdere projecten, die bestanden bevatten die zijn afgehandeld met dat filter, te vermijden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You should only use it to avoir compatibility issues with previous projects containing files you handled with that filter.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T092608Z" creationid="Dick" creationdate="20230518T092608Z">
         <seg>U zou het alleen moeten gebruiken om problemen met compatibiliteit met eerdere projecten, die bestanden bevatten die zijn afgehandeld met dat filter, te vermijden.</seg>
       </tuv>
     </tu>
