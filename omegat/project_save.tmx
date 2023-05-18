@@ -49022,6 +49022,14 @@ lokaal project zonder functionaliteit voor team.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project glossary</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T101721Z" creationid="Dick" creationdate="20230518T101721Z">
+        <seg>De woordenlijst voor het project</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project is Empty</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T185211Z">
@@ -63475,6 +63483,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The writable project glossary is located in the &lt;l0/&gt; folder by default and called &lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T101818Z" creationid="Dick" creationdate="20230518T101818Z">
+        <seg>De beschrijfbare woordenlijkst is standaard geplaatst in de map &lt;l0/&gt; en is genaamd &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The writeable glossary file is not in the glossary folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120327T164241Z">
@@ -65137,6 +65153,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230518T092549Z" creationid="Dick" creationdate="20230518T092549Z">
         <seg>Dit filter is het originele XLIFF-filter van OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder can be set outside the project, enabling you to use it, or one of the specific subfolders, in other projects.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T101716Z" creationid="Dick" creationdate="20230518T101716Z">
+        <seg>Deze map mag buiten het project worden ingesteld, wat u in staat stelt het te gebruiken, of een van de specifieke submappen, in andere projecten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70689,6 +70713,14 @@ De huidige instelling is {0}MB;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221218T140231Z" creationid="Dick" creationdate="20221218T140231Z">
         <seg>Gebruik de &lt;l0/&gt; projecteigenschappn om het type segmentatie te selecteren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;l0/&gt; project property to set the location of the reference glossaries folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T101549Z" creationid="Dick" creationdate="20230518T101549Z">
+        <seg>Gebruik de &lt;l0/&gt; projecteigenschap om de locatie van de map voor woordenlijsten in te stellen.</seg>
       </tuv>
     </tu>
     <tu>
