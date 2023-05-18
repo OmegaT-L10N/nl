@@ -29246,6 +29246,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Having untranslated contents in the translated files sometimes create compatibility issues.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T092047Z" creationid="Dick" creationdate="20230518T092047Z">
+        <seg>Niet vertaalde inhoud in de vertaalde bestanden veroorzaakt soms problemen met compatibiliteit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Having untranslated contents in the translated files sometimes creates compatibility issues.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230518T091235Z" creationid="Dick" creationdate="20230518T091235Z">
@@ -36877,6 +36885,14 @@ zelf bij de eerste keer dat het wordt uitgevoerd.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120402T175223Z">
         <seg>Java</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Java 8 requires ISO-8859-1 encoding and uses Unicode literals for characters outside that character set.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T092230Z" creationid="Dick" creationdate="20230518T092230Z">
+        <seg>Java 8 vereist codering van ISO-8859-1 en gebruikt letterlijke tekens voor Unicode buiten die tekenset.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46836,6 +46852,14 @@ free programs, and that you know you can do these things.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>PO files that use &lt;l0&gt;msgid&lt;/l0&gt; as an ID code, use &lt;l1&gt;msgstr&lt;/l1&gt; as the source container and expect the translation to overwrite &lt;l2&gt;msgstr&lt;/l2&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T092021Z" creationid="Dick" creationdate="20230518T092021Z">
+        <seg>PO-bestanden die &lt;l0&gt;msgid&lt;/l0&gt; gebruiken als een ID-code, &lt;l1&gt;msgstr&lt;/l1&gt; gebruiken als de broncontainer en verwachten dat de vertaling overschrijft &lt;l2&gt;msgstr&lt;/l2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>PO files that use &lt;l0&gt;msgid&lt;/l0&gt; as the source container and expect the translation to be put in &lt;l1&gt;msgstr&lt;/l1&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230518T091907Z" creationid="Dick" creationdate="20230518T091907Z">
@@ -52800,8 +52824,8 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       <tuv lang="en">
         <seg>See the &lt;l0/&gt; preference for details.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20221221T145502Z" creationid="Dick" creationdate="20221221T145502Z">
-        <seg>Bekijk de &lt;l0/&gt; voorkeuren voor details.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T092144Z" creationid="Dick" creationdate="20221221T145502Z">
+        <seg>Bekijk de &lt;l0/&gt; voorkeur voor details.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60150,6 +60174,14 @@ instead.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131226T155427Z" creationid="Dirk" creationdate="20131226T155427Z">
         <seg>De bestanden van deze site, in een handig pakket voor hen die het wensen te vertalen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The filter checks Java MessageFormat patterns (e.g. \{0\}) by default.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T092131Z" creationid="Dick" creationdate="20230518T092131Z">
+        <seg>Het filter controleert standaard patronen van Java MessageFormat (bijv. \{0\}).</seg>
       </tuv>
     </tu>
     <tu>
