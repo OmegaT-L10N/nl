@@ -33154,6 +33154,14 @@ to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you want to specify a different encoding, you can do so by adding a “magic” comment that takes the following form:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T100716Z" creationid="Dick" creationdate="20230518T100716Z">
+        <seg>Als u een andere codering wilt specificeren, kunt u dat doen door een “magische” opmerking in de volgende vorm op te nemen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you want to use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; to open a project, modify your &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; as follows:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T131230Z">
@@ -49718,6 +49726,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reference glossaries</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T100839Z" creationid="Dick" creationdate="20230518T100839Z">
+        <seg>Woordenlijst voor verwijzingen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reference windows</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T162703Z">
@@ -64157,6 +64173,14 @@ U bent het slachtoffer van één van de drie.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They are terminology files in a format recognized by OmegaT.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T100906Z" creationid="Dick" creationdate="20230518T100906Z">
+        <seg>Zij zijn terminologie-bestanden in een indeling die wordt herkend door OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They are the files you deal with on a daily basis while translating.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134657Z">
@@ -74994,6 +75018,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230512T093606Z" creationid="Dick" creationdate="20230512T093606Z">
         <seg>Het proces van segmentering kan als volgt worden voorgesteld: de cursor verplaatst zich langs de tekst, één teken per keer, zoekend naar de positie waar een afbreking zal voorkomen, of waar een afbreking niet is toegestaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You cannot modify them from the OmegaT interface like the project glossary, but you can do so in a text editor.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T100957Z" creationid="Dick" creationdate="20230518T100957Z">
+        <seg>U kunt ze niet aanpassen vanuit de interface van OmegaT zoals de woordenlijst voor het project, maar u kunt dat doen in een tekstbewerker.</seg>
       </tuv>
     </tu>
     <tu>
@@ -87119,6 +87151,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T171408Z" creationid="Dirk" creationdate="20131225T171328Z">
         <seg>waar &lt;i0&gt;pad&lt;/i0&gt; de volledige padnaam is van de map waarin u preview.tcl hebt geplaatst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>where &lt;p0&gt;&lt;charset&gt;&lt;/p0&gt; is typically one of the sets listed in the &lt;u1&gt;IANA Charset Registry&lt;/u1&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T100821Z" creationid="Dick" creationdate="20230518T100821Z">
+        <seg>waar &lt;p0&gt;&lt;charset&gt;&lt;/p0&gt; gewoonlijk een van de lijsten is die is vermeld in de &lt;u1&gt;IANA Charset Registry&lt;/u1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
