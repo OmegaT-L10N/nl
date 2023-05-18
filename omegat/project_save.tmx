@@ -13421,6 +13421,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All glossaries must be located in the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T101314Z" creationid="Dick" creationdate="20230518T101308Z">
+        <seg>Alle woordenlijst moeten zijn geplaatst in de map &lt;l0/&gt; folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All of OmegaT's functions are available through the menu bar at the top of the Editor window.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T145002Z">
@@ -16653,6 +16661,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20200725T115847Z" creationid="Dick" creationdate="20200725T115847Z">
         <seg>Standaard worden alle bestanden, die niet zijn uitgesloten, opgenomen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, each project contains a &lt;l0/&gt; folder to store the writable glossary and any reference glossaries you want to add to the project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T101217Z" creationid="Dick" creationdate="20230518T101217Z">
+        <seg>Standaard bevat elk project een map &lt;l0/&gt; om de beschrijfbare woordenlijst in te plaatsen en andere woordenlijst voor verwijzing die u wilt toevoegen aan het project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40848,6 +40864,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modifications made to any glossary are immediately recognized by OmegaT displayed in the &lt;l0/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T101103Z" creationid="Dick" creationdate="20230518T101103Z">
+        <seg>Aanpassingen in een woordenlijst worden onmiddellijk herkend door OmegaT en weergegeven in het venster &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modifications to the original document are thus handled with greater ease.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T124937Z">
@@ -52950,6 +52974,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l1/&gt; project property for details.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T101245Z" creationid="Dick" creationdate="20230518T101245Z">
+        <seg>Bekijk de project-eigenschap &lt;l1/&gt; voor details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l2/&gt; preferences for details.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230512T085746Z" creationid="Dick" creationdate="20230512T085746Z">
@@ -60662,6 +60694,14 @@ instead.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T162513Z">
         <seg>De fuzzy overeenkomsten kunnen ook op verschillende manieren gesorteerd worden (alleen voor de weergave; heeft geen invloed op de statistieken).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The glossaries folder</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T101120Z" creationid="Dick" creationdate="20230518T101120Z">
+        <seg>De map voor woordenlijsten</seg>
       </tuv>
     </tu>
     <tu>
@@ -73291,6 +73331,14 @@ Uw pagina werd niet gevonden</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135732Z">
         <seg>Binnen een segment krijgt de eerste groep (paar of enkele) het nummer 0, de tweede het nummer 1, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Within that reference glossaries folder, you can create multiple terminology subfolders organized by topic, client, or any other category that suits your workflow.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T101449Z" creationid="Dick" creationdate="20230518T101449Z">
+        <seg>Binnen die map voor woordenlijsten ter verwijzing kunt u meerdere submappen voor terminologie maken, gerangschikt op onderwerp, cliënt of elke andere categorie die geschikt is voor uw werkstroom.</seg>
       </tuv>
     </tu>
     <tu>
