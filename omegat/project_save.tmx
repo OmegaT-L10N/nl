@@ -25536,6 +25536,14 @@ Gossamer-drempel houdt u tegen
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Extension</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T102454Z" creationid="Dick" creationdate="20230518T102454Z">
+        <seg>Extensie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External GPG did not return a valid signature; got: {0}</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20220217T105531Z" creationid="Dick" creationdate="20220217T105531Z">
@@ -27861,6 +27869,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T105010Z" creationid="Dick" creationdate="20221220T105010Z">
         <seg>Compatibiliteit voor letterlijke tekens voor Unicode forceren met Java 8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Format</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T102445Z" creationid="Dick" creationdate="20230518T102445Z">
+        <seg>Indeling</seg>
       </tuv>
     </tu>
     <tu>
@@ -43543,6 +43559,14 @@ combined work, and to convey the resulting work.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170927T103623Z" creationid="DiGro (Dick)" creationdate="20170927T103623Z">
         <seg>OS X niet ondertekend</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OS default encoding</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T102530Z" creationid="Dick" creationdate="20230518T102530Z">
+        <seg>standaard codering besturingssysteem</seg>
       </tuv>
     </tu>
     <tu>
@@ -60146,6 +60170,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The encoding used to read reference glossaries depends on their file extension:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T102439Z" creationid="Dick" creationdate="20230518T102439Z">
+        <seg>De codering die wordt gebruikt voor het lezen van woordenlijsten voor verwijzing is afhankelijk van hun bestandsextensie:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The end of a line</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T170248Z">
@@ -71164,6 +71196,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T162611Z" creationid="Dick" creationdate="20190516T162611Z">
         <seg>Gebruikershandleiding…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User-created files that use only latin characters may be recognized and treated as ISO-8859-1 if it does not contain non-ASCII characters or other characters interpreted as UTF-8.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T102327Z" creationid="Dick" creationdate="20230518T102327Z">
+        <seg>Door gebruikers gemaakte bestanden die alleen Latijns tekens bevatten kunnen wordne herkend en behandeld als ISO-8859-1 als zij geen niet-ASCII-tekens bevatten of andere tekens die worden geïnterpreteerd als UTF-8.</seg>
       </tuv>
     </tu>
     <tu>
