@@ -12047,6 +12047,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A writable glossary created for the project by OmegaT will be a TSV file saved in UTF-8.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T102157Z" creationid="Dick" creationdate="20230518T102157Z">
+        <seg>Een beschrijfbare woordenlijst die is gemaakt voor het project door OmegaT zal altijd een TSV-bestand zijn dat is opgeslagen in UTF-8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A&amp;dd</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T184825Z">
@@ -28530,6 +28538,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossaries can be “tab-separated values” (TSV) or “comma-separated values” (CSV) files or can also use the TermBase eXchange (TBX 2) format.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T102057Z" creationid="Dick" creationdate="20230518T102057Z">
+        <seg>Woordenlijsten mogen "tab gescheiden waarden" (TSV)-bestanden of "komma gescheiden waarden" (CSV)-bestanden zijn of mogen de indeling TermBase eXchange (TBX 2) gebruiken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossaries folder:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221218T135825Z" creationid="Dick" creationdate="20221218T135825Z">
@@ -44162,6 +44178,14 @@ OmegaT 4.0, Lees Mij-bestand</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210504T100354Z" creationid="Dick" creationdate="20210504T100354Z">
         <seg>OmegaT voor Mac OS X is beschikbaar in zowel Genotariseerde als Niet-ondertekende versies; functioneel zijn zij identiek, maar de voorkeur gaat uit naar de genotariseerde versie omdat die door het systeem wordt herkend als a) gepubliceerd door een bekende ontwikkelaar en b) gescand door Apple.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT glossary files are simple plain text files containing three-column lists, with the source term in the first column, an optional target term in the second column, and an optional comment in the third column.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T102006Z" creationid="Dick" creationdate="20230518T102006Z">
+        <seg>Bestanden voor woordenlijsten in OmegaT zijn eenvoudige platte tekst lijsten met drie kolommen, met de bronterm in de eerste kolom, een optionele doelterm in de tweede kolom en een optionele opmerking in de derde kolom.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74347,6 +74371,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T134203Z" creationid="Dick" creationdate="20211118T134203Z">
         <seg>U kunt door de notities bladeren met behulp van &lt;m0&gt;&lt;g1&gt;Ga naar&lt;/g1&gt;&lt;g2&gt;Volgende notitie&lt;/g2&gt;&lt;/m0&gt; en &lt;m3&gt;&lt;g4&gt;Ga naar&lt;/g4&gt;&lt;g5&gt;Vorige notitie&lt;/g5&gt;&lt;/m3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can change its name and location in the &lt;l0/&gt; dialog, but you must give it a &lt;f1&gt;.txt&lt;/f1&gt; or &lt;f2&gt;.utf8&lt;/f2&gt; extension, and store it within the &lt;l3/&gt; folder or in one of its subfolders.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T101941Z" creationid="Dick" creationdate="20230518T101941Z">
+        <seg>U kunt de naam en de location ervan wijzigen in het dialoogvenster &lt;l0/&gt;, maar u moet het een extensie &lt;f1&gt;.txt&lt;/f1&gt; of &lt;f2&gt;.utf8&lt;/f2&gt; geven, en het opslaan binnen de map &lt;l3/&gt; of in één van diens submappen.</seg>
       </tuv>
     </tu>
     <tu>
