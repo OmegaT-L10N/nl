@@ -18869,6 +18869,14 @@ OmegaT gebruikt de volgende bibliotheken:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Comments in an HTML file are generally addressed to developers.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T090933Z" creationid="Dick" creationdate="20230518T090933Z">
+        <seg>Opmerkingen in een HTML-bestand zijn over het algemeen gericht aan ontwikkelaars.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Comments pane</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T174156Z">
@@ -31963,6 +31971,14 @@ Public License instead of this License.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T150755Z" creationid="DiGro (Dick)" creationdate="20170915T150755Z">
         <seg>Als deze versie niet beschikbaar is, kunt u proberen &lt;a0&gt;de niet-ondertekende versie te downloaden&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If unchecked, the comments are displayed as tags.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T091027Z" creationid="Dick" creationdate="20230518T091027Z">
+        <seg>Indien niet geselecteerd worden de opmerkingen weergegeven als tags.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65527,6 +65543,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This option converts such multiple continuous whitespace characters into a single space in the translated document.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T090848Z" creationid="Dick" creationdate="20230518T090848Z">
+        <seg>Deze optie converteert meerdered van dergelijke  doorlopende witruimten naar één enkele spatie in het vertaalde document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This option displays &lt;u0&gt;bidirectional control characters&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T155840Z">
@@ -70373,6 +70397,14 @@ De huidige instelling is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use this option to remove them.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T091003Z" creationid="Dick" creationdate="20230518T091003Z">
+        <seg>Gebruik deze optie om ze te verwijderen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use untar utility (or its equivalent, for instance&lt;f0&gt; winrar&lt;/f0&gt; in Windows) to extract its contents into the &lt;f1&gt;dictionary&lt;/f1&gt; project folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T110558Z" creationid="Dick" creationdate="20211118T110558Z">
@@ -72507,6 +72539,14 @@ technological measures.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T124418Z">
         <seg>Witruimte - achterliggend</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whitespace outside the tags is considered non significant in HTML/XHTML.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230518T090746Z" creationid="Dick" creationdate="20230518T090746Z">
+        <seg>Witruimte buiten de tags wordt als niet significant beschouwd in HTML/XHTML.</seg>
       </tuv>
     </tu>
     <tu>
