@@ -17107,8 +17107,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Cannot get correct answer.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230510T114233Z" creationid="Dick" creationdate="20230510T114233Z">
-        <seg>Kan geen juist atwoord verkrijgen.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T144258Z" creationid="Dick" creationdate="20230510T114233Z">
+        <seg>Kan geen juist antwoord verkrijgen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27623,8 +27623,8 @@ sale, or importing the Program or any portion of it.</seg>
       <tuv lang="en">
         <seg>For file formats and filters that support comments (e.g. PO-filter), displays the comments for the translator concerning the active segment, if any.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20221220T123447Z" creationid="Dick" creationdate="20221220T123447Z">
-        <seg>Voor bestandsindelingen en filters die opmerkibgen ondersteunen (bijv. PO-filter), geeft het de opmerkingen voor de verta;er met betreking tot het actieve segment weer, indien aanwezig.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T144205Z" creationid="Dick" creationdate="20221220T123447Z">
+        <seg>Voor bestandsindelingen en filters die opmerkingen ondersteunen (bijv. PO-filter), geeft het de opmerkingen voor de vertaler met betrekking tot het actieve segment weer, indien aanwezig.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38132,8 +38132,8 @@ zelf bij de eerste keer dat het wordt uitgevoerd.</seg>
       <tuv lang="en">
         <seg>Language Installer</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20221220T145550Z" creationid="Dick" creationdate="20221220T145550Z">
-        <seg>Installatieporgramma voor taal</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T144232Z" creationid="Dick" creationdate="20221220T145550Z">
+        <seg>Installatieprogramma voor taal</seg>
       </tuv>
     </tu>
     <tu>
