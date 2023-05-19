@@ -22319,6 +22319,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Digits and letters of the alphabet preceded by a backslash (&lt;l0&gt;\&lt;/l0&gt;) take on a special meaning</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T130025Z" creationid="Dick" creationdate="20230519T130025Z">
+        <seg>Cijfers en letters van het alfabet die worden voorafgegaan door een backslash (&lt;l0&gt;\&lt;/l0&gt;) hebben een speciale betekenis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dim sMark, sInt, sExt As Style&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120401T160740Z">
@@ -27099,6 +27107,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T170351Z">
         <seg>&lt;e0&gt;a+?&lt;/e0&gt; zal bijvoorbeeld overeen komen met de eerste &lt;e1&gt;a&lt;/e1&gt; in &lt;e2&gt;aaabbb&lt;/e2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, &lt;e0&gt;r&lt;/e0&gt; is just a normal character but preceding it with &lt;l1&gt;\&lt;/l1&gt; to make it &lt;l2&gt;\r&lt;/l2&gt; turns it into a special combination that matches a &lt;e3&gt;carriage return character&lt;/e3&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T130403Z" creationid="Dick" creationdate="20230519T130403Z">
+        <seg>Bijvoorbeeld: &lt;e0&gt;r&lt;/e0&gt; is slechts een normaal teken, maar door het te laten voorafgaan door een &lt;l1&gt;\&lt;/l1&gt; maakt dat &lt;l2&gt;\r&lt;/l2&gt; het in een speciale combinatie verandert die overeenkomt met een &lt;e3&gt;teken voor een hard-regeleinde&lt;/e3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55062,6 +55078,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Simply put, the search just looks for the word “&lt;e1&gt;example&lt;/e1&gt;”.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T125938Z" creationid="Dick" creationdate="20230519T125938Z">
+        <seg>Eenvoudig gezegd, de zoekactie zoekt alleen naar het woord “&lt;e1&gt;example&lt;/e1&gt;”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Simply unpack the archive in the folder of your choice.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T140615Z" creationid="Dirk" creationdate="20131225T140615Z">
@@ -70451,6 +70475,14 @@ Exacte zoekacties komen overeen met de gehele zoekterm.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20220411T152629Z" creationid="Dick" creationdate="20220411T152629Z">
         <seg>Onbekend/Handleiding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unlike a letter on its own, which simply represents itself as noted above, a letter preceded by a &lt;l0&gt;\&lt;/l0&gt; has a special function in a regular expression.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T130154Z" creationid="Dick" creationdate="20230519T130154Z">
+        <seg>Anders dan een letter op zichzelf, die eenvoudigweg zichzelf weergeeft, zoals hierboven vermeld, heeft een letter die wordt voorafgegaan door een &lt;l0&gt;\&lt;/l0&gt; een speciale functie in een reguliere expressie.</seg>
       </tuv>
     </tu>
     <tu>
