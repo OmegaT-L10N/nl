@@ -33114,6 +33114,14 @@ to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you need help for a specific case, you can also ask questions in the various support channels.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T122129Z" creationid="Dick" creationdate="20230519T122129Z">
+        <seg>Indien u hulp nodig hebt voor een specifiek geval, kunt u ook vragen stellen in de verschillende kanalen voor ondersteuning.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you need non-standard settings, the corresponding configuration files (&lt;l0&gt;filters.conf&lt;/l0&gt; and &lt;l1&gt;segmentation.conf&lt;/l1&gt;) must be present.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T165452Z">
@@ -50262,6 +50270,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regular expressions use a combination of letters, digits, and symbols (collectively known as &lt;e0&gt;characters&lt;/e0&gt;) to define an &lt;e1&gt;expression&lt;/e1&gt; that represents a specific text pattern.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T122253Z" creationid="Dick" creationdate="20230519T122253Z">
+        <seg>Reguliere uitdrukkingen gebruiken een combinatie van letters, cijfers en symbolen (collectief bekend als &lt;e0&gt;tekens&lt;/e0&gt;) om een &lt;e1&gt;expressie&lt;/e1&gt; te definiëren die een specifiek tekstpatroon weergeeft.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Release details</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T103411Z">
@@ -58782,6 +58798,14 @@ for making modifications to it.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135628Z">
         <seg>De schakeling met &lt;k4&gt; &lt;k5&gt;Shift&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; heeft drie statussen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0/&gt; section at the end of this appendix provides a few starting points to explore advanced or complex uses beyond the scope of this manual.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T122031Z" creationid="Dick" creationdate="20230519T122031Z">
+        <seg>Het gedeeete &lt;l0/&gt; aan het einde van deze appendix verschaft een aantal startpunten voor het verkennen van geavanceerd of complex gebruik buiten het bereik van deze handleiding.</seg>
       </tuv>
     </tu>
     <tu>
