@@ -21387,10 +21387,26 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Custom tags</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T122918Z" creationid="Dick" creationdate="20230519T122918Z">
+        <seg>Aangepaste tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Custom tags (regular expression):</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T122623Z" creationid="Dick" creationdate="20221220T122555Z">
         <seg>Aangepaste tags (reguliere expressie):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Custom tags are tags defined with regular expressions that are handled exactly like native OmegaT tags.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T123029Z" creationid="Dick" creationdate="20230519T123029Z">
+        <seg>Aangepaste tags zijn tags die zijn gedefinieerd met reguliere expressies die exact hetzelfde worden afgehandeld als de eigen tags van OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52814,6 +52830,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Searches include a &lt;l0/&gt; option that allows you to make extremely powerful searches across your files.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T122804Z" creationid="Dick" creationdate="20230519T122804Z">
+        <seg>Zoeken bevat een functie &lt;l0/&gt; die u in staat stelt bijzonder krachtige zoekacties in uw bestanden uit te voeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Searching for &lt;l0&gt;open file&lt;/l0&gt; will thus find all occurrences of the string &lt;e1&gt;&lt;l2&gt;open file&lt;/l2&gt;&lt;/e1&gt;, but not &lt;e3&gt;&lt;l4&gt;file opened&lt;/l4&gt;&lt;/e3&gt; or &lt;e5&gt;&lt;l6&gt;open input file&lt;/l6&gt;&lt;/e5&gt;.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T171146Z">
@@ -62727,6 +62751,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The same option in the &lt;l0/&gt; dialog allows you to apply regular expressions to both the search and replaced text.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T122912Z" creationid="Dick" creationdate="20230519T122912Z">
+        <seg>Dezelfde optie in het dialoogvenster &lt;l0/&gt; stelt u in staat reguliere expressies toe te passen op zowel gezochte en vervangen tekst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The same spirit can be found within the OmegaT project.</seg>
       </tuv>
       <tuv lang="nl">
@@ -71129,6 +71161,14 @@ De huidige instelling is {0}MB;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T092945Z" creationid="Dick" creationdate="20190516T092936Z">
         <seg>Termen die afzonderlijk in de brontekst verschijnen gebruiken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;c0&gt;|&lt;/c0&gt; (OR) character to separate individual tag definitions.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T123110Z" creationid="Dick" creationdate="20230519T123110Z">
+        <seg>Gebruik het teken &lt;c0&gt;|&lt;/c0&gt; (OR) om individuele definitites voor tags te scheiden.</seg>
       </tuv>
     </tu>
     <tu>
