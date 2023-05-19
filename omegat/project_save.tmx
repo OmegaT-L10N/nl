@@ -58850,6 +58850,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The 12 characters</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T131617Z" creationid="Dick" creationdate="20230519T131617Z">
+        <seg>De 12 tekens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The 3 other options are described in the specific page concerning &lt;l0&gt;TaaS&lt;/l0&gt; (Terminology as a Service).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T161900Z">
@@ -59078,6 +59086,14 @@ for making modifications to it.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T130748Z" creationid="Dick" creationdate="20211118T130748Z">
         <seg>Het argument &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; zorgt er voor dat OmegaT de gespecificeerde taal gebruikt, in plaats van de taal van het besturingssysteem van de gebruiker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0&gt;\&lt;/l0&gt; can cancel its own special meaning by doubling up to form &lt;l1&gt;\\&lt;/l1&gt;, which simply matches the &lt;e2&gt;backslash&lt;/e2&gt; character itself.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T131605Z" creationid="Dick" creationdate="20230519T131605Z">
+        <seg>De &lt;l0&gt;\&lt;/l0&gt; kan zijn eigen speciale betekenis annuleren door zichzelf te verdubbelen en &lt;l1&gt;\\&lt;/l1&gt; te vormen, wat eenvoudigweg overeenkomt met het teken &lt;e2&gt;backslash&lt;/e2&gt; zelf.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63959,6 +63975,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T173959Z">
         <seg>De vertaler zal Engelse vertalingen te zien krijgen voor bronsegmenten in Nederlands en die gebruiken om de Chinese vertaling te maken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The twelve special characters are the &lt;e0&gt;backslash&lt;/e0&gt; &lt;l1&gt;\&lt;/l1&gt;, the &lt;e2&gt;caret&lt;/e2&gt; &lt;l3&gt;^&lt;/l3&gt;, the &lt;e4&gt;dollar sign&lt;/e4&gt; &lt;l5&gt;$&lt;/l5&gt;, the &lt;e6&gt;period&lt;/e6&gt; (or &lt;e7&gt;dot&lt;/e7&gt;) &lt;l8&gt;.&lt;/l8&gt;, the &lt;e9&gt;vertical bar&lt;/e9&gt; (or &lt;e10&gt;pipe symbol&lt;/e10&gt;) &lt;l11&gt;|&lt;/l11&gt;, the &lt;e12&gt;question mark&lt;/e12&gt; &lt;l13&gt;?&lt;/l13&gt;, the &lt;e14&gt;asterisk&lt;/e14&gt; (or &lt;e15&gt;star&lt;/e15&gt;) &lt;l16&gt;*&lt;/l16&gt;, the &lt;e17&gt;plus sign&lt;/e17&gt; &lt;l18&gt;+&lt;/l18&gt;, the opening &lt;e19&gt;parenthesis&lt;/e19&gt; &lt;l20&gt;(&lt;/l20&gt;, the closing &lt;e21&gt;parenthesis&lt;/e21&gt;, &lt;l22&gt;)&lt;/l22&gt;, the opening &lt;e23&gt;square bracket&lt;/e23&gt; &lt;l24&gt;[&lt;/l24&gt;, and the opening &lt;e25&gt;curly brace&lt;/e25&gt; &lt;l26&gt;{&lt;/l26&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T131941Z" creationid="Dick" creationdate="20230519T131941Z">
+        <seg>De twaalf speciale tekens zijn de &lt;e0&gt;backslash&lt;/e0&gt; &lt;l1&gt;\&lt;/l1&gt;, de &lt;e2&gt;caret&lt;/e2&gt; &lt;l3&gt;^&lt;/l3&gt;, het &lt;e4&gt;dollar-teken&lt;/e4&gt; &lt;l5&gt;$&lt;/l5&gt;, de &lt;e6&gt;punt&lt;/e6&gt; (or &lt;e7&gt;dot&lt;/e7&gt;) &lt;l8&gt;.&lt;/l8&gt;, de &lt;e9&gt;verticale streep&lt;/e9&gt; (of &lt;e10&gt;symbool pipe&lt;/e10&gt;) &lt;l11&gt;|&lt;/l11&gt;, het &lt;e12&gt;vraagteken&lt;/e12&gt; &lt;l13&gt;?&lt;/l13&gt;, de &lt;e14&gt;asterisk&lt;/e14&gt; (of &lt;e15&gt;sterretje&lt;/e15&gt;) &lt;l16&gt;*&lt;/l16&gt;, het &lt;e17&gt;plus-teken&lt;/e17&gt; &lt;l18&gt;+&lt;/l18&gt;, het  &lt;e19&gt;haakje&lt;/e19&gt; voor openen &lt;l20&gt;(&lt;/l20&gt;, het &lt;e21&gt;haakje&lt;/e21&gt; voor sluiten, &lt;l22&gt;)&lt;/l22&gt;, the opening &lt;e23&gt;square bracket&lt;/e23&gt; &lt;l24&gt;[&lt;/l24&gt;, and the opening &lt;e25&gt;curly brace&lt;/e25&gt; &lt;l26&gt;{&lt;/l26&gt;.</seg>
       </tuv>
     </tu>
     <tu>
