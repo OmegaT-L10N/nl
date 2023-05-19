@@ -33386,6 +33386,14 @@ to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you only want to match the closing bracket as itself, you do not need to precede it with a backslash.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T141806Z" creationid="Dick" creationdate="20230519T141806Z">
+        <seg>Als u alleen het vierkante haakje zelf overeen wilt laten komen, hoeft u dat niet orraf te laten gaan door een backslash.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you place such translation memory files in the &lt;f6&gt;/tm/&lt;/f6&gt; subfolder of a project, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142929Z">
@@ -46376,6 +46384,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230519T130539Z" creationid="Dick" creationdate="20230519T130539Z">
         <seg>Alleen de letters &lt;e0&gt;i j l m o&lt;/e0&gt; en &lt;e1&gt;y&lt;/e1&gt;, in zowel hoofd- als kleine letters, hebben geen speciale betekenis indien voorafgegaan door een backslash.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only the opening bracket is special and needs to be preceded by a backslash to search for the bracket character itself.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T141700Z" creationid="Dick" creationdate="20230519T141700Z">
+        <seg>Alleen het vierkante haakje voor openen is speciaal en moet worden voorafgegaan door een backslash om naar het teken voor het haakje zelf te zoeken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59806,6 +59822,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The OPENING SQUARE BRACKET: &lt;l0&gt;[&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T141400Z" creationid="Dick" creationdate="20230519T141400Z">
+        <seg>Het VIERKANTE HAAKJE VOOR OPENEN: &lt;l0&gt;(&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The OmegaT Project</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170927T103109Z" creationid="DiGro (Dick)" creationdate="20170927T103109Z">
@@ -65985,6 +66009,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230519T134207Z" creationid="Dick" creationdate="20230519T134207Z">
         <seg>Dit teken functioneert als een “OR” en komt overeen met de expressies ervoor of erachter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This character must be paired with the closing square bracket to enclose a set of individual characters that each represent a valid potential match.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T141546Z" creationid="Dick" creationdate="20230519T141546Z">
+        <seg>Dit teken moet zijn gepaard aan het vierkante haakje voor sluiten om een set individuele teken te omsluiten die elk een geldige potentiële overeenkomst weergeven.</seg>
       </tuv>
     </tu>
     <tu>
