@@ -18873,6 +18873,14 @@ OmegaT gebruikt de volgende bibliotheken:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Codes such as “1234/5”, “1472/69”, or “9513/842” consisting of four digits, a forward slash, and one to three more digits.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T142650Z" creationid="Dick" creationdate="20230519T142650Z">
+        <seg>Codes, zoals “1234/5”, “1472/69”, of “9513/842”, bestaande uit vier cijfers, een slash voorwaarts, en één tot en met drie cijfers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Colours</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T124532Z" creationid="Dirk" creationdate="20170914T124532Z">
@@ -33394,10 +33402,18 @@ to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you only want to match the closing brace as itself, you do not need to precede it with a backslash.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T142516Z" creationid="Dick" creationdate="20230519T142516Z">
+        <seg>Als u alleen de accolade voor sluiten zelf overeen wilt laten komen, hoeft u dat niet vooraf te laten gaan door een backslash.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you only want to match the closing bracket as itself, you do not need to precede it with a backslash.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230519T141806Z" creationid="Dick" creationdate="20230519T141806Z">
-        <seg>Als u alleen het vierkante haakje zelf overeen wilt laten komen, hoeft u dat niet orraf te laten gaan door een backslash.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T142526Z" creationid="Dick" creationdate="20230519T141806Z">
+        <seg>Als u alleen het vierkante haakje zelf overeen wilt laten komen, hoeft u dat niet vooraf te laten gaan door een backslash.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46400,6 +46416,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230519T130539Z" creationid="Dick" creationdate="20230519T130539Z">
         <seg>Alleen de letters &lt;e0&gt;i j l m o&lt;/e0&gt; en &lt;e1&gt;y&lt;/e1&gt;, in zowel hoofd- als kleine letters, hebben geen speciale betekenis indien voorafgegaan door een backslash.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only the opening brace is special and needs to be preceded by a backslash to search for the brace character itself.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T142442Z" creationid="Dick" creationdate="20230519T142442Z">
+        <seg>Alleen de accolade voor openen is speciaal en moet worden voorafgegaan door een backslash om naar het teken voor de accolade zelf te zoeken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66041,6 +66065,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230519T134207Z" creationid="Dick" creationdate="20230519T134207Z">
         <seg>Dit teken functioneert als een “OR” en komt overeen met de expressies ervoor of erachter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This character must be paired with the closing curly brace to encloses an &lt;e0&gt;exact number&lt;/e0&gt;, &lt;e1&gt;minimum&lt;/e1&gt;, &lt;e2&gt;maximum&lt;/e2&gt;, or &lt;e3&gt;range&lt;/e3&gt; specifying how many instances of the preceding character or group should be matched.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T142410Z" creationid="Dick" creationdate="20230519T142410Z">
+        <seg>Dit teken moet zijn gepaard aan de accolade voor sluiten om een &lt;e0&gt;exact aantal&lt;/e0&gt;, &lt;e1&gt;minimum&lt;/e1&gt;, &lt;e2&gt;maximum&lt;/e2&gt;, of &lt;e3&gt;bereik&lt;/e3&gt; te omsluiten, die specificeren hoeveel maal het voorkomen van het voorafgaande teken of groep overeen zou moeten komen.</seg>
       </tuv>
     </tu>
     <tu>
