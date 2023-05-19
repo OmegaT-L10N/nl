@@ -23353,8 +23353,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Double-click the editable fields to make simple modifications or click on the &lt;g0&gt;Edit...&lt;/g0&gt; button to access the modification dialog.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230516T091842Z" creationid="Dick" creationdate="20230516T091842Z">
-        <seg>Dubbelklik op de berwerkabre velden om eenvoudige aanpassingen te maken of klik op de knop &lt;g0&gt;Bewerken…&lt;/g0&gt; voor toegang tot het dialoogvenster voor bewerken.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T144724Z" creationid="Dick" creationdate="20230516T091842Z">
+        <seg>Dubbelklik op de bewerkbare velden om eenvoudige aanpassingen te maken of klik op de knop &lt;g0&gt;Bewerken…&lt;/g0&gt; voor toegang tot het dialoogvenster voor bewerken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60346,8 +60346,8 @@ Probeer alstublieft de fout te corrigeren en herlaad het project.</seg>
       <tuv lang="en">
         <seg>The application folder location depends on your platform and on the way you have installed OmegaT.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20221221T141009Z" creationid="Dick" creationdate="20221221T141009Z">
-        <seg>De locatie van de teopassingsmap is afhankelijk van uw  platform en de manier waarop OmegaT hebt geïnstalleerd.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T144452Z" creationid="Dick" creationdate="20221221T141009Z">
+        <seg>De locatie van de toepassingsmap is afhankelijk van uw  platform en de manier waarop OmegaT hebt geïnstalleerd.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62985,8 +62985,8 @@ modification follow.</seg>
       <tuv lang="en">
         <seg>The prefered location for plugin manual installs is the &lt;l0/&gt; folder located in the &lt;l1&gt;configuration&lt;/l1&gt; folder.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230512T085708Z" creationid="Dick" creationdate="20230512T085708Z">
-        <seg>De voorkeutslocatie voor plug-in handmatige installatie is de map &lt;l0/&gt;, geplaatst in de map &lt;l1&gt;configuration&lt;/l1&gt;.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T144529Z" creationid="Dick" creationdate="20230512T085708Z">
+        <seg>De voorkeurslocatie voor plug-in handmatige installatie is de map &lt;l0/&gt;, geplaatst in de map &lt;l1&gt;configuration&lt;/l1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75961,8 +75961,8 @@ your programs, too.</seg>
       <tuv lang="en">
         <seg>You can create two kinds of embeddings depending on the directionality of the segment:</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230206T142843Z" creationid="Dick" creationdate="20230206T142843Z">
-        <seg>U kunt twee sorten inbeddingen maken, afhankelijk van de richting van het segment:</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T144557Z" creationid="Dick" creationdate="20230206T142843Z">
+        <seg>U kunt twee soorten inbeddingen maken, afhankelijk van de richting van het segment:</seg>
       </tuv>
     </tu>
     <tu>
