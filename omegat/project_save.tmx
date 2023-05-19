@@ -11775,6 +11775,14 @@ consequence of further modification of the contributor version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A number of characters or combinations of characters have a special meaning in a regular expression.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T125409Z" creationid="Dick" creationdate="20230519T125409Z">
+        <seg>Een aantal tekens of combinatie van tekens hebben een speciale betekenis in een reguliere expressie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A number of interactive tools are available to develop and test regular expressions.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T170408Z">
@@ -14633,6 +14641,14 @@ paragraph of section 11).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T170215Z">
         <seg>Elk teken met uitzondering van die in het Griekse blok (negatie)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any given expression either &lt;e0&gt;matches&lt;/e0&gt;, or &lt;e1&gt;does &lt;e2&gt;not&lt;/e2&gt; match&lt;/e1&gt; a word, phrase, or other sequence of text.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T125259Z" creationid="Dick" creationdate="20230519T125259Z">
+        <seg>Elk opgegeven expressie ofwel &lt;e0&gt;komt overeen&lt;/e0&gt;, of &lt;e1&gt;komt &lt;e2&gt;niet&lt;/e2&gt; overeen&lt;/e1&gt; met een woord, frase, of andere tekstreeks.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23781,6 +23797,14 @@ HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM "AS IS" WITHOUT WARRANTY
 OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO,
 THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
 PURPOSE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each and every character in the expression is relevant when determining a match.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T125330Z" creationid="Dick" creationdate="20230519T125330Z">
+        <seg>Elk teken in de expressie is relevant bij het bepalen van een overeenkomst.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50314,6 +50338,22 @@ Deze woorden: 'Pagina niet gevonden'</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T125043Z">
         <seg>Reguliere uitdrukkingen worden ook uitgebreid in de segmentatieregels gebruikt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regular expressions are used to find text, including characters that are not visible on the screen or when printed out, such as spaces, tabs, or line breaks.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T125139Z" creationid="Dick" creationdate="20230519T125139Z">
+        <seg>Reguliere expressies worden gebruikt om tekst te zoeken, inclusief tekens die niet zichtbaar zijn op het scherm of bij afdrukken, zoals spaties, tabs, of regeleinden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regular expressions only match text.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T125435Z" creationid="Dick" creationdate="20230519T125435Z">
+        <seg>Reguliere expressies komen alleen overeen met tekst.</seg>
       </tuv>
     </tu>
     <tu>
