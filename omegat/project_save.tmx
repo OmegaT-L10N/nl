@@ -43899,6 +43899,14 @@ combined work, and to convey the resulting work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Numbers such as “1.5”, “23.2” or “5235.8” with a single decimal place and any number of digits before the decimal point.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T140108Z" creationid="Dick" creationdate="20230519T140108Z">
+        <seg>Cijfers, zoals “1.5”, “23.2” of “5235.8” met één enkele decimale plaats en elk aantal cijfers vóór de decimale punt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Nuosu</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T130404Z">
@@ -46312,6 +46320,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230519T121856Z" creationid="Dick" creationdate="20230519T121856Z">
         <seg>Alleen de basisbeginselen die het meest nuttig zijn voor vertalers worden behandeld.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only the initial “run” in those phrases is matched.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T135858Z" creationid="Dick" creationdate="20230519T135858Z">
+        <seg>Alleen de initiële “run” in deze phrasen komt overeen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59822,6 +59838,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The PLUS sign: &lt;l0&gt;+&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T135912Z" creationid="Dick" creationdate="20230519T135912Z">
+        <seg>Het PLUS-teken: &lt;l0&gt;+&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The PO filter already handles %..</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20201125T104611Z" creationid="Dick" creationdate="20201125T104611Z">
@@ -60512,6 +60536,14 @@ Probeer alstublieft de fout te corrigeren en herlaad het project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The complete phrase in “run-on” or “run'n'gun”, because the hyphen and apostrophe are not included in &lt;l0&gt;\w&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T135833Z" creationid="Dick" creationdate="20230519T135833Z">
+        <seg>De complete frase in “run-on” of “run'n'gun”, omdat het afbrekingsteken en apostrof niet zijn opgenomen in &lt;l0&gt;\w&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The computer, running OmegaT, has Russian as the default language, and thus shows the characters in the Cyrillic alphabet and not in Kanji.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T165823Z">
@@ -60998,6 +61030,14 @@ instead.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T170248Z">
         <seg>Het einde van een regel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The entire value of numbers such as “5,235.8” or “21,571.9”.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T140131Z" creationid="Dick" creationdate="20230519T140131Z">
+        <seg>De gehele waarde van cijfers zoals “5,235.8” of “21,571.9”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65833,6 +65873,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230519T134425Z" creationid="Dick" creationdate="20230519T134425Z">
         <seg>Dit teken specificeert dat ofwel nul of één voorkomen van het voorafgaande teken of expressie overeen zou moeten komen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This character specifies that one or more instances of the preceding character or expression should be matched.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T135932Z" creationid="Dick" creationdate="20230519T135932Z">
+        <seg>Dit teken specificeert dat één of meer voorkomen van het voorafgaande teken of expressie overeen zou moeten komen.</seg>
       </tuv>
     </tu>
     <tu>
