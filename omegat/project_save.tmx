@@ -28113,6 +28113,70 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Full path to source file</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T082306Z" creationid="Dick" creationdate="20230519T082306Z">
+        <seg>Volledig pad naar het bronbestand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Full path to the TM auto folder</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T082151Z" creationid="Dick" creationdate="20230519T082151Z">
+        <seg>Volledig pad naar de map auto van de TM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Full path to the TM root folder</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T082127Z" creationid="Dick" creationdate="20230519T082127Z">
+        <seg>Volledig pad naar de map voor de bron van de TM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Full path to the dictionary folder</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T082213Z" creationid="Dick" creationdate="20230519T082213Z">
+        <seg>Volledig pad naar de map dictionary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Full path to the glossary folder</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T082104Z" creationid="Dick" creationdate="20230519T082104Z">
+        <seg>Volledig pad naar de map glossary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Full path to the project folder</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T082020Z" creationid="Dick" creationdate="20230519T082020Z">
+        <seg>Volledig pad naar de projectmap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Full path to the source folder</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T082036Z" creationid="Dick" creationdate="20230519T082036Z">
+        <seg>Volledig pad naar de bronmap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Full path to the target folder</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T082047Z" creationid="Dick" creationdate="20230519T082047Z">
+        <seg>Volledig pad naar de doelmap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Full table</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20130930T165629Z" creationid="Dirk" creationdate="20130930T165629Z">
@@ -55506,6 +55570,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source file name relative to given root</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T082328Z" creationid="Dick" creationdate="20230519T082328Z">
+        <seg>Naam van het beronbestan, relatief aan de opgegeven bron</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source file type, filename pattern</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134406Z">
@@ -55598,6 +55670,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120301T174622Z">
         <seg>Map Bronbestanden {0} bestaat niet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source language</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T082242Z" creationid="Dick" creationdate="20230519T082242Z">
+        <seg>Brontaal</seg>
       </tuv>
     </tu>
     <tu>
@@ -56974,6 +57054,14 @@ APPLICABLE LAW.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TM Root + tmx2source (See the &lt;l0/&gt; how-to for details.)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T082233Z" creationid="Dick" creationdate="20230519T082233Z">
+        <seg>TM Root + tmx2source (Bekijk de &lt;l0/&gt; how-to voor details.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TM Search &amp;Options</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230510T111835Z" creationid="Dick" creationdate="20230510T111835Z">
@@ -57562,6 +57650,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120301T174636Z">
         <seg>Map Vertaalde documenten {0} bestaat niet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target language</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T082252Z" creationid="Dick" creationdate="20230519T082252Z">
+        <seg>Doeltaal</seg>
       </tuv>
     </tu>
     <tu>
@@ -61573,6 +61669,14 @@ to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T165817Z">
         <seg>Het beste dat OmegaT in zo'n geval kan doen, is er van uitgaan dat de tekst is geschreven in de taal die de computer zelf gebruikt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The name of the project directory</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T082006Z" creationid="Dick" creationdate="20230519T082006Z">
+        <seg>De naam van de projectmap</seg>
       </tuv>
     </tu>
     <tu>
@@ -71766,6 +71870,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T113721Z" creationid="Dick" creationdate="20190516T113721Z">
         <seg>Waarden rond 100 geeft opdrachten aan de bovenkant weer, en waarden rond 900 geven ze aan de onderkant weer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Variable name</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T081951Z" creationid="Dick" creationdate="20230519T081951Z">
+        <seg>Naam variabele</seg>
       </tuv>
     </tu>
     <tu>
