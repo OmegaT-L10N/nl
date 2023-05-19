@@ -19417,6 +19417,14 @@ OmegaT gebruikt de volgende bibliotheken:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Consult the sites in the &lt;l0/&gt; section below for information on combinations not covered here.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T130723Z" creationid="Dick" creationdate="20230519T130723Z">
+        <seg>Bekijk de pagina's in het gedeelte &lt;l0/&gt; hieronder voor informatie over combinaties die hier niet worden behandeld.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Contact</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170927T103024Z" creationid="DiGro (Dick)" creationdate="20170927T103024Z">
@@ -46004,6 +46012,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>One example is &lt;l1&gt;.&lt;/l1&gt;: on its own, it has the special meaning of matching &lt;e2&gt;any single character&lt;/e2&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T131016Z" creationid="Dick" creationdate="20230519T131016Z">
+        <seg>Één voorbeeld is &lt;l1&gt;.&lt;/l1&gt;: op zichzelf heeft het de speciale betekenis voor het overeenkomen van &lt;e2&gt;elk enkel teken&lt;/e2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>One member of the team, the project administrator, needs to be acquainted with handling the server side, i.e. the job of setting up the environment, importing the OmegaT project, assigning the access rights for the team members, resolving the conflicts, etc.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T110520Z">
@@ -58550,6 +58566,14 @@ Het bereik van een tekstvervanging zijn de doelsegmenten van het project, of zij
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That special meaning has to be cancelled by another character to match the character itself.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T130835Z" creationid="Dick" creationdate="20230519T130835Z">
+        <seg>Die speciale betekenis moet worden geannuleerd door een ander teken om het teken zelf overeen te laten komen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That the file conversion utility is installed properly and is working.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T173312Z" creationid="Dirk" creationdate="20131225T173312Z">
@@ -61294,6 +61318,14 @@ instead.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135819Z">
         <seg>De opmaak die wordt vertegenwoordigd door de groep die u dupliceerde zal op beide gedeelten worden toegepast.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The full list of characters is presented &lt;l0&gt;below&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T130919Z" creationid="Dick" creationdate="20230519T130919Z">
+        <seg>De volledige lijst van tekens wordt &lt;l0&gt;hieronder&lt;/l0&gt; weergegeven.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66407,6 +66439,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This manual only describes a small subset of letters that take on a special meaning.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T130638Z" creationid="Dick" creationdate="20230519T130630Z">
+        <seg>Deze handleiding beschrijft slechts een kleine subset van letters die een speciale betekenis kunnen krijgen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This manual, however, would not be possible without the help and support from a number of people.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T125438Z">
@@ -69785,6 +69825,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120401T130503Z">
         <seg>Handleidingen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Twelve characters have a special meaning by default</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T130753Z" creationid="Dick" creationdate="20230519T130753Z">
+        <seg>Twaalf tekens hebben standaard een speciale betekenis</seg>
       </tuv>
     </tu>
     <tu>
