@@ -3081,6 +3081,14 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(You can still add it, but it will have no effect on the expression or the result.)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T141852Z" creationid="Dick" creationdate="20230519T141852Z">
+        <seg>(U kunt het nog steeds toevoegen, maar het zal geen effect hebben op de expressie of het resultaat.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(You will still able to use OmegaT</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T171155Z" creationid="Dirk" creationdate="20160906T171155Z">
@@ -41496,6 +41504,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>More egregious misspellings such as “licensse” or “lissense”.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T142124Z" creationid="Dick" creationdate="20230519T142124Z">
+        <seg>Meer flagrante foute spellingen, zoals “licensse” of “lissense”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>More experienced Linux users may prefer to install the Oracle (formerly Sun) JRE at system level.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131227T161043Z" creationid="Dirk" creationdate="20131227T161043Z">
@@ -59814,6 +59830,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The OPENING CURLY BRACE: &lt;l0&gt;{&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T142149Z" creationid="Dick" creationdate="20230519T142149Z">
+        <seg>Het ACCOLADE VOOR OPENEN: &lt;l0&gt;(&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The OPENING PARENTHESIS: &lt;l0&gt;(&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230519T140237Z" creationid="Dick" creationdate="20230519T140237Z">
@@ -60797,6 +60821,14 @@ instead.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T170133Z">
         <seg>Het besturingsteken dat overeenkomt met x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The correct “licence” and “license” spellings, as well as the potential “lisence” and “lisense” misspellings</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T142008Z" creationid="Dick" creationdate="20230519T142008Z">
+        <seg>De correcte spellingen voor “licence” en “license”, als ook de potentieel foute spellingen “lisence” en “lisense”</seg>
       </tuv>
     </tu>
     <tu>
