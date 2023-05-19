@@ -54296,8 +54296,8 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       <tuv lang="en">
         <seg>Select a filter and click on Edit... or Options... to customize it.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20221220T110417Z" creationid="Dick" creationdate="20221220T110417Z">
-        <seg>Selecteer een filter en klik opn Bewerken… of Opties… om het aan te passen.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T144022Z" creationid="Dick" creationdate="20221220T110417Z">
+        <seg>Selecteer een filter en klik op Bewerken… of Opties… om het aan te passen.</seg>
       </tuv>
     </tu>
     <tu>
