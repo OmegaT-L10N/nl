@@ -13971,6 +13971,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although seen as daunting and complex, even the simplest regular expressions (often abbreviated &lt;e0&gt;regex&lt;/e0&gt; or &lt;e1&gt;regexp&lt;/e1&gt;) are extremely useful, not only in OmegaT, but in many other applications you might use on a day-to-day basis, with some variations.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T121813Z" creationid="Dick" creationdate="20230519T121813Z">
+        <seg>Hoewel gezien als uitdagend en complex, zijn zelfs de meest eenvoudige regulierre uitdrukkingen (vaak afgekort tot &lt;e0&gt;regex&lt;/e0&gt; of &lt;e1&gt;regexp&lt;/e1&gt;) bijzonder nuttig, niet alleen in OmegaT, maar in vele andere toepassingen zou u er een op een dag-tot-dag-basis kunnen gebruiken, met enige variaties.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Although this has many advantages, it can be very useful for the translator to be able to see the ultimate layout and formatting whilst translating.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T152958Z" creationid="Dirk" creationdate="20131225T152958Z">
@@ -46036,6 +46044,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only the fundamentals most useful to translators are covered.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T121856Z" creationid="Dick" creationdate="20230519T121856Z">
+        <seg>Alleen de basisbeginselen die het meest nuttig zijn voor vertalers worden behandeld.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only the options not available under the XHTML files filter (see above) are described here.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230517T093537Z" creationid="Dick" creationdate="20230517T093537Z">
@@ -65025,6 +65041,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T172104Z">
         <seg>Dit is een uitzonderingsregel, dus het keuzevak voor de regel moet niet zijn geselecteerd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This appendix is intended for users interested in exploring a powerful way to boost their productivity.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T121602Z" creationid="Dick" creationdate="20230519T121602Z">
+        <seg>Deze appendix is bedoeld voor gebruikers die zijn geïnteresseerd in het verkennen van een krachtige manier om hun productiviteit op te voeren.</seg>
       </tuv>
     </tu>
     <tu>
