@@ -6546,6 +6546,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Caution:&lt;/e0&gt; Although the last two codes above are not matched completely, the expression will return the “&lt;e1&gt;1472/698&lt;/e1&gt;” portion of “1472/6985”, as well as the “&lt;e2&gt;5133/157&lt;/e2&gt;” of “95133/15746”.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T142828Z" creationid="Dick" creationdate="20230519T142828Z">
+        <seg>&lt;e0&gt;Waarschuwing:&lt;/e0&gt; Hoewel de laatste twee codes hierboven niet volledig overeenkomen, zal de expressie he gedeelte “&lt;e1&gt;1472/698&lt;/e1&gt;” van “1472/6985” teruggeven, als ook de “&lt;e2&gt;5133/157&lt;/e2&gt;” van “95133/15746”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Close:&lt;/e0&gt; close the window without any change.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T170541Z">
@@ -18869,6 +18877,14 @@ Andere bijdragen worden gedetailleerd vermeld in het bestand readme.txt
  
 OmegaT gebruikt de volgende bibliotheken:
 {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Codes such as “123/45”, “1472/6985”, or “95133/15746”.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T142704Z" creationid="Dick" creationdate="20230519T142704Z">
+        <seg>Codes zoals “123/45”, “1472/6985”, of “95133/15746”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39634,6 +39650,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134659Z">
         <seg>Verlies van deze bestanden zorgt er meestal voor dat OmegaT terugkeert naar de "fabrieksinstellingen".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lots of expressions</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T142847Z" creationid="Dick" creationdate="20230519T142847Z">
+        <seg>Heel veel expressies</seg>
       </tuv>
     </tu>
     <tu>
