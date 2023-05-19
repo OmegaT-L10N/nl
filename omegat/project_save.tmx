@@ -46164,6 +46164,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only the letters &lt;e0&gt;i j l m o&lt;/e0&gt;, and &lt;e1&gt;y&lt;/e1&gt;, in both lower- and uppercase, have no special meaning when preceded by a backslash.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T130539Z" creationid="Dick" creationdate="20230519T130539Z">
+        <seg>Alleen de letters &lt;e0&gt;i j l m o&lt;/e0&gt; en &lt;e1&gt;y&lt;/e1&gt;, in zowel hoofd- als kleine letters, hebben geen speciale betekenis indien voorafgegaan door een backslash.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only the options not available under the XHTML files filter (see above) are described here.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230517T093537Z" creationid="Dick" creationdate="20230517T093537Z">
@@ -54970,6 +54978,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T110637Z">
         <seg>Soortgelijk als in het geval van projecten van OmegaT zult u verschillende opslagplaatsen nodig hebben voor verschillende paren van talen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Similarly, &lt;l4&gt;\R&lt;/l4&gt; matches &lt;e5&gt;any line break character&lt;/e5&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T130436Z" creationid="Dick" creationdate="20230519T130436Z">
+        <seg>Soortgelijk komt &lt;l4&gt;\R&lt;/l4&gt; overeen met &lt;e5&gt;elk teken voor een regeleinde&lt;/e5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
