@@ -23351,6 +23351,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Doubled up words separated by a space, such as the consecutive “an” in the following sentence:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T140856Z" creationid="Dick" creationdate="20230519T140856Z">
+        <seg>Dubbele woorden, gescheiden door een spatie, zoals de de opeenvolgende “an” in de volgende zin:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Doubled words</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T124419Z">
@@ -47704,6 +47712,14 @@ Verdwenen als mist.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Parentheses are always used in opening and closing pairs.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T140702Z" creationid="Dick" creationdate="20230519T140702Z">
+        <seg>Haakjes worden altijd gebruikt in paren van openen en sluiten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Parse error encountered reading preferences file!</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T190331Z">
@@ -64563,6 +64579,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The “that, that” in the following sentence:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T140916Z" creationid="Dick" creationdate="20230519T140916Z">
+        <seg>De “that, that” in de volgende zin:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The&lt;u0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; web site &lt;/u0&gt;contains links to numerous &lt;a2&gt;OmegaT&lt;/a2&gt; resources.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T110810Z">
@@ -70221,6 +70245,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Trying to use only the opening or closing parenthesis on its own will cause an error.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T140800Z" creationid="Dick" creationdate="20230519T140800Z">
+        <seg>Het proberen te gebruiken van alleen het haakje voor openen of sluiten op zichzelf zal een fout veroorzaken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Trying with backup file</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T102640Z" creationid="Dick" creationdate="20221220T102640Z">
@@ -71625,6 +71657,14 @@ De huidige instelling is {0}MB;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221221T144432Z" creationid="Dick" creationdate="20221221T144432Z">
         <seg>Gebruik &lt;l0/&gt;&lt;l1/&gt; om de inhoud van het bestand te bekijken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l1&gt;$&lt;o2&gt;n&lt;/o2&gt;&lt;/l1&gt;, where &lt;o3&gt;n&lt;/o3&gt; is the number of the group defined in the search.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T140629Z" creationid="Dick" creationdate="20230519T140629Z">
+        <seg>Gebruik &lt;l1&gt;$&lt;o2&gt;n&lt;/o2&gt;&lt;/l1&gt;, waar &lt;o3&gt;n&lt;/o3&gt; het nummer van de groep is die is gedefinieerd in de zoekactie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -89471,6 +89511,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170923T100353Z" creationid="DiGro (Dick)" creationdate="20170923T100353Z">
         <seg>В помощь переводчику: 10 советов по OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“But that, that is just unbelievable”, because the first “that” is followed by both a comma and a space rather than only a space.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T141019Z" creationid="Dick" creationdate="20230519T141019Z">
+        <seg>“But that, that is just unbelievable”, omdat de eerste “that” wordt gevolgd door zowel een komma als een spatie, in plaats van alleen een spatie.</seg>
       </tuv>
     </tu>
     <tu>
