@@ -13555,6 +13555,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All the arguments should be quoted, e.g. &lt;l0&gt;"${fileName}"&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T081826Z" creationid="Dick" creationdate="20230519T081826Z">
+        <seg>Alle argumenten zouden tussen aanhalingstekens moeten staan, bijv. &lt;l0&gt;"${fileName}"&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All the changes will be synchronised the next time a connection is available.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T133535Z" creationid="Dick" creationdate="20190516T133535Z">
@@ -48152,6 +48160,14 @@ of er nog aanvullende stappen moeten worden uitgevoerd.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Post-Processing Commands</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T081548Z" creationid="Dick" creationdate="20230519T081548Z">
+        <seg>Opdrachten voor nabewerking</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Post-processing command failed.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221218T135402Z" creationid="Dick" creationdate="20221218T135402Z">
@@ -53006,10 +53022,26 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; preference for global commands.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T081653Z" creationid="Dick" creationdate="20230519T081653Z">
+        <seg>Bekijk de voorkeur &lt;l0/&gt; voor globale opdrachten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; preferences for details.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221221T141842Z" creationid="Dick" creationdate="20221221T141842Z">
         <seg>Bekijk de &lt;l0/&gt; voorkeuren voor details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l0/&gt; projet property for project specific commands.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T081624Z" creationid="Dick" creationdate="20230519T081624Z">
+        <seg>Bekijk de projecteiegenschap &lt;l0/&gt;  voor projectspecifieke opdrachten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57742,6 +57774,14 @@ APPLICABLE LAW.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Template Variables</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T081703Z" creationid="Dick" creationdate="20230519T081703Z">
+        <seg>Sjabloon variabelen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Template for segments without date</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T122112Z" creationid="Dick" creationdate="20221220T122112Z">
@@ -59648,6 +59688,14 @@ Probeer alstublieft de fout te corrigeren en herlaad het project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The command is passed to Java runtime exec as a string with the template values expanded.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T081802Z" creationid="Dick" creationdate="20230519T081802Z">
+        <seg>De opdracht wordt doorgegeven aan het uitvoerbare bestand voor de Java runtime als een tekenreeks met de daaraa toegvoegde waarden uit het sjabloon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The command must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T131413Z" creationid="Dirk" creationdate="20170914T131413Z">
@@ -60638,6 +60686,14 @@ instead.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T162636Z">
         <seg>De volgende sneltoetsen zijn beschikbaar in het hoofdvenster.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following template variables are always available.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T081900Z" creationid="Dick" creationdate="20230519T081900Z">
+        <seg>De volgende variabelen voor sjablonen zijn altijd beschikbaar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61685,6 +61741,14 @@ to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T102847Z" creationid="Dick" creationdate="20221220T102755Z">
         <seg>Het originele bestand is gebackupt als: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The other items on the template list are environment variables for your system.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T081940Z" creationid="Dick" creationdate="20230519T081940Z">
+        <seg>De andere items op de lijst voor het sjabloon zijn omgevingsvariabelen voor uw systeem.</seg>
       </tuv>
     </tu>
     <tu>
