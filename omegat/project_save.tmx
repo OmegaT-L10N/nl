@@ -16229,8 +16229,8 @@ Neem nog een biertje.</seg>
       <tuv lang="en">
         <seg>Blank source segments sometimes act as placeholders for parts that do not exist in the source language but are necessary in the target language.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230518T091550Z" creationid="Dick" creationdate="20230518T091550Z">
-        <seg>Blanco  bronsegmenten acteren somes als plaatsvervangers voor delen die niet bestaan in de brontaal, maar nodig zijn in de doeltaal.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T144855Z" creationid="Dick" creationdate="20230518T091550Z">
+        <seg>Blanco  bronsegmenten acteren soms als plaatsvervangers voor delen die niet bestaan in de brontaal, maar nodig zijn in de doeltaal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53728,8 +53728,8 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       <tuv lang="en">
         <seg>See the &lt;l0/&gt; projet property for project specific commands.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230519T081624Z" creationid="Dick" creationdate="20230519T081624Z">
-        <seg>Bekijk de projecteiegenschap &lt;l0/&gt;  voor projectspecifieke opdrachten.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T145023Z" creationid="Dick" creationdate="20230519T081624Z">
+        <seg>Bekijk de projecteigenschap &lt;l0/&gt;  voor projectspecifieke opdrachten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55336,8 +55336,8 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       <tuv lang="en">
         <seg>Simple example of a post-processing commands:</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230519T121332Z" creationid="Dick" creationdate="20230519T121332Z">
-        <seg>Envoiudig voorbeeld van een opdracht voor nabewerken:</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T145107Z" creationid="Dick" creationdate="20230519T121332Z">
+        <seg>Eenvoudig voorbeeld van een opdracht voor nabewerken:</seg>
       </tuv>
     </tu>
     <tu>
@@ -59364,8 +59364,8 @@ for making modifications to it.</seg>
       <tuv lang="en">
         <seg>The &lt;l0/&gt; section at the end of this appendix provides a few starting points to explore advanced or complex uses beyond the scope of this manual.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230519T122031Z" creationid="Dick" creationdate="20230519T122031Z">
-        <seg>Het gedeeete &lt;l0/&gt; aan het einde van deze appendix verschaft een aantal startpunten voor het verkennen van geavanceerd of complex gebruik buiten het bereik van deze handleiding.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T145148Z" creationid="Dick" creationdate="20230519T122031Z">
+        <seg>Het gedeelte &lt;l0/&gt; aan het einde van deze appendix verschaft een aantal startpunten voor het verkennen van geavanceerd of complex gebruik buiten het bereik van deze handleiding.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60658,8 +60658,8 @@ Probeer alstublieft de fout te corrigeren en herlaad het project.</seg>
       <tuv lang="en">
         <seg>The command is passed to Java runtime exec as a string with the template values expanded.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230519T081802Z" creationid="Dick" creationdate="20230519T081802Z">
-        <seg>De opdracht wordt doorgegeven aan het uitvoerbare bestand voor de Java runtime als een tekenreeks met de daaraa toegvoegde waarden uit het sjabloon.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T145038Z" creationid="Dick" creationdate="20230519T081802Z">
+        <seg>De opdracht wordt doorgegeven aan het uitvoerbare bestand voor de Java runtime als een tekenreeks met de daaraan toegevoegde waarden uit het sjabloon.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61196,8 +61196,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The encoding of an HTML document is generally declared within a &lt;meta&gt; element situated in the &lt;head&gt; element.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230517T093637Z" creationid="Dick" creationdate="20230517T093637Z">
-        <seg>De codering van een HTML-document is over het algemeen gedeclareerd binnen een element &lt;meta&gt; dat is geplaats in het element &lt;head&gt;.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T144829Z" creationid="Dick" creationdate="20230517T093637Z">
+        <seg>De codering van een HTML-document is over het algemeen gedeclareerd binnen een element &lt;meta&gt; dat is geplaatst in het element &lt;head&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67273,8 +67273,8 @@ protecting users' freedom to change the software.</seg>
       <tuv lang="en">
         <seg>This option forces Java 8 compatibility.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230518T092318Z" creationid="Dick" creationdate="20230518T092318Z">
-        <seg>Deze optie forceert compabiliteit voor Java 8.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T144918Z" creationid="Dick" creationdate="20230518T092318Z">
+        <seg>Deze optie forceert comptabiliteit voor Java 8.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72231,8 +72231,8 @@ De huidige instelling is {0}MB;</seg>
       <tuv lang="en">
         <seg>Use this option to leave a non translated segment blank.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230518T091439Z" creationid="Dick" creationdate="20230518T091439Z">
-        <seg>Gebruik deze optie om een niet vertaald segmeent blanco te laten.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T144858Z" creationid="Dick" creationdate="20230518T091439Z">
+        <seg>Gebruik deze optie om een niet vertaald segment blanco te laten.</seg>
       </tuv>
     </tu>
     <tu>
