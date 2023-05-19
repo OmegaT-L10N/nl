@@ -18881,6 +18881,14 @@ OmegaT gebruikt de volgende bibliotheken:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Combinations containing three letters that start with “c” and ending with “t”, but are split across more than one line.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T134044Z" creationid="Dick" creationdate="20230519T134044Z">
+        <seg>Combinaties die drie letter bevatten, beginnend met “c” en eindigend met “t”, maar over meer dan één regel zijn gesplitst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Combines the substitution and highlighting functions of te-gloss-highlight and te-gloss-subst.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131226T152508Z" creationid="Dirk" creationdate="20131226T152508Z">
@@ -59838,6 +59846,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The QUESTION MARK: &lt;l0&gt;?&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T134316Z" creationid="Dick" creationdate="20230519T134316Z">
+        <seg>Het VRAAGTEKEN: &lt;l0&gt;?&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Quit button closes Priorview and also deletes the temporary files that it creates.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T172553Z" creationid="Dirk" creationdate="20131225T172553Z">
@@ -59980,6 +59996,14 @@ Probeer alstublieft de fout te corrigeren en herlaad het project.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T110633Z">
         <seg>De URL die wordt weergegeven onder Project Services zal door SVN worden gebruikt om cliënten te verbinden met de server van SVN die u zojuist hebt ingesteld.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The VERTICAL BAR: &lt;l0&gt;|&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T134117Z" creationid="Dick" creationdate="20230519T134117Z">
+        <seg>De VERTICALE STREEP: &lt;l0&gt;|&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -61730,6 +61754,14 @@ modification has been made.</seg>
 suffice to ensure that the continued functioning of the modified object
 code is in no case prevented or interfered with solely because
 modification has been made.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The initial “An” or “The” in phrases such as:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T134236Z" creationid="Dick" creationdate="20230519T134236Z">
+        <seg>De initiële “An” of “The” in frases zoals:</seg>
       </tuv>
     </tu>
     <tu>
@@ -65721,6 +65753,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230519T132416Z" creationid="Dick" creationdate="20230519T132416Z">
         <seg>Dit teken ofwel annuleert of activeert de speciale betekenis van het volgende teken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This character functions as an “OR” and matches either of the expressions that precede or follow it.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T134207Z" creationid="Dick" creationdate="20230519T134207Z">
+        <seg>Dit teken functioneert als een “OR” en komt overeen met de expressies ervoor of erachter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73201,6 +73241,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T144924Z">
         <seg>Wat is het taalpaar dat u nodig hebt?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What is the missing letter?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T134100Z" creationid="Dick" creationdate="20230519T134100Z">
+        <seg>Wat is de ontbrekende letter?</seg>
       </tuv>
     </tu>
     <tu>
