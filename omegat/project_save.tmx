@@ -19735,8 +19735,8 @@ of er nog aanvullende stappen moeten worden uitgevoerd.</seg>
       <tuv lang="en">
         <seg>Conversion to the new team project format cannot be performed in console mode.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20221220T150313Z" creationid="Dick" creationdate="20221220T150313Z">
-        <seg>Cconversie naar de indeling voor het nieuwe teamproject kan niet worden uitgevoerd in de modus Console.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T143626Z" creationid="Dick" creationdate="20221220T150313Z">
+        <seg>Conversie naar de indeling voor het nieuwe teamproject kan niet worden uitgevoerd in de modus Console.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38340,8 +38340,8 @@ zelf bij de eerste keer dat het wordt uitgevoerd.</seg>
       <tuv lang="en">
         <seg>LanguageTool: Server start timeout</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dirk" changedate="20170104T180300Z" creationid="Dirk" creationdate="20170104T180300Z">
-        <seg>LanguageTool: Server start timeout</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T143525Z" creationid="Dirk" creationdate="20170104T180300Z">
+        <seg>LanguageTool: Server start time-out</seg>
       </tuv>
     </tu>
     <tu>
@@ -48626,8 +48626,8 @@ of er nog aanvullende stappen moeten worden uitgevoerd.</seg>
       <tuv lang="en">
         <seg>Plugin Installer</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20221220T145639Z" creationid="Dick" creationdate="20221220T145639Z">
-        <seg>Installatieporgramma voor plug-in</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T143534Z" creationid="Dick" creationdate="20221220T145639Z">
+        <seg>Installatieprogramma voor plug-in</seg>
       </tuv>
     </tu>
     <tu>
@@ -57596,8 +57596,8 @@ address new problems or concerns.</seg>
       <tuv lang="en">
         <seg>Synchronization of repositories</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230129T133827Z" creationid="Dick" creationdate="20230129T133827Z">
-        <seg>Synchronizatie van opslagplaatsen</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T143647Z" creationid="Dick" creationdate="20230129T133827Z">
+        <seg>Synchronisatie van opslagplaatsen</seg>
       </tuv>
     </tu>
     <tu>
@@ -88517,8 +88517,8 @@ create the configuration folder.</seg>
       <tuv lang="en">
         <seg>value (of button, &amp;submit and reset input)</seg>
       </tuv>
-      <tuv lang="nl" changeid="DiGro" changedate="20110112T191644Z">
-        <seg>value (van  knop-, &amp;toepassen- en herstellen-invoer)</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T143331Z">
+        <seg>value (van knop-, &amp;toepassen- en herstellen-invoer)</seg>
       </tuv>
     </tu>
     <tu>
