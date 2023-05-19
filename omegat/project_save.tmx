@@ -8754,6 +8754,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;an?␣&lt;/l0&gt; (where “␣” represents a single space).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T134446Z" creationid="Dick" creationdate="20230519T134446Z">
+        <seg>&lt;l0&gt;an?␣&lt;/l0&gt; (waar “␣” één enkele spatie weergeeft).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;mapping local="" repository=""/&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T124441Z" creationid="Dick" creationdate="20190516T124441Z">
@@ -24267,6 +24275,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Either the “a ” or the “an ” in:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T134458Z" creationid="Dick" creationdate="20230519T134458Z">
+        <seg>Ofwel de “a ” of de “an ” in:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Either update to the latest JDK 1.6, or remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T145754Z" creationid="Dick" creationdate="20221220T145754Z">
@@ -37111,6 +37127,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It will also find the final “an ” of “Can ” in a sentence such as “Can I help you?”, or the final “a ” of “pasta ” in “We had pasta for lunch.”</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T134631Z" creationid="Dick" creationdate="20230519T134631Z">
+        <seg>Het zal ook de laatste “an ” vinden van “Can ” in een zin zoals “Can I help you?”, of de laatste “a ” van “pasta ” in “We had pasta for lunch.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It will be created the first time you add an entry to the glossary.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230518T100433Z" creationid="Dick" creationdate="20230518T100433Z">
@@ -42157,6 +42181,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>Het is onnodig te zeggen dat wij er de voorkeur aan geven dat u OmegaT gebruikt voor het lokalisatiewerk van OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Neither the “a” nor the “an” in:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T134649Z" creationid="Dick" creationdate="20230519T134649Z">
+        <seg>Noch de “a” noch de “an” in:</seg>
       </tuv>
     </tu>
     <tu>
@@ -61712,6 +61744,14 @@ parts of the General Public License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The indefinite article: “a” (or “an”).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T134823Z" creationid="Dick" creationdate="20230519T134823Z">
+        <seg>Het lidwoord: “a” (of “an”).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The index to the multilingual user manual.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221221T141406Z" creationid="Dick" creationdate="20221221T141406Z">
@@ -65761,6 +65801,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230519T134207Z" creationid="Dick" creationdate="20230519T134207Z">
         <seg>Dit teken functioneert als een “OR” en komt overeen met de expressies ervoor of erachter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This character specifies that either zero or one instance of the preceding character or expression should be matched.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T134425Z" creationid="Dick" creationdate="20230519T134425Z">
+        <seg>Dit teken specificeert dat ofwel nul of één voorkomen van het voorafgaande teken of expressie overeen zou moeten komen.</seg>
       </tuv>
     </tu>
     <tu>
