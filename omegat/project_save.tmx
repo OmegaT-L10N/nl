@@ -39952,8 +39952,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Many OmegaT functions rely on regular expressions or make them available as an option:</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230519T122712Z" creationid="Dick" creationdate="20230519T122712Z">
-        <seg>Veel functies van OmegaT vertrouwen op reguliere expressies of maken ze als een optiebeschikbaar:</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T123928Z" creationid="Dick" creationdate="20230519T122712Z">
+        <seg>Veel functies van OmegaT vertrouwen op reguliere expressies of maken ze als een optie beschikbaar:</seg>
       </tuv>
     </tu>
     <tu>
@@ -58326,6 +58326,14 @@ Het bereik van een tekstvervanging zijn de doelsegmenten van het project, of zij
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Text highlighting in alignments</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T124215Z" creationid="Dick" creationdate="20230519T124215Z">
+        <seg>Accentueren van tekst bij uitlijnen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Text in HTML comments (between &lt;l0&gt;&lt;!--&lt;/l0&gt; and &lt;l1&gt;--&gt;&lt;/l1&gt;) are not copied into the translated document.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230518T091119Z" creationid="Dick" creationdate="20230518T091119Z">
@@ -58862,6 +58870,14 @@ for making modifications to it.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135628Z">
         <seg>De schakeling met &lt;k4&gt; &lt;k5&gt;Shift&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; heeft drie statussen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0/&gt; preference allows you to define strings that OmegaT will mark in red by default, and treat as extraneous tags for validation purposes.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T124132Z" creationid="Dick" creationdate="20230519T124132Z">
+        <seg>De voorkeur &lt;l0/&gt; stelt u in staat tekenreeksen te definiëren die OmegaT standaard in rood zal markeren, en behandelen als extra tags voor validatie-doeleinden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71165,10 +71181,18 @@ De huidige instelling is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the &lt;c0&gt;|&lt;/c0&gt; (OR) character to separate individual fragment definitions.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T124158Z" creationid="Dick" creationdate="20230519T124158Z">
+        <seg>Gebruik het teken &lt;c0&gt;|&lt;/c0&gt; (OR) om individuele definities voor fragmenten te scheiden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the &lt;c0&gt;|&lt;/c0&gt; (OR) character to separate individual tag definitions.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230519T123110Z" creationid="Dick" creationdate="20230519T123110Z">
-        <seg>Gebruik het teken &lt;c0&gt;|&lt;/c0&gt; (OR) om individuele definitites voor tags te scheiden.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T124008Z" creationid="Dick" creationdate="20230519T123110Z">
+        <seg>Gebruik het teken &lt;c0&gt;|&lt;/c0&gt; (OR) om individuele definities voor tags te scheiden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72390,6 +72414,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="nl">
         <seg>Visio (*.vxd)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Visual cues can help verifying that your alignment is correct.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T124258Z" creationid="Dick" creationdate="20230519T124258Z">
+        <seg>Visuele aanwijzingen kunnen helpen bij het verifiëren of uw uitlijning correct is.</seg>
       </tuv>
     </tu>
     <tu>
