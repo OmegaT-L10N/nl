@@ -4191,10 +4191,10 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
 	  otherwise use Options &gt; Global File Filters...;
 	- open them in their original application and verify that they are not empty.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230516T091029Z" creationid="Dick" creationdate="20230516T091029Z">
+      <tuv lang="nl" changeid="Dick" changedate="20230519T143036Z" creationid="Dick" creationdate="20230516T091029Z">
         <seg>- verifieer dat hun indeling wordt ondersteund door OmegaT:
 	  als projectspecifieke filterinstellingen zijn ingeschakeld
-	  gebtuik Project &gt; Eigenschappen… &gt; Lokale bestandsfilters…,
+	  gebruik Project &gt; Eigenschappen… &gt; Lokale bestandsfilters…,
 	  gebruik anders Opties &gt; Globale bestandsfilters…;
 	- open ze in hun originele toepassing en verifieer dat zij niet leeg zijn.</seg>
       </tuv>
