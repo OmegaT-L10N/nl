@@ -53550,10 +53550,26 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segmentation or exception rules define the position in a segment where a split will, or will not, be made.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T124709Z" creationid="Dick" creationdate="20230519T124709Z">
+        <seg>Segmentatie- of regel voor uitzonderingen definiëren de positie in een segment waar een afbreking zal, of niet zal, worden gemaakt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segmentation rules</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T172004Z">
         <seg>Segmentatieregels</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segmentation rules and language patterns are defined with regular expressions.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T124451Z" creationid="Dick" creationdate="20230519T124451Z">
+        <seg>Segmentatieregels en taalpatronen worden gedefinieerd met reguliere expressies.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58886,6 +58902,14 @@ for making modifications to it.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230519T122031Z" creationid="Dick" creationdate="20230519T122031Z">
         <seg>Het gedeeete &lt;l0/&gt; aan het einde van deze appendix verschaft een aantal startpunten voor het verkennen van geavanceerd of complex gebruik buiten het bereik van deze handleiding.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0/&gt; setting allows you to define strings that OmegaT will highlight in the aligned documents.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T124357Z" creationid="Dick" creationdate="20230519T124357Z">
+        <seg>De instelling &lt;l0/&gt; stelt u in staat tekenreeksen te definiëren die OmegaT zal accentueren in de uitgelijnde documenten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71181,6 +71205,14 @@ De huidige instelling is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the &lt;c0&gt;|&lt;/c0&gt; (OR) character to separate individual expressions.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T124416Z" creationid="Dick" creationdate="20230519T124416Z">
+        <seg>Gebruik het teken &lt;c0&gt;|&lt;/c0&gt; (OR) om individuele expressies te scheiden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the &lt;c0&gt;|&lt;/c0&gt; (OR) character to separate individual fragment definitions.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230519T124158Z" creationid="Dick" creationdate="20230519T124158Z">
@@ -75314,6 +75346,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T135922Z" creationid="Dick" creationdate="20190516T135922Z">
         <seg>U kunt het gedrag van OmegaT' aanpassen door de &lt;e0&gt;Eigenschappen&lt;/e0&gt; als ook het bestand &lt;f1&gt;Configuration.properties&lt;/f1&gt; in het pakket te bewerken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can modify them freely to improve the segmentation of a document or add additional general rules.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T124550Z" creationid="Dick" creationdate="20230519T124550Z">
+        <seg>U kunt ze vrij aanpassen om de segmentatie van een document te verbeteren of aanvullende algemene regels toevoegen.</seg>
       </tuv>
     </tu>
     <tu>
