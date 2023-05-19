@@ -14653,6 +14653,14 @@ paragraph of section 11).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any single digit from 0 to 9.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T122328Z" creationid="Dick" creationdate="20230519T122328Z">
+        <seg>Elk enkel getal van 0 tot en met 9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Any text, already translated and stored in those files, will appear among the fuzzy matches, if it is sufficiently similar to the text currently being translated.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T172437Z">
@@ -29594,6 +29602,14 @@ Het is er wintertijd voor</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Here are a few examples.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T122309Z" creationid="Dick" creationdate="20230519T122309Z">
+        <seg>Hier zijn een aantal voorbeelden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Here is a short summary of the chapters and their contents.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T124950Z">
@@ -39914,6 +39930,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120401T134654Z">
         <seg>Veel CAT-programma's maken gebruik van een tussenliggend tweetalige bestandsindeling, d.i. een bestand dat zowel de brontaal- als de doeltaalsegmenten bevat en in sommige gevallen ook de structuur van het originele bestand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Many OmegaT functions rely on regular expressions or make them available as an option:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T122712Z" creationid="Dick" creationdate="20230519T122712Z">
+        <seg>Veel functies van OmegaT vertrouwen op reguliere expressies of maken ze als een optiebeschikbaar:</seg>
       </tuv>
     </tu>
     <tu>
@@ -51188,6 +51212,22 @@ Deze woorden: 'Pagina niet gevonden'</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T162005Z" creationid="Dirk" creationdate="20160906T162005Z">
         <seg>Onbekende opslagplaats {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Represents one or more “word characters”, namely the letters of the alphabet, digits, and underscore symbols.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T122436Z" creationid="Dick" creationdate="20230519T122436Z">
+        <seg>Geeft één of meer tekens voor een “woord” weer, namelijk de letters van het alfabet, cijfers en symbolen underscore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Represents zero or one horizontal whitespace character (this includes regular and non-breaking spaces as well as tabs, but not line break characters, which belong to the “vertical whitespace” category: \v.)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T122627Z" creationid="Dick" creationdate="20230519T122627Z">
+        <seg>Geeft één of meer tekens voor horizontale witruimte weer (dit is inclusief normale en niet-afbrekende spaties, als ook tabs, maar geen tekens voor een regeleinde, die behoren tot de categorie “verticale witruimte”: \v.)</seg>
       </tuv>
     </tu>
     <tu>
