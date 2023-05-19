@@ -26840,6 +26840,14 @@ Gossamer-drempel houdt u tegen
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Follow these steps:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T141331Z" creationid="Dick" creationdate="20230519T141331Z">
+        <seg>Volg deze stappen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Follow your system's instructions to install &lt;a0&gt;OmegaT&lt;/a0&gt; shortcuts in convenient places of your choosing.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T141545Z">
@@ -36918,6 +36926,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is special because it can never be used on its own.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T141108Z" creationid="Dick" creationdate="20230519T141108Z">
+        <seg>Het is speciaal omdat het nooit op zichzelf kan worden gebruikt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is stored in the TMX file.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230510T112650Z" creationid="Dick" creationdate="20230510T112650Z">
@@ -37034,6 +37050,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T141832Z" creationid="Dirk" creationdate="20160910T141832Z">
         <seg>Het zou ook mogelijk kunnen zijn een project van OmegaT te openen door te dubbelklikken op een bestand &lt;f1&gt;omegat.project&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It must be preceded by the &lt;l0&gt;\&lt;/l0&gt; if you need to match the closing parenthesis character itself.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T141151Z" creationid="Dick" creationdate="20230519T141151Z">
+        <seg>Het moet worden voorafgegaan door de &lt;l0&gt;\&lt;/l0&gt; als u het haakje voor sluiten zelf overeen wil laten komen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54614,6 +54638,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sequence numbers that are not at the beginning of a line.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T141323Z" creationid="Dick" creationdate="20230519T141323Z">
+        <seg>Nummers van reeksen die niet aan het begin van een regel staan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sequences such as 0,1, 0-3, or the first three characters of 0x002E, which would be matched if the expression was just &lt;l0&gt;0.[0-9]&lt;/l0&gt;, with no backslash before the period</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230519T132846Z" creationid="Dick" creationdate="20230519T132846Z">
@@ -59370,6 +59402,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The CLOSING PARENTHESIS: &lt;l0&gt;)&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T141035Z" creationid="Dick" creationdate="20230519T141035Z">
+        <seg>Het HAAKJE VOOR SLUITEN: &lt;l0&gt;(&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Commit window will open and show the progress of the commit command.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T110708Z">
@@ -63495,6 +63535,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The sequence number (including the parenthesis) at the beginning of each line in a list such as:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T141245Z" creationid="Dick" creationdate="20230519T141245Z">
+        <seg>Het nummer van de reeks (inclusief het haakje) aan het begin van elke regel in een lijst, zoals:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The server can exist in the local network but in the majority of cases it will be available on internet, i.e. via URL address.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T110518Z">
@@ -65913,6 +65961,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T170113Z">
         <seg>Dit hoofdstuk is bedoeld voor gevorderde gebruikers, die hun eigen varianten van segmentatieregels moeten kunnen definiëren of meer complexe en krachtigere zoeksleutels moeten kunnen opdelen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This character closes a group.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T141047Z" creationid="Dick" creationdate="20230519T141047Z">
+        <seg>Dit teken sluit een groep.</seg>
       </tuv>
     </tu>
     <tu>
