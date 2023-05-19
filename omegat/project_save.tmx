@@ -4904,6 +4904,14 @@ en laad het project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>/bin/bash&lt;/l0&gt; or &lt;l1&gt;#!</seg>
+      </tuv>
+      <tuv lang="nl-NL" changeid="Dick" changedate="20230519T121119Z" creationid="Dick" creationdate="20230519T121119Z">
+        <seg>/bin/bash&lt;/l0&gt; of &lt;l1&gt;#!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>/docs/</seg>
       </tuv>
       <tuv lang="nl-NL">
@@ -14465,6 +14473,14 @@ to receive a copy likewise does not require acceptance.</seg>
       </tuv>
       <tuv lang="nl-NL" changeid="Dirk" changedate="20160911T104016Z">
         <seg>En abonneert u zich op de lijst van vertalers:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>And the script must be executable.</seg>
+      </tuv>
+      <tuv lang="nl-NL" changeid="Dick" changedate="20230519T121149Z" creationid="Dick" creationdate="20230519T121149Z">
+        <seg>En het script moet uitvoerbaar zijn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38854,6 +38870,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Linux and macOS</seg>
+      </tuv>
+      <tuv lang="nl-NL" changeid="Dick" changedate="20230519T121054Z" creationid="Dick" creationdate="20230519T121054Z">
+        <seg>Linux en macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Linux binary version of Toxic.</seg>
       </tuv>
       <tuv lang="nl-NL">
@@ -60458,6 +60482,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The exit code and STDERR or the last STDOUT will appear on the status bar.</seg>
+      </tuv>
+      <tuv lang="nl-NL" changeid="Dick" changedate="20230519T121047Z" creationid="Dick" creationdate="20230519T121047Z">
+        <seg>De exitcode en STDERR of de laatste STDOUT zullen op de statusbalk verschijnen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The export translation memory folder does not exist!</seg>
       </tuv>
       <tuv lang="nl-NL" changeid="Dick" changedate="20221220T103321Z" creationid="Dick" creationdate="20221220T103321Z">
@@ -76015,6 +76047,14 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
       </tuv>
       <tuv lang="nl-NL" changeid="Dirk" changedate="20170104T175744Z" creationid="Dirk" creationdate="20170104T175744Z">
         <seg>U zou hun nieuwe locatie moeten specificeren of ze opnieuw maken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You should use a shebang, e.g. &lt;l0&gt;#!</seg>
+      </tuv>
+      <tuv lang="nl-NL" changeid="Dick" changedate="20230519T121112Z" creationid="Dick" creationdate="20230519T121112Z">
+        <seg>U zou een shebang moeten gebruiken, bijv. &lt;l0&gt;#!</seg>
       </tuv>
     </tu>
     <tu>
