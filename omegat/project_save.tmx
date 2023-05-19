@@ -14653,6 +14653,14 @@ paragraph of section 11).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any character that is &lt;e0&gt;not&lt;/e0&gt; “a”, “b”, or “c”.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T133340Z" creationid="Dick" creationdate="20230519T133340Z">
+        <seg>Elk teken dat &lt;e0&gt;niet&lt;/e0&gt; “a”, “b”, of “c” is.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Any given expression either &lt;e0&gt;matches&lt;/e0&gt;, or &lt;e1&gt;does &lt;e2&gt;not&lt;/e2&gt; match&lt;/e1&gt; a word, phrase, or other sequence of text.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230519T125259Z" creationid="Dick" creationdate="20230519T125259Z">
@@ -35006,6 +35014,14 @@ sue for patent infringement).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T100054Z">
         <seg>In het venster worden de handleiding en twee knoppen weergegeven: Terug en Inhoud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the word “back”, for instance, only the “k” is matched.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T133427Z" creationid="Dick" creationdate="20230519T133427Z">
+        <seg>In het woord “back”, bijvoorbeeld, komt alleen de “k” overeen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62001,6 +62017,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The lowercase “a”, “b”, or “c” in the word “back”.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T133523Z" creationid="Dick" creationdate="20230519T133523Z">
+        <seg>De kleine letter “a”, “b”, of “c” in het woord “back”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The macOS equivalent is the application Terminal located in &lt;f0&gt;Applications/Utilities&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T141827Z" creationid="Dick" creationdate="20190516T141827Z">
@@ -64087,6 +64111,22 @@ combination as such.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T105926Z" creationid="Dick" creationdate="20190517T105926Z">
         <seg>Het bovenste gedeelte is weergegeven in de brontaal, in vette tekens met een groene achtergrondkleur, het onderste gedeelte is het bewerkingsveld, gescheiden door een markering: de markering is &lt;l0&gt;&lt;segment nnnn&gt;&lt;/l0&gt; waarbij nnnn het getal is van het segment in het project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The uppercase “A” in the following sentence: “A long, but exciting journey was about to begin”.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T133310Z" creationid="Dick" creationdate="20230519T133310Z">
+        <seg>De hoofdletter “A” in de volgende zin: “A long, but exciting journey was about to begin”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The uppercase “A” in the following sentence: “My friend is writing a book called &lt;e0&gt;A Long Journey&lt;/e0&gt;”.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T133452Z" creationid="Dick" creationdate="20230519T133452Z">
+        <seg>De hoofdletter “A” in de volgende zin: “My friend is writing a book called &lt;e0&gt;A Long Journey&lt;/e0&gt;”.</seg>
       </tuv>
     </tu>
     <tu>
