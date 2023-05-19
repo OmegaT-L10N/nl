@@ -11663,6 +11663,14 @@ consequence of further modification of the contributor version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A language pattern that matches the source language of the project will apply to that project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T125016Z" creationid="Dick" creationdate="20230519T125016Z">
+        <seg>Een taalpatroon dat overeenkomt met de brontaal van het project zal van toepassing zijn op dat project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A launch script file is not supplied with the Windows OmegaT versions.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131228T111710Z" creationid="Dirk" creationdate="20131228T111710Z">
@@ -58714,6 +58722,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The 4 rules</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T125022Z" creationid="Dick" creationdate="20230519T125022Z">
+        <seg>De 4 regels</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;a0&gt;Java Development Kit&lt;/a0&gt; is required.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T155228Z" creationid="DiGro (Dick)" creationdate="20170915T155228Z">
@@ -69681,6 +69697,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T160148Z" creationid="Dirk" creationdate="20131225T160148Z">
         <seg>Twee programma's die als converters kunnen worden gebruikt worden hier besproken: Abiword en LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Two regular expressions are required to define that position: a “before” expression to define the text pattern ahead of where the rule should apply, and an “after” expression to define the text pattern following that position.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T124926Z" creationid="Dick" creationdate="20230519T124926Z">
+        <seg>Twee reguliere expressies zijn vereist om die positie te definiëren: een expressie voor “vóór” om het tekstpatroon te definiëren dat voor de plaats staat de regel van toepassing zou moeten zijn, en een expressie voor “na” om het tekstpatroon te definiëren dat volgt op die positie.</seg>
       </tuv>
     </tu>
     <tu>
