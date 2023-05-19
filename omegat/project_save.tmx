@@ -23103,6 +23103,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Does not match</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T132732Z" creationid="Dick" creationdate="20230519T132732Z">
+        <seg>Komt niet overeen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Does the folder contain three files of the same name, with extensions?</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T133540Z">
@@ -54454,6 +54462,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sequences such as 0,1, 0-3, or the first three characters of 0x002E, which would be matched if the expression was just &lt;l0&gt;0.[0-9]&lt;/l0&gt;, with no backslash before the period</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T132846Z" creationid="Dick" creationdate="20230519T132846Z">
+        <seg>Reeksen, zoals 0,1, 0-3, of de eerste drie tekens van 0x002E, die zouden overeenkomen als de expressie slechts &lt;l0&gt;0.[0-9]&lt;/l0&gt; zou zijn, zonder backslash vóór de punt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Serbian</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T130503Z">
@@ -59182,6 +59198,14 @@ for making modifications to it.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T133518Z">
         <seg>De Britannica Concise Encyclopedia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The CARET: &lt;l0&gt;^&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T132851Z" creationid="Dick" creationdate="20230519T132851Z">
+        <seg>De CARET: &lt;l0&gt;^&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -73233,6 +73257,22 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T130712Z">
         <seg>Indien met de muis over een onderstreepte frase wordt gegaan, zal een omschrijving verschijnen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When it is the first character in &lt;l0&gt;a character class enclosed in brackets&lt;/l0&gt;, it matches all the characters that are not part of that class.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T133103Z" creationid="Dick" creationdate="20230519T133103Z">
+        <seg>Als het het eerst teken is in een &lt;l0&gt;een tekenklasse die wordt omsloten door vierkante haakjes&lt;/l0&gt;, komt het overeen met alle tekens die geen deel uitmaken van die klasse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When it is the first character in the expression, the &lt;e0&gt;caret&lt;/e0&gt; character matches the beginning of a line.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230519T132949Z" creationid="Dick" creationdate="20230519T132949Z">
+        <seg>Waar dit teken het eerste teken in de expressie is, komt het teken &lt;e0&gt;caret&lt;/e0&gt; overeen met het begin van een regel.</seg>
       </tuv>
     </tu>
     <tu>
