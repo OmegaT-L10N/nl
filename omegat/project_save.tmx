@@ -16547,6 +16547,14 @@ Neem nog een biertje.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Break rule, box checked, lower in the list</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T123936Z" creationid="Dick" creationdate="20230520T123936Z">
+        <seg>Afbreekregel, vak geselecteerd, lager in de lijst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Break/Exception</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T191703Z">
@@ -25784,6 +25792,14 @@ Niemand hoort u schreeuwen.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T190703Z">
         <seg>Excel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Excel cells with lines breaks that do not represent segments</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T123840Z" creationid="Dick" creationdate="20230520T123840Z">
+        <seg>Cellen van Excel met regeleinden die geen segmenten weergeven</seg>
       </tuv>
     </tu>
     <tu>
@@ -39710,6 +39726,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Line break, followed by anything.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T123901Z" creationid="Dick" creationdate="20230520T123901Z">
+        <seg>Regeleinde, gevolgd door iets.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Line length</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230517T091230Z" creationid="Dick" creationdate="20230517T091230Z">
@@ -42685,6 +42709,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>Mr\.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ms, followed by a period, followed by a whitespace.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T123540Z" creationid="Dick" creationdate="20230520T123540Z">
+        <seg>Ms, gevolgd door een punt, gevolgd door witruimte.</seg>
       </tuv>
     </tu>
     <tu>
