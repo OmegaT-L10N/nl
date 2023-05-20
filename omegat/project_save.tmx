@@ -15213,6 +15213,14 @@ paragraph of section 11).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As a reminder, rules work the following way: when a rule matches, OmegaT puts a marker at the match location so that rules that come after ignore that location.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T121526Z" creationid="Dick" creationdate="20230520T121526Z">
+        <seg>Als een herinnering, regels werken op de volgende manier: wanneer ene regel overeenkomt, plaatst OmegaT een markering op de locatie van de overeenkomst, zodat regels die erna komen die locatie negeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As a result of this,
 all settings will be at their defaults, due to which you
 may experience unexpected, but correct behaviour.</seg>
@@ -17059,8 +17067,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>By default, segmentation settings are global and shared by all projects.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230520T121031Z" creationid="Dick" creationdate="20230520T121031Z">
-        <seg>Standaard zijn de instellingen voor segmentatie globaal en woden gedeeld door alle projecten.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T121039Z" creationid="Dick" creationdate="20230520T121031Z">
+        <seg>Standaard zijn de instellingen voor segmentatie globaal en worden gedeeld door alle projecten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33994,6 +34002,14 @@ to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you use local rules, you can still access the global rules, but modifying them will have no effect on your project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T121308Z" creationid="Dick" creationdate="20230520T121308Z">
+        <seg>Als u lokale regels gebruikt, heeft u nog steeds toegang tot de globale regels, maar het aanpassen daarvan zal geen effect hebben op uw project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you used OmegaT or another CAT tool for the work, please also upload your translation memory (TMX file) to the &lt;a0&gt;translation memory repository in the online user group&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T162915Z" creationid="DiGro (Dick)" creationdate="20170915T162915Z">
@@ -45947,6 +45963,14 @@ be launched.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134715Z">
         <seg>OmegaT projecten en submappen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT provides predefined segmentation rules, and the translator can use regular expressions to modify them.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T121401Z" creationid="Dick" creationdate="20230520T121401Z">
+        <seg>OmegaT verschaft vooraf gedefinieerde segmentatieregels, en de vertaler kan reguliere expressies gebruiken om ze aan te passen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73021,6 +73045,14 @@ De huidige instelling is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the &lt;l0/&gt; project property to limit the scope of the segmentation rules to the current project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T121135Z" creationid="Dick" creationdate="20230520T121135Z">
+        <seg>Gebruik de projecteigenschap &lt;l0/&gt; om het bereik van de segmentatieregels te beperken tot het huidige project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the &lt;l0/&gt; project property to select the type of segmentation.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221218T140231Z" creationid="Dick" creationdate="20221218T140231Z">
@@ -76400,6 +76432,14 @@ for enforcing compliance by third parties with this License.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135127Z" creationid="Dirk" creationdate="20160910T134928Z">
         <seg>De map kan direct worden aangeroepen door het item in het hoofdmenu &lt;m0&gt; &lt;g1&gt;Opties&lt;/g1&gt; &lt;g2&gt;Toegang tot configuratiemap&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can achieve a similar result by starting OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T121205Z" creationid="Dick" creationdate="20230520T121205Z">
+        <seg>U kunt een soortgelijk resultaat bereiken door OmegaT te starten vanaf de opdrachtregel.</seg>
       </tuv>
     </tu>
     <tu>
