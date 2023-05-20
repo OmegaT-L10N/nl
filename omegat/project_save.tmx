@@ -57578,6 +57578,14 @@ address new problems or concerns.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Suppose, for example, that you want to find instances of “OmegaT” and “omegat”, but not “OMEGAT”.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T090326Z" creationid="Dick" creationdate="20230520T090326Z">
+        <seg>Veronderstel, bijvoorbeeld, dat u wilt zoeken naar het voorkomen van “OmegaT” en “omegat”, maar niet “OMEGAT”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Swahili</seg>
       </tuv>
       <tuv lang="nl">
@@ -76592,8 +76600,8 @@ installation script (linux-install.sh).</seg>
       <tuv lang="en">
         <seg>You can take advantage of this to apply a fine degree of control to case sensitivity in searches.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230520T090236Z" creationid="Dick" creationdate="20230520T090236Z">
-        <seg>U kunt hieruit uw voordeel halen om een fijnmazig beheer toe te passen voor gevoeligheid voor hoofd-kleine letters in zoekacties.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T090247Z" creationid="Dick" creationdate="20230520T090236Z">
+        <seg>U kunt hieruit uw voordeel door een fijnmazig beheer toe te passen voor gevoeligheid voor hoofd-kleine letters in zoekacties.</seg>
       </tuv>
     </tu>
     <tu>
