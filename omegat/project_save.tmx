@@ -27335,6 +27335,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;l0&gt;\d&lt;/l0&gt; is a shorthand for &lt;l1&gt;[0-9]&lt;/l1&gt;, which matches any digit between 0 and 9.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T092430Z" creationid="Dick" creationdate="20230520T092430Z">
+        <seg>Bijvoorbeeld &lt;l0&gt;\d&lt;/l0&gt; is een sneltoets voor &lt;l1&gt;[0-9]&lt;/l1&gt;, wat overeenkomt met elk cijfer tussen 0 tot en met 9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, &lt;l2&gt;user.language=ja&lt;/l2&gt; (without the &lt;l3&gt;#&lt;/l3&gt;) will launch &lt;a4&gt;OmegaT&lt;/a4&gt; with the user interface in Japanese.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T140423Z" creationid="Dick" creationdate="20190516T140423Z">
@@ -34580,6 +34588,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In many cases, the corresponding uppercase later is used to negate the class: &lt;l2&gt;\D&lt;/l2&gt; matches any character that is &lt;e3&gt;not&lt;/e3&gt; a digit.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T092650Z" creationid="Dick" creationdate="20230520T092650Z">
+        <seg>In veel gevallen wordt de overeenkomende hoofdletter gebruikt om de betekenis van de teniet te doen: &lt;l2&gt;\D&lt;/l2&gt; komt overeen met elk dat &lt;e3&gt;geen&lt;/e3&gt; cijfer is.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In most cases, the lower the &lt;g0&gt;Average score&lt;/g0&gt; is, better the alignment will be.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T123938Z" creationid="Dick" creationdate="20190517T113028Z">
@@ -40322,6 +40338,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230519T123928Z" creationid="Dick" creationdate="20230519T122712Z">
         <seg>Veel functies van OmegaT vertrouwen op reguliere expressies of maken ze als een optie beschikbaar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Many frequently used sets have a shorthand form consisting of a backslash followed by a letter of the alphabet.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T092340Z" creationid="Dick" creationdate="20230520T092327Z">
+        <seg>Veel frequent gebruikte hebben een vorm van een sneltoets de bestaat uit een backslash, gevolgd door een van het alfabet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60890,8 +60914,8 @@ Probeer alstublieft de fout te corrigeren en herlaad het project.</seg>
       <tuv lang="en">
         <seg>The complete phrase in “run-on” or “run'n'gun”, because the hyphen and apostrophe are not included in &lt;l0&gt;\w&lt;/l0&gt;.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230519T135833Z" creationid="Dick" creationdate="20230519T135833Z">
-        <seg>De complete frase in “run-on” of “run'n'gun”, omdat het afbrekingsteken en apostrof niet zijn opgenomen in &lt;l0&gt;\w&lt;/l0&gt;.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T092124Z" creationid="Dick" creationdate="20230519T135833Z">
+        <seg>De complete frase in “run-on” of “run'n'gun”, omdat het afbreekstreepje en apostrof niet zijn opgenomen in &lt;l0&gt;\w&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
