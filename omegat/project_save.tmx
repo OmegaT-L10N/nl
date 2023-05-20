@@ -29666,6 +29666,30 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go to First Row in Table</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T124518Z" creationid="Dick" creationdate="20230520T124518Z">
+        <seg>Ga naar de eerste regel in de tabel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Last Row in Table</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T124542Z" creationid="Dick" creationdate="20230520T124542Z">
+        <seg>Ga naar de laatste rij in de tabel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Last Table</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T124622Z" creationid="Dick" creationdate="20230520T124622Z">
+        <seg>Ga naar de laatste tabel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go to Preferences &gt; External Search to enable.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T130438Z" creationid="Dirk" creationdate="20170914T130438Z">
