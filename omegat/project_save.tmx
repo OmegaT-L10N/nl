@@ -26928,6 +26928,14 @@ Gossamer-drempel houdt u tegen
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Find a period followed by an uppercase letter.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T114920Z" creationid="Dick" creationdate="20230520T114920Z">
+        <seg>Zoek een punt, gevolgd door een hoofdletter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Find clauses that start with a comma followed by a whitespace character, contain one or more words (including words in quotation marks, contractions, and filenames with a file extension), and end either with a comma or period.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230520T114156Z" creationid="Dick" creationdate="20230520T114156Z">
@@ -27004,6 +27012,14 @@ Gossamer-drempel houdt u tegen
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230520T114616Z" creationid="Dick" creationdate="20230520T114616Z">
         <seg>Zoek woorden die beginnen met een medeklinker na het lidwoord “an” in plaats van “a”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find “is” as a whole word in a sentence, without matching “this”, “isn’t”, or even “Is”.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T115050Z" creationid="Dick" creationdate="20230520T115050Z">
+        <seg>Zoek naar “is” als een heel woord in een zin, zonder overeen te komen met “this”, “isn’t”, of zelfs “Is”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37643,6 +37659,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20130411T171940Z">
         <seg>Het was niet mogelijk om vertaalde documenten te maken omdat enkele tags ontbreken of zijn beschadigd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It will also find patterns such as “5136/36/71”.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T114858Z" creationid="Dick" creationdate="20230520T114858Z">
+        <seg>Het zal ook patronen vinden zoals “5136/36/71”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73091,6 +73115,14 @@ De huidige instelling is {0}MB;</seg>
       <tuv lang="nl" changeid="Kos Ivantsov" changedate="20210414T143020Z" creationid="DiGro (Dick)" creationdate="20170915T144838Z">
         <seg>Nuttige links
 =============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Useful to find possible missing spaces between the period and the start of a new sentence</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T115008Z" creationid="Dick" creationdate="20230520T115008Z">
+        <seg>Nuttig om te zoeken naar mogelijke ontbrekende spaties tussen de punt en het begin van een nieuwe zin</seg>
       </tuv>
     </tu>
     <tu>
