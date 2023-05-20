@@ -11695,6 +11695,14 @@ consequence of further modification of the contributor version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A hyphen placed outside the series is just a hyphen: &lt;l1&gt;[a-z-]&lt;/l1&gt; means any lowercase character from “a” to “z”, or the hyphen character itself.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T093315Z" creationid="Dick" creationdate="20230520T093315Z">
+        <seg>Een afbreekstreepje dat is geplaatst buiten de serie is slechts een afbreekstreepje: &lt;l1&gt;[a-z-]&lt;/l1&gt; betekent elke kleine letter van “a” tot en met “z”, of het teken voor het afbreekstreepje zelf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A language pattern that matches the source language of the project will apply to that project.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230519T125016Z" creationid="Dick" creationdate="20230519T125016Z">
@@ -14753,6 +14761,14 @@ paragraph of section 11).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135912Z">
         <seg>Aanwezige overeenkomsten in het doelsegment zullen dan rood gekleurd worden, d.i. eenvoudig te identificeren en te corrigeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any number of ranges can be defined: &lt;l0&gt;[a-zA-Z0-9]&lt;/l0&gt; means any lowercase character from “a” to “z”, or any uppercase character from “A” to “Z”, or any digit from “0” to “9”.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T093150Z" creationid="Dick" creationdate="20230520T093150Z">
+        <seg>Elk aantal bereiken kan worden gedefinieerd: &lt;l0&gt;[a-zA-Z0-9]&lt;/l0&gt; betekent elke kleine letter van “a” tot en met “z”, of elke hoofdletter van “A” tot en met “Z”, of enig cijfer van “0” tot en met “9”.</seg>
       </tuv>
     </tu>
     <tu>
