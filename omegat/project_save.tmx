@@ -75973,6 +75973,14 @@ op het bureaublad en in het gebied voor snel starten om het van daaruit te koppe
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also search for the caret, closing bracket, and hyphen as themselves by placing them at a position that does not trigger their special meaning: anywhere except right after the opening bracket for the caret, immediately after either opening bracket or the caret following it for the closing bracket, and either just after the opening bracket or just before the closing bracket for the hyphen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T092051Z" creationid="Dick" creationdate="20230520T092051Z">
+        <seg>U kunt ook zoeken naar de caret, vierkante haakje voor sluiten en afbreekstreepje als zichzelf door ze te plaatsen op een positie die niet hun speciale betekenis activeert: overal, behalve direct achter het vierkante haakje voor openen voor de caret, direct achter ofwel het vierkante haakje voor openen of de caret gevolgd door het vierkante haakje voor sluiten, en ofwel net na het vierkante haakje voor openen of net voor het vierkante haakje voor sluiten voor het afbreekstreepje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also start the selected macros from the main menu by using their entries in the &lt;g0&gt;Tools &lt;/g0&gt;menu or by pressing&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (# 1 to 12).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T120248Z" creationid="Dick" creationdate="20190517T120248Z">
