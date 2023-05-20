@@ -63517,6 +63517,14 @@ the User Product in which it has been modified or installed.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The rest of the twelve characters are normal, and do not have to be preceded by a backslash if you want to search for those characters themselves.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T091546Z" creationid="Dick" creationdate="20230520T091546Z">
+        <seg>De rest van de twaalf tekens zijn normaal, en hoeven niet te worden voorafgegaan door een backslash als u wilt zoeken naar deze tekens zelf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The result will thus depend on the order in which the source segments have been loaded.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T174021Z">
@@ -76554,6 +76562,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T155529Z" creationid="DiGro (Dick)" creationdate="20170915T155529Z">
         <seg>U kunt OmegaT direct starten vanaf de opdrachtregel met</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can search for any of the four class special characters as normal characters by preceding them with a backslash.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T091657Z" creationid="Dick" creationdate="20230520T091657Z">
+        <seg>U kunt zoeken naar elk van de vier klassen voor speciale tekens als voor normale tekens door ze vooraf te laten gaan door een backslash.</seg>
       </tuv>
     </tu>
     <tu>
