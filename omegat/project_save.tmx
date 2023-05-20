@@ -33503,6 +33503,14 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you find other interesting references—in any language—the OmegaT team would love to hear about them.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T120603Z" creationid="Dick" creationdate="20230520T120603Z">
+        <seg>Als u andere interessante verwijzingen vindt—in elke taal—zou het team van OmegaT dat graag horen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you find the suggestion acceptable, press &lt;k0&gt; &lt;k1&gt;&lt;i2/&gt;Ctrl&lt;/k1&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k0&gt; to replace the target part of the opened segment with the suggestion.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T143848Z">
@@ -45222,6 +45230,14 @@ OmegaT 4.0, Lees Mij-bestand</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT does not support either site in any way.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T120517Z" creationid="Dick" creationdate="20230520T120517Z">
+        <seg>OmegaT ondersteunt op geen enkele wijze de beide pagina's.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT does not support these formats directly.</seg>
       </tuv>
       <tuv lang="nl">
@@ -46840,6 +46856,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T175046Z">
         <seg>Eén van de bovenstaande segmenten is het huidige segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>One of the most thorough regular expression tutorial and reference on the web.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T120443Z" creationid="Dick" creationdate="20230520T120443Z">
+        <seg>Een van de meest uitgebreide handleidingen voor reguliere expressies en verwijzingen op het web.</seg>
       </tuv>
     </tu>
     <tu>
