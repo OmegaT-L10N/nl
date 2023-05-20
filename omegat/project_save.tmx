@@ -26952,6 +26952,14 @@ Gossamer-drempel houdt u tegen
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Find numerical dates in year, month, and day order with the month and day separated by a slash, period, or hyphen, such as:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T114729Z" creationid="Dick" creationdate="20230520T114729Z">
+        <seg>Zoek numerieke datums in de volgorde jaar, maand en dag waarbij de dag en maand worden gescheiden door een slash, punt, of afbreekstreepje, zoals:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Find the file OmegaT.app/Contents/MacOS/OmegaT.sh and select your preferred editor to open the file.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T160633Z" creationid="DiGro (Dick)" creationdate="20170915T160633Z">
@@ -26988,6 +26996,14 @@ Gossamer-drempel houdt u tegen
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230520T114410Z" creationid="Dick" creationdate="20230520T114410Z">
         <seg>Zoek woorden die beginnen met een klinker na het lidwoord “a” in plaats van “an”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find words starting with consonant that come after “an” rather than “a”.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T114616Z" creationid="Dick" creationdate="20230520T114616Z">
+        <seg>Zoek woorden die beginnen met een medeklinker na het lidwoord “an” in plaats van “a”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62106,6 +62122,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The flip side of the preceding example.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T114437Z" creationid="Dick" creationdate="20230520T114437Z">
+        <seg>Het tegenovergestelde van het vorige voorbeeld.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The folder contains 2 files: &lt;f2&gt;index.html&lt;/f2&gt; and &lt;f3&gt;OmegaT.app&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T135740Z" creationid="Dick" creationdate="20190516T135740Z">
@@ -67017,6 +67041,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160126T141238Z" creationid="Dirk" creationdate="20160126T141238Z">
         <seg>Dit zorgt er voor dat de belangen van de gebruikers worden beschermd en heeft ook geresulteerd in het behalen van de &lt;a0&gt;Softpedia "100% GRATIS" garantie&lt;/a0&gt; door OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This expression finds number and separator patterns matching possible dates, but does not validate them.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T114841Z" creationid="Dick" creationdate="20230520T114841Z">
+        <seg>Deze expressie zoekt patronen van getallen en scheidingstekens die overeenkomen met mogelijke datums, maar valideert ze niet.</seg>
       </tuv>
     </tu>
     <tu>
