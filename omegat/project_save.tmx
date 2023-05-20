@@ -40190,6 +40190,22 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Makes the part of the expression to the right of the modifier case insensitive.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T090055Z" creationid="Dick" creationdate="20230520T090055Z">
+        <seg>Maakt het gedeelte aan de rechterkant van de aanpassing voor de expressie ongevoelig voor hoofd-/kleine letters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Makes the part of the expression to the right of the modifier case sensitive.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T090125Z" creationid="Dick" creationdate="20230520T090125Z">
+        <seg>Maakt het gedeelte aan de rechterkant van de aanpassing voor de expressie gevoelig voor hoofd-/kleine letters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Malagasy</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T130335Z">
@@ -76570,6 +76586,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T160111Z" creationid="Dirk" creationdate="20131225T155844Z">
         <seg>U kunt nog steeds de hierboven beschreven oplossing met de browser gebruiken om de vertalingen van deze bestanden weer te geven, maar dan heeft u ook nodig a) een converter om het bestand te converteren naar de indeling .html, en b) een mogelijkheid om de converter automatisch te laten starten zodat u de bestanden niet handmatig hoeft te converteren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can take advantage of this to apply a fine degree of control to case sensitivity in searches.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T090236Z" creationid="Dick" creationdate="20230520T090236Z">
+        <seg>U kunt hieruit uw voordeel halen om een fijnmazig beheer toe te passen voor gevoeligheid voor hoofd-kleine letters in zoekacties.</seg>
       </tuv>
     </tu>
     <tu>
