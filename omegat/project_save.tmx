@@ -11561,6 +11561,22 @@ on the Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A character preceded by the letter “q”.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T113409Z" creationid="Dick" creationdate="20230520T113409Z">
+        <seg>Een teken voorafgegaan door de “q”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A character that is &lt;e0&gt;not&lt;/e0&gt; followed by the letter “u”.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T113232Z" creationid="Dick" creationdate="20230520T113232Z">
+        <seg>Een teken dat &lt;e0&gt;niet&lt;/e0&gt; wordt gevolgd door de letter “u”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A command line window is also referred to as a "terminal window".</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T141920Z">
@@ -27503,6 +27519,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;l0&gt;(?&lt;=q)u&lt;/l0&gt; matches the letter “u” if it comes after “q”.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T113512Z" creationid="Dick" creationdate="20230520T113512Z">
+        <seg>Bijvoorbeeld, &lt;l0&gt;q(?&lt;=u)&lt;/l0&gt; komt overeen met de letter “u” wanneer die achter “q” staat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, &lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt; You can define key-value pairs for tags to be left untranslated.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134326Z">
@@ -27523,6 +27547,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230520T092430Z" creationid="Dick" creationdate="20230520T092430Z">
         <seg>Bijvoorbeeld &lt;l0&gt;\d&lt;/l0&gt; is een sneltoets voor &lt;l1&gt;[0-9]&lt;/l1&gt;, wat overeenkomt met elk cijfer tussen 0 tot en met 9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, &lt;l0&gt;q(?!u)&lt;/l0&gt; matches the letter “q” when it is &lt;e1&gt;not&lt;/e1&gt; followed by a “u”.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T113312Z" creationid="Dick" creationdate="20230520T113312Z">
+        <seg>Bijvoorbeeld, &lt;l0&gt;q(?!=u)&lt;/l0&gt; komt overeen met de letter “q” wanneer die &lt;e1&gt;niet&lt;/e1&gt; wordt gevolgd door een “u”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37498,6 +37530,22 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230520T103125Z" creationid="Dick" creationdate="20230520T103125Z">
         <seg>Het komt daarom overeen met de “q” in “equal” of “question”, maar &lt;e1&gt;niet&lt;/e1&gt; die in “qigong” of “Iraq”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It therefore matches the “q” in “qigong” or “Iraq”, but &lt;e2&gt;not&lt;/e2&gt; the one in “equal” or “question”.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T113351Z" creationid="Dick" creationdate="20230520T113351Z">
+        <seg>Het komt daarom overeen met de “q” in “qigong” of “Iraq”, maar &lt;e2&gt;niet&lt;/e2&gt; die in “equal” of “question”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It therefore matches the “u” in “quick”, but not the one in “run”.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T113534Z" creationid="Dick" creationdate="20230520T113534Z">
+        <seg>Het komt daarom overeen met de “u” in “quick”, maar niet die in “run”.</seg>
       </tuv>
     </tu>
     <tu>
