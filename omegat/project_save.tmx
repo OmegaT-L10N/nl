@@ -8772,8 +8772,8 @@ Bekijk "Hoofdstuk 3.</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;\H &lt;/l0&gt; is any character that is &lt;e1&gt;not&lt;/e1&gt; a horizontal white space, and &lt;l2&gt;\V&lt;/l2&gt; any character that is &lt;e3&gt;not&lt;/e3&gt; a vertical white space (&lt;l4&gt;[^\h]&lt;/l4&gt; and &lt;l5&gt;[^\v]&lt;/l5&gt;, respectively).</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230520T100149Z" creationid="Dick" creationdate="20230520T100149Z">
-        <seg>&lt;l0&gt;\H &lt;/l0&gt; is elk teken dat &lt;e1&gt;geen&lt;/e1&gt; teken voor horizontale witruimte is, en &lt;l2&gt;\V&lt;/l2&gt; elk teken dat &lt;e1&gt;geen&lt;/e1&gt; teken voor verticale witruimte is, respectievelijk (&lt;l4&gt;[^\h]&lt;/l4&gt; en &lt;l5&gt;[^\v]&lt;/l5&gt;).</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T100207Z" creationid="Dick" creationdate="20230520T100149Z">
+        <seg>&lt;l0&gt;\H &lt;/l0&gt; is elk teken dat &lt;e1&gt;geen&lt;/e1&gt; teken voor horizontale witruimte is, en &lt;l2&gt;\V&lt;/l2&gt; elk teken dat &lt;e3&gt;geen&lt;/e3&gt; teken voor verticale witruimte is, respectievelijk (&lt;l4&gt;[^\h]&lt;/l4&gt; en &lt;l5&gt;[^\v]&lt;/l5&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -50962,6 +50962,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T125043Z">
         <seg>Reguliere uitdrukkingen worden ook uitgebreid in de segmentatieregels gebruikt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regular expressions are not limited to alphanumeric characters.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T100242Z" creationid="Dick" creationdate="20230520T100242Z">
+        <seg>Reguliere expressies zijn niet beperkt tot alfanumerieke tekens.</seg>
       </tuv>
     </tu>
     <tu>
