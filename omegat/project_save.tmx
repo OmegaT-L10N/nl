@@ -23215,6 +23215,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Doing so makes the entire search expression case sensitive.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T085640Z" creationid="Dick" creationdate="20230520T085640Z">
+        <seg>Door dat te doen maakt het de gehele zoek-expressie gevoelig voor hoofd- en kleine letters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DokuWiki</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20130601T175537Z">
@@ -30338,6 +30346,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, regular expressions also provide special modifiers to specify case sensitivity within the expression:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T085944Z" creationid="Dick" creationdate="20230520T085944Z">
+        <seg>Echter, reguliere expressies verschaffen ook speciale aanpassingen om gevoeligheid voor hoofd-/kleine letters binnen de expressie te specificeren:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, since we are not a commercial project, we have no budget for the commissioning of translations.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T160934Z" creationid="DiGro (Dick)" creationdate="20170915T160934Z">
@@ -34462,6 +34478,14 @@ work and works based on it.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120401T160232Z">
         <seg>In samenwerking met het script te-st-notags verschaft dit een afzonderlijk venster waarin geen tags worden weergegeven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In contrast, Regular expressions are case sensitive by default.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T085732Z" creationid="Dick" creationdate="20230520T085732Z">
+        <seg>In tegenstelling daaraan zijn reguliere expressies standaard gevoelig voor hoofd- en kleine letters.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67235,6 +67259,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T173643Z">
         <seg>Dit betekent bijvoorbeeld dat u het project waarin u momenteel werkt niet behoeft te verlaten als u besluit om er een andere aanvullende TM aan toe te voegen: u kunt eenvoudigweg het project opnieuw laden, en de wijzigingen die u hebt gemaakt zullen daarin worden opgenomen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This means that a regular expression search for “OmegaT”, for example, will not match “omegat”.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T085837Z" creationid="Dick" creationdate="20230520T085837Z">
+        <seg>Dit betekent, bijvoorbeeld, dat een zoekactie met een reguliere expressie naar “OmegaT”, niet overeen zal komen met “omegat”.</seg>
       </tuv>
     </tu>
     <tu>
