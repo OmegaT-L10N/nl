@@ -26928,6 +26928,30 @@ Gossamer-drempel houdt u tegen
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Find clauses that start with a comma followed by a whitespace character, contain one or more words (including words in quotation marks, contractions, and filenames with a file extension), and end either with a comma or period.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T114156Z" creationid="Dick" creationdate="20230520T114156Z">
+        <seg>Zoek naar clausules die beginnen met een komma, gevolgd door een teken voor witruimte, één of meer woorden bevatten (inclusief woorden tussen aanhalingstekens, samenvoegingen, en bestandsnamen met een bestandsextensie), en eindigen met ofwel een komma of een punt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find double words.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T114004Z" creationid="Dick" creationdate="20230520T114004Z">
+        <seg>Zoek naar dubbele woorden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find extra whitespace after the period at the end of a line.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T114227Z" creationid="Dick" creationdate="20230520T114227Z">
+        <seg>Zoek extra witruimte achter de punt aan het einde van een regel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Find the file OmegaT.app/Contents/MacOS/OmegaT.sh and select your preferred editor to open the file.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T160633Z" creationid="DiGro (Dick)" creationdate="20170915T160633Z">
@@ -26956,6 +26980,14 @@ Gossamer-drempel houdt u tegen
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T155955Z">
         <seg>Zoek naar de regels:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find words starting with a vowel that come after the article “a” rather than “an”.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T114410Z" creationid="Dick" creationdate="20230520T114410Z">
+        <seg>Zoek woorden die beginnen met een klinker na het lidwoord “a” in plaats van “an”.</seg>
       </tuv>
     </tu>
     <tu>
