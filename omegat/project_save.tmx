@@ -17401,6 +17401,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Category</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T121846Z" creationid="Dick" creationdate="20230520T121846Z">
+        <seg>Categorie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Certain other CAT tools (such as TRADOS) are able to export different TMX files in different versions.</seg>
       </tuv>
       <tuv lang="nl">
@@ -25964,6 +25972,14 @@ Gossamer-drempel houdt u tegen
       </tuv>
       <tuv lang="nl">
         <seg>Beschrijft hoe een bestandsfilter kan worden gemaakt voor een nieuwe bestandsindeling om te worden vertaald met OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Explanation</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T121859Z" creationid="Dick" creationdate="20230520T121859Z">
+        <seg>Uitleg</seg>
       </tuv>
     </tu>
     <tu>
