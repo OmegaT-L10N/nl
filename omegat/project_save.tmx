@@ -11663,6 +11663,14 @@ consequence of further modification of the contributor version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A few examples are presented in the table below.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T102241Z" creationid="Dick" creationdate="20230520T102241Z">
+        <seg>Een aantal voorbeelden worden in de tabel hieronder weergegeven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A few simple examples</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T172050Z">
@@ -53854,6 +53862,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See also &lt;u0&gt;Unicode Regular Expressions&lt;/u0&gt; for a thorough review of Unicode regular expressions.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T102326Z" creationid="Dick" creationdate="20230520T102326Z">
+        <seg>Bekijk ook &lt;u0&gt;Unicode Regular Expressions&lt;/u0&gt; voor een uitgebreide beschouwing van reguliere expressies voor Unicode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See below for details.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T150655Z" creationid="Dirk" creationdate="20160906T150231Z">
@@ -65965,6 +65981,14 @@ U bent het slachtoffer van één van de drie.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They cover the entire Unicode character set.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T102106Z" creationid="Dick" creationdate="20230520T102106Z">
+        <seg>Zij bedekken de gehele Unicode tekenset.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They generally follow much the same pattern (for an example from the Regular Expression Tester see below): the regular expression (top entry) analyzes the search text (Text box in the middle) , yielding the hits, shown in the result Text box.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T170410Z">
@@ -72321,6 +72345,14 @@ De huidige instelling is {0}MB;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221218T134545Z" creationid="Dick" creationdate="20221218T134545Z">
         <seg>Gebruik Extra &gt; Controleren op problemen… om de fouten in de tags te repareren en probeer het opnieuw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use Unicode blocks, scripts and categories to specify character classes outside the alphanumeric character range.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T102218Z" creationid="Dick" creationdate="20230520T102218Z">
+        <seg>Gebruik Unicode-blokken, scripts en categorieën om tekenklassen te specificeren buiten het bereik van alfabumerieke tekens.</seg>
       </tuv>
     </tu>
     <tu>
