@@ -6898,6 +6898,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Not&lt;/e0&gt; a word boundary</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T102951Z" creationid="Dick" creationdate="20230520T102951Z">
+        <seg>&lt;e0&gt;Geen&lt;/e0&gt;  woordgrens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Note: &lt;/e0&gt;In some cases it may take quite some time for OmegaT to update the display after the font setting has been changed.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T165635Z">
@@ -11517,6 +11525,14 @@ on the Program.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135233Z">
         <seg>Een batch-bestand gebruikt om &lt;a0&gt;OmegaT&lt;/a0&gt; te starten vanaf de opdrachtregel van Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A character followed by a “u”.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T103009Z" creationid="Dick" creationdate="20230520T103009Z">
+        <seg>Een teken, gevolgd door een “u”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19697,6 +19713,14 @@ OmegaT gebruikt de volgende bibliotheken:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Consult the sites in the &lt;l0/&gt; section for more information.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T102908Z" creationid="Dick" creationdate="20230520T102908Z">
+        <seg>Bekijk de pagina's in het gedeelte &lt;l0/&gt; voor informatie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Contact</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170927T103024Z" creationid="DiGro (Dick)" creationdate="20170927T103024Z">
@@ -25976,6 +26000,14 @@ Gossamer-drempel houdt u tegen
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Expressions that mark a position</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T102923Z" creationid="Dick" creationdate="20230520T102923Z">
+        <seg>Expressies die een positie markeren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Extension</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230518T102454Z" creationid="Dick" creationdate="20230518T102454Z">
@@ -27491,6 +27523,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230520T092430Z" creationid="Dick" creationdate="20230520T092430Z">
         <seg>Bijvoorbeeld &lt;l0&gt;\d&lt;/l0&gt; is een sneltoets voor &lt;l1&gt;[0-9]&lt;/l1&gt;, wat overeenkomt met elk cijfer tussen 0 tot en met 9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, &lt;l0&gt;q(?=u)&lt;/l0&gt; matches the letter “q” when it is followed by a “u”.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T103042Z" creationid="Dick" creationdate="20230520T103042Z">
+        <seg>Bijvoorbeeld, &lt;l0&gt;q(?=u)&lt;/l0&gt; komt overeen met de letter “q” wanneer die wordt gevolgd door een “u”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37450,6 +37490,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T095445Z">
         <seg>Het geeft de vertalingen weer van termen die zijn gevonden in het huidige segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It therefore matches the “q” in “equal” or “question”, but &lt;e1&gt;not&lt;/e1&gt; the one in “qigong” or “Iraq”.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T103125Z" creationid="Dick" creationdate="20230520T103125Z">
+        <seg>Het komt daarom overeen met de “q” in “equal” of “question”, maar &lt;e1&gt;niet&lt;/e1&gt; die in “qigong” of “Iraq”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56194,6 +56242,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some expressions specify a position rather than a character.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T102718Z" creationid="Dick" creationdate="20230520T102718Z">
+        <seg>Sommige expressies specificeren een positie in plaats van een teken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some filters do not allow encoding modifications.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T110239Z" creationid="Dick" creationdate="20221220T110239Z">
@@ -64523,6 +64579,14 @@ use, which is precisely where it is most unacceptable.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The table below list a few of the more common examples.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T102840Z" creationid="Dick" creationdate="20230520T102840Z">
+        <seg>De tabel hieronder vermeld een aantal meer algemene voorbeelden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The table below provides various additional examples.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230520T092716Z" creationid="Dick" creationdate="20230520T092716Z">
@@ -66057,6 +66121,14 @@ U bent het slachtoffer van één van de drie.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T171113Z">
         <seg>Zij betekenen, bekend voor gebruikers van Word:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They indicate where in the text to look for the match, but do not include any characters in that match.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T102809Z" creationid="Dick" creationdate="20230520T102809Z">
+        <seg>Zij geven aan waar in de tekst moet worden gezocht voor de overeenkomst, maar bevatten geen tekens in die overeenkomst.</seg>
       </tuv>
     </tu>
     <tu>
