@@ -23247,6 +23247,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do not segment after Ms.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T123511Z" creationid="Dick" creationdate="20230520T123511Z">
+        <seg>Niet segmenteren na Ms.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do not translate the content attribute of meta-tags with the following attribute key-value pairs (separate with commas):</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T191634Z">
@@ -25816,6 +25824,14 @@ Niemand hoort u schreeuwen.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T172113Z">
         <seg>Uitzonderingsregel - zie het gebruik van ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exception rule, box unchecked, higher in the list</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T123502Z" creationid="Dick" creationdate="20230520T123502Z">
+        <seg>Uitzonderingsregel, vak geselecteerd, hoger in de lijst</seg>
       </tuv>
     </tu>
     <tu>
