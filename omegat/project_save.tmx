@@ -33327,6 +33327,14 @@ not convey it at all.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you change the segmentation while translating, you will have to reload the project for the new segmentation to take effect.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T121707Z" creationid="Dick" creationdate="20230520T121707Z">
+        <seg>Als u de segmentatie wijzigt tijdens het vertalen, moet u het project herladen vóórdat de nieuwe segmentatie effect heeft.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you check the OmegaT log and you see words like</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T104244Z">
@@ -43529,6 +43537,14 @@ measures.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>U hoeft zich daar verder geen zorgen over te maken tenzij u in het bijzonder bent geïnteresseerd in zaken met betrekking tot auteursrechten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Nonetheless, their original translation will still be in the project memory.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T121839Z" creationid="Dick" creationdate="20230520T121839Z">
+        <seg>Niettegenstaande dat zal hun originele vertaling nog steeds in het projectgeheugen staan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59574,6 +59590,14 @@ Het bereik van een tekstvervanging zijn de doelsegmenten van het project, of zij
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That is the reason why exception rules must come before segmentation rules.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T121606Z" creationid="Dick" creationdate="20230520T121606Z">
+        <seg>Dat is de reden waarom regels voor uitzonderingen vóór segmentatieregels moeten staan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That means that if you feel so inclined, you may modify OmegaT to suit your own requirements.</seg>
       </tuv>
       <tuv lang="nl">
@@ -68656,6 +68680,14 @@ settings to their defaults.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T143637Z" creationid="Dirk" creationdate="20131225T143637Z">
         <seg>Dit zal leiden tot het verwijderen van alle instellingen voor een configuratie van een gebruiker die zijn gemaakt (zoals wijzigingen in de regels voor segmentatie), en – als de map "correct" is verwijderd, d.i. niet eenvoudigweg naar de prullenbak verplaatst - kan niet hersteld worden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This will split or merge some previously translated segments, which will therefore no longer be considered translated.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T121804Z" creationid="Dick" creationdate="20230520T121804Z">
+        <seg>Dit zal sommige eerder vertaalde segmenten splitsen of samenvoegen, en die daarom als niet vertaald zullen worden beschouwd.</seg>
       </tuv>
     </tu>
     <tu>
