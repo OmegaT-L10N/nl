@@ -11489,6 +11489,14 @@ on the Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A character in the range of letters from “C” through “X”.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T092923Z" creationid="Dick" creationdate="20230520T092923Z">
+        <seg>Een teken in het bereik van “C” tot en met “X”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A command line window is also referred to as a "terminal window".</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T141920Z">
@@ -11903,6 +11911,14 @@ the only significant mode of use of the product.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T174039Z">
         <seg>Een pseudo-vertaald geheugen kan worden gegenereerd met de volgende parameters voor de opdrachtregel:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A range is defined by the first character in a series, followed by a hyphen, followed by last character in the series.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T093023Z" creationid="Dick" creationdate="20230520T093023Z">
+        <seg>Een bereik wordt gedefinieerd door het eerste teken in een serie, gevolgd door een afbreekstreepje, gevolgd door het laatste teken in de serie.</seg>
       </tuv>
     </tu>
     <tu>
