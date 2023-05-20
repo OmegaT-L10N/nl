@@ -11727,6 +11727,14 @@ consequence of further modification of the contributor version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A few additional resources are presented below.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T115915Z" creationid="Dick" creationdate="20230520T115915Z">
+        <seg>Een aantal aanvullende bronnen worden hieronder weergegeven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A few examples are presented in the table below.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230520T102241Z" creationid="Dick" creationdate="20230520T102241Z">
@@ -14159,6 +14167,14 @@ conditions are met.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120402T170207Z">
         <seg>Hoewel Infix een toepassing voor Windows is, heeft Iceni pogingen gedaan om gebruikers van Linux en Macintosh tegemoet te komen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Although OmegaT does not offer fancy colouring for your regular expressions, you can get a lot of practice by using the &lt;l0/&gt; window since OmegaT does colour the matching results.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T115852Z" creationid="Dick" creationdate="20230520T115852Z">
+        <seg>Hoewel OmegaT geen mooie kleuren aanbiedt voor uw reguliere expressies, kunt u veel oefenen door het venster &lt;l0/&gt; te gebruiken omdat OmegaT de overeenkomende resultaten wel een kleur geeft.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26932,6 +26948,14 @@ Gossamer-drempel houdt u tegen
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230520T114920Z" creationid="Dick" creationdate="20230520T114920Z">
         <seg>Zoek een punt, gevolgd door een hoofdletter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find an email address.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T115552Z" creationid="Dick" creationdate="20230520T115552Z">
+        <seg>Zoek een e-mailadres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50990,6 +51014,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>References</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T115652Z" creationid="Dick" creationdate="20230520T115652Z">
+        <seg>Verwijzingen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>References:</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120103T175713Z">
@@ -68251,6 +68283,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T125458Z">
         <seg>Deze korte tekst beschrijft het gedrag van de toetsen in het bewerkingsvenster.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This simple expression may not cover every possible valid email address format.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T115647Z" creationid="Dick" creationdate="20230520T115647Z">
+        <seg>Deze eenvoudige expressie zou niet voor elke mogelijke geldige indeling voor een e-mailadres kunnen gelden.</seg>
       </tuv>
     </tu>
     <tu>
