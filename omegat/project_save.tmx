@@ -12005,6 +12005,14 @@ specifically granted under this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A period followed by a whitespace</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T124050Z" creationid="Dick" creationdate="20230520T124050Z">
+        <seg>Een punt, gevolgd door witruimte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A product</seg>
       </tuv>
       <tuv lang="nl">
@@ -25846,8 +25854,8 @@ Niemand hoort u schreeuwen.</seg>
       <tuv lang="en">
         <seg>Exception rule, box unchecked, higher in the list</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230520T123502Z" creationid="Dick" creationdate="20230520T123502Z">
-        <seg>Uitzonderingsregel, vak geselecteerd, hoger in de lijst</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T123942Z" creationid="Dick" creationdate="20230520T123502Z">
+        <seg>Uitzonderingsregel, vak niet geselecteerd, hoger in de lijst</seg>
       </tuv>
     </tu>
     <tu>
@@ -44061,6 +44069,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that the &lt;l0&gt;Pattern After&lt;/l0&gt; field can be empty.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T124256Z" creationid="Dick" creationdate="20230520T124256Z">
+        <seg>Onthoud dat het veld &lt;l0&gt;Patroon na&lt;/l0&gt; leeg mag zijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that the TMX files in the &lt;f0&gt;tm&lt;/f0&gt; folder can be compressed with gzip.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T134521Z" creationid="Dick" creationdate="20211118T134521Z">
@@ -57690,6 +57706,22 @@ can do so.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T191645Z">
         <seg>Start een nieuwe alinea bij:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start a new segment after a period followed by a space, tab, or other whitespace.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T124031Z" creationid="Dick" creationdate="20230520T124031Z">
+        <seg>Begin een nieuw segment na een punt, gevolgd door een spatie, tab of andere witruimte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start a new segment after “。” (Japanese period).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T124135Z" creationid="Dick" creationdate="20230520T124135Z">
+        <seg>Begin een nieuw segment na “。” (Japanse punt).</seg>
       </tuv>
     </tu>
     <tu>
