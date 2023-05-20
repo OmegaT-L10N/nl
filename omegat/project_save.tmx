@@ -14633,6 +14633,14 @@ work under this License, and how to view a copy of this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An online regular expression matcher that lets you enter the text you want to search and the regular expressions you want to test.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T120352Z" creationid="Dick" creationdate="20230520T120352Z">
+        <seg>Een online programma voor overeenkomsten van reguliere expressies dat u de tekst in laat voeren die u wilt zoeken en de reguliere expressies die u wilt testen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An understanding of the processes involved is however important.</seg>
       </tuv>
       <tuv lang="nl">
@@ -33994,6 +34002,14 @@ to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you want to learn more about using regular expressions, the two following sites have proven very useful.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T120229Z" creationid="Dick" creationdate="20230520T120229Z">
+        <seg>Als u meer wilt leren over het gebruiken van reguliere expressies, hebben de volgende twee pagina's bewezen heel nuttig te zijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you want to revert to the filter's default configuration, click &lt;e1&gt;Defaults.&lt;/e1&gt; You can also modify the name directly in the target filename pattern field of the file filters dialog.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T112539Z" creationid="Dick" creationdate="20190516T112539Z">
@@ -37949,6 +37965,14 @@ zelf bij de eerste keer dat het wordt uitgevoerd.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T164006Z" creationid="Dirk" creationdate="20160906T164006Z">
         <seg>Java Properties XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Java Regex documentation</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T120111Z" creationid="Dick" creationdate="20230520T120111Z">
+        <seg>Documentatie voor Java Regex </seg>
       </tuv>
     </tu>
     <tu>
@@ -60318,6 +60342,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Java technical reference is useful as a canonical reference.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T120049Z" creationid="Dick" creationdate="20230520T120049Z">
+        <seg>De technische verwijzing voor Java is nuttig als een canonieke verwijzing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Java version used (the same font may appear quite different on Sun and OpenJDK versions of Java)</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T143124Z" creationid="Dirk" creationdate="20131225T143124Z">
@@ -63381,6 +63413,14 @@ to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T144913Z">
         <seg>De verkregen API-sleutel moet worden doorgegeven bij het opstarten van OmegaT door middel van de parameter voor de opdrachtregel &lt;c0&gt;yandex.api.key&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The official reference for regular expressions used in Java.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T120143Z" creationid="Dick" creationdate="20230520T120143Z">
+        <seg>De officiële verwijzing voor reguliere expressies die worden gebruikt in Java.</seg>
       </tuv>
     </tu>
     <tu>
