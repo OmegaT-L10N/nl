@@ -8770,10 +8770,34 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;\H &lt;/l0&gt; is any character that is &lt;e1&gt;not&lt;/e1&gt; a horizontal white space, and &lt;l2&gt;\V&lt;/l2&gt; any character that is &lt;e3&gt;not&lt;/e3&gt; a vertical white space (&lt;l4&gt;[^\h]&lt;/l4&gt; and &lt;l5&gt;[^\v]&lt;/l5&gt;, respectively).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T100149Z" creationid="Dick" creationdate="20230520T100149Z">
+        <seg>&lt;l0&gt;\H &lt;/l0&gt; is elk teken dat &lt;e1&gt;geen&lt;/e1&gt; teken voor horizontale witruimte is, en &lt;l2&gt;\V&lt;/l2&gt; elk teken dat &lt;e1&gt;geen&lt;/e1&gt; teken voor verticale witruimte is, respectievelijk (&lt;l4&gt;[^\h]&lt;/l4&gt; en &lt;l5&gt;[^\v]&lt;/l5&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;\S&lt;/l0&gt; is any character that is &lt;e1&gt;not&lt;/e1&gt; a whitespace character (&lt;l2&gt;[^\s]&lt;/l2&gt;).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T095909Z" creationid="Dick" creationdate="20230520T095909Z">
+        <seg>&lt;l0&gt;\S&lt;/l0&gt; is elk teken dat &lt;e1&gt;geen&lt;/e1&gt; teken voor witruimte (&lt;l2&gt;[^\s]&lt;/l2&gt;) is.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;\W&lt;/l0&gt; is any character that is &lt;e1&gt;not&lt;/e1&gt; a word character (&lt;l2&gt;[^\w]&lt;/l2&gt;).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230520T095733Z" creationid="Dick" creationdate="20230520T095733Z">
         <seg>&lt;l0&gt;\W&lt;/l0&gt; is elk teken dat &lt;e1&gt;geen&lt;/e1&gt; teken voor een woord (&lt;l2&gt;[^\w]&lt;/l2&gt;) is.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;\h&lt;/l0&gt; and &lt;l1&gt;\v&lt;/l1&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T095917Z" creationid="Dick" creationdate="20230520T095917Z">
+        <seg>&lt;l0&gt;\h&lt;/l0&gt; en &lt;l1&gt;\v&lt;/l1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12131,6 +12155,14 @@ included in conveying the object code work.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170916T115846Z" creationid="DiGro (Dick)" creationdate="20170916T115846Z">
         <seg>Een groot bereik aan functies, een overzichtelijke interface en, meest belangrijk, constante, regelmatige ontwikkeling in open bron!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A whitespace character, including the space and tab characters, as well as line breaks.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T095825Z" creationid="Dick" creationdate="20230520T095825Z">
+        <seg>Een teken voor witruimte, inclusief de tekens voor spatie en tab, als ook regeleinden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30262,6 +30294,14 @@ Het is er wintertijd voor</seg>
       </tuv>
       <tuv lang="nl">
         <seg>Home*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Horizontal and vertical whitespace (generally preferred to &lt;l0&gt;\s&lt;/l0&gt;).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T100006Z" creationid="Dick" creationdate="20230520T100006Z">
+        <seg>Horizontale en verticale witruimte (over het algemeen heeft dit de voorkeur boven &lt;l0&gt;\s&lt;/l0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
