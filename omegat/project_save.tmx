@@ -50862,6 +50862,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remember that most &lt;e0&gt;alphabetic&lt;/e0&gt; characters preceded by a &lt;l1&gt;\&lt;/l1&gt; turn into an expression that represents &lt;e2&gt;not the character itself, but its associated special meaning&lt;/e2&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T085022Z" creationid="Dick" creationdate="20230520T085022Z">
+        <seg>Onthoud dat de meest &lt;e0&gt;alfabetische&lt;/e0&gt; tekens, die worden voorafgegaan door een &lt;l1&gt;\&lt;/l1&gt;, veranderen in een expressie die &lt;e2&gt;niet het teken zelf, maar zijn geassocieerde speciale betekenis&lt;/e2&gt; weergeeft.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remember that you will first have to save in OmegaT and produce the translated documents, then launch the conversion utility, then wait for the display to be updated in the browser.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T161059Z" creationid="Dirk" creationdate="20131225T161059Z">
@@ -55338,6 +55346,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230519T145107Z" creationid="Dick" creationdate="20230519T121332Z">
         <seg>Eenvoudig voorbeeld van een opdracht voor nabewerken:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Simple expressions</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T085030Z" creationid="Dick" creationdate="20230520T085030Z">
+        <seg>Eenvoudige expressies</seg>
       </tuv>
     </tu>
     <tu>
@@ -63743,6 +63759,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The simplest regular expression consist of a single character, or combination of a &lt;l0&gt;\&lt;/l0&gt; and a character constituting a unit with a single meaning.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T085134Z" creationid="Dick" creationdate="20230520T085134Z">
+        <seg>De eenvoudigste reguliere expressie bestaat uit één enkel teken, of combinatie van een &lt;l0&gt;\&lt;/l0&gt; en een teken dat een eenheid vormt met één enkele betekenis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The simplest way to launch OmegaT, however, is to execute the &lt;f0&gt;OmegaT.exe&lt;/f0&gt; program.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T134056Z" creationid="Dick" creationdate="20190516T134056Z">
@@ -67499,6 +67523,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T135801Z" creationid="Dirk" creationdate="20131225T135801Z">
         <seg>Dit script:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This section presents various types of regular expression, ranging from the simple to the complex.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T084815Z" creationid="Dick" creationdate="20230520T084815Z">
+        <seg>Dit gedeelte presenteert verscheidene typen reguliere expressies, van eenvoudig tot complex.</seg>
       </tuv>
     </tu>
     <tu>
