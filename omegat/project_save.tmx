@@ -8778,6 +8778,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;\P{InGreek}&lt;/l0&gt; is any character that is &lt;e1&gt;not&lt;/e1&gt; in the Greek block.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T102454Z" creationid="Dick" creationdate="20230520T102454Z">
+        <seg>&lt;l0&gt;\P{InGreek}&lt;/l0&gt; is elk teken dat &lt;e1&gt;niet&lt;/e1&gt; in het Griekse blok staat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;\S&lt;/l0&gt; is any character that is &lt;e1&gt;not&lt;/e1&gt; a whitespace character (&lt;l2&gt;[^\s]&lt;/l2&gt;).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230520T095909Z" creationid="Dick" creationdate="20230520T095909Z">
@@ -11513,6 +11521,14 @@ on the Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A character in the Greek block (&lt;u0&gt;Unicode block&lt;/u0&gt;)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T102421Z" creationid="Dick" creationdate="20230520T102421Z">
+        <seg>Een teken in het Griekse blok (&lt;u0&gt;Unicode-blok&lt;/u0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A character in the Greek block (simple &lt;u0&gt; block&lt;/u0&gt;)</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T170208Z">
@@ -11619,6 +11635,14 @@ consequence of further modification of the contributor version.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T170214Z">
         <seg>Een valutasymbool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A currency symbol, which is also a &lt;u0&gt;Unicode category&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T102637Z" creationid="Dick" creationdate="20230520T102637Z">
+        <seg>Een valutasymbool, dat ook een &lt;u0&gt;Unicode categorie&lt;/u0&gt; is.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11795,6 +11819,14 @@ consequence of further modification of the contributor version.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131226T134353Z" creationid="Dirk" creationdate="20131226T134353Z">
         <seg>Een lijst van URL's met opslagplaatsen wordt hieronder verschaft.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A logogram (&lt;e0&gt;Han&lt;/e0&gt;/&lt;e1&gt;kanji&lt;/e1&gt;/&lt;e2&gt;hanja&lt;/e2&gt; character) found in CJK languages (&lt;u3&gt;Unicode script&lt;/u3&gt;)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T102539Z" creationid="Dick" creationdate="20230520T102539Z">
+        <seg>Een logogram (teken voor &lt;e0&gt;Han&lt;/e0&gt;/&lt;e1&gt;kanji&lt;/e1&gt;/&lt;e2&gt;hanja&lt;/e2&gt;) te vinden in CJK-talen (&lt;u3&gt;Unicode script&lt;/u3&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14549,6 +14581,14 @@ work under this License, and how to view a copy of this License.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>Begrip van de betrokken processen is echter belangrijk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An uppercase letter (&lt;u0&gt;Unicode category&lt;/u0&gt;)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T102601Z" creationid="Dick" creationdate="20230520T102601Z">
+        <seg>Een hoofdletter (&lt;u0&gt;Unicode categorie&lt;/u0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -41772,6 +41812,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120401T164509Z">
         <seg>More &gt; Even More &gt; Innovation/Code &gt; APIs Console &gt; Service/Translate API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>More advanced expressions</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T102651Z" creationid="Dick" creationdate="20230520T102651Z">
+        <seg>Meer geavanceerde expressies</seg>
       </tuv>
     </tu>
     <tu>
@@ -71443,6 +71491,14 @@ Exacte zoekacties komen overeen met de gehele zoekterm.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>Unicode (UTF-8)-ondersteuning: kan worden gebruikt met niet-Latijnse alfabetten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unicode blocks, scripts and categories</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T102344Z" creationid="Dick" creationdate="20230520T102344Z">
+        <seg>Unicode-blokken, scripts en categorieën</seg>
       </tuv>
     </tu>
     <tu>
