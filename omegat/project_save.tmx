@@ -17161,6 +17161,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Case</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T085410Z" creationid="Dick" creationdate="20230520T085410Z">
+        <seg>Hoofd-/Kleine letters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Catalan</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T191707Z">
@@ -17421,6 +17429,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20130930T165511Z" creationid="Dirk" creationdate="20130930T165511Z">
         <seg>Opties voor Tabel met tekens voor auto-aanvullen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Characters</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T085140Z" creationid="Dick" creationdate="20230520T085140Z">
+        <seg>Tekens</seg>
       </tuv>
     </tu>
     <tu>
@@ -25772,6 +25788,14 @@ Gossamer-drempel houdt u tegen
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T145913Z">
         <seg>Exporteert de huidige selectie naar een tekstbestand voor verwerking.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Expression</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T085150Z" creationid="Dick" creationdate="20230520T085150Z">
+        <seg>Expressie</seg>
       </tuv>
     </tu>
     <tu>
@@ -40654,6 +40678,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Match</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T085159Z" creationid="Dick" creationdate="20230520T085159Z">
+        <seg>Overeenkomst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Match Statistics</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T190013Z">
@@ -41646,6 +41678,14 @@ your receipt of the notice.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T135330Z" creationid="Dirk" creationdate="20131225T135330Z">
         <seg>De meeste distributies van Linux de OpenJDK-versie van Java standaard gebruiken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Most characters match themselves.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T085223Z" creationid="Dick" creationdate="20230520T085223Z">
+        <seg>De meeste tekens komen overeen met zichzelf.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47176,6 +47216,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T141317Z" creationid="Dick" creationdate="20190516T141230Z">
         <seg>Oracle levert JRE's voor Solaris SPARC/x86 (Java 8) en voor Linux x64, Solaris x64, Windows x64 (Java 8) op &lt;u0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ordinary OmegaT searches are case insensitive by default: they match both uppercase and lowercase characters, unless you choose to enable the &lt;l0/&gt; option.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T085606Z" creationid="Dick" creationdate="20230520T085606Z">
+        <seg>Gewoonlijk zijn zoekacties van OmegaT standaard niet gevoelig voor het verschil in hoofd- en kleine letters: zij komen overeen met zowel tekens in hoofd- als kleine letters, tenzij u er voor kiest de optie &lt;l0/&gt; in te schakelen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60512,6 +60560,14 @@ Probeer alstublieft de fout te corrigeren en herlaad het project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The carriage-return character, not the letter “r”.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T085332Z" creationid="Dick" creationdate="20230520T085332Z">
+        <seg>Het teken voor een harde nieuwe regel (carriage-return), niet de letter “r”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The certificate is by "PnS Concept".</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T103558Z">
@@ -60596,6 +60652,14 @@ Probeer alstublieft de fout te corrigeren en herlaad het project.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T170123Z">
         <seg>Het teken x, met uitzondering van het volgende...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The character “x” itself</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T085210Z" creationid="Dick" creationdate="20230520T085210Z">
+        <seg>Het teken “x” zelf</seg>
       </tuv>
     </tu>
     <tu>
@@ -62697,6 +62761,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The newline (line feed) character, not the letter “n”.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T085259Z" creationid="Dick" creationdate="20230520T085259Z">
+        <seg>Het teken voor een nieuwe regel (line feed), niet de letter “n”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The next segment with a note attached to it, will open.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T155701Z">
@@ -64111,6 +64183,14 @@ use, which is precisely where it is most unacceptable.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T170126Z">
         <seg>Het Tab-teken ('\u0009')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The tab character, not the letter “t”.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T085238Z" creationid="Dick" creationdate="20230520T085238Z">
+        <seg>Het teken voor een tab, niet de letter “t”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -86629,6 +86709,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>similar laws prohibiting or restricting circumvention of such</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>similarly, &lt;l0&gt;\R&lt;/l0&gt; is any line break character.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T085355Z" creationid="Dick" creationdate="20230520T085355Z">
+        <seg>soortgelijk is &lt;l0&gt;\R&lt;/l0&gt; elke teken voor het afbreken van een regel.</seg>
       </tuv>
     </tu>
     <tu>
