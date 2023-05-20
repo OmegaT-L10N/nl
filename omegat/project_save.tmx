@@ -18297,6 +18297,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Classes</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T090650Z" creationid="Dick" creationdate="20230520T090650Z">
+        <seg>Klassen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cleaning entry '{0}'...</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20180605T081747Z" creationid="DiGro (Dick)" creationdate="20180605T081747Z">
@@ -50774,6 +50782,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regular expressions allow you to create sets of characters—known as &lt;e0&gt;classes&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T090726Z" creationid="Dick" creationdate="20230520T090726Z">
+        <seg>Reguliere expressies stellen u in staat sets van tekens te maken—bekend als &lt;e0&gt;klassen&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regular expressions are a powerful way to look for instances of a string.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T171208Z">
@@ -53338,6 +53354,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230519T122804Z" creationid="Dick" creationdate="20230519T122804Z">
         <seg>Zoeken bevat een functie &lt;l0/&gt; die u in staat stelt bijzonder krachtige zoekacties in uw bestanden uit te voeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Searches will match any of the characters in the set.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T090750Z" creationid="Dick" creationdate="20230520T090750Z">
+        <seg>Zoekacties zullen overeenkomen met elk van de tekens in de set.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76211,6 +76235,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160126T135809Z" creationid="Dirk" creationdate="20160126T135722Z">
         <seg>U kunt de functie Automatisch vergroten uitschakelen met Project &gt; Eigenschappen &gt; en deselecteer het keuzevak "Automatisch vergroten van vertalingen" box.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can do so with the following expression: &lt;l0&gt;(?i)o&lt;/l0&gt;&lt;l1&gt;(?-i)mega&lt;/l1&gt; &lt;l2&gt;(?i)t&lt;/l2&gt;, which represents a case insensitive “o” followed by a case sensitive “mega”, followed by a case insensitive “t”.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T090642Z" creationid="Dick" creationdate="20230520T090642Z">
+        <seg>U kunt dat doen met de volgende expressie: &lt;l0&gt;(?i)o&lt;/l0&gt;&lt;l1&gt;(?-i)mega&lt;/l1&gt; &lt;l2&gt;(?i)t&lt;/l2&gt;, wat een hoofd-/kleine letters ongevoelige “o” weergeeft, gevolgd door een hoofd-/kleine letters gevoelige “mega”, gevolgd door een hoofd-/kleine letters ongevoelige “t”.</seg>
       </tuv>
     </tu>
     <tu>
