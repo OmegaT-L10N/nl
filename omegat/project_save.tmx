@@ -8770,6 +8770,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;\W&lt;/l0&gt; is any character that is &lt;e1&gt;not&lt;/e1&gt; a word character (&lt;l2&gt;[^\w]&lt;/l2&gt;).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T095733Z" creationid="Dick" creationdate="20230520T095733Z">
+        <seg>&lt;l0&gt;\W&lt;/l0&gt; is elk teken dat &lt;e1&gt;geen&lt;/e1&gt; teken voor een woord (&lt;l2&gt;[^\w]&lt;/l2&gt;) is.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;an?␣&lt;/l0&gt; (where “␣” represents a single space).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230519T134446Z" creationid="Dick" creationdate="20230519T134446Z">
@@ -12143,6 +12151,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A word character, generally defined as &lt;l0&gt;[A-Za-z0-9_]&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T095653Z" creationid="Dick" creationdate="20230520T095653Z">
+        <seg>Een teken voor een woord, over het algemeen gedefinieerd als &lt;l0&gt;[A-Za-z0-9_]&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A word character: [a-zA-Z_0-9]</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T170241Z">
@@ -14705,6 +14721,14 @@ paragraph of section 11).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T170230Z">
         <seg>Elk teken (met uitzondering van regeleinden)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any character &lt;e0&gt;except&lt;/e0&gt; a newline, a carriage return, or tab.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T095516Z" creationid="Dick" creationdate="20230520T095516Z">
+        <seg>Elk teken, &lt;e0&gt;behalve&lt;/e0&gt; een nieuwe regel, een harde nieuwe regel, of tab.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60716,6 +60740,14 @@ Probeer alstublieft de fout te corrigeren en herlaad het project.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T172431Z">
         <seg>Het beste is natuurlijk om OmegaT-specifieke TMX-bestanden te gebruiken (zie hierboven), zodat de in-regelige opmaak binnen het segment wordt behouden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The caret placed immediately after the opening square bracket excludes the rest of the characters in the class.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T095612Z" creationid="Dick" creationdate="20230520T095612Z">
+        <seg>De caret die is geplaatst direct achter het vierkante haakje voor openen sluit de rest van de tekens in de klasse uit.</seg>
       </tuv>
     </tu>
     <tu>
