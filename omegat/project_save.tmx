@@ -18305,6 +18305,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Classes are defined by enclosing the desired characters in square brackets, and can be specified either by listing each individual character to include, or by specifying a range of characters.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T090930Z" creationid="Dick" creationdate="20230520T090930Z">
+        <seg>Klassen worden gedefinieerd door de gewenste te omsluiten met vierkante haken, en kunnen worden gespecificeerd ofwel door elk individueel teken te vermelden om te worden opgenomen, of door het specifceren van een bereik van tekens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cleaning entry '{0}'...</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20180605T081747Z" creationid="DiGro (Dick)" creationdate="20180605T081747Z">
@@ -27627,6 +27635,14 @@ freedoms that you received.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, you could create the &lt;l0&gt;[£€$]&lt;/l0&gt; class to find any of those three currency symbols in the text, or [1-3] to find the number 1, 2 or 3.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T091048Z" creationid="Dick" creationdate="20230520T091048Z">
+        <seg>U zou, bijvoorbeeld, de klasse &lt;l0&gt;[£€$]&lt;/l0&gt; kunnen maken om te zoeken naar één van deze symbolen voor valuta in de tekst, of [1-3] om te zoeken naar de cijfers 1, 2 of 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, you may</seg>
       </tuv>
       <tuv lang="nl">
@@ -35946,6 +35962,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T162826Z">
         <seg>Voegt de inhoud van de brontekst in op de cursorpositie in het huidige doelsegment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inside a class, only the backslash (&lt;l0&gt;\&lt;/l0&gt;), caret (&lt;l1&gt;^&lt;/l1&gt;), closing bracket (&lt;l2&gt;]&lt;/l2&gt;) and hyphen (&lt;l3&gt;-&lt;/l3&gt;) are special.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T091148Z" creationid="Dick" creationdate="20230520T091148Z">
+        <seg>Binnen een klasse zijn alleen de backslash (&lt;l0&gt;\&lt;/l0&gt;), caret (&lt;l1&gt;^&lt;/l1&gt;), vierkante haakje voor sluiten (&lt;l2&gt;]&lt;/l2&gt;) en afbreekstreepje (&lt;l3&gt;-&lt;/l3&gt;) speciaal.</seg>
       </tuv>
     </tu>
     <tu>
