@@ -11991,6 +11991,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A simple class consists of any number of characters enclosed by &lt;l0&gt;[&lt;/l0&gt; and &lt;l1&gt;]&lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T092859Z" creationid="Dick" creationdate="20230520T092859Z">
+        <seg>Een eenvoudige klasse bestaat uit elk aantal tekens, omsloten door &lt;l0&gt;[&lt;/l0&gt; en &lt;l1&gt;]&lt;/l1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A simple set of QA checks for current OmegaT project</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T124405Z">
@@ -25512,6 +25520,14 @@ Niemand hoort u schreeuwen.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T153637Z" creationid="Dirk" creationdate="20131225T153637Z">
         <seg>Voorbeelden van browsers met een automatische functie voor vernieuwen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Examples of classes</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T092817Z" creationid="Dick" creationdate="20230520T092817Z">
+        <seg>Voorbeelden van klassen</seg>
       </tuv>
     </tu>
     <tu>
@@ -62371,6 +62387,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The letter “a”, “b”, or “c”.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T092827Z" creationid="Dick" creationdate="20230520T092827Z">
+        <seg>De letter “a”, “b”, of “c”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The level 2 export is not fully compliant with the level 2 standard, but is sufficiently close and will generate correct matches in other translation memory tools supporting TMX Level 2.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T173824Z">
@@ -64323,6 +64347,14 @@ use, which is precisely where it is most unacceptable.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The table below provides various additional examples.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T092716Z" creationid="Dick" creationdate="20230520T092716Z">
+        <seg>De tabel hieronder verschaft verschillende aanvullende voorbeelden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The tag validation window detects and lists any tag errors and inconsistencies in the translation.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T095949Z">
@@ -65501,6 +65533,14 @@ not accept this License.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T140054Z" creationid="Dick" creationdate="20211118T140054Z">
         <seg>Dit zijn de bestanden die aanwezig zijn in de map &lt;f0&gt;source&lt;/f0&gt; in een indeling die OmegaT kan afhandelen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These classes never represent only the actual letter used to form the shorthand.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230520T092803Z" creationid="Dick" creationdate="20230520T092803Z">
+        <seg>Deze klassen geven nooit alleen de feitelijke letter weer die wordt gebruikt om de sneltoets te vormen.</seg>
       </tuv>
     </tu>
     <tu>
