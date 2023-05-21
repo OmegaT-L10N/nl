@@ -30034,10 +30034,18 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go Down One Page in Table</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T104309Z" creationid="Dick" creationdate="20230521T104309Z">
+        <seg>Ga één pagina omlaag in de tabel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go Down The List</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230521T104003Z" creationid="Dick" creationdate="20230521T104003Z">
-        <seg>Ga naar beneden in de lijst</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T104112Z" creationid="Dick" creationdate="20230521T104003Z">
+        <seg>Ga omlaag in de lijst</seg>
       </tuv>
     </tu>
     <tu>
@@ -30046,6 +30054,22 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230521T104100Z" creationid="Dick" creationdate="20230521T104100Z">
         <seg>Ga omlaag in de tabel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go Left in Table</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T104147Z" creationid="Dick" creationdate="20230521T104147Z">
+        <seg>Ga naar links in de tabel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go Right in Table</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T104208Z" creationid="Dick" creationdate="20230521T104208Z">
+        <seg>Ga naar rechts in de tabel</seg>
       </tuv>
     </tu>
     <tu>
@@ -30106,6 +30130,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go Up One Page in Table</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T104250Z" creationid="Dick" creationdate="20230521T104250Z">
+        <seg>Ga één pagina omhoog in de tabel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go Up The List</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230521T103947Z" creationid="Dick" creationdate="20230521T103947Z">
@@ -30142,6 +30174,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230521T103345Z" creationid="Dick" creationdate="20230521T103345Z">
         <seg>Ga naar eerste segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to First Table</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T104320Z" creationid="Dick" creationdate="20230521T104320Z">
+        <seg>Ga naar de eerste tabel</seg>
       </tuv>
     </tu>
     <tu>
