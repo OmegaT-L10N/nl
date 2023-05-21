@@ -13037,6 +13037,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Adding a shortcut</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T085552Z" creationid="Dick" creationdate="20230521T085552Z">
+        <seg>Toevoegen van een sneltoets</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Adding new source files</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T133030Z" creationid="Dick" creationdate="20190516T133030Z">
@@ -34358,6 +34366,14 @@ to use Java Web Start.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120402T174707Z">
         <seg>Als uw bestand veel van zulke onhandige einden bevat, is het efficiënter om ze allemaal in één keer te verwijderen, schakelend tussen OmegaT en Infix om te zien waar ze zijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If your language pair calls for the frequent use of &lt;l0&gt;alternative translations&lt;/l0&gt;, you may want to assign a shortcut to that function since it does not have one by default.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T085728Z" creationid="Dick" creationdate="20230521T085728Z">
+        <seg>Als uw taalpaar regelmatig vraagt naar het gebruiken van &lt;l0&gt;alternatieve vertalingen&lt;/l0&gt;, zou u misschien een sneltoets willen toewijzen aan die functie omdat het standaard geen sneltoets heeft.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65239,6 +65255,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The steps below demonstrate how to assign the &lt;k0&gt;&lt;k1&gt;Alt&lt;/k1&gt;&lt;k2&gt;X&lt;/k2&gt;&lt;/k0&gt; shortcut to the &lt;l3/&gt;&lt;l4/&gt; menu item.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T085826Z" creationid="Dick" creationdate="20230521T085826Z">
+        <seg>De stappen hieronder demonstreren hoe de sneltoets &lt;k0&gt;&lt;k1&gt;Alt&lt;/k1&gt;&lt;k2&gt;X&lt;/k2&gt;&lt;/k0&gt; toe te wijzen aan het menu-item &lt;l3/&gt;&lt;l4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The supported file formats are those listed in &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties&lt;/g2&gt; &lt;g3&gt;File Filters&lt;/g3&gt; &lt;/m0&gt;.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T171130Z" creationid="Dick" creationdate="20190516T171130Z">
@@ -69848,6 +69872,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>To do so, attach the following notices to the program.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To do so, modify the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; as follows for Windows or Linux:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T085524Z" creationid="Dick" creationdate="20230521T085524Z">
+        <seg>Pas, om dat te doen, het bestand &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; als volgt aan voor Windows of Linux:</seg>
       </tuv>
     </tu>
     <tu>
@@ -86309,6 +86341,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>or</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>or as follows for macOS:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T085538Z" creationid="Dick" creationdate="20230521T085538Z">
+        <seg>of als volgt voor macOS:</seg>
       </tuv>
     </tu>
     <tu>
