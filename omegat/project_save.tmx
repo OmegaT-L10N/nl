@@ -15991,6 +15991,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Autocompleter</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T103642Z" creationid="Dick" creationdate="20230521T103642Z">
+        <seg>Auto-aanvullen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Automatic Java Properties Aligner</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T165602Z">
@@ -22351,6 +22359,22 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131226T155718Z" creationid="Dirk" creationdate="20131226T155718Z">
         <seg>Thesis voor graad door Sébastien Guillardeau, 2010 (in Duits).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delete Next Token</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T103331Z" creationid="Dick" creationdate="20230521T103331Z">
+        <seg>Volgende token verwijderen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delete Previous Token</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T103315Z" creationid="Dick" creationdate="20230521T103315Z">
+        <seg>Vorige token verwijderen</seg>
       </tuv>
     </tu>
     <tu>
@@ -30042,10 +30066,26 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go to First Segment</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T103345Z" creationid="Dick" creationdate="20230521T103345Z">
+        <seg>Ga naar eerste segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go to Last Row in Table</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230520T124542Z" creationid="Dick" creationdate="20230520T124542Z">
         <seg>Ga naar de laatste rij in de tabel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Last Segment</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T103359Z" creationid="Dick" creationdate="20230521T103359Z">
+        <seg>Ga naar laatste segment</seg>
       </tuv>
     </tu>
     <tu>
@@ -57214,10 +57254,42 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Skip Next Token</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T103418Z" creationid="Dick" creationdate="20230521T103412Z">
+        <seg>Volgend token overslaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skip Next Token with Selection</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T103506Z" creationid="Dick" creationdate="20230521T103506Z">
+        <seg>Volgend token overslaan met selectie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Skip PO header</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134312Z">
         <seg>PO-koptekst overslaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skip Previous Token</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T103432Z" creationid="Dick" creationdate="20230521T103432Z">
+        <seg>Vorige token overslaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skip Previous Token with Selection</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T103518Z" creationid="Dick" creationdate="20230521T103518Z">
+        <seg>Vorig token overslaan met selectie</seg>
       </tuv>
     </tu>
     <tu>
@@ -71671,6 +71743,22 @@ install.sh.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T133545Z" creationid="Dick" creationdate="20190516T133545Z">
         <seg>Offline werken:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Toggle Cursor Lock</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T103547Z" creationid="Dick" creationdate="20230521T103547Z">
+        <seg>Vergrendelen cursor schakelen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Toggle Overtype</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T103602Z" creationid="Dick" creationdate="20230521T103602Z">
+        <seg>Overschrijven schakelen</seg>
       </tuv>
     </tu>
     <tu>
