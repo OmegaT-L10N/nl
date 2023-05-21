@@ -19169,6 +19169,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Close Autocompleter</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T103901Z" creationid="Dick" creationdate="20230521T103901Z">
+        <seg>Auto-aanvullen sluiten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Close Project</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T162728Z">
@@ -19809,6 +19817,22 @@ OmegaT gebruikt de volgende bibliotheken:
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T184830Z">
         <seg>Bevestigen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Confirm Autocompleter Without Closing</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T103837Z" creationid="Dick" creationdate="20230521T103837Z">
+        <seg>Auto-aanvullen bevestigen zonder te sluiten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Confirm and Close Autocompleter</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T103816Z" creationid="Dick" creationdate="20230521T103816Z">
+        <seg>Auto-aanvullen bevestigen en sluiten</seg>
       </tuv>
     </tu>
     <tu>
@@ -30002,6 +30026,30 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go Down One Page</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T104030Z" creationid="Dick" creationdate="20230521T104030Z">
+        <seg>Ga één pagina naar beneden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go Down The List</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T104003Z" creationid="Dick" creationdate="20230521T104003Z">
+        <seg>Ga naar beneden in de lijst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go Down in Table</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T104100Z" creationid="Dick" creationdate="20230521T104100Z">
+        <seg>Ga omlaag in de tabel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go To</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T162129Z" creationid="Dick" creationdate="20190516T162129Z">
@@ -30046,6 +30094,30 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T155602Z">
         <seg>menu Ga naar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go Up One Page</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T104015Z" creationid="Dick" creationdate="20230521T104015Z">
+        <seg>Ga één pagina omhoog</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go Up The List</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T103947Z" creationid="Dick" creationdate="20230521T103947Z">
+        <seg>Ga omhoog in de lijst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go Up in Table</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T104045Z" creationid="Dick" creationdate="20230521T104045Z">
+        <seg>Ga omhoog in de tabel</seg>
       </tuv>
     </tu>
     <tu>
@@ -47976,6 +48048,30 @@ your home folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T131259Z">
         <seg>Openen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open Autocompleter</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T103716Z" creationid="Dick" creationdate="20230521T103716Z">
+        <seg>Auto-aanvullen openen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open Autocompleter Next View</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T103739Z" creationid="Dick" creationdate="20230521T103739Z">
+        <seg>Auto-aanvullen openen volgende weergave</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open Autocompleter Previous View</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T103753Z" creationid="Dick" creationdate="20230521T103753Z">
+        <seg>Auto-aanvullen openen vorige weergave</seg>
       </tuv>
     </tu>
     <tu>
@@ -85885,6 +85981,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170914T161353Z" creationid="DiGro (Dick)" creationdate="20170914T161353Z">
         <seg>mALIGNa (MIT License)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T103702Z" creationid="Dick" creationdate="20230521T103702Z">
+        <seg>[DG]Op macOS</seg>
       </tuv>
     </tu>
     <tu>
