@@ -23071,6 +23071,30 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display Modification Info/None</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T100319Z" creationid="Dick" creationdate="20230521T100242Z">
+        <seg>Info over wijzigingen/Niet weergeven</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display Modification Info/for All Segments</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T100412Z" creationid="Dick" creationdate="20230521T100412Z">
+        <seg>Info over wijzigingen/voor alle segmenten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display Modification Info/for Current Segment</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T100348Z" creationid="Dick" creationdate="20230521T100348Z">
+        <seg>Info over wijzigingen/voor huidige segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display Non-Breakable Spaces</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230521T095942Z" creationid="Dick" creationdate="20230521T095942Z">
@@ -41550,6 +41574,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark Language Checker Issues</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T100143Z" creationid="Dick" creationdate="20230521T100143Z">
+        <seg>Problemen voor taalcontrole markeren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark Needs Review</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T172829Z" creationid="Dirk" creationdate="20160906T172829Z">
@@ -53131,6 +53163,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
         <seg>Restore Main Window</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T132745Z">
+        <seg>Hoofdvenster herstellen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Restore OmegaT Window</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T100433Z" creationid="Dick" creationdate="20230521T100433Z">
         <seg>Hoofdvenster herstellen</seg>
       </tuv>
     </tu>
@@ -73769,6 +73809,14 @@ De huidige instelling is {0}MB;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230129T132854Z" creationid="Dick" creationdate="20230129T132848Z">
         <seg>Aggressief terugvallen op &amp;lettertype gebruiken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use Aggressive Font Fallback</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T100211Z" creationid="Dick" creationdate="20230521T100211Z">
+        <seg>Aggressief terugvallen op lettertype gebruiken</seg>
       </tuv>
     </tu>
     <tu>
