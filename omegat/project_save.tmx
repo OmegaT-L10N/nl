@@ -46063,6 +46063,14 @@ be launched.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT must be restarted after a shortcut definition file has been modified for the new shortcuts to take effect.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T082845Z" creationid="Dick" creationdate="20230521T082845Z">
+        <seg>OmegaT moet opnieuw worden gestart nadat een bestand voor definities van sneltoetsen is aangepast om er voor te zorgen dat de nieuwe sneltoetsen worden geactiveerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT needs to reload the project to take the modifications into account.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221218T134314Z" creationid="Dick" creationdate="20221218T134314Z">
@@ -64759,6 +64767,14 @@ earlier work or a work "based on" the earlier work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The shortcut definition file for the editor.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T082734Z" creationid="Dick" creationdate="20230521T082734Z">
+        <seg>Het bestand voor definities van sneltoetsen voor de bewerker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The shortcut definition file for the menus and a few other items.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230521T082704Z" creationid="Dick" creationdate="20230521T082704Z">
@@ -75831,6 +75847,14 @@ Uw pagina werd niet gevonden</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Windows and Linux default shortcuts</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T083039Z" creationid="Dick" creationdate="20230521T083039Z">
+        <seg>Windows en Linux standaard sneltoetsen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Windows and Linux users: if you are confident that your system already has a</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T103619Z">
@@ -77195,6 +77219,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120401T143430Z">
         <seg>U kunt bestanden van MS Office 1997/2000/2003/XP converteren naar de indeling van MS Office 2007 door ze te openen in MS Office 2007 en ze in de nieuwe indeling op te slaan met "Opslaan als".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can copy the default OmegaT shortcut files from the OmegaT development site on Sourceforge to &lt;l0&gt;your configuration folder&lt;/l0&gt; and modify them to suit your needs:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T083023Z" creationid="Dick" creationdate="20230521T083023Z">
+        <seg>U kunt de standaard bestanden voor sneltoetsen van OmegaT kopiëren vanuit de OmegaT ontwikkelingspagina op Sourceforge naar &lt;l0&gt;uw configuratiemap&lt;/l0&gt; en ze aan uw wensen aan te passen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -84749,6 +84781,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T135600Z" creationid="Dick" creationdate="20190516T135545Z">
         <seg>Gebruikers van macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS default shortcuts</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T083058Z" creationid="Dick" creationdate="20230521T083058Z">
+        <seg>macOS standaard sneltoetsen</seg>
       </tuv>
     </tu>
     <tu>
