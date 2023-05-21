@@ -31557,6 +31557,14 @@ hoeft niet het volledige pad te worden ingevoerd.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If OmegaT is open, you will have to restart it for your changes to take effect.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T090648Z" creationid="Dick" creationdate="20230521T090648Z">
+        <seg>Als OmegaT is geopend, dient u het opnieuw te starten om er voor te zorgen dat uw wijzigingen worden geactiveerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If OmegaT needs to use an authenticated proxy server to access the Internet, enter the details provided by the proxy administrator here.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T120741Z" creationid="Dick" creationdate="20190516T120741Z">
@@ -53698,6 +53706,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Save the file after you have finished making your changes.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T090556Z" creationid="Dick" creationdate="20230521T090556Z">
+        <seg>Sla het bestand op nadat u het maken van uw wijzigingen hebt voltooid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Save then the file and relaunch &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T131237Z">
@@ -63905,6 +63921,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The next section presents tables with the function codes and corresponding default shortcut for each menu or editor function in OmegaT.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T090938Z" creationid="Dick" creationdate="20230521T090938Z">
+        <seg>Het volgende gedeelte geeft tabellen weer met de functiecodes en corresponderende standaard sneltoets voor elk menu of functie voor bewerken in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The next segment with a note attached to it, will open.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T155701Z">
@@ -66993,6 +67017,14 @@ U bent het slachtoffer van één van de drie.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131228T125703Z" creationid="Dirk" creationdate="20131225T135707Z">
         <seg>Zij zullen echter altijd toegang zoeken tot dezelfde configuratiebestanden van de gebruiker (tenzij wordt gestart vanuit de account van een andere gebruiker).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They will now be available in OmegaT as long as there are no conflicts with other functions or with system-wide shortcuts.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T090834Z" creationid="Dick" creationdate="20230521T090834Z">
+        <seg>Zij zullen nu in OmegaT beschikbaar zijn zolang er geen conflicten optreden met andere functies of met systeem-brede sneltoetsen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78839,6 +78871,14 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131227T161605Z" creationid="Dirk" creationdate="20131227T161605Z">
         <seg>Uw documenten en vertaalgeheugens blijven op uw computer, en het OmegaT-project zal geen toegang hebben tot uw werk of informatie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your modified or added shortcuts should now be displayed next to the menu items you have changed.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T090720Z" creationid="Dick" creationdate="20230521T090720Z">
+        <seg>Uw aangepaste of nieuwe sneltoetsen zouden nu naast de menu-items moeten verschijnen die u hebt aangepast.</seg>
       </tuv>
     </tu>
     <tu>
