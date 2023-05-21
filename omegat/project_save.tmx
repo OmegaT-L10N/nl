@@ -16023,6 +16023,38 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Autopopulated Segments/Next Segment from tm/auto/</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T095257Z" creationid="Dick" creationdate="20230521T095257Z">
+        <seg>Automatisch gevulde segmenten/Volgende segment vanuit tm/auto/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Autopopulated Segments/Next Segment from tm/enforce/</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T095418Z" creationid="Dick" creationdate="20230521T095418Z">
+        <seg>Automatisch gevulde segmenten/Volgende segment vanuit tm/enforce/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Autopopulated Segments/Previous Segment from tm/auto/</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T095400Z" creationid="Dick" creationdate="20230521T095400Z">
+        <seg>Automatisch gevulde segmenten/Vorige segment vanuit tm/auto/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Autopopulated Segments/Previous Segment from tm/enforce/</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T095434Z" creationid="Dick" creationdate="20230521T095434Z">
+        <seg>Automatisch gevulde segmenten/Vorige segment vanuit tm/enforce/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Autotext</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T124206Z" creationid="Dirk" creationdate="20170914T124206Z">
@@ -43515,8 +43547,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Next Note</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dirk" changedate="20160910T132117Z">
-        <seg>Volgende notitie</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T095122Z">
+        <seg>Volgende opmerking</seg>
       </tuv>
     </tu>
     <tu>
@@ -50334,8 +50366,8 @@ lokaal project zonder functionaliteit voor team.</seg>
       <tuv lang="en">
         <seg>Previous Note</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dirk" changedate="20160910T132119Z">
-        <seg>Vorige notitie</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T095131Z">
+        <seg>Vorige opmerking</seg>
       </tuv>
     </tu>
     <tu>
