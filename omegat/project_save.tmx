@@ -631,6 +631,14 @@ MS_CLIENT_SECRET="-Dmicrosoft.api.client_secret=uw Client secret"</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg># editMultipleAlternate=</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T090125Z" creationid="Dick" creationdate="20230521T090125Z">
+        <seg>[DG]editMultipleAlternate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>#!/bin/bash java
 java -jar OmegaT.jar $*</seg>
       </tuv>
@@ -15435,6 +15443,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T122440Z" creationid="Dick" creationdate="20190516T122440Z">
         <seg>We zullen, omdat veel informatie over SVN en Git eenvoudig beschikbaar is, hier niet beschrijven hoe zij werken, maar alleen hoe OmegaT werkt met hen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As shown in the &lt;l0&gt;Edit menu table&lt;/l0&gt; below, the function code for the &lt;g1&gt;Create Alternative Translation&lt;/g1&gt; function is &lt;c2&gt;editMultipleAlternate&lt;/c2&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T090108Z" creationid="Dick" creationdate="20230521T090108Z">
+        <seg>Zoals weergegeven in de &lt;l0&gt;tabel Menu bewerken&lt;/l0&gt; hieronder, is  &lt;c2&gt;editMultipleAlternate&lt;/c2&gt; de functiecode voor de functie &lt;g1&gt;Create Alternative Translation&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47604,6 +47620,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; you have copied to &lt;l1&gt;your configuration folder&lt;/l1&gt; in a text editor.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T085929Z" creationid="Dick" creationdate="20230521T085929Z">
+        <seg>Open het bestand &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt;, dat u hebt gekopieerd naar &lt;l1&gt;uw configuratiemap&lt;/l1&gt;, in een tekstbewerker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open the Scripting window</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T171606Z" creationid="Dick" creationdate="20190516T171606Z">
@@ -54226,6 +54250,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T171146Z">
         <seg>Zoeken naar &lt;l0&gt;geopend bestand&lt;/l0&gt; zal dus alle entiteiten van de tekenreeks &lt;e1&gt;&lt;l2&gt;geopend bestand&lt;/l2&gt;&lt;/e1&gt; vinden, maar niet &lt;e3&gt;&lt;l4&gt;bestand geopend&lt;/l4&gt;&lt;/e3&gt; of &lt;e5&gt;&lt;l6&gt;geopend invoerbestand&lt;/l6&gt;&lt;/e5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Searching for that code in the file will bring you to the following line:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T090159Z" creationid="Dick" creationdate="20230521T090159Z">
+        <seg>Zoeken naar die code in het bestand zal u naar de volgende regel brengen:</seg>
       </tuv>
     </tu>
     <tu>
