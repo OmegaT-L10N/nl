@@ -12647,10 +12647,26 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Access Project Contents/Exported TMs</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T093738Z" creationid="Dick" creationdate="20230521T093738Z">
+        <seg>Ga naar inhoud van project/Geëxporteerde TM's</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Access Project Contents/Glossaries</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T131452Z" creationid="Dirk" creationdate="20160910T131452Z">
         <seg>Ga naar inhoud van project/Woordenlijsten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Project Contents/Project Folder</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T093626Z" creationid="Dick" creationdate="20230521T093626Z">
+        <seg>Ga naar inhoud van project</seg>
       </tuv>
     </tu>
     <tu>
@@ -12671,10 +12687,26 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Access Project Contents/TMs</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T093746Z" creationid="Dick" creationdate="20230521T093653Z">
+        <seg>Ga naar inhoud van project/TM's</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Access Project Contents/Target Files</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T131518Z" creationid="Dirk" creationdate="20160910T131518Z">
         <seg>Ga naar inhoud van project/Doelbestanden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Project Contents/Writable Glossary</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T093832Z" creationid="Dick" creationdate="20230521T093832Z">
+        <seg>Ga naar inhoud van project/Beschrijfbare woordenlijst</seg>
       </tuv>
     </tu>
     <tu>
@@ -20833,10 +20865,26 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create Current Translated File</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T093503Z" creationid="Dick" creationdate="20230521T093503Z">
+        <seg>Vertaald huidig document maken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create Glossary Entry</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T191806Z">
         <seg>Item voor woordenlijst maken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create MED Project</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T093522Z" creationid="Dick" creationdate="20230521T093522Z">
+        <seg>MED-project maken…</seg>
       </tuv>
     </tu>
     <tu>
@@ -20876,6 +20924,14 @@ unpacking, reading or copying.</seg>
         <seg>Create Translated Documents</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T131321Z">
+        <seg>Vertaalde documenten maken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create Translated Files</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T093445Z" creationid="Dick" creationdate="20230521T093445Z">
         <seg>Vertaalde documenten maken</seg>
       </tuv>
     </tu>
@@ -57286,6 +57342,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T190030Z">
         <seg>map Bronbestanden:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source Files...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T093551Z" creationid="Dick" creationdate="20230521T093551Z">
+        <seg>Bronbestanden…</seg>
       </tuv>
     </tu>
     <tu>
