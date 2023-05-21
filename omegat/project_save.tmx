@@ -631,14 +631,6 @@ MS_CLIENT_SECRET="-Dmicrosoft.api.client_secret=uw Client secret"</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg># editMultipleAlternate=</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230521T090125Z" creationid="Dick" creationdate="20230521T090125Z">
-        <seg>[DG]editMultipleAlternate</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>#!/bin/bash java
 java -jar OmegaT.jar $*</seg>
       </tuv>
@@ -22207,6 +22199,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T143716Z" creationid="Dirk" creationdate="20131225T143716Z">
         <seg>Verwijder alle opstartscripts en verwijder elk aangepast item voor OmegaT van uw desktop.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delete the &lt;c0&gt;#&lt;/c0&gt; at the beginning of the line so OmegaT will recognize the shortcut, and add &lt;o1&gt;alt X&lt;/o1&gt; after the &lt;c2&gt;=&lt;/c2&gt; sign at the end of the line:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T090350Z" creationid="Dick" creationdate="20230521T090350Z">
+        <seg>Verwijder de &lt;c0&gt;#&lt;/c0&gt; aan het begin van de regel zodat OmegaT de sneltoets zal kunnen herkennen, en voeg &lt;o1&gt;alt X&lt;/o1&gt; toe achter het teken &lt;c2&gt;=&lt;/c2&gt; aan het einde van de regel:</seg>
       </tuv>
     </tu>
     <tu>
@@ -53634,6 +53634,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Save and close the file.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T090409Z" creationid="Dick" creationdate="20230521T090409Z">
+        <seg>Het bestand opslaan en sluiten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Save aut&amp;o-populated status</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T122329Z" creationid="Dirk" creationdate="20170914T122329Z">
@@ -63425,6 +63433,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The line is currently a comment.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T090217Z" creationid="Dick" creationdate="20230521T090217Z">
+        <seg>De regel is nu nog een opmerking.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The line with the matching percentage also includes the name of the translation memory &lt;i1/&gt; containing the match.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T095112Z">
@@ -63901,6 +63917,14 @@ to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T104248Z">
         <seg>Het volgende wat u zou moeten doen is dat wat u gevonden heeft bevestigd te krijgen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The next time you start OmegaT, your new shortcut should be active and displayed next to the name of the function in the menu.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T090507Z" creationid="Dick" creationdate="20230521T090507Z">
+        <seg>De volgende keer dat u OmegaT opstart, zou uw nieuwe sneltoets actief moeten zijn en worden weergegeven na de naam van de functie in het menu.</seg>
       </tuv>
     </tu>
     <tu>
