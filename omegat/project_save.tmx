@@ -4960,6 +4960,14 @@ en laad het project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>0 or more &lt;c0&gt;modifier&lt;/c0&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T083710Z" creationid="Dick" creationdate="20230521T083610Z">
+        <seg>0 of meer &lt;c0&gt;aanpassingstoets&lt;/c0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>0.</seg>
       </tuv>
       <tuv lang="nl">
@@ -37822,6 +37830,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It takes the following form:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T083552Z" creationid="Dick" creationdate="20230521T083552Z">
+        <seg>Het bestaat in de volgende vorm:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It therefore matches the “q” in “equal” or “question”, but &lt;e1&gt;not&lt;/e1&gt; the one in “qigong” or “Iraq”.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230520T103125Z" creationid="Dick" creationdate="20230520T103125Z">
@@ -60186,6 +60202,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;c0&gt;shortcut&lt;/c0&gt; represents the key combination pressed by the user.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T083535Z" creationid="Dick" creationdate="20230521T083535Z">
+        <seg>De &lt;c0&gt;sneltoets&lt;/c0&gt; geeft de toetscombinatie weer die door de gebruiker moet worden ingedrukt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;e0&gt;"-Duser.language=XX"&lt;/e0&gt; argument causes &lt;a1&gt;OmegaT&lt;/a1&gt; to use the language specified rather than the language of the user's operating system.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142203Z">
@@ -61444,6 +61468,14 @@ Probeer alstublieft de fout te corrigeren en herlaad het project.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135814Z">
         <seg>De basisregel is dat de volgorde van de tags in dezelfde volgorde moet worden behouden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The basic syntax of the shortcut definitions files is simply:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T083359Z" creationid="Dick" creationdate="20230521T083359Z">
+        <seg>De basissyntaxis van de bestanden voor definities van sneltoetsen is eenvoudigweg:</seg>
       </tuv>
     </tu>
     <tu>
@@ -73437,6 +73469,14 @@ De huidige instelling is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the tables in the &lt;l0/&gt; section below to find the values for &lt;c1&gt;function code&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T083500Z" creationid="Dick" creationdate="20230521T083500Z">
+        <seg>Gebruik de tabellen in het gedeelte &lt;l0/&gt; hieronder om te zoeken naar warden voor de &lt;c1&gt;functiecode&lt;/c1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the upper part as a reference and replace or modify the contents of the editing field with your translation.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T175054Z">
@@ -81847,6 +81887,22 @@ create the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>followed by 0 or 1 &lt;c0&gt;event&lt;/c0&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T083629Z" creationid="Dick" creationdate="20230521T083629Z">
+        <seg>gevolgd door 0 of 1 &lt;c0&gt;gebeurtenis&lt;/c0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>followed by 1 &lt;c0&gt;key&lt;/c0&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T083641Z" creationid="Dick" creationdate="20230521T083641Z">
+        <seg>gevolgd door 1 &lt;c0&gt;toets&lt;/c0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>for &amp;All Segments</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230129T132952Z" creationid="Dick" creationdate="20230129T132952Z">
@@ -82019,6 +82075,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>ful</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>function code=shortcut</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T083413Z" creationid="Dick" creationdate="20230521T083413Z">
+        <seg>functiecode=sneltoets</seg>
       </tuv>
     </tu>
     <tu>
@@ -90095,6 +90159,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120401T164116Z">
         <seg>waarbij "XXXXXXXX" uw sleutel voor Google Translate API is.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>where &lt;c0&gt;modifier&lt;/c0&gt; can be: &lt;l1&gt;shift&lt;/l1&gt;, &lt;l2&gt;ctrl&lt;/l2&gt;, &lt;l3&gt;meta&lt;/l3&gt;, &lt;l4&gt;alt&lt;/l4&gt;, or &lt;l5&gt;altGraph&lt;/l5&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T083701Z" creationid="Dick" creationdate="20230521T083701Z">
+        <seg>waar &lt;c0&gt;aanpassingstoets&lt;/c0&gt; can be: &lt;l1&gt;shift&lt;/l1&gt;, &lt;l2&gt;ctrl&lt;/l2&gt;, &lt;l3&gt;meta&lt;/l3&gt;, &lt;l4&gt;alt&lt;/l4&gt;, or &lt;l5&gt;altGraph&lt;/l5&gt;</seg>
       </tuv>
     </tu>
     <tu>
