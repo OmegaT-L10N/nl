@@ -47564,6 +47564,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open Recent...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T091405Z" creationid="Dick" creationdate="20230521T091405Z">
+        <seg>Recent project openen…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open Source File</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T161303Z" creationid="Dirk" creationdate="20160906T161303Z">
