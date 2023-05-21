@@ -12623,6 +12623,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Access Configuration Folder...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T102522Z" creationid="Dick" creationdate="20230521T102522Z">
+        <seg>Ga naar map voor configuratie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Access Project Contents</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T145235Z" creationid="Dirk" creationdate="20160910T145235Z">
@@ -29345,6 +29353,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>GLobal Segmentation Rules...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T102513Z" creationid="Dick" creationdate="20230521T102513Z">
+        <seg>Globale segmentatieregels…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>GNOME Users</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T140838Z">
@@ -29630,6 +29646,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T110249Z" creationid="Dick" creationdate="20221220T110249Z">
         <seg>Globale bestandsfilters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Global File Filters...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T102501Z" creationid="Dick" creationdate="20230521T102501Z">
+        <seg>Globale bestandsfilters…</seg>
       </tuv>
     </tu>
     <tu>
@@ -38781,6 +38805,14 @@ zelf bij de eerste keer dat het wordt uitgevoerd.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160126T141430Z" creationid="Dirk" creationdate="20160126T141430Z">
         <seg>Julian Rippon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Jump to Entry in Editor</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T102857Z" creationid="Dick" creationdate="20230521T102857Z">
+        <seg>Spring naar item in bewerker</seg>
       </tuv>
     </tu>
     <tu>
@@ -54498,6 +54530,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T091016Z" creationid="Dick" creationdate="20190516T091016Z">
         <seg>Vervangen markering zoeken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search Window</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T102718Z" creationid="Dick" creationdate="20230521T102718Z">
+        <seg>venster Zoeken</seg>
       </tuv>
     </tu>
     <tu>
