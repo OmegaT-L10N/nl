@@ -29794,6 +29794,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go To Menu</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T094920Z" creationid="Dick" creationdate="20230521T094920Z">
+        <seg>menu Ga naar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go To Next Untranslated Segment stops where there is at least one alternative translation</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T133647Z">
@@ -36430,10 +36438,42 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Bidi Control Character/Left-to-Right Embedding (LRE U+202A)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T094758Z" creationid="Dick" creationdate="20230521T094758Z">
+        <seg>Unicode besturingsteken invoegen/Inbedden van Links naar rechts (LRM U+200E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Bidi Control Character/Left-to-Right Mark (LRM U+200E)</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230521T094656Z" creationid="Dick" creationdate="20230521T094656Z">
         <seg>Unicode besturingsteken invoegen/Markering van Links naar rechts (LRM U+200E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Bidi Control Character/Pop Directional Formatting (PDF U+202C)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T094857Z" creationid="Dick" creationdate="20230521T094857Z">
+        <seg>Unicode besturingsteken invoegen/Pop Directional Formatting (PDF U+202C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Bidi Control Character/Right-to-Left Embedding (RLE U+202B)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T094838Z" creationid="Dick" creationdate="20230521T094838Z">
+        <seg>Unicode besturingsteken invoegen/Inbedden van Rechts naar links (RLE U+202B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Bidi Control Character/Right-to-Left Mark (RLM U+200F)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T094729Z" creationid="Dick" creationdate="20230521T094729Z">
+        <seg>Unicode besturingsteken invoegen/Markering van rechts naar links (RLM U+200&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -81365,6 +81405,14 @@ create the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl U</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T094929Z" creationid="Dick" creationdate="20230521T094929Z">
+        <seg>Ctrl+U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>cu</seg>
       </tuv>
       <tuv lang="nl">
@@ -85365,6 +85413,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170914T161353Z" creationid="DiGro (Dick)" creationdate="20170914T161353Z">
         <seg>mALIGNa (MIT License)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T094924Z" creationid="Dick" creationdate="20230521T094924Z">
+        <seg>Op macOS</seg>
       </tuv>
     </tu>
     <tu>
