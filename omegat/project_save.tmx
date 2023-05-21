@@ -29057,6 +29057,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Function code</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T091243Z" creationid="Dick" creationdate="20230521T091243Z">
+        <seg>Functiecode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Further points to note regarding TMX files:</seg>
       </tuv>
       <tuv lang="nl">
@@ -40070,6 +40078,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Lists of functions and codes</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T091007Z" creationid="Dick" creationdate="20230521T091007Z">
+        <seg>Lijsten met functies en codes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Literally hundreds of RFEs have already been made, and many of them already implemented.</seg>
       </tuv>
       <tuv lang="nl">
@@ -41826,6 +41842,22 @@ permissions.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T144959Z">
         <seg>Sneltoetsen voor menu en het toetsenbord</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Menu functions</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T091022Z" creationid="Dick" creationdate="20230521T091022Z">
+        <seg>Functies voor menu's</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Menu item</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T091236Z" creationid="Dick" creationdate="20230521T091236Z">
+        <seg>menu-item</seg>
       </tuv>
     </tu>
     <tu>
@@ -56174,6 +56206,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Shortcuts in parentheses are alternatives for the same function found in the &lt;f1&gt;EditorShortcuts.properties&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T091222Z" creationid="Dick" creationdate="20230521T091222Z">
+        <seg>Sneltoetsen tussen haakjes zijn alternatieven voor dezelfde functie die zijn te vinden in het bestand &lt;f1&gt;EditorShortcuts.properties&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Should OmegaT appear to be behaving erratically, it is important to include this file or the relevant part in any bug report</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134902Z">
@@ -63014,6 +63054,14 @@ instead.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T131039Z">
         <seg>De volledige syntaxis voor toetsaanslagen (sneltoetsen) wordt gedefinieerd in de volgende documentatie voor Java 1.6 van Oracle (onderaan de bladzijde): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The functions that can be modified in the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; file, along with their default values, are presented in the tables below.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T091132Z" creationid="Dick" creationdate="20230521T091132Z">
+        <seg>De functies die kunnen worden aangepast in het bestand &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt;, met hun standaard waarden, worden weergegeven in de tabellen hieronder.</seg>
       </tuv>
     </tu>
     <tu>
