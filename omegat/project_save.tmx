@@ -18049,6 +18049,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check Issues for Current File</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T101913Z" creationid="Dick" creationdate="20230521T101913Z">
+        <seg>Huidige document controleren op problemen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check Issues...</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T165307Z" creationid="Dick" creationdate="20190516T165307Z">
