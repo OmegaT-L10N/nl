@@ -46176,6 +46176,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT runs on any platform that runs a Java Runtime Environment (Windows, macOS, and Linux being the most mainstream).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T081811Z" creationid="Dick" creationdate="20230521T081811Z">
+        <seg>OmegaT wordt uitgevoerd op elk platform dat een Java Runtime Environment (Windows, macOS en Linux als de meest gebruikte) uitvoert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT setting</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170916T103038Z" creationid="DiGro (Dick)" creationdate="20170916T103038Z">
@@ -54562,6 +54570,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230519T145023Z" creationid="Dick" creationdate="20230519T081624Z">
         <seg>Bekijk de projecteigenschap &lt;l0/&gt;  voor projectspecifieke opdrachten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l0/&gt; section for details.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T081703Z" creationid="Dick" creationdate="20230521T081703Z">
+        <seg>Bekijk het gedeelte &lt;l0/&gt; voor details.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63473,6 +63489,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The modifier keys that form the shortcuts vary slightly depending between platforms.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T081851Z" creationid="Dick" creationdate="20230521T081851Z">
+        <seg>De toetsen voor aanpassen die de sneltoetsen vormen variëren licht tussen de verschillende platformen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The most current info about OmegaT can be found at</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T103415Z">
@@ -64707,6 +64731,14 @@ earlier work or a work "based on" the earlier work.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T125920Z">
         <seg>De sneltoetsen &lt;k2&gt;Ctrl+A&lt;/k2&gt; en &lt;k3&gt;Ctrl+C&lt;/k3&gt; werken in vensters, wat het mogelijk maakt alle of enige informatie te kopiëren naar het klembord.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The shortcuts are indicated next to each menu item, allowing them to learn new shortcuts gradually as you use the software.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T081622Z" creationid="Dick" creationdate="20230521T081622Z">
+        <seg>De sneltoetsen worden aangegeven naast elk menu-item, wat het mogelijk maakt nieuwe sneltoetsen langzamerhand te leren als u de software gebruikt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69968,6 +70000,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T142821Z" creationid="Dirk" creationdate="20131225T142821Z">
         <seg>Voeg OmeagT toe aan uw opstartmenu voor toepassingen, of plaats een pictogram voor het opstarten op uw bureaublad of in het paneel van uw desktop om OmegaT nog gebruikersvriendelijker te laten opstarten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To make reading easier we have adopted the following convention for modifier keys:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T081939Z" creationid="Dick" creationdate="20230521T081939Z">
+        <seg>We hebben, om het lezen eenvoudiger te maken, de volgende conventie gebruikt voor toetsen voor aanpassen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -77107,6 +77147,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T140256Z" creationid="Dirk" creationdate="20131225T140256Z">
         <seg>U kunt het kaptain opstartscript aanpassen zodat uw voorkeuren de standaard worden; bewerk eenvoudigweg het bestand omegat.kaptn in een tekstbewerker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can customize the majority of the shortcuts in OmegaT.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T081647Z" creationid="Dick" creationdate="20230521T081647Z">
+        <seg>U kunt de meerderheid van de sneltoetsen in OmegaT aanpassen.</seg>
       </tuv>
     </tu>
     <tu>
