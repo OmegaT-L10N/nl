@@ -2763,6 +2763,14 @@ for which you have or can give appropriate copyright permission.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(Call Last Search Window)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T094120Z" creationid="Dick" creationdate="20230521T094120Z">
+        <seg>(Laatste venster Zoeken oproepen)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(Do not confuse this folder with the "dictionary" folder in OmegaT projects.) Then select the URL (website address) of an online repository from which to download the dictionary or dictionaries, and paste this URL into the "URL of online dictionaries" field.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131226T134329Z" creationid="Dirk" creationdate="20131226T134329Z">
@@ -36470,6 +36478,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Missing Tags</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T094028Z" creationid="Dick" creationdate="20230521T094028Z">
+        <seg>Ontbrekende tags invoegen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Mode</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T121652Z" creationid="Dick" creationdate="20190517T121652Z">
@@ -51494,6 +51510,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Redo</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T093902Z" creationid="Dick" creationdate="20230521T093902Z">
+        <seg>Opnieuw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Redo Last Action</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T131642Z">
@@ -54350,6 +54374,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T094052Z" creationid="Dick" creationdate="20230521T094052Z">
+        <seg>Zoeken…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Searches</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T170555Z">
@@ -55386,6 +55418,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T165858Z" creationid="Dirk" creationdate="20160906T165858Z">
         <seg>Map voor scripts selecteren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Source Text</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T094008Z" creationid="Dick" creationdate="20230521T094008Z">
+        <seg>Brontekst selecteren</seg>
       </tuv>
     </tu>
     <tu>
@@ -58758,6 +58798,38 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T131853Z">
         <seg>Schakel Hoofd-/kleine letters naar /Hoofdletters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switch Case to/Sentence case</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T094252Z" creationid="Dick" creationdate="20230521T094252Z">
+        <seg>Schakel Hoofd-/kleine letters naar /Hoofdletter zin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switch Case to/Title Case</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T094213Z" creationid="Dick" creationdate="20230521T094213Z">
+        <seg>Switch Case to/Alle woorden hoofdletters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switch Case to/UPPER CASE</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T094153Z" creationid="Dick" creationdate="20230521T094153Z">
+        <seg>Schakel Hoofd-/kleine letters naar /Hoofdletters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switch Case to/lower case</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T094145Z" creationid="Dick" creationdate="20230521T094145Z">
+        <seg>Schakel Hoofd-/kleine letters naar /kleine letters</seg>
       </tuv>
     </tu>
     <tu>
@@ -72571,6 +72643,14 @@ Exacte zoekacties komen overeen met de gehele zoekterm.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T110718Z">
         <seg>Onder Linux, als &lt;a2&gt;OmegaT&lt;/a2&gt; nog steeds vraagt naar uw inloggegevens, kunt u het keuzevak &lt;g3&gt;Wachtwoord opslaan als platte tekst&lt;/g3&gt; aanvinken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Undo</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T093852Z" creationid="Dick" creationdate="20230521T093852Z">
+        <seg>Ongedaan maken</seg>
       </tuv>
     </tu>
     <tu>
