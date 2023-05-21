@@ -37816,6 +37816,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is not possible to add a shortcut to call the script editor, or to modify the shortcuts assigned to the scripts.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T102105Z" creationid="Dick" creationdate="20230521T102105Z">
+        <seg>Het is niet mogelijk een sneltoets toe te voegen om de scriptbewerker op te roepen, of om de sneltoetsen, die zijn toegewezen aan de scripts, te wijzigen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt; for the &lt;g3&gt;Text Search&lt;/g3&gt; dialog at any time.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T132443Z" creationid="Dick" creationdate="20211118T132443Z">
@@ -60950,6 +60958,14 @@ for making modifications to it.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135628Z">
         <seg>De schakeling met &lt;k4&gt; &lt;k5&gt;Shift&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; heeft drie statussen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0/&gt; item in the &lt;l1/&gt; menu is an exception.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T101954Z" creationid="Dick" creationdate="20230521T101954Z">
+        <seg>Het item &lt;l0/&gt; in het menu &lt;l1/&gt; is een uitzondering.</seg>
       </tuv>
     </tu>
     <tu>
