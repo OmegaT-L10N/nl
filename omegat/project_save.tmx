@@ -36430,6 +36430,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Bidi Control Character/Left-to-Right Mark (LRM U+200E)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T094656Z" creationid="Dick" creationdate="20230521T094656Z">
+        <seg>Unicode besturingsteken invoegen/Markering van Links naar rechts (LRM U+200E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Match or Selection</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T131729Z" creationid="Dirk" creationdate="20160910T131729Z">
@@ -55390,6 +55398,62 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select Match/Select Match #1</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T094437Z" creationid="Dick" creationdate="20230521T094437Z">
+        <seg>Overeenkomst selecteren/Overeenkomst #1 selecteren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match/Select Match #2</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T094450Z" creationid="Dick" creationdate="20230521T094450Z">
+        <seg>Overeenkomst selecteren/Overeenkomst #2 selecteren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match/Select Match #3</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T094504Z" creationid="Dick" creationdate="20230521T094504Z">
+        <seg>Overeenkomst selecteren/Overeenkomst #3 selecteren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match/Select Match #4</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T094516Z" creationid="Dick" creationdate="20230521T094516Z">
+        <seg>Overeenkomst selecteren/Overeenkomst #4 selecteren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match/Select Match #5</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T094529Z" creationid="Dick" creationdate="20230521T094529Z">
+        <seg>Overeenkomst selecteren/Overeenkomst #5 selecteren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match/Select Next Match</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T094410Z" creationid="Dick" creationdate="20230521T094410Z">
+        <seg>Overeenkomst selecteren/Volgende overeenkomst selecteren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match/Select Previous Match</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T094350Z" creationid="Dick" creationdate="20230521T094350Z">
+        <seg>Overeenkomst selecteren/Vorige overeenkomst selecteren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select Next Match</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T131925Z">
@@ -58798,6 +58862,14 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T131853Z">
         <seg>Schakel Hoofd-/kleine letters naar /Hoofdletters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switch Case to/Cycle</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T094305Z" creationid="Dick" creationdate="20230521T094305Z">
+        <seg>Schakel Hoofd-/kleine letters naar /Cyclus</seg>
       </tuv>
     </tu>
     <tu>
@@ -81281,6 +81353,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>cs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl 5</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T094543Z" creationid="Dick" creationdate="20230521T094543Z">
+        <seg>ctrl+5</seg>
       </tuv>
     </tu>
     <tu>
