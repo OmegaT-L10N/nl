@@ -12821,6 +12821,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add Files...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T093342Z" creationid="Dick" creationdate="20230521T093342Z">
+        <seg>Bestanden toevoegen…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add Glossary Entry</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T164759Z" creationid="Dirk" creationdate="20160906T164759Z">
@@ -12841,6 +12849,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230510T111518Z" creationid="Dick" creationdate="20230510T111518Z">
         <seg>MediaWiki-pagine toevoegen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add MediaWiki Page...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T093430Z" creationid="Dick" creationdate="20230521T093430Z">
+        <seg>Pagina van MediaWiki toevoegen…</seg>
       </tuv>
     </tu>
     <tu>
