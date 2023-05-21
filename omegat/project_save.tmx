@@ -6274,6 +6274,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;c0&gt;event&lt;/c0&gt; can be: &lt;o1&gt;typed&lt;/o1&gt;, &lt;o2&gt;pressed&lt;/o2&gt;, &lt;o3&gt;released&lt;/o3&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T084219Z" creationid="Dick" creationdate="20230521T084043Z">
+        <seg>&lt;c0&gt;&lt;event&gt;&lt;/c0&gt; kan zijn: &lt;o1&gt;typed&lt;/o1&gt;, &lt;o2&gt;pressed&lt;/o2&gt;, &lt;o3&gt;released&lt;/o3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;c0&gt;projectOpenMenuItem=shift ctrl O&lt;/c0&gt;.</seg>
       </tuv>
       <tuv lang="nl">
@@ -8826,10 +8834,26 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;altGraph&lt;/l0&gt; refers to the &lt;e1&gt;Alt&lt;/e1&gt; key to the right of the spacebar on keyboards with two &lt;e2&gt;Alt&lt;/e2&gt; keys.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T084012Z" creationid="Dick" creationdate="20230521T084012Z">
+        <seg>&lt;l0&gt;altGraph&lt;/l0&gt; verwijst naar de toets &lt;e1&gt;Alt&lt;/e1&gt; rechts van de spatiebalk op toetsenborden met twee &lt;e2&gt;Alt&lt;/e2&gt;-toetsen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;an?␣&lt;/l0&gt; (where “␣” represents a single space).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230519T134446Z" creationid="Dick" creationdate="20230519T134446Z">
         <seg>&lt;l0&gt;an?␣&lt;/l0&gt; (waar “␣” één enkele spatie weergeeft).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;meta&lt;/l0&gt; refers to the key with the Windows logo on most keyboards for Windows or Linux systems, and to the &lt;l1&gt;command&lt;/l1&gt; on macOS.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T083919Z" creationid="Dick" creationdate="20230521T083919Z">
+        <seg>&lt;l0&gt;meta&lt;/l0&gt; verwijst naar de toets met het logo van Windows op de meeste toetsenborden voor systemen van Windows of Linux, en naar de toets &lt;l1&gt;command&lt;/l1&gt; op macOS.</seg>
       </tuv>
     </tu>
     <tu>
@@ -79485,6 +79509,14 @@ create the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>and &lt;c0&gt;key&lt;/c0&gt; can be any key available on your keyboard.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T084053Z" creationid="Dick" creationdate="20230521T084053Z">
+        <seg>[DG]en &lt;c0&gt;&lt;key&gt;&lt;/c0&gt; kan elke toets zijn die beschikbaar is op uw toetsenbord</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>and Java™ Resource Bundle filter already handles {#} tags, so you only need this for other file types.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20201125T104711Z" creationid="Dick" creationdate="20201125T104711Z">
@@ -90165,8 +90197,8 @@ create the configuration folder.</seg>
       <tuv lang="en">
         <seg>where &lt;c0&gt;modifier&lt;/c0&gt; can be: &lt;l1&gt;shift&lt;/l1&gt;, &lt;l2&gt;ctrl&lt;/l2&gt;, &lt;l3&gt;meta&lt;/l3&gt;, &lt;l4&gt;alt&lt;/l4&gt;, or &lt;l5&gt;altGraph&lt;/l5&gt;</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230521T083701Z" creationid="Dick" creationdate="20230521T083701Z">
-        <seg>waar &lt;c0&gt;aanpassingstoets&lt;/c0&gt; can be: &lt;l1&gt;shift&lt;/l1&gt;, &lt;l2&gt;ctrl&lt;/l2&gt;, &lt;l3&gt;meta&lt;/l3&gt;, &lt;l4&gt;alt&lt;/l4&gt;, or &lt;l5&gt;altGraph&lt;/l5&gt;</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T083736Z" creationid="Dick" creationdate="20230521T083701Z">
+        <seg>waar &lt;c0&gt;aanpassingstoets&lt;/c0&gt; mag zijn: &lt;l1&gt;shift&lt;/l1&gt;, &lt;l2&gt;ctrl&lt;/l2&gt;, &lt;l3&gt;meta&lt;/l3&gt;, &lt;l4&gt;alt&lt;/l4&gt;, of &lt;l5&gt;altGraph&lt;/l5&gt;</seg>
       </tuv>
     </tu>
     <tu>
