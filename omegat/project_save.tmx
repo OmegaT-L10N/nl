@@ -11625,6 +11625,14 @@ on the Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A comment line starts with a &lt;c0&gt;#&lt;/c0&gt;, and everything after that is ignored by the application.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T084945Z" creationid="Dick" creationdate="20230521T084945Z">
+        <seg>Een regel met een opmerking begint met een &lt;c0&gt;#&lt;/c0&gt;, en alles daarna wordt genegeerd door het programma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A compilation of a covered work with other separate and independent</seg>
       </tuv>
       <tuv lang="nl">
