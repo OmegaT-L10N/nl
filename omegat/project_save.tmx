@@ -21835,6 +21835,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Customization</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T082245Z" creationid="Dick" creationdate="20230521T082245Z">
+        <seg>Aanpassingen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Customize character &amp;table</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T124226Z" creationid="Dirk" creationdate="20170914T124226Z">
@@ -30706,6 +30714,14 @@ Het is er wintertijd voor</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How we avoid listing multiple notations:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T082207Z" creationid="Dick" creationdate="20230521T082207Z">
+        <seg>Hoe we het vermelden van meerdere notaties vermijden:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How will I know when I reach my monthly usage limit?</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170916T104125Z" creationid="DiGro (Dick)" creationdate="20170916T104125Z">
@@ -35854,6 +35870,14 @@ sue for patent infringement).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T150032Z" creationid="Dirk" creationdate="20131225T150032Z">
         <seg>In deze laatste folder, hernoem de twee bestanden HelpandManualDialect.java en HelpandManualFilter.java respectievelijk naar TmxDialect.java en TmxFilter.java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this manual: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T082238Z" creationid="Dick" creationdate="20230521T082238Z">
+        <seg>In deze handleiding: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -42130,8 +42154,8 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       <tuv lang="en">
         <seg>Modifier key identifiers</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20221221T150622Z" creationid="Dick" creationdate="20221221T150622Z">
-        <seg>Identificatie voor aanpassingstoetsen</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T081954Z" creationid="Dick" creationdate="20221221T150622Z">
+        <seg>Identificatie voor toetsen voor aanpassen</seg>
       </tuv>
     </tu>
     <tu>
@@ -45206,6 +45230,14 @@ OmegaT 4.0, Lees Mij-bestand</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT assigns shortcuts to most of the functions available in the &lt;l0/&gt;, &lt;l1/&gt;, and &lt;l2/&gt; menus and to a number of functions in the &lt;l3/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T082358Z" creationid="Dick" creationdate="20230521T082358Z">
+        <seg>OmegaT wijst sneltoetsen toe aan de meeste beschikbare functies in de menu's &lt;l0/&gt;, &lt;l1/&gt; en &lt;l2/&gt; en een aantal functies in het venster &lt;l3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT automatically chose the 'Yes' option.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221218T132115Z" creationid="Dick" creationdate="20221218T132115Z">
@@ -46740,6 +46772,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On Windows and Linux: &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T082221Z" creationid="Dick" creationdate="20230521T082221Z">
+        <seg>Op Windows en Linux: &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On Windows it is called an "MS-DOS window" and is available from the Start Menu, inside Programs, through the "MS-DOS" item.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T141921Z">
@@ -46752,6 +46792,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T141959Z" creationid="Dick" creationdate="20190516T141959Z">
         <seg>Op macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On macOS: &lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt;&lt;k2&gt;Command&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T082228Z" creationid="Dick" creationdate="20230521T082228Z">
+        <seg>Op macOS: &lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt;&lt;k2&gt;Command&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -60126,6 +60174,14 @@ for making modifications to it.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142203Z">
         <seg>Het argument &lt;e0&gt;"-Duser.language=XX"&lt;/e0&gt; zorgt ervoor dat &lt;a1&gt;OmegaT&lt;/a1&gt; de gespecificeerde taal gebruikt, in plaats van de taal van het besturingssysteem van de gebruiker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;e0&gt;Key identifiers&lt;/e0&gt; above enable us to avoid listing multiple notations for every shortcut.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T082145Z" creationid="Dick" creationdate="20230521T082145Z">
+        <seg>De &lt;e0&gt;sleuteltoetsen&lt;/e0&gt; hierboven stellen ons in staat meerdere notaties voor elke sneltoets te vermijden.</seg>
       </tuv>
     </tu>
     <tu>
