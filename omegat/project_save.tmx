@@ -15855,6 +15855,30 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-Completion/History Completion</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T102410Z" creationid="Dick" creationdate="20230521T102410Z">
+        <seg>Auto-aanvullen/Geschiedenis aanvullen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-Completion/History Prediction</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T102442Z" creationid="Dick" creationdate="20230521T102442Z">
+        <seg>Auto-aanvullen/Geschiedenis voorspelling</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-Completion/Show Relevant Suggestions Automatically</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T102344Z" creationid="Dick" creationdate="20230521T102344Z">
+        <seg>Auto-aanvullen/Relevante suggesties automatisch weergeven</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-Popu&amp;lated Segments</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221218T133621Z" creationid="Dick" creationdate="20221218T133621Z">
@@ -22755,6 +22779,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T105837Z" creationid="Dick" creationdate="20211118T105837Z">
         <seg>Woordenboeken in OmegaT zijn gebaseerd op StarDict of op de indeling Lingvo DSL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dictionaries/Use Fuzzy Matching</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T102319Z" creationid="Dick" creationdate="20230521T102319Z">
+        <seg>Woordenboek/Fuzzy-overeenkomsten gebruiken</seg>
       </tuv>
     </tu>
     <tu>
@@ -29718,6 +29750,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T140005Z">
         <seg>Woordenlijsten, venster Woordenlijst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossaries/Use Fuzzy Matching</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T102305Z" creationid="Dick" creationdate="20230521T102305Z">
+        <seg>Woordenlijst/Fuzzy-overeenkomsten gebruiken</seg>
       </tuv>
     </tu>
     <tu>
@@ -40994,6 +41034,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T095519Z">
         <seg>venster Machinevertaling</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Machine Translation/Automatically Fetch Translations</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T102145Z" creationid="Dick" creationdate="20230521T102145Z">
+        <seg>Machinevertaling/Automatisch vertalingen ophalen</seg>
       </tuv>
     </tu>
     <tu>
