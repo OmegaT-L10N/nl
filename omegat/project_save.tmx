@@ -16159,6 +16159,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Back in History</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T095532Z" creationid="Dick" creationdate="20230521T095444Z">
+        <seg>Terug in geschiedenis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Back in Iceni Infix, import the translated XML file back into &lt;i0&gt;the PDF from which you exported it&lt;/i0&gt;.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120402T173133Z">
@@ -28877,6 +28885,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135722Z">
         <seg>Tags voor opmaak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Forward in History</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T095541Z" creationid="Dick" creationdate="20230521T095541Z">
+        <seg>Verder in geschiedenis</seg>
       </tuv>
     </tu>
     <tu>
@@ -81445,6 +81461,30 @@ create the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl alt PERIOD</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T095504Z" creationid="Dick" creationdate="20230521T095504Z">
+        <seg>ctrl alt PUNT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl alt shift COMMA</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T095451Z" creationid="Dick" creationdate="20230521T095451Z">
+        <seg>ctrl alt shift KOMMA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl alt shift PERIOD</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T095519Z" creationid="Dick" creationdate="20230521T095519Z">
+        <seg>ctrl alt shift PUNT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>cu</seg>
       </tuv>
       <tuv lang="nl">
@@ -85693,6 +85733,30 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T103946Z">
         <seg>op het bureaublad en in het gebied voor snel starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta alt PERIOD</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T095510Z" creationid="Dick" creationdate="20230521T095510Z">
+        <seg>meta alt PUNT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta alt shift COMMA</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T095454Z" creationid="Dick" creationdate="20230521T095454Z">
+        <seg>meta alt shift KOMMA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta alt shift PERIOD</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230521T095524Z" creationid="Dick" creationdate="20230521T095524Z">
+        <seg>meta alt shift PUNT</seg>
       </tuv>
     </tu>
     <tu>
