@@ -17273,6 +17273,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, segmentation rules are global and apply to all projects.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T082119Z" creationid="Dick" creationdate="20230522T082119Z">
+        <seg>Standaard zijn de segmentatieregels globaal en zijn van toepassing op alle projecten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, segmentation settings are global and shared by all projects.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230520T121039Z" creationid="Dick" creationdate="20230520T121031Z">
@@ -18949,6 +18957,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134200Z">
         <seg>Klik op de knop &lt;g1&gt;Bestandsfilters&lt;/g1&gt; en activeer het keuzevak &lt;g2&gt;Projectspecifieke filters inschakelen&lt;/g2&gt;&lt;i3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;l0/&gt; to use project-specific (local) segmentation rules rather than the global rules.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T082237Z" creationid="Dick" creationdate="20230522T082237Z">
+        <seg>Klik op &lt;l0/&gt; om projectspecifieke (lokale) segmentatieregels te gebruiken in plaats van de globale regels.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23043,6 +23059,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170104T181309Z" creationid="Dirk" creationdate="20170104T181309Z">
         <seg>Regel “{0}” uitschakelen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Disable this option if you prefer not to further segment the paragraphs.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T082036Z" creationid="Dick" creationdate="20230522T082036Z">
+        <seg>Schakel deze optie uit als u niet wilt dat de alinea's nog worden gesegmenteerd.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74261,6 +74285,14 @@ De huidige instelling is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access the global segmentation rules.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T082148Z" creationid="Dick" creationdate="20230522T082148Z">
+        <seg>Gebruik &lt;l0/&gt;&lt;l1/&gt; om toegang te verkrijgen tot de globale segmentatieregels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to directly access it.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230518T100254Z" creationid="Dick" creationdate="20230518T100254Z">
@@ -78281,6 +78313,14 @@ op het bureaublad en in het gebied voor snel starten om het van daaruit te koppe
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230520T092051Z" creationid="Dick" creationdate="20230520T092051Z">
         <seg>U kunt ook zoeken naar de caret, vierkante haakje voor sluiten en afbreekstreepje als zichzelf door ze te plaatsen op een positie die niet hun speciale betekenis activeert: overal, behalve direct achter het vierkante haakje voor openen voor de caret, direct achter ofwel het vierkante haakje voor openen of de caret gevolgd door het vierkante haakje voor sluiten, en ofwel net na het vierkante haakje voor openen of net voor het vierkante haakje voor sluiten voor het afbreekstreepje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also start OmegaT from the command line with a project specific configuration setting to achieve a similar result.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T082351Z" creationid="Dick" creationdate="20230522T082351Z">
+        <seg>U kunt ook OmegaT starten vanaf de opdrachtregel met een instelling voor projectspecifieke confoiguratie om hetzelfde resultaat te bereiken.</seg>
       </tuv>
     </tu>
     <tu>
