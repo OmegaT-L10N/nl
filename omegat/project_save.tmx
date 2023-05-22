@@ -24199,6 +24199,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Double-click on the package you downloaded.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T104507Z" creationid="Dick" creationdate="20230522T104507Z">
+        <seg>Dubbelklik op het pakket dat u hebt gedownload.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Double-click on&lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt; or click on its location in the Dock.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T140926Z">
@@ -55830,6 +55838,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;u0&gt;The Eclipse Temurin™ project&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T104436Z" creationid="Dick" creationdate="20230522T104436Z">
+        <seg>Bekijk &lt;u0&gt;The Eclipse Temurin™ project&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;u0&gt;The Regex Coach&lt;/u0&gt; for Windows,Linux, FreeBSD versions of a stand-alone tool.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T170416Z">
@@ -79284,6 +79300,14 @@ for enforcing compliance by third parties with this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also change this later by editing the &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; file.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T104658Z" creationid="Dick" creationdate="20230522T104658Z">
+        <seg>U kunt dit later ook wijzigen door het bestand &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; te bewerken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also define global post-processing commands available to all projects that share the same configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T090455Z" creationid="Dick" creationdate="20230522T090455Z">
@@ -79603,6 +79627,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230517T091638Z" creationid="Dick" creationdate="20230517T091638Z">
         <seg>U kunt kiezen welke aanvullende elementen van het document vertaald moeten worden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can choose the language used during the installation and the language used by OmegaT.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T104629Z" creationid="Dick" creationdate="20230522T104629Z">
+        <seg>U kunt de taal selecteren die moet worden gebruikt gedurende de installatie en de taal die moet worden gebruikt door OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
