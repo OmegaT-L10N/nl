@@ -17265,6 +17265,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, external searches are global and are shared by all projects.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T091417Z" creationid="Dick" creationdate="20230522T091417Z">
+        <seg>Standaard zijn externe zoekacties globaal en worden gedeeld door alle projecten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, file filter settings are global and shared by all projects.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T090631Z" creationid="Dick" creationdate="20230522T090631Z">
@@ -55718,6 +55726,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; section of the &lt;l1/&gt; how-to for details.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T091343Z" creationid="Dick" creationdate="20230522T091343Z">
+        <seg>Bekijk het gedeelte &lt;l0/&gt; van de &lt;l1/&gt; how-to voor details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; window for details.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221221T141935Z" creationid="Dick" creationdate="20221221T141935Z">
@@ -65601,8 +65617,8 @@ modification follow.</seg>
       <tuv lang="en">
         <seg>The project will store the new set of rules in the &lt;l0/&gt; file located in its &lt;l1/&gt; folder.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230522T084459Z" creationid="Dick" creationdate="20230522T084459Z">
-        <seg>Het project zal de nieuwe set regels opslaan het bestand &lt;l0/&gt;, geplaatst in zijn map &lt;l1/&gt;.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T091104Z" creationid="Dick" creationdate="20230522T084459Z">
+        <seg>Het project zal de nieuwe set regels opslaan in het bestand &lt;l0/&gt;, geplaatst in zijn map &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67937,6 +67953,14 @@ not accept this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These settings will supersede the global file filter settings.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T091148Z" creationid="Dick" creationdate="20230522T091148Z">
+        <seg>Deze instellingen hebben voorrang boven de globale instellingen voor bestandsfilters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These three are certain:
 Death, taxes, and page not found
 You, victim of one</seg>
@@ -68009,6 +68033,14 @@ U bent het slachtoffer van één van de drie.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T095117Z">
         <seg>Zij worden als volgt gedefinieerd:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They are defined in the &lt;l0/&gt; preferences.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T091429Z" creationid="Dick" creationdate="20230522T091429Z">
+        <seg>Dergelijke opdrachten worden gedefinieerd in de voorkeur &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71192,6 +71224,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T084610Z" creationid="Dick" creationdate="20230522T084610Z">
         <seg>Schakel deze optie uit of verwijder het bestand om lokale segmentatieregels uit te schakelen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To disable project-specific file filters, uncheck the box or remove that file.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T091246Z" creationid="Dick" creationdate="20230522T091246Z">
+        <seg>Deselecteer het vak om projectspecifieke bestandsfilters uit te schakelen of dat bestand te verwijderen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76907,6 +76947,14 @@ price.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T121724Z" creationid="Dick" creationdate="20190516T121724Z">
         <seg>Dit venster stelt u in staat, bij het werken aan een teamproject, de routes te definiëren tussen de mappen op afstand en lokale mappen (bekijk &lt;l0&gt;hier&lt;/l0&gt; voorbeelden).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When working on a team project, this window allows you to define the mapping between the remote and local folders.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T091320Z" creationid="Dick" creationdate="20230522T091320Z">
+        <seg>Dit venster stelt u in staat, bij het werken aan een teamproject, de routes te definiëren tussen de mappen op afstand en lokale mappen.</seg>
       </tuv>
     </tu>
     <tu>
