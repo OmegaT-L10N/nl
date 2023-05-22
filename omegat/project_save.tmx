@@ -19443,6 +19443,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Close the project to prevent any changes to the current status of the backup files.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T132140Z" creationid="Dick" creationdate="20230522T132140Z">
+        <seg>Sluit het project om verdere wijzigingen aan de huidige status van de back-upbestanden te voorkomen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Close the search window.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T104125Z" creationid="Dick" creationdate="20221220T104125Z">
@@ -51902,6 +51910,14 @@ lokaal project zonder functionaliteit voor team.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Proceed as follows:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T132055Z" creationid="Dick" creationdate="20230522T132055Z">
+        <seg>Ga als volgt door:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Proceed?</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T192117Z">
@@ -53830,6 +53846,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Rename it &lt;f0&gt;project_save.tmx&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T132251Z" creationid="Dick" creationdate="20230522T132251Z">
+        <seg>Hernoem dat naar &lt;f0&gt;project_save.tmx&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Rename the current &lt;f0&gt;project_save.tmx&lt;/f0&gt; file ( e.g. to &lt;f1&gt;project_save.tmx.temporary&lt;/f1&gt;)</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T173717Z">
@@ -53838,10 +53862,26 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Rename the current &lt;f0&gt;project_save.tmx&lt;/f0&gt; file (to &lt;f1&gt;project_save.tmx.tmp&lt;/f1&gt;, for example).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T132219Z" creationid="Dick" creationdate="20230522T132219Z">
+        <seg>Hernoem het huidige bestand &lt;f0&gt;project_save.tmx&lt;/f0&gt; (bijvoorbeeld naar &lt;f1&gt;project_save.tmx.tmp&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reopen the project now?</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T185509Z">
         <seg>Het project nu heropenen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reopen the project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T132315Z" creationid="Dick" creationdate="20230522T132315Z">
+        <seg>Heropen het project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57210,6 +57250,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T135230Z" creationid="Dick" creationdate="20190516T135230Z">
         <seg>Selecteer het pictogram &lt;f3&gt;OmegaT.png&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the backup translation memory most likely to contain the data you are looking for.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T132242Z" creationid="Dick" creationdate="20230522T132242Z">
+        <seg>Selecteer de back-up van het vertaalgeheugen dat meest waarschijnlijk de gegevens bevat die u nodig hebt</seg>
       </tuv>
     </tu>
     <tu>
@@ -69501,6 +69549,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This action will restore your translation to its state at the point the selected backup was created.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T132403Z" creationid="Dick" creationdate="20230522T132403Z">
+        <seg>Deze actie zal uw vertaling herstellen naar zijn status op het punt dat de geselecteerde back-up werd gemaakt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This allows them for instance to check at any moment, whether the target version for the complete project is still OK</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T173701Z">
@@ -81314,6 +81370,14 @@ provided under this License.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T154822Z" creationid="Dirk" creationdate="20131225T154822Z">
         <seg>U zou kunnen prefereren om &lt;i0&gt;niet&lt;/i0&gt; uw gewone browser te gebruiken voor de functie Voorbeeld om die vrij te houden voor het browsen op internet in plaats van constant te moeten wisselen van tabs, dus kunt u het installeren van een aanvullende browser voor de functie Voorbeeld als een voordeel beschouwen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may repeat this operation as needed to find older states.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T132446Z" creationid="Dick" creationdate="20230522T132446Z">
+        <seg>U zou, indien nodig, deze bewerking kunnen herhalen om eerdere statussen terug te vinden.</seg>
       </tuv>
     </tu>
     <tu>
