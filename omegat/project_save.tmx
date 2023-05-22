@@ -29361,6 +29361,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Freedoms</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T102408Z" creationid="Dick" creationdate="20230522T102408Z">
+        <seg>Vrijheden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>French</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110711T152245Z">
@@ -35106,6 +35114,14 @@ to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you want to know more, read the user manual.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T102354Z" creationid="Dick" creationdate="20230522T102354Z">
+        <seg>Als u meer wilt weten, lees dan de gebruikershandleiding.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you want to learn more about using regular expressions, the two following sites have proven very useful.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230520T120229Z" creationid="Dick" creationdate="20230520T120229Z">
@@ -38436,6 +38452,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T095541Z">
         <seg>Het wordt automatisch weergegeven als OmegaT een project laadt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is distributed under the terms of the &lt;e0&gt;GNU General Public License, version 3.0&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T102507Z" creationid="Dick" creationdate="20230522T102507Z">
+        <seg>Het wordt gedistribueerd onder de termen van de &lt;e0&gt;GNU General Public License, versie 3.0&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46940,6 +46964,14 @@ translation leveraging into updated projects.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T105937Z" creationid="Dick" creationdate="20221220T105937Z">
         <seg>OmegaT is een vrij en open source multiplatform Computer Assisted Translation (CAT)-programma met fuzzy overeenkomsten, vertaalgeheugen, zoeken op sleutelwoorden, woordenlijsten en vertalinguitbreiding in bijgewerkte projecten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is a free computer-assisted translation (CAT) solution for professional translators.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T102437Z" creationid="Dick" creationdate="20230522T102437Z">
+        <seg>OmegaT is een gratis en vrije computer-assisted translation (CAT) oplossing voor professionele vertalers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55578,6 +55610,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T133743Z" creationid="Dick" creationdate="20211118T133743Z">
         <seg>Zie &lt;e4&gt;Vertaling bewerken&lt;/e4&gt; voor meer details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;g1&gt;&gt; Help&lt;/g1&gt; &lt;g2&gt;&gt; About&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T102520Z" creationid="Dick" creationdate="20230522T102520Z">
+        <seg>Bekijk &lt;g1&gt;&gt; Help&lt;/g1&gt; &lt;g2&gt;&gt; Over&lt;/g2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64903,6 +64943,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="nl">
         <seg>De niveaus verwijzen naar de opmaak-informatie die is opgenomen in het TMX-bestand:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The license grants you the following freedoms:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T102541Z" creationid="Dick" creationdate="20230522T102541Z">
+        <seg>De licentie geeft u de volgende vrijheden:</seg>
       </tuv>
     </tu>
     <tu>
@@ -75073,6 +75121,14 @@ De huidige instelling is {0}MB;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T124821Z" creationid="Dick" creationdate="20190517T113153Z">
         <seg>Gebruik modus &lt;g0&gt;ID vergelijking&lt;/g0&gt; om teksten met Sleutel=Waarde uit te lijnen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;g1&gt;&gt; Project&lt;/g1&gt; &lt;g2&gt;&gt; Access Project Contents&lt;/g2&gt; to access the files.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T102331Z" creationid="Dick" creationdate="20230522T102331Z">
+        <seg>Gebruik &lt;g1&gt;&gt; Project&lt;/g1&gt; &lt;g2&gt;&gt; Ga naar inhoud van project&lt;/g2&gt; voor toegang tot de bestanden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -93519,6 +93575,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T102032Z" creationid="Dick" creationdate="20230522T102032Z">
         <seg>→ OmegaT zal dat segment registreren in het vertaalgeheugen van het project en zal de cursor naar het volgende segment verplaatsen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>→ OmegaT will store the translated files into the &lt;g0&gt;target&lt;/g0&gt; folder of the project that was created in the first step.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T102253Z" creationid="Dick" creationdate="20230522T102253Z">
+        <seg>→ OmegaT zal de vertaalde bestanden opslaan in de map &lt;g0&gt;target&lt;/g0&gt; van het project dat in de eerste stap werd gemaakt.</seg>
       </tuv>
     </tu>
     <tu>
