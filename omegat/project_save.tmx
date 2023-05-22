@@ -27736,6 +27736,14 @@ Gossamer-drempel houdt u tegen
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>First steps</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T101124Z" creationid="Dick" creationdate="20230522T101124Z">
+        <seg>Eerste stappen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>First, they need to use &lt;g1&gt;Project &gt; Download Team Project&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T110715Z">
@@ -31462,6 +31470,14 @@ Het is er wintertijd voor</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T171659Z" creationid="Dirk" creationdate="20160906T171659Z">
         <seg>Geschiedenis voorspellingen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hit &lt;k0&gt;F1&lt;/k0&gt; or access the &lt;g1&gt;&gt; Help&lt;/g1&gt; menu to open the user manual.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T101205Z" creationid="Dick" creationdate="20230522T101205Z">
+        <seg>Druk op &lt;k0&gt;F1&lt;/k0&gt; of open het menu &lt;g1&gt;&gt; Help&lt;/g1&gt; om de gebruikershandleiding te openen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38188,6 +38204,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135909Z">
         <seg>Het of het aantal tags en hun volgorde identiek is, net zoals dat het geval is als voor tags van OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It comes with a thorough introduction to OmegaT.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T101229Z" creationid="Dick" creationdate="20230522T101229Z">
+        <seg>Die bevat een uitgebreide introductie voor OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72352,6 +72376,14 @@ these rights or asking you to surrender the rights.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To start using OmegaT with minimal settings, do this:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T101307Z" creationid="Dick" creationdate="20230522T101307Z">
+        <seg>Doe dit om te beginnen met OmegaT met minimale instellingen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To start using OmegaT, first create a project that will hold all your files, such as your source file, translation memories, glossaries, and eventually your translated file.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142840Z">
@@ -74929,6 +74961,14 @@ De huidige instelling is {0}MB;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T131945Z" creationid="Dirk" creationdate="20170914T131945Z">
         <seg>Gebruik &lt;a0&gt;OmegaT’s&lt;/a0&gt; standaard filter (PDF invoer), vertaal, maak een doelbestand (het zal een platte tekstbestand zijn), voeg relevante opmaak en items handmatig toe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;g0&gt;&gt; Project&lt;/g0&gt; &lt;g1&gt;&gt; New...&lt;/g1&gt; to create a new project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T101344Z" creationid="Dick" creationdate="20230522T101344Z">
+        <seg>Gebruik &lt;g0&gt;&gt; Project&lt;/g0&gt; &lt;g1&gt;&gt; Nieuw…&lt;/g1&gt; om een nieuw project te maken.</seg>
       </tuv>
     </tu>
     <tu>
