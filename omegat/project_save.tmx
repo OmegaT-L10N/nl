@@ -34786,6 +34786,14 @@ to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you simply want to reduce the number of tags in a &lt;a0&gt;Microsoft Word&lt;/a0&gt; (2007 and later) document, you can use the &lt;l1/&gt; script.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T085726Z" creationid="Dick" creationdate="20230522T085726Z">
+        <seg>Wanneer u eenvoudigweg het aantal tags in een document van &lt;a0&gt;Microsoft Word&lt;/a0&gt; (2007 en later) wilt beperken, kunt u het script &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you start &lt;a1&gt;OmegaT&lt;/a1&gt; in console mode, it will use the same settings.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142430Z">
@@ -80031,6 +80039,14 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T125331Z" creationid="Dirk" creationdate="20170914T125331Z">
         <seg>U zult worden gevraagd om dit wachtwoord elke keer in te voeren wanneer u OmegaT opstart.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You will have to manually apply bold, italics, or other text decorations in the translated file.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T085625Z" creationid="Dick" creationdate="20230522T085625Z">
+        <seg>U zult handmatig vet, cursief, of andere tekstdecoraties moeten toepassen in het vertaalde bestand.</seg>
       </tuv>
     </tu>
     <tu>
