@@ -65607,6 +65607,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project will store the new set of external searches in the &lt;l0/&gt; file located in its &lt;l1/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T091537Z" creationid="Dick" creationdate="20230522T091537Z">
+        <seg>Het project zal de nieuwe set externe zoekacties opslaan in het bestand &lt;l0/&gt;, geplaatst in zijn map &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The project will store the new set of file filters in the &lt;l0/&gt; file located in its &lt;l1/&gt; folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T090901Z" creationid="Dick" creationdate="20230522T090901Z">
@@ -67949,6 +67957,14 @@ not accept this License.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T163701Z" creationid="Dick" creationdate="20190516T163701Z">
         <seg>Deze instellingen zijn van toepassing op het niveau van OmegaT, voor alle projecten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These settings will supersede the global external searches settings.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T091550Z" creationid="Dick" creationdate="20230522T091550Z">
+        <seg>Deze instellingen hebben voorrang boven de globale instellingen voor externe zoekacties.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71192,6 +71208,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T172026Z">
         <seg>Selecteer NIET het keuzevak Afbreken/Uitzondering om een regel te definiëren als een Uitzonderingsregel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To delete project specific external searches, click on the &lt;g0&gt;Remove&lt;/g0&gt; button or remove that file.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T091659Z" creationid="Dick" creationdate="20230522T091659Z">
+        <seg>Klik op de knop &lt;g0&gt;Verwijderen&lt;/g0&gt; of verwijder dat bestand om projectspecifieke externe zoekacties te verwijderen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75049,6 +75073,14 @@ De huidige instelling is {0}MB;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T165715Z">
         <seg>Gebruik om te beginnen deze Helpteksten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this button to create local external searches specific to your project and adjust the settings as desired.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T091520Z" creationid="Dick" creationdate="20230522T091520Z">
+        <seg>Gebruik deze knop om lokale externe zoekacties te maken, specifiek voor uw project, en pas de instellingen aan zoals u wilt.</seg>
       </tuv>
     </tu>
     <tu>
