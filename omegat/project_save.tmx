@@ -38288,6 +38288,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is automatically created the first time a term is added.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T094808Z" creationid="Dick" creationdate="20230522T094808Z">
+        <seg>Het zal automatisch worden gemaakt als u voor de eerste keer een item aan de woordenlijst toevoegt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is called the &lt;e2&gt;writable&lt;/e2&gt; glossary for this reason.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230518T100228Z" creationid="Dick" creationdate="20230518T100228Z">
@@ -44189,6 +44197,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T164012Z">
         <seg>Nieuw…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Newly added entries are automatically recognized and displayed if they match terms in the current segment.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T094905Z" creationid="Dick" creationdate="20230522T094905Z">
+        <seg>Nieuw toegevoegde items worden automatisch herkend en weergegeven als zij overeenkomen met termen in het huidige segment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67403,6 +67419,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The writable glossary is the file that OmegaT uses when you add translated glossary terms to your project with the &lt;l0/&gt;&lt;l1/&gt; command.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T094712Z" creationid="Dick" creationdate="20230522T094712Z">
+        <seg>Het beschijfbaar woordenlijstbestand is het bestand dat OmegaT gebruikt wanneer u vertaalde termen aan de woordenlijst toevoegt aan uw project met de opdracht &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The writable project glossary is located in the &lt;l0/&gt; folder by default and called &lt;l1/&gt;.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230518T101818Z" creationid="Dick" creationdate="20230518T101818Z">
@@ -78129,8 +78153,8 @@ Uw pagina werd niet gevonden</seg>
       <tuv lang="en">
         <seg>Writable Glossary File</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20221220T102420Z" creationid="Dick" creationdate="20221220T102420Z">
-        <seg>Te beschrijven bestand voor de woordenlijst</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T094539Z" creationid="Dick" creationdate="20221220T102420Z">
+        <seg>Beschrijfbaar woordenlijstbestand</seg>
       </tuv>
     </tu>
     <tu>
