@@ -19409,6 +19409,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Close OmegaT.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T135538Z" creationid="Dick" creationdate="20230522T135538Z">
+        <seg>Sluit OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Close Project</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T162728Z">
@@ -32613,6 +32621,14 @@ hoeft niet het volledige pad te worden ingevoerd.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If OmegaT does not work as expected at this point, feel free to reach out for support.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T135653Z" creationid="Dick" creationdate="20230522T135653Z">
+        <seg>Als OmegaT op dit punt niet werkt zoals verwacht, schroom niet om ondersteuning te vragen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If OmegaT is open, you will have to restart it for your changes to take effect.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230521T090648Z" creationid="Dick" creationdate="20230521T090648Z">
@@ -34595,6 +34611,14 @@ not convey it at all.</seg>
 covered work so as to satisfy simultaneously your obligations under this
 License and any other pertinent obligations, then as a consequence you may
 not convey it at all.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you can’t use OmegaT’s menus, see the &lt;l0/&gt; chapter to find the configuration folder location.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T135533Z" creationid="Dick" creationdate="20230522T135533Z">
+        <seg>Wanneer u de menu's van OmegaT niet kunt gebruiken, bekijk dan het hoofdstuk &lt;l0/&gt; om de locatie van de configuratiemap te zoeken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42170,6 +42194,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T172037Z">
         <seg>Grote wijzigingen aan de segmentatieregels zouden in het algemeen moeten worden vermeden, speciaal na het voltooien van een eerste gang, maar kleinere wijzigingen, zoals het toevoegen van een herkende afkorting, kan voordelen bieden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make a backup of the contents and delete the original folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T135605Z" creationid="Dick" creationdate="20230522T135605Z">
+        <seg>Maak een back-up van de inhoud en verwijder de originele map.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54596,6 +54628,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210908T102247Z" creationid="Dick" creationdate="20210908T102247Z">
         <seg>Start OmegaT opnieuw om deze wijzigingen door te voeren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Restart OmegaT.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T135614Z" creationid="Dick" creationdate="20230522T135614Z">
+        <seg>Start OmegaT opnieuw.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76125,6 +76165,14 @@ De huidige instelling is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access the configuration folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T135425Z" creationid="Dick" creationdate="20230522T135425Z">
+        <seg>Gebruik &lt;l0/&gt;&lt;l1/&gt; voor toegang tot de configuratiemap.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access the global segmentation rules.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T082148Z" creationid="Dick" creationdate="20230522T082148Z">
@@ -78113,6 +78161,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T125103Z">
         <seg>Welke inconsistente dingen, vergeten dingen en echte fouten u ook in deze huidige versie zult vinden, zij zijn allemaal van mijzelf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whatever you try, you can’t seem to be able to fix it.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T135313Z" creationid="Dick" creationdate="20230522T135313Z">
+        <seg>Wat u ook probeert, u lijkt niet in staat te zijn het op te lossen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -81839,6 +81895,14 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T133548Z">
         <seg>U vertaalt uw bestanden door van segment naar segment te gaan, waarbij elk segment op zijn beurt wordt bewerkt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You want to try one last thing before calling for help: restart OmegaT with its default settings.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T135406Z" creationid="Dick" creationdate="20230522T135406Z">
+        <seg>U zou nog één laatste ding kunnen proberen voordat u hulp inroept: start OmegaT opnieuw met zijn standaard instellingen.</seg>
       </tuv>
     </tu>
     <tu>
