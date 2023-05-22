@@ -16119,6 +16119,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Automatic backups</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T130800Z" creationid="Dick" creationdate="20230522T130800Z">
+        <seg>Automatische back-ups</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Automatic hyphenation also adds unnecessary tags, so disable it.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120401T145435Z">
@@ -46790,6 +46798,14 @@ OmegaT 4.0, Lees Mij-bestand</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT creates backups of your project settings to ensure it can retrieve them in case of problem.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T130851Z" creationid="Dick" creationdate="20230522T130851Z">
+        <seg>OmegaT maakt back-ups van uw projectinstellingen om er voor te zorgen dat het ze bij problemen weer kan terughalen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT currently requires version 1.6 of the JRE or later.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T150501Z" creationid="DiGro (Dick)" creationdate="20170915T150501Z">
@@ -47196,6 +47212,14 @@ translation leveraging into updated projects.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>OmegaT is een gratis, open bron vertaalprogramma met vertaalgeheugen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is a robust and trustworthy application, but even so, it is smart to take precautions to guard against data loss when using it, just as with any other application.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T130748Z" creationid="Dick" creationdate="20230522T130748Z">
+        <seg>OmegaT is een robuuste en betrouwbare toepassing, maar zelfs dan zou u echter toch voorzorgen moeten nemen tegen gegevensverlies als u OmegaT gebruikt, net als met elke andere toepassing.</seg>
       </tuv>
     </tu>
     <tu>
