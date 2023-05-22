@@ -14379,6 +14379,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although you can run OmegaT directly from the available files, you can also run the &lt;f0&gt;linux-install.sh&lt;/f0&gt; script found there to have OmegaT installed in more appropriate locations.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T112037Z" creationid="Dick" creationdate="20230522T112037Z">
+        <seg>Hoewel u OmegaT direct kunt uitvoeren vanuit de beschikbare bestanden, kunt u ook het script &lt;f0&gt;linux-install.sh&lt;/f0&gt; uitvoeren dat daar staat om OmegaT geïnstalleerd te krijgen op meer toepasselijke locaties.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Always Confirm Quit</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T132402Z">
@@ -61558,6 +61566,14 @@ Het bereik van een tekstvervanging zijn de doelsegmenten van het project, of zij
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That folder contains all the files needed to run OmegaT.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T111908Z" creationid="Dick" creationdate="20230522T111908Z">
+        <seg>Die map bevat alle bestanden die nodig zijn voor het uitvoeren van OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That is the reason why exception rules must come before segmentation rules.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230520T121606Z" creationid="Dick" creationdate="20230520T121606Z">
@@ -64966,6 +64982,14 @@ in the quick launch area.</seg>
       <tuv lang="nl" changeid="Dick" changedate="20200116T110402Z" creationid="Dick" creationdate="20200116T110402Z">
         <seg>Het installatieprogramma kan voor u snelkoppelingen maken in het menu Start,
 naar het startmenu, op het bureaublad en in het gebied voor snel starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The instructions given here apply to people who download the package from the &lt;u0&gt;https://omegat.org&lt;/u0&gt; site and install it manually.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T111756Z" creationid="Dick" creationdate="20230522T111756Z">
+        <seg>De hier gegeven instructies zijn van toepassing op mensen die het pakket downloaden van de pagina &lt;u0&gt;https://omegat.org&lt;/u0&gt; en het handmatig installeren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69425,6 +69449,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T135713Z" creationid="Dick" creationdate="20190516T135713Z">
         <seg>Dit zal een map maken die &lt;f1&gt;OmegaT&lt;/f1&gt; heet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This creates a new folder named after the package you downloaded.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T111846Z" creationid="Dick" creationdate="20230522T111846Z">
+        <seg>Dit maakt een nieuwe map die is genaamd zoals het door u gedownloade pakket.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74751,6 +74783,14 @@ documentatiebestand en de toepassing OmegaT bevat.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T140819Z">
         <seg>Uitpakken/untarren van het gedownloade bestand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unpack/untar the file you downloaded.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T111814Z" creationid="Dick" creationdate="20230522T111814Z">
+        <seg>Uitpakken/untarren van het door u gedownloade bestand.</seg>
       </tuv>
     </tu>
     <tu>
