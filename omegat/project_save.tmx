@@ -575,6 +575,28 @@ MS_CLIENT_SECRET="-Dmicrosoft.api.client_secret=uw Client secret"</seg>
     <tu>
       <tuv lang="en">
         <seg># OmegaT.exe runtime configuration
+	# To use a parameter, remove the '#' before the '-'
+	# Memory
+	-Xmx1024M
+	# Language
+	-Duser.language=FR
+	# Country
+	-Duser.country=CA</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T140328Z" creationid="Dick" creationdate="20230522T140328Z">
+        <seg># OmegaT.exe runtime configuration
+# To use a parameter, remove the '#' before the '-'
+# Memory
+-Xmx1024M
+# Language
+-Duser.language=FR
+# Country
+-Duser.country=CA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg># OmegaT.exe runtime configuration
 # To use a parameter, remove the '#' before the '-'
 # Memory
 -Xmx1024M
@@ -66457,6 +66479,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The options for the program start-up will be read from the &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; file, which resides in the same folder as the exe file and which you can edit to reflect your setup.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T140302Z" creationid="Dick" creationdate="20230522T140302Z">
+        <seg>De opties voor het opstarten van het programma zullen in worden gelezen uit het bestand &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt;, dat zich bevindt in dezelfde map als het exe-bestand en dat u kunt bewerken om uw instellingen weer te geven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The original file is backed up as: {0}</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T102847Z" creationid="Dick" creationdate="20221220T102755Z">
@@ -67499,6 +67529,14 @@ earlier work or a work "based on" the earlier work.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230520T085134Z" creationid="Dick" creationdate="20230520T085134Z">
         <seg>De eenvoudigste reguliere expressie bestaat uit één enkel teken, of combinatie van een &lt;l0&gt;\&lt;/l0&gt; en een teken dat een eenheid vormt met één enkele betekenis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The simplest way to launch OmegaT is to execute the &lt;f0&gt;OmegaT.exe&lt;/f0&gt; program.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T140246Z" creationid="Dick" creationdate="20230522T140246Z">
+        <seg>De eenvoudigste manier om OmegaT te starten is om het programma &lt;f0&gt;OmegaT.exe&lt;/f0&gt; uit te voeren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -80890,6 +80928,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T135514Z" creationid="Dick" creationdate="20190516T135514Z">
         <seg>U kunt OmegaT opstarten vanaf de opdrachtregel met een script dat de opties voor opstarten bevat of u kunt klikken op &lt;f0&gt;OmegaT.jar&lt;/f0&gt; om het direct op te starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can launch OmegaT from the command line with a script that includes start-up options.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T140404Z" creationid="Dick" creationdate="20230522T140404Z">
+        <seg>U kunt OmegaT opstarten vanaf de opdrachtregel met een script dat de opties voor opstarten bevat.</seg>
       </tuv>
     </tu>
     <tu>
