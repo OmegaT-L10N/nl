@@ -31390,6 +31390,14 @@ modify any covered work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, OmegaT will attempt to create fuzzy matches for paragraphs by combining existing sentence translations.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T082849Z" creationid="Dick" creationdate="20230522T082849Z">
+        <seg>OmegaT zal echter proberen ook fuzzy overeenkomsten te maken voor alinea's door bestaande vertalingen van zinnen te combineren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, if you cease all violation of this License, then your</seg>
       </tuv>
       <tuv lang="nl">
@@ -31518,6 +31526,14 @@ later version.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131227T164056Z" creationid="Dirk" creationdate="20131227T164056Z">
         <seg>Echter: de gebruikershandleiding zou niet langer recent hoeven te zijn (en daardoor mogelijk zorgen voor verwarring), en enkele kleine problemen zijn mogelijk aanwezig.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, their original translation will still be in the project memory.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T083019Z" creationid="Dick" creationdate="20230522T083019Z">
+        <seg>Hun originele vertaling zal echter nog steeds in het projectgeheugen staan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55486,6 +55502,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; appendix for general explanations about segmentation (global or local, paragraph or sentence, settings, and so on).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T083120Z" creationid="Dick" creationdate="20230522T083120Z">
+        <seg>Bekijk de appendix &lt;l0/&gt; voor algemene uitleg over segmentatie (globaal of lokaal, alinea of zin, instellingen, enzovoort).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; appendix if you want to modify or add shortcuts.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221221T150515Z" creationid="Dick" creationdate="20221221T150515Z">
@@ -70192,6 +70216,14 @@ settings to their defaults.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230520T121804Z" creationid="Dick" creationdate="20230520T121804Z">
         <seg>Dit zal sommige eerder vertaalde segmenten splitsen of samenvoegen, en die daarom als niet vertaald zullen worden beschouwd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This will split or merge some previously translated segments, which will therefore no longer be translated.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T082941Z" creationid="Dick" creationdate="20230522T082941Z">
+        <seg>Dit zal sommige eerder vertaalde segmenten splitsen of samenvoegen, en die daarom niet langer vertaald zullen zijn.</seg>
       </tuv>
     </tu>
     <tu>
