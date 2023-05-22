@@ -14431,6 +14431,14 @@ organization, or merging organizations.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An OmegaT translation project consists of a number of resources in separate folders.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T092141Z" creationid="Dick" creationdate="20230522T092141Z">
+        <seg>Een vertaalproject van OmegaT bestaat uit een aantal bronnen in afzonderlijke mappen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An alternative to running the CodeZapper macro on your text is to "level" the formatting.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120401T150827Z">
@@ -28779,6 +28787,14 @@ sale, or importing the Program or any portion of it.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T145006Z">
         <seg>Voor de leesbaarheid worden letters hier geschreven als hoofdletters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For security purposes, local project-based external searches are disabled by default.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T091824Z" creationid="Dick" creationdate="20230522T091824Z">
+        <seg>Lokale, op het project gebaseerde, externe zoekacties zijn om veiligheidsredenen standaard uitgeschakeld.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71392,6 +71408,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T172208Z">
         <seg>Selecteer &lt;g0&gt;Opties &gt; Spellingscontrole&lt;/g0&gt; en selecteer het keuzevak &lt;g1&gt;Automatische spellingscontrole&lt;/g1&gt; (zie boven) om de spellingscontrole in te schakelen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To enable them, check &lt;l0/&gt; in the &lt;l1/&gt; preferences.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T091856Z" creationid="Dick" creationdate="20230522T091856Z">
+        <seg>Selecteer &lt;l0/&gt; in de voorkeur &lt;l1/&gt; om ze in te schakelen.</seg>
       </tuv>
     </tu>
     <tu>
