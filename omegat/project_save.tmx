@@ -40886,6 +40886,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local Segmentation Rules...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T083131Z" creationid="Dick" creationdate="20230522T083131Z">
+        <seg>Lokale segmentatieregels…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local file mapping:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20201125T115820Z" creationid="Dick" creationdate="20201125T115820Z">
