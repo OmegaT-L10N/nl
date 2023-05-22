@@ -20671,6 +20671,14 @@ the conditions stated below.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy &lt;e0&gt;one&lt;/e0&gt; of the old files into the new configuration folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T135725Z" creationid="Dick" creationdate="20230522T135725Z">
+        <seg>Kopieer &lt;e0&gt;één&lt;/e0&gt; van de oude bestanden naar de nieuwe configuratiemap.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy &lt;project&gt;/omegat/project_save.tmx file into a safe location</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T170330Z" creationid="Dirk" creationdate="20160906T170330Z">
@@ -30650,6 +30658,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go back to Step 5.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T135851Z" creationid="Dick" creationdate="20230522T135851Z">
+        <seg>Ga tterug naar Stap 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go to</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T145018Z">
@@ -32625,6 +32641,14 @@ hoeft niet het volledige pad te worden ingevoerd.)</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T135653Z" creationid="Dick" creationdate="20230522T135653Z">
         <seg>Als OmegaT op dit punt niet werkt zoals verwacht, schroom niet om ondersteuning te vragen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If OmegaT does not work as expected at this point, you have identified the faulty file.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T135804Z" creationid="Dick" creationdate="20230522T135804Z">
+        <seg>Als OmegaT op dit punt niet werkt zoals verwacht, heeft u het defecte bestand geïdentificeerd.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53894,6 +53918,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove it from the configuration folder and, restart OmegaT, and proceed with your work.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T135841Z" creationid="Dick" creationdate="20230522T135841Z">
+        <seg>Verwijder het uit de configuratiemap en start OmegaT opnieuw, en ga door met uw werk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove leading and trailing &amp;whitespace in non-segmented projects</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T122019Z" creationid="Dirk" creationdate="20170914T122019Z">
@@ -72314,6 +72346,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To avoid losing important data, make regular copies of the &lt;f0&gt;/omegat/project_save.tmx&lt;/f0&gt; file to a backup medium such as a USB key, an external hard drive, or a cloud service.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T140050Z" creationid="Dick" creationdate="20230522T140050Z">
+        <seg>Maak, om het verlies van belangrijke gegevens te voorkomen, regelmatig kopieën van het bestand &lt;f0&gt;/omegat/project_save.tmx&lt;/f0&gt; naar een medium voor back-ups, zoals een USB-schrijf, een externe harde schijf, of een cloud-service.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To avoid losing important data:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T165707Z">
@@ -82625,6 +82665,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T104004Z">
         <seg>om het vanaf elke locatie te kunnen starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>above and continue until you are satisfied.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T135907Z" creationid="Dick" creationdate="20230522T135907Z">
+        <seg>hierboven en ga door totdat u tevreden bent.</seg>
       </tuv>
     </tu>
     <tu>
