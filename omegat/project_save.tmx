@@ -55958,6 +55958,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;u0&gt;TMX 1.4b Specification&lt;/u0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T100513Z" creationid="Dick" creationdate="20230522T100513Z">
+        <seg>Bekijk de &lt;u0&gt;TMX 1.4b Specification&lt;/u0&gt; voor details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the GNU General Public License for more detail.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T130908Z">
