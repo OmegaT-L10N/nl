@@ -73173,6 +73173,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation memories folder</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T094028Z" creationid="Dick" creationdate="20230522T094028Z">
+        <seg>map Vertaalgeheugens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation memories folder:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221218T135814Z" creationid="Dick" creationdate="20221218T135814Z">
@@ -75153,6 +75161,14 @@ De huidige instelling is {0}MB;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230518T101549Z" creationid="Dick" creationdate="20230518T101549Z">
         <seg>Gebruik de &lt;l0/&gt; projecteigenschap om de locatie van de map voor woordenlijsten in te stellen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;u1&gt;Apache ant syntax&lt;/u1&gt; to define exclusions.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T094020Z" creationid="Dick" creationdate="20230522T094020Z">
+        <seg>Gebruik de &lt;u1&gt;syntaxis van Apache ant&lt;/u1&gt; om uitsluitingen te definiëren.</seg>
       </tuv>
     </tu>
     <tu>
