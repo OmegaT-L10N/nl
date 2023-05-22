@@ -22935,6 +22935,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dictionaries folder</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T095035Z" creationid="Dick" creationdate="20230522T095020Z">
+        <seg>map Woordenboek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dictionaries folder:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221218T135857Z" creationid="Dick" creationdate="20221218T135857Z">
@@ -47432,6 +47440,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT tries to read all the files at once, and matches their contents to the segment you are translating.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T095059Z" creationid="Dick" creationdate="20230522T095059Z">
+        <seg>OmegaT probeert in één keer alle bestanden te lezen en vergelijkt hun inhoud met het segment dat u aan het vertalen bent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT uses "Client ID" and "Client secret" information of which you registered.&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170916T103145Z" creationid="DiGro (Dick)" creationdate="20170916T101927Z">
@@ -56130,6 +56146,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221218T140314Z" creationid="Dick" creationdate="20221218T140314Z">
         <seg>Segmenten zijn standaard &lt;e0&gt;alinea's&lt;/e0&gt;, gedefinieerd door de indeling van het bestand zelf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segments that have been translated are replaced by their translation and untranslated segments remain in the source language.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T095311Z" creationid="Dick" creationdate="20230522T095311Z">
+        <seg>Segmenten die zijn vertaald worden vervangen door hun vertaling en niet vertaalde segmenten worden behouden in de brontaal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67067,6 +67091,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The translated files are the translated versions of the files located in the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T095219Z" creationid="Dick" creationdate="20230522T095219Z">
+        <seg>De vertaalde bestanden zijn de vertaalde versies van de bestanden die zijn geplaatst in de map &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The translated files folder does not exist!</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T103130Z" creationid="Dick" creationdate="20221220T103130Z">
@@ -69285,6 +69317,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file is &lt;e0&gt;always&lt;/e0&gt; located in the &lt;l1/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T095027Z" creationid="Dick" creationdate="20230522T095005Z">
+        <seg>Dit bestand is &lt;e0&gt;altijd&lt;/e0&gt; geplaatst in de map &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file is not a plugin archive.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T153223Z" creationid="Dick" creationdate="20221220T153223Z">
@@ -69345,6 +69385,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T093149Z" creationid="Dick" creationdate="20230522T093149Z">
         <seg>Deze map bevat de bestanden die u wilt vertalen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder contains the files that you want to use as reference dictionaries.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T095048Z" creationid="Dick" creationdate="20230522T095048Z">
+        <seg>Deze map bevat de bestanden die u wilt gebruiken als verwijzing naar een woordenboek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69779,6 +69827,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131226T134122Z" creationid="Dirk" creationdate="20131226T134122Z">
         <seg>Dat is de map waar de bestanden voor de woordenboeken van de spelling worden geplaatst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is the folder where OmegaT creates the translated files.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T095140Z" creationid="Dick" creationdate="20230522T095140Z">
+        <seg>Dit is de map waarin OmegaT de vertaalde bestanden maakt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73065,6 +73121,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221218T135159Z" creationid="Dick" creationdate="20221218T135159Z">
         <seg>Vertaalde documenten gemaakt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated files folder</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T095110Z" creationid="Dick" creationdate="20230522T095110Z">
+        <seg>map Vertaalde documenten</seg>
       </tuv>
     </tu>
     <tu>
