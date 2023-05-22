@@ -26292,6 +26292,14 @@ Niemand hoort u schreeuwen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Even if you fear you might have lost translation data, it is probably safely stored in your most recent backup memory, which is usually less than a few minutes old or so.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T132047Z" creationid="Dick" creationdate="20230522T132047Z">
+        <seg>Zelfs als u bang bent dat u gegevens van de vertaling kwijt bent, zijn ze waarschijnlijk veilig opgeslagen in uw meest recente geheugen van de back-up, dat gewoonlijk niet ouder is dan enkele minuten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Even though this software is free, if you find OmegaT useful and would like to express your gratitude, you can make a donation on our Paypal account.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20190418T093350Z" creationid="DiGro (Dick)" creationdate="20190418T093350Z">
@@ -26376,6 +26384,14 @@ Niemand hoort u schreeuwen.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T131446Z" creationid="Dick" creationdate="20230522T131446Z">
         <seg>Elke keer als het bestand &lt;f0&gt;project_save.tmx&lt;/f0&gt; wordt aangepast:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Every time you save the project data (use &lt;l0/&gt;&lt;l1/&gt;), or when making a regular backup, OmegaT saves the current state of the translation into &lt;f2&gt;project_save.tmx&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T131750Z" creationid="Dick" creationdate="20230522T131750Z">
+        <seg>Elke keer als u de projectgegevens opslaat (met &lt;l0/&gt;&lt;l1/&gt;), of bij het maken van een regelmatige back-up, slaat OmegaT de huidige status van de vertaling op in &lt;f2&gt;project_save.tmx&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62298,6 +62314,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;f0&gt;project_save.tmx&lt;/f0&gt; file always contains the most recent data.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T131822Z" creationid="Dick" creationdate="20230522T131822Z">
+        <seg>Het bestand &lt;f0&gt;project_save.tmx&lt;/f0&gt; bevat altijd de meest recente gegevens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;f0&gt;project_stats.txt&lt;/f0&gt; located in the &lt;f1&gt;omegat&lt;/f1&gt; folder of your project contains more detailed segment information, broken down by file.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T140211Z" creationid="Dick" creationdate="20211118T140211Z">
@@ -80662,6 +80686,14 @@ installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can set the frequency of the regular backups in the &lt;l0/&gt; preference.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T131908Z" creationid="Dick" creationdate="20230522T131908Z">
+        <seg>U kunt de frequentie voor de regelmatige back-ups instellen in de voorkeur &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can simplify launching by writing a script file, i.e. a plain-text file containing these two lines.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T171507Z" creationid="Dirk" creationdate="20131225T171507Z">
@@ -80954,6 +80986,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T165345Z" creationid="Dirk" creationdate="20160906T165345Z">
         <seg>U heeft de dagelijkse limiet voor de hoeveelheid vertaalde tekst bereikt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You lost your translation?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T131921Z" creationid="Dick" creationdate="20230522T131921Z">
+        <seg>Verloor u uw vertaling?</seg>
       </tuv>
     </tu>
     <tu>
