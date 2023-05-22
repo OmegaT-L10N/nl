@@ -34255,6 +34255,14 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you do not activate this option, all segments can be assigned a different translation, even if they are duplicated in the project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T085022Z" creationid="Dick" creationdate="20230522T085022Z">
+        <seg>Wanneer u deze optie niet activeert kan aan alle segmenten een verschillende vertaling worden toegewezen, zelfs als zij in het project zijn gedupliceerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you do not already have an Azure Marketplace account you will need to register one first.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T144841Z">
@@ -74401,6 +74409,14 @@ De huidige instelling is {0}MB;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T082148Z" creationid="Dick" creationdate="20230522T082148Z">
         <seg>Gebruik &lt;l0/&gt;&lt;l1/&gt; om toegang te verkrijgen tot de globale segmentatieregels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to assign an alternative translation to segments that require a different translation.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T084915Z" creationid="Dick" creationdate="20230522T084915Z">
+        <seg>Gebruik &lt;l0/&gt;&lt;l1/&gt; om een alternatieve vertaling toe te wijzen aan segmenten die een andere vertaling vereisen.</seg>
       </tuv>
     </tu>
     <tu>
