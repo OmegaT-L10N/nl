@@ -36620,6 +36620,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In some cases, missing tags will keep the file from opening.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T134817Z" creationid="Dick" creationdate="20230522T134817Z">
+        <seg>In sommige gevallen zullen ontbrekende tags voorkomen dat het bestand kan worden geopend.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In some cases, you may find that the source-language tokenizer interferes with the target-language spelling checker.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131228T123644Z" creationid="Dirk" creationdate="20131228T123644Z">
