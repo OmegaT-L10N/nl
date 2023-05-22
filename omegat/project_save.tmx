@@ -19089,6 +19089,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click on the button to select the folder that you want to use instead of the default resource folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T093118Z" creationid="Dick" creationdate="20230522T093118Z">
+        <seg>Klik op de knop om de map te selecteren die u wilt gebruiken in plaats van de standaard map voor de bronnen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click on the icon button (to the right of the Name/Description/Comment fields)</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T140835Z">
@@ -53720,6 +53728,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Resources do not have to be stored in the default project folder that OmegaT creates.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T092917Z" creationid="Dick" creationdate="20230522T092917Z">
+        <seg>Bronnen hoeven niet te zijn opgeslagen in de standaard projectmap die OmegaT maakt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Restart</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T111402Z" creationid="Dick" creationdate="20211118T111402Z">
@@ -58498,6 +58514,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source files folder</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T093124Z" creationid="Dick" creationdate="20230522T093124Z">
+        <seg>map Bronbestanden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source files folder entered does not exist!</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T190124Z">
@@ -61606,6 +61630,14 @@ for making modifications to it.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142927Z">
         <seg>De geheugens &lt;f3&gt;level1&lt;/f3&gt; en &lt;f4&gt;level2&lt;/f4&gt; kunnen worden gedeeld met gebruikers van andere vertaalprogramma's.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;g0&gt;Browse&lt;/g0&gt; button is available for all user-definable project resources.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T092838Z" creationid="Dick" creationdate="20230522T092838Z">
+        <seg>De knop &lt;g0&gt;Bladeren&lt;/g0&gt; is beschikbaar voor alle door de gebruiker te definiëren bronnen voor het project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69209,6 +69241,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221221T144133Z" creationid="Dick" creationdate="20221221T144133Z">
         <seg>Deze map bevat een aantal logbestanden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder contains the files that you want to translate.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T093149Z" creationid="Dick" creationdate="20230522T093149Z">
+        <seg>Deze map bevat de bestanden die u wilt vertalen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -79434,6 +79474,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T115952Z" creationid="Dick" creationdate="20211118T115952Z">
         <seg>U kunt een thema selecteren voor de gebruikersinterface van OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can select any folder you want to hold your resources, including folders on shared disks.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T093021Z" creationid="Dick" creationdate="20230522T093021Z">
+        <seg>U mag voor uw bronnen elke map selecteren die u wilt, inclusief mappen op gedeelde schijven.</seg>
       </tuv>
     </tu>
     <tu>
