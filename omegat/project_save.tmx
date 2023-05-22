@@ -17347,8 +17347,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>By default, that folder is the project folder itself but you can change its location to make it more practical to share exported TM files.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230522T095738Z" creationid="Dick" creationdate="20230522T095738Z">
-        <seg>Standaard is die folder de projectmap zelf, maar u kunt de locatie ervan wijzigen om het praktischer te maken om geëxporteerde TMX-bestanden te delen.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T095757Z" creationid="Dick" creationdate="20230522T095738Z">
+        <seg>Standaard is die map de projectmap zelf, maar u kunt de locatie ervan wijzigen om het praktischer te maken om geëxporteerde TMX-bestanden te delen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62664,6 +62664,14 @@ Probeer alstublieft de fout te corrigeren en herlaad het project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The TMX files contain only the segments from the files currently stored in the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T095844Z" creationid="Dick" creationdate="20230522T095844Z">
+        <seg>De TMX-bestanden bevatten alleen de segmenten uit de bestanden die momenteel zijn opgeslagen in de map &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The TMX source language ({0}) differs from the project source language ({1}).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T104348Z" creationid="Dick" creationdate="20221220T104348Z">
@@ -69013,6 +69021,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This checkbox lets you choose the formats in which you want OmegaT to create the above TMX files.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T100040Z" creationid="Dick" creationdate="20230522T100040Z">
+        <seg>Dit keuzevak laat u de indelingen kiezen waarin u wilt dat OmegaT de hierboven vermelde TMX-bestanden maakt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This code/procedure combination has not yet been thoroughly tested (though initial reports are promising).</seg>
       </tuv>
       <tuv lang="nl">
@@ -73373,6 +73389,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation memories to export</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T095944Z" creationid="Dick" creationdate="20230522T095944Z">
+        <seg>Te exporteren vertaalgeheugens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation memories to export:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20220826T170332Z" creationid="Dick" creationdate="20220826T170332Z">
@@ -74913,6 +74937,14 @@ De huidige instelling is {0}MB;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T140018Z" creationid="Dick" creationdate="20211118T140018Z">
         <seg>Gebruik &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;L&lt;/k2&gt;&lt;/k0&gt; om het te openen en &lt;k3&gt;Esc&lt;/k3&gt; om het te sluiten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt; or &lt;l1/&gt; to create the translated files and the exported TMX files.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T095932Z" creationid="Dick" creationdate="20230522T095932Z">
+        <seg>Gebruik &lt;l0/&gt; of &lt;l1/&gt; om de vertaalde bestanden en de geëxporteerde TMX-bestanden te maken.</seg>
       </tuv>
     </tu>
     <tu>
