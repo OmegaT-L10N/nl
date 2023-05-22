@@ -24423,6 +24423,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Download the &lt;e0&gt;Cross-platform without JRE&lt;/e0&gt; version.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T114309Z" creationid="Dick" creationdate="20230522T114309Z">
+        <seg>Download de versie &lt;e0&gt;Cross-platform without JRE&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Download the file - it should be a &lt;f0&gt;tarball&lt;/f0&gt; archive (extension &lt;e1&gt;tar.bz&lt;/e1&gt; or &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T133504Z">
@@ -48188,6 +48196,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On other platforms</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T114054Z" creationid="Dick" creationdate="20230522T114054Z">
+        <seg>Op andere platforms</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On the Developer tab, click on Record Macro.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120401T152700Z">
@@ -48416,6 +48432,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T135812Z" creationid="Dick" creationdate="20190516T135812Z">
         <seg>Als u dit gedaan heeft kunt u het bestand &lt;f4&gt;OmegaT_4.n.n_Mac.zip&lt;/f4&gt; verwijderen, het is niet langer nodig.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once you have done this, you can delete the downloaded package as it is no longer needed.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T114045Z" creationid="Dick" creationdate="20230522T114045Z">
+        <seg>Als u dit heeft gedaan, kunt u het gedownloade pakket verwijderen omdat het niet langer nodig is.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61622,6 +61646,14 @@ Het bereik van een tekstvervanging zijn de doelsegmenten van het project, of zij
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That includes the platforms described above, as well as platforms for which no specific OmegaT package is provided.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T114256Z" creationid="Dick" creationdate="20230522T114256Z">
+        <seg>Dat omvat ook de hierboven vermelde platforms, als ook platforms waarvoor geen specifiek pakket van OmegaT wordt verschaft.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That is the reason why exception rules must come before segmentation rules.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230520T121606Z" creationid="Dick" creationdate="20230520T121606Z">
@@ -69525,6 +69557,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This creates a folder with all the files necessary to run OmegaT.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T114401Z" creationid="Dick" creationdate="20230522T114401Z">
+        <seg>Dit maakt een map met alle benodigde bestanden om OmegaT uit te voeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This creates a new folder named after the package you downloaded.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T111846Z" creationid="Dick" creationdate="20230522T111846Z">
@@ -70025,6 +70065,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T140711Z">
         <seg>Deze informatie is alleen van toepassing op de "traditionele" Windows-versies van OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This information applies to any system for a Java version compatible with Java 11 Runtime Environment is available.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T114208Z" creationid="Dick" creationdate="20230522T114208Z">
+        <seg>Deze informatie is van toepassing voor elk systeem waar een versie van Java die compatibel is met Java 11 Runtime Environment beschikbaar is.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74847,6 +74895,14 @@ file and the OmegaT application.</seg>
       <tuv lang="nl" changeid="Dick" changedate="20200116T105845Z" creationid="Dick" creationdate="20200116T105845Z">
         <seg>Pak het OmegaT .zip-archief uit om een map te krijgen die een
 documentatiebestand en de toepassing OmegaT bevat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unpack the file that you downloaded.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T114334Z" creationid="Dick" creationdate="20230522T114334Z">
+        <seg>Pak het door u gedownloade bestand uit.</seg>
       </tuv>
     </tu>
     <tu>
