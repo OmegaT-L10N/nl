@@ -12813,6 +12813,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Activating this function hides the tags in the source segments, freeing you from the need to handle them manually.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T085245Z" creationid="Dick" creationdate="20230522T085245Z">
+        <seg>Activeren van deze functie verbergt de tags in de bronsegmenten, wat u bevrijdt van de noodzaak om ze handmatig af te handelen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Active segment source</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20150413T104515Z" creationid="Dirk" creationdate="20150413T104515Z">
@@ -14335,6 +14343,14 @@ conditions are met.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230519T121813Z" creationid="Dick" creationdate="20230519T121813Z">
         <seg>Hoewel gezien als uitdagend en complex, zijn zelfs de meest eenvoudige regulierre uitdrukkingen (vaak afgekort tot &lt;e0&gt;regex&lt;/e0&gt; of &lt;e1&gt;regexp&lt;/e1&gt;) bijzonder nuttig, niet alleen in OmegaT, maar in vele andere toepassingen zou u er een op een dag-tot-dag-basis kunnen gebruiken, met enige variaties.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Although this does not normally prevent the translated file from opening, keep the following points in mind when using this function:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T085532Z" creationid="Dick" creationdate="20230522T085532Z">
+        <seg>Hoewel dit normaal gesproken voorkomt dat het vertaalde bestand wordt geopend, zouden de volgende punten moeten worden onthouden bij het gebruiken van deze functie:</seg>
       </tuv>
     </tu>
     <tu>
@@ -31026,6 +31042,14 @@ Het is er wintertijd voor</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hidden tags are simply stacked at the end of the segment.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T085420Z" creationid="Dick" creationdate="20230522T085420Z">
+        <seg>Verborgen tags worden eenvoudigweg opgestapeld aan het einde van het segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hide &amp;Options</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230510T111848Z" creationid="Dick" creationdate="20230510T111848Z">
@@ -31070,6 +31094,14 @@ Het is er wintertijd voor</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230512T092306Z" creationid="Dick" creationdate="20230512T092306Z">
         <seg>Voorafgaande en achterliggende  tags verbergen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hide tags</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T085050Z" creationid="Dick" creationdate="20230522T085050Z">
+        <seg>Tags verbergen</seg>
       </tuv>
     </tu>
     <tu>
@@ -60286,6 +60318,14 @@ APPLICABLE LAW.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tags are generally useful to reproduce specific layouts or characteristics of the source text in the translated text.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T085155Z" creationid="Dick" creationdate="20230522T085155Z">
+        <seg>Tags zijn over het algemeen nuttig om specifieke lay-outs of karakteristieken van de brontekst te reproduceren in de vertaalde tekst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tags are highlighted in bold blue for easy comparison between the original and the translated contents.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T095958Z">
@@ -69249,6 +69289,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T110743Z">
         <seg>Dit is speciaal bijzonder handig in het geval van talen die vormen voor voor- en achtervoegsel voor de stamwoorden gebruiken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is especially useful when dealing with texts where inline formatting is not particularly useful (e.g., OCRed PDF, or poorly converted .odt or .docx files.)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T085349Z" creationid="Dick" creationdate="20230522T085349Z">
+        <seg>Dit is in het bijzonder handig als teksten worden afgehandeld waarin in-regelige opmaak geen echt nut heeft (bijv. ge-OCRde pdf, slecht geconverteerde bestanden van .odt of .docx.)</seg>
       </tuv>
     </tu>
     <tu>
