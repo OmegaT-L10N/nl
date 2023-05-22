@@ -17275,8 +17275,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>By default, segmentation rules are global and apply to all projects.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230522T082119Z" creationid="Dick" creationdate="20230522T082119Z">
-        <seg>Standaard zijn de segmentatieregels globaal en zijn van toepassing op alle projecten.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T083929Z" creationid="Dick" creationdate="20230522T082119Z">
+        <seg>Standaard zijn de segmentatieregels globaal en van toepassing op alle projecten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65867,6 +65867,14 @@ earlier work or a work "based on" the earlier work.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T165945Z">
         <seg>De segmentatieregels zijn in het algemeen geldig voor alle projecten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The segmentation rules presented when you open the &lt;l0/&gt; preferences (using &lt;l1/&gt;&lt;l2/&gt;) are the global rules.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T084024Z" creationid="Dick" creationdate="20230522T084024Z">
+        <seg>De segmentatieregels die worden weergegeven als u de voorkeuren &lt;l0/&gt; opent (met &lt;l1/&gt;&lt;l2/&gt;) zijn de globale regels.</seg>
       </tuv>
     </tu>
     <tu>
