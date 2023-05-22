@@ -20705,6 +20705,14 @@ the conditions stated below.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy it to the &lt;f0&gt;omegat/&lt;/f0&gt; folder of your new project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T134511Z" creationid="Dick" creationdate="20230522T134511Z">
+        <seg>Kopieer het naar de map &lt;f0&gt;omegat/&lt;/f0&gt; van uw nieuwe project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy the</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T103905Z">
@@ -36930,6 +36938,14 @@ sue for patent infringement).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the old project, select the translation memory file (main or backup) most likely to contain the data you are looking for.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T134433Z" creationid="Dick" creationdate="20230522T134433Z">
+        <seg>In het oude project, selecteer het bestand voor het vertaalgeheugen (hoofdproject of back-up) dat het meest waarschijnlijk de gegevens bevat die u nodig hebt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the quiet mode, less info is logged to the screen.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T165541Z">
@@ -49308,6 +49324,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open the new project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T134520Z" creationid="Dick" creationdate="20230522T134520Z">
+        <seg>Open het nieuwe project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open the project</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T173722Z">
@@ -53930,6 +53954,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T133651Z">
         <seg>Verwijderen van een gehele tag blijft in dat geval mogelijk door Ctrl+Backspace/Delete te gebruiken of door het volledig te selecteren (Ctrl+Shift+Links/Rechts) en het dan te verwijderen (Delete of Ctrl+X).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rename it &lt;f0&gt;project_save.tmx&lt;/f0&gt; if necessary.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T134453Z" creationid="Dick" creationdate="20230522T134453Z">
+        <seg>Hernoem het, indien ndoig, naar &lt;f0&gt;project_save.tmx&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69677,6 +69709,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This action will set the new project the state of your translation at the point the selected project translation memory was created in the old project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T134620Z" creationid="Dick" creationdate="20230522T134620Z">
+        <seg>Deze actie zal uw vertaling herstellen naar de status van de vertaling op het punt dat het geselecteerde vertaalgeheugen voor het project werd gemaakt in het oude project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This allows them for instance to check at any moment, whether the target version for the complete project is still OK</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T173701Z">
@@ -77490,6 +77530,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Very often, office suite files contain tags that must be copied into the translation to ensure that the translated file can be opened in the original application.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T134744Z" creationid="Dick" creationdate="20230522T134744Z">
+        <seg>Heel vaak bevatten bestanden uit kantoorpakketten tags die naar de vertaling moeten worden gekopieerd om er voor te zorgen dat het vertaalde bestand kan worden geopend in de originele toepassing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Very popular clients for Windows environment are &lt;u1&gt;TortoiseSVN&lt;/u1&gt; and &lt;u2&gt;TortoiseGit&lt;/u2&gt;.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T110527Z">
@@ -81881,6 +81929,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T134002Z" creationid="Dick" creationdate="20230522T134002Z">
         <seg>Uw project wil niet openen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your translated file won’t open?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T134637Z" creationid="Dick" creationdate="20230522T134637Z">
+        <seg>Uw vertaalde bestand wil niet openen?</seg>
       </tuv>
     </tu>
     <tu>
