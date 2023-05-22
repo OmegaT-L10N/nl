@@ -23255,6 +23255,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dismiss the window.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T101744Z" creationid="Dick" creationdate="20230522T101744Z">
+        <seg>Sluit het venster.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displa&amp;y Whitespace</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230129T132657Z" creationid="Dick" creationdate="20230129T132657Z">
@@ -31498,6 +31506,14 @@ Het is er wintertijd voor</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hit &lt;k0&gt;Enter&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T101936Z" creationid="Dick" creationdate="20230522T101936Z">
+        <seg>Druk op &lt;k0&gt;Enter&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hit &lt;k0&gt;F1&lt;/k0&gt; or access the &lt;g1&gt;&gt; Help&lt;/g1&gt; menu to open the user manual.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T101205Z" creationid="Dick" creationdate="20230522T101205Z">
@@ -38762,6 +38778,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T170649Z" creationid="Dirk" creationdate="20160906T170649Z">
         <seg>Het dient te worden geconverteerd naar een nieuw teamproject, maar dat kan niet gedaan worden in de modus Console.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It now displays them segment per segment for you to translate them.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T101907Z" creationid="Dick" creationdate="20230522T101907Z">
+        <seg>Het zal nu één segment per keer weergeven om door u te worden vertaald.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73797,6 +73821,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Type the translation of the first segment.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T101930Z" creationid="Dick" creationdate="20230522T101930Z">
+        <seg>Typ de vertaling van het eerste segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Types:
 Exact searches match the whole search string.</seg>
       </tuv>
@@ -75009,6 +75041,14 @@ De huidige instelling is {0}MB;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T101344Z" creationid="Dick" creationdate="20230522T101344Z">
         <seg>Gebruik &lt;g0&gt;&gt; Project&lt;/g0&gt; &lt;g1&gt;&gt; Nieuw…&lt;/g1&gt; om een nieuw project te maken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;g0&gt;&gt; Project&lt;/g0&gt;&lt;g1&gt;&gt; Create Translated Files&lt;/g1&gt; to create the translated document at any time.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T102144Z" creationid="Dick" creationdate="20230522T102053Z">
+        <seg>Gebruik &lt;g0&gt;&gt; Project&lt;/g0&gt;&lt;g1&gt;&gt; Vertaalde documenten maken&lt;/g1&gt; om op elk moment het vertaalde document te maken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -93459,10 +93499,26 @@ create the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>→ OmegaT will copy the selected files into the project that you created in the previous step.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T101841Z" creationid="Dick" creationdate="20230522T101841Z">
+        <seg>→ OmegaT zal de geselecteerde bestanden kopiëren naar het project dat u in de vorige stap maakte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>→ OmegaT will create a folder set that contains your files.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T101445Z" creationid="Dick" creationdate="20230522T101445Z">
         <seg>→ OmegaT zal een set mappen maken die uw bestanden bevatten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>→ OmegaT will register that segment into the project translation memory and will move the cursor to the next segment.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T102032Z" creationid="Dick" creationdate="20230522T102032Z">
+        <seg>→ OmegaT zal dat segment registreren in het vertaalgeheugen van het project en zal de cursor naar het volgende segment verplaatsen.</seg>
       </tuv>
     </tu>
     <tu>
