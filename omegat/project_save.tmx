@@ -32410,6 +32410,14 @@ SUCH DAMAGES.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Identify the project folder that OmegaT refuses to open and open it in your file manager.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T133626Z" creationid="Dick" creationdate="20230522T133626Z">
+        <seg>Identificeer de projectmap die OmegaT weigert te openen en open het in uw bestandsbeheerder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ido</seg>
       </tuv>
       <tuv lang="nl">
@@ -36832,6 +36840,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T160045Z" creationid="DiGro (Dick)" creationdate="20170915T160045Z">
         <seg>Open, in de map &lt;c0&gt;src/org/omegat/util/gui&lt;/c0&gt;, het bestand &lt;c1&gt;Styles.java&lt;/c1&gt; in een tekstbewerker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the folder, you should find a &lt;f0&gt;omegat.project&lt;/f0&gt; file as well as a &lt;f1&gt;omegat.project.bak&lt;/f1&gt; file.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T133743Z" creationid="Dick" creationdate="20230522T133743Z">
+        <seg>In de map zou u een bestand &lt;f0&gt;omegat.project&lt;/f0&gt;, als ook een bestand &lt;f1&gt;omegat.project.bak&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42146,6 +42162,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T124331Z" creationid="Dick" creationdate="20211118T124331Z">
         <seg>Maak regelmatig kopieën van het bestand &lt;f0&gt;/omegat/project_save.tmx&lt;/f0&gt; naar back-upmedia, zoals CD of DVD.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure that the files are identical.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T133759Z" creationid="Dick" creationdate="20230522T133759Z">
+        <seg>Zorg ervoor dat de bestanden identiek zijn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53894,6 +53918,22 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Rename the &lt;f0&gt;omegat.project.bak&lt;/f0&gt; file to &lt;f1&gt;omegat.project&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T133848Z" creationid="Dick" creationdate="20230522T133848Z">
+        <seg>Hernoem het bestand &lt;f0&gt;omegat.project.bak&lt;/f0&gt; naar &lt;f1&gt;omegat.project&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rename the &lt;f0&gt;omegat.project&lt;/f0&gt; file (to &lt;f1&gt;omegat.project.locked&lt;/f1&gt; for example).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T133831Z" creationid="Dick" creationdate="20230522T133831Z">
+        <seg>Hernoem het bestand &lt;f0&gt;omegat.project&lt;/f0&gt; (bijvoorbeeld naar &lt;f1&gt;omegat.project.vergrendeld&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Rename the current &lt;f0&gt;project_save.tmx&lt;/f0&gt; file ( e.g. to &lt;f1&gt;project_save.tmx.temporary&lt;/f1&gt;)</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T173717Z">
@@ -64842,6 +64882,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The folder contents should be similar to a standard &lt;l0&gt;project&lt;/l0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T133710Z" creationid="Dick" creationdate="20230522T133710Z">
+        <seg>De inhoud van de map zou hetzelfde moeten zijn als in een standaard map &lt;l0&gt;project&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The folder structure mirrors that of the &lt;l0/&gt; folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T095359Z" creationid="Dick" creationdate="20230522T095359Z">
@@ -69585,6 +69633,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20140813T172753Z" creationid="Dirk" creationdate="20140813T172753Z">
         <seg>Deze URL lijkt ongeldig te zijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This action will open the project with the automatically created backup &lt;f0&gt;omegat.project&lt;/f0&gt; file.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T133945Z" creationid="Dick" creationdate="20230522T133945Z">
+        <seg>Deze actie zal het project openen met het automatisch gemaakte back-upbestand &lt;f0&gt;omegat.project&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
