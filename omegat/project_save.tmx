@@ -19169,6 +19169,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click the &lt;g0&gt;Exclusions...&lt;/g0&gt; button to specify files or folders that should be ignored by OmegaT.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T093551Z" creationid="Dick" creationdate="20230522T093551Z">
+        <seg>Klik op de knop &lt;g0&gt;Uitgesloten…&lt;/g0&gt; om de bestanden of mappen te specificeren die door OmegaT zouden moeten worden genegeerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click the &lt;g0&gt;Restore Defaults&lt;/g0&gt; button to reset the file filters to their default settings.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230512T091843Z" creationid="Dick" creationdate="20230512T091843Z">
@@ -26424,6 +26432,14 @@ Gossamer-drempel houdt u tegen
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exclusions...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T093451Z" creationid="Dick" creationdate="20230522T093451Z">
+        <seg>Uitgesloten…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Execute this file, and OmegaT should now launch with the tokenizer function.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131228T113313Z" creationid="Dirk" creationdate="20131228T113313Z">
@@ -33375,6 +33391,14 @@ copy of the Program in return for a fee.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T191550Z">
         <seg>Als het filter optiemogelijkheden heeft, kunt u ze wijzigen door te klikken op Opties.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the folder is empty, none of the files contain translatable content, or there are no files supported by the available file filters, OmegaT will tell you that the folder is empty.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T093425Z" creationid="Dick" creationdate="20230522T093425Z">
+        <seg>Als de map leeg is, geen van de bestanden bevat vertaalbare inhoud, of er zijn geen bestanden die worden ondersteund door de beschikbare bestandsfilters, zal OmegaT u meedelen dat de map leeg is.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47348,6 +47372,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>OmegaT training-cursus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT tries to read all the files at once, and displays the translatable contents it finds in the editor.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T093246Z" creationid="Dick" creationdate="20230522T093246Z">
+        <seg>OmegaT probeert in één keer alle bestanden te lezen, en geeft de vertaalbare inhoud die het vind weer in het venster Bewerken.</seg>
       </tuv>
     </tu>
     <tu>
