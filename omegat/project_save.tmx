@@ -49836,6 +49836,14 @@ free programs, and that you know you can do these things.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Over an existing version</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T122008Z" creationid="Dick" creationdate="20230522T122008Z">
+        <seg>Over een bestaande versie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Overlapping is the result of bad manipulations of tag pairs and is guaranteed to result in formatting corruption and sometimes in the translated file not opening at all.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135847Z">
@@ -62130,6 +62138,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;f0&gt;plugins&lt;/f0&gt; and &lt;f1&gt;scripts&lt;/f1&gt; folders might be overwritten, so you may want to create a backup before upgrading.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T121957Z" creationid="Dick" creationdate="20230522T121957Z">
+        <seg>De mappen &lt;f0&gt;plugins&lt;/f0&gt; en &lt;f1&gt;scripts&lt;/f1&gt; zouden overschreven kunnen worden, dus u zou misschien een back-up willen maken voor het upgraden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;f0&gt;project_stats.txt&lt;/f0&gt; located in the &lt;f1&gt;omegat&lt;/f1&gt; folder of your project contains more detailed segment information, broken down by file.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T140211Z" creationid="Dick" creationdate="20211118T140211Z">
@@ -72168,6 +72184,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T133208Z" creationid="Dirk" creationdate="20131225T133106Z">
         <seg>Open, om dit te doen, een terminal (ook wel bekend als een console of venster voor de opdrachtregel; veel voorkomende programma's hiervoor zijn konsole (KDE) en gnome-terminal (GNOME)), en typ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To do this, simply select the same installation folder as the existing installation when installing the new version.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T122039Z" creationid="Dick" creationdate="20230522T122039Z">
+        <seg>Selecteer, om dit te doen, eenvoudigweg dezelfde installatiemap als de bestaande installatie bij het installeren van de nieuw versie.</seg>
       </tuv>
     </tu>
     <tu>
