@@ -26372,6 +26372,14 @@ Niemand hoort u schreeuwen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Every time the &lt;f0&gt;project_save.tmx&lt;/f0&gt; file is modified:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T131446Z" creationid="Dick" creationdate="20230522T131446Z">
+        <seg>Elke keer als het bestand &lt;f0&gt;project_save.tmx&lt;/f0&gt; wordt aangepast:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Everyone is permitted to copy and distribute verbatim copies</seg>
       </tuv>
       <tuv lang="nl">
@@ -46806,6 +46814,14 @@ OmegaT 4.0, Lees Mij-bestand</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT creates a backup file named &lt;f0&gt;project_save.tmx.bak&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T131615Z" creationid="Dick" creationdate="20230522T131615Z">
+        <seg>maakt OmegaT een back-upbestand, genaamd &lt;f0&gt;project_save.tmx.bak&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT creates backups of your project settings to ensure it can retrieve them in case of problem.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T130851Z" creationid="Dick" creationdate="20230522T130851Z">
@@ -61830,6 +61846,14 @@ Het bereik van een tekstvervanging zijn de doelsegmenten van het project, of zij
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That file is a copy of &lt;f0&gt;project_save.tmx&lt;/f0&gt; &lt;e1&gt;before&lt;/e1&gt; it was modified.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T131650Z" creationid="Dick" creationdate="20230522T131650Z">
+        <seg>Dat bestand is een kopie van &lt;f0&gt;project_save.tmx&lt;/f0&gt; &lt;e1&gt;vóórdat&lt;/e1&gt; het werd aangepast.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That folder contains all the files needed to run OmegaT.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T111908Z" creationid="Dick" creationdate="20230522T111908Z">
@@ -63482,8 +63506,8 @@ Probeer alstublieft de fout te corrigeren en herlaad het project.</seg>
       <tuv lang="en">
         <seg>The backup filename follows the pattern &lt;f0&gt;project_save.tmx.YYYYMMDDhhmm.bak&lt;/f0&gt; where &lt;c1&gt;YYYY&lt;/c1&gt; represents the 4-digit year, &lt;c2&gt;MM&lt;/c2&gt; the month, &lt;c3&gt;DD&lt;/c3&gt; the day of the month, and &lt;c4&gt;hh&lt;/c4&gt; and &lt;c5&gt;mm&lt;/c5&gt; indicate the hours and minutes.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230522T131324Z" creationid="Dick" creationdate="20230522T131324Z">
-        <seg>De bestandsnaam van de back-up volgt het patroon &lt;f0&gt;project_save.tmx.JJJJMMDDhhmm.bak&lt;/f0&gt; waar &lt;c1&gt;JJJJ&lt;/c1&gt; het 4-cijferige jaar weergeeft, &lt;c2&gt;MM&lt;/c2&gt; de maand, &lt;c3&gt;DD&lt;/c3&gt; the day of the month, and &lt;c4&gt;hh&lt;/c4&gt; and &lt;c5&gt;mm&lt;/c5&gt; indicate the hours and minutes.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T131425Z" creationid="Dick" creationdate="20230522T131324Z">
+        <seg>De bestandsnaam van de back-up volgt het patroon &lt;f0&gt;project_save.tmx.JJJJMMDDuumm.bak&lt;/f0&gt; waar &lt;c1&gt;JJJJ&lt;/c1&gt; het 4-cijferige jaar weergeeft, &lt;c2&gt;MM&lt;/c2&gt; de maand, &lt;c3&gt;DD&lt;/c3&gt; de dag van de maand, en &lt;c4&gt;uu&lt;/c4&gt; en &lt;c5&gt;mm&lt;/c5&gt; de uren en minuten aangeven.</seg>
       </tuv>
     </tu>
     <tu>
@@ -84437,6 +84461,14 @@ create the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>either after saving the project data (use &lt;l0/&gt;&lt;l1/&gt;),</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T131508Z" creationid="Dick" creationdate="20230522T131508Z">
+        <seg>ofwel na het opslaan van de projectgegevens (met &lt;l0/&gt;&lt;l1/&gt;),</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>el</seg>
       </tuv>
       <tuv lang="nl">
@@ -89325,6 +89357,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T103639Z">
         <seg>of het OmegaT-pakket, gebundeld met JRE (de .tar.bz2-bundel gemarkeerd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>or when making a regular backup (every 3 minutes by default),</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T131537Z" creationid="Dick" creationdate="20230522T131537Z">
+        <seg>of bij het maken van een regelmatige back-up (standaard elke 3 minuten),</seg>
       </tuv>
     </tu>
     <tu>
