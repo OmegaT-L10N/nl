@@ -26720,6 +26720,14 @@ Gossamer-drempel houdt u tegen
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exercise caution with changes made to files in the source folder, the segmentation rules, or the file filters, partway through a project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T133240Z" creationid="Dick" creationdate="20230522T133240Z">
+        <seg>Wees voorzichtig met wijzigingen die gedurende het project worden gemaakt in de bestanden in de bronmap, de segmentatieregels, of de bestandsfilters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Existing source files can be modified, but the commit operation must be carried out before an automatic save and before the project is reloaded or closed.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T133221Z" creationid="Dick" creationdate="20190516T133221Z">
