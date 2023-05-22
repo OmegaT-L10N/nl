@@ -36906,6 +36906,14 @@ sue for patent infringement).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the rare case where your computer freezes and OmegaT does not have time to close properly, the &lt;f0&gt;omegat.project&lt;/f0&gt; file can be locked by the operating system and keep you from reopening after you reboot your system.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T133551Z" creationid="Dick" creationdate="20230522T133551Z">
+        <seg>In het uitzonderlijke geval dat uw computer vastloopt en OmegaT geen tijd heeft om netjes af te sluiten kan het bestand &lt;f0&gt;omegat.project&lt;/f0&gt; door het besturingssysteem worden vergrendeld en beletten om het te openen nadat u uw systeem opnieuw hebt opgestart.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the same way, users of CAT tools, including OmegaT, who do not possess Déjà Vu can translate files prepared by a Déjà Vu user.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T155121Z" creationid="DiGro (Dick)" creationdate="20170915T155121Z">
@@ -43596,6 +43604,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230521T085145Z" creationid="Dick" creationdate="20230521T085145Z">
         <seg>Aanpassen van een sneltoets</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modifying any of those after you have started your translation could result in some segments disapparing or new segments appearing unexpectedly.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T133346Z" creationid="Dick" creationdate="20230522T133346Z">
+        <seg>Aanpassen van één hiervan nadat u bent begonnen met uw vertaling zou er toe kunnen leiden dat sommige segmenten verdwijnen of dat er onverwacht nieuwe segmenten verschijnen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -81769,6 +81785,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221218T131000Z" creationid="Dick" creationdate="20221218T131000Z">
         <seg>Uw project lijkt geen vertaalbare bestanden te bevatten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your project is locked?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T133408Z" creationid="Dick" creationdate="20230522T133408Z">
+        <seg>Uw project is vergrendeld?</seg>
       </tuv>
     </tu>
     <tu>
