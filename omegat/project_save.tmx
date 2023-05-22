@@ -53696,6 +53696,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Resource folders can be located anywhere on your system, including on shared disks.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T092430Z" creationid="Dick" creationdate="20230522T092416Z">
+        <seg>Mappen voor bronnen mogen overal op uw systeem zijn geplaatst, inclusief gedeelde schijven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Resource name</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T172604Z" creationid="Dirk" creationdate="20160906T172604Z">
@@ -76653,6 +76661,14 @@ any other work released this way by its authors.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When a new project is created, OmegaT proposes a default project folder structure that contains all the resources used in the translation, but that structure is not compulsory.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T092314Z" creationid="Dick" creationdate="20230522T092314Z">
+        <seg>Wanneer een nieuw project wordt gemaakt, stelt OmegaT een standaard structuur voor de projectmappen voor die alle bronnen bevat die worden gebruikt voor de vertaling, maar die structuur is niet verplicht.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When a rule is triggered, the corresponding phrase will be underlined in blue in the Editor (see &lt;e1&gt;also &lt;/e1&gt;and &lt;e2&gt;I didn't do nothing&lt;/e2&gt; in the picture above).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T105951Z">
@@ -79266,6 +79282,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T135922Z" creationid="Dick" creationdate="20190516T135922Z">
         <seg>U kunt het gedrag van OmegaT' aanpassen door de &lt;e0&gt;Eigenschappen&lt;/e0&gt; als ook het bestand &lt;f1&gt;Configuration.properties&lt;/f1&gt; in het pakket te bewerken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can modify the structure of your project by adding or removing files from the folders, or even by changing the folders used by the project at any time, even during the course of the translation.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T092631Z" creationid="Dick" creationdate="20230522T092631Z">
+        <seg>U kunt op elk moment de structuur van uw project aanpassen door bestanden toe te voegen of te verwijderen uit de mappen, of zelfs door de mappen, die worden gebruikt door het project, te wijzigen, zelfs gedurende de vertaling.</seg>
       </tuv>
     </tu>
     <tu>
