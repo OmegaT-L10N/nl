@@ -53510,6 +53510,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regularly practice “emergency measures” such as restoring translations from a project to make sure you won’t lose too much time the day you need to use those skills.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T140208Z" creationid="Dick" creationdate="20230522T140208Z">
+        <seg>Oefen regelmatig “noodmaatregelen” zoals het herstellen van vertalingen uit een project om er voor te zorgen dat u niet teveel tijd verliest op de dag dat u deze vaardigheden nodig hebt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Release details</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T103411Z">
@@ -55060,6 +55068,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142423Z">
         <seg>Voer &lt;a0&gt;OmegaT&lt;/a0&gt; normaal uit (met de GUI) en maak de instellingen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Run OmegaT</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T140212Z" creationid="Dick" creationdate="20230522T140212Z">
+        <seg>OmegaT uitvoeren</seg>
       </tuv>
     </tu>
     <tu>
