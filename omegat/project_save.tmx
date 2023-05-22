@@ -30090,6 +30090,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary files folder</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T094434Z" creationid="Dick" creationdate="20230522T094412Z">
+        <seg>map Woordenlijst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary files folder entered does not exist!</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T190128Z">
@@ -32811,6 +32819,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T192036Z">
         <seg>Indien later toch toegang tot de gewenste locatie wordt verkregen, zal die locatie worden gebruikt en zullen alle instellingen terugkeren naar hun standaardinstellingen als resultaat van die locatiewijziging.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If matches are found, they are displayed in the &lt;l0/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T094403Z" creationid="Dick" creationdate="20230522T094403Z">
+        <seg>Indien er overeenkomsten worden gevonden, worden zij weergegeven in het venster &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47380,6 +47396,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>OmegaT training-cursus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT tries to read all the files at once, and compares their contents to the segment you are translating.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T094328Z" creationid="Dick" creationdate="20230522T094328Z">
+        <seg>OmegaT probeert in één keer alle bestanden te lezen en vergelijkt hun inhoud met het segment dat u aan het vertalen bent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69301,6 +69325,22 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This folder contains the files that you want to use as reference glossaries.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T094451Z" creationid="Dick" creationdate="20230522T094451Z">
+        <seg>Deze map bevat de bestanden die u wilt gebruiken als verwijzing naar woordenlijsten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder contains the files that you want to use as reference translation memories.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T094238Z" creationid="Dick" creationdate="20230522T094238Z">
+        <seg>Deze map bevat de bestanden die u wilt gebruiken als verwijzing naar vertaalgeheugens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This folder contains your spelling dictionaries.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221221T145534Z" creationid="Dick" creationdate="20221221T145534Z">
@@ -73175,8 +73215,8 @@ install.sh.</seg>
       <tuv lang="en">
         <seg>Translation memories folder</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230522T094028Z" creationid="Dick" creationdate="20230522T094028Z">
-        <seg>map Vertaalgeheugens</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T094427Z" creationid="Dick" creationdate="20230522T094028Z">
+        <seg>map Vertaalgeheugen</seg>
       </tuv>
     </tu>
     <tu>
