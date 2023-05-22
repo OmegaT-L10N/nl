@@ -46887,6 +46887,14 @@ be launched.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT provides a convenient short list of two-letter language codes, but you can type any code that conforms to &lt;u0&gt;BCP-47&lt;/u0&gt; (including the three-letter language codes) into the appropriate field.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T081140Z" creationid="Dick" creationdate="20230522T081140Z">
+        <seg>OmegaT verschaft een handige lijst met verkorte twee-letterige taalcodes, maar u mag elke code, die zich conformeert aan &lt;u0&gt;BCP-47&lt;/u0&gt; (inclusief de drie-letterige taalcodes), in het toepasselijk veld invoeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT provides predefined segmentation rules, and the translator can use regular expressions to modify them.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230520T121401Z" creationid="Dick" creationdate="20230520T121401Z">
@@ -56290,6 +56298,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T171642Z" creationid="Dick" creationdate="20190516T171642Z">
         <seg>Selecteer het script dat u wilt uit de lijst aan de linkerkant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the source and target languages from the drop-down list, or enter them manually.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T080933Z" creationid="Dick" creationdate="20230522T080933Z">
+        <seg>Selecteer de bron- en doeltalen  uit de keuzelijst, of voer ze handmatig in.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68549,6 +68565,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This dialog is used to set the initial project properties when creating a new project or to modify them later, after the project has been created.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T080849Z" creationid="Dick" creationdate="20230522T080849Z">
+        <seg>Dit dialoogvenster wordt gebruikt om de initiële projecteigenschappen in te stellen als een nieuw project wordt gemaakt of om ze later aan te passen, nadat het project is gemaakt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This dialog lists available file filters, where the filters used by the current project are displayed in bold.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134240Z" creationid="Dirk" creationdate="20160910T134240Z">
@@ -74193,6 +74217,14 @@ De huidige instelling is {0}MB;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230518T093748Z" creationid="Dick" creationdate="20230518T093748Z">
         <seg>Gebruik &lt;l0/&gt;&lt;l1/&gt; om nieuwe termen in de woordenlijst op te nemen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to open the dialog.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T080723Z" creationid="Dick" creationdate="20230522T080723Z">
+        <seg>Gebruik &lt;l0/&gt;&lt;l1/&gt; om het dialoogvenster te openen.</seg>
       </tuv>
     </tu>
     <tu>
