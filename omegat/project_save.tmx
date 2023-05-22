@@ -22899,6 +22899,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Developer: OmegaT Nightly</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T103804Z" creationid="Dick" creationdate="20230522T103804Z">
+        <seg>Ontwikkelversie: OmegaT Nightly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Developers</seg>
       </tuv>
       <tuv lang="nl">
@@ -37558,6 +37566,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Install OmegaT</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T103702Z" creationid="Dick" creationdate="20230522T103702Z">
+        <seg>Installeren van OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Install a second, non-default version of Java at system level, and launch OmegaT explicitly using this version.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T134100Z" creationid="Dirk" creationdate="20131225T134100Z">
@@ -38730,6 +38746,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T174018Z">
         <seg>Het wordt behandeld als een standaard vertaling, indien geen overeenkomst werd gevonden, of als een alternatieve vertaling, in het geval dat hetzelfde bronsegment bestaat, maar met een doeltekst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is used for testing purposes.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T103902Z" creationid="Dick" creationdate="20230522T103902Z">
+        <seg>Het wordt gebruikt om te testen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46554,6 +46578,14 @@ OmegaT 4.0, Lees Mij-bestand</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210908T102413Z" creationid="Dick" creationdate="20210908T102413Z">
         <seg>OmegaT klassiek thema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT comes in two editions:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T103723Z" creationid="Dick" creationdate="20230522T103723Z">
+        <seg>OmegaT heeft twee uitgaven:</seg>
       </tuv>
     </tu>
     <tu>
@@ -59332,6 +59364,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Standard: OmegaT 6.1.0</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T103726Z" creationid="Dick" creationdate="20230522T103726Z">
+        <seg>Standaard: OmegaT 6.1.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start OmegaT again, download the team project, close OmegaT</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T170406Z" creationid="Dirk" creationdate="20160906T170406Z">
@@ -64134,6 +64174,14 @@ instead.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T122808Z" creationid="Dick" creationdate="20211118T122808Z">
         <seg>De bestanden verschijnen in de submap &lt;f0&gt;script&lt;/f0&gt; in de map met gebruikersbestanden van OmegaT, en bevatten:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The files are downloadable directly from &lt;u0&gt;https://omegat.org&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T103933Z" creationid="Dick" creationdate="20230522T103933Z">
+        <seg>De bestanden zijn direct te downloaden vanaf &lt;u0&gt;https://omegat.org&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69417,6 +69465,22 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T124949Z">
         <seg>Deze documentatie is zowel bedoeld als handleiding als als gids met verwijzingen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This edition is automatically generated every time new code is added to OmegaT.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T103835Z" creationid="Dick" creationdate="20230522T103835Z">
+        <seg>Deze uitgave wordt automatically gemaakt, elke keer als er nieuwe code wordt toegvoegd aan OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This edition is recommended for everyday use.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T103751Z" creationid="Dick" creationdate="20230522T103751Z">
+        <seg>Deze uitgave wordt aanbevolen voor elke dag-gebruik.</seg>
       </tuv>
     </tu>
     <tu>
