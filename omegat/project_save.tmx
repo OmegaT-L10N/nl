@@ -15959,6 +15959,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-propagation of translations</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T084632Z" creationid="Dick" creationdate="20230522T084632Z">
+        <seg>Automatisch vergroten van vertalingen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-sync with Editor</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T113111Z">
@@ -33513,6 +33521,14 @@ notice like this when it starts in an interactive mode:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142607Z">
         <seg>Indien er andere bestanden, genaamd test.html, in andere mappen staan, worden die genegeerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If there are repeated segments in the source documents, checking this option will set the first translated segment as the default translation and automatically use the same target text in the remaining repeated segments.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T084830Z" creationid="Dick" creationdate="20230522T084830Z">
+        <seg>Als er herhaalde segmenten in de brondocumenten staan zal het selecteren van deze optie het eerste vertaalde segment als de standaard vertaling en automatisch dezelfde doeltekst gebruiken in de resterende herhaalde segmenten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65447,6 +65463,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project will store the new set of rules in the &lt;l0/&gt; file located in its &lt;l1/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T084459Z" creationid="Dick" creationdate="20230522T084459Z">
+        <seg>Het project zal de nieuwe set regels opslaan het bestand &lt;l0/&gt;, geplaatst in zijn map &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The purpose of the console (i.e. command line) mode is to permit the use &lt;a0&gt;of OmegaT&lt;/a0&gt; as translation tool in a scripting environment.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T165444Z">
@@ -67741,6 +67765,14 @@ not accept this License.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230518T092930Z" creationid="Dick" creationdate="20230518T092930Z">
         <seg>Deze opties specificeren de manier waarop OmegaT tags maakt uit de inhoud van XLIFF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These rules will supersede the global segmentation rules.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T084527Z" creationid="Dick" creationdate="20230522T084527Z">
+        <seg>Deze regels hebben voorrang boven de globale segmentatieregels.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70984,6 +71016,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135826Z">
         <seg>Verwijder ze eenvoudigweg uit het segment om taggroepen te verwijderen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To disable local segmentation rules, disable this option or remove that file.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T084610Z" creationid="Dick" creationdate="20230522T084610Z">
+        <seg>Schakel deze optie uit of verwijder het bestand om lokale segmentatieregels uit te schakelen.</seg>
       </tuv>
     </tu>
     <tu>
