@@ -17809,6 +17809,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Change the language codes to reflect your source and target languages.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T101413Z" creationid="Dick" creationdate="20230522T101413Z">
+        <seg>Wijzig de taal codes om uw eigen bron- en doeltalen weer te geven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Change the line:</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120401T153955Z">
@@ -19033,6 +19041,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click on &lt;g0&gt;Add Files...&lt;/g0&gt; and add the files that you want to translate.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T101734Z" creationid="Dick" creationdate="20230522T101649Z">
+        <seg>Klik op &lt;g0&gt;Bestanden toevoegen…&lt;/g0&gt; en voeg de bestanden toe die u wilt vertalen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click on &lt;g0&gt;Auto-text...&lt;/g0&gt; to configure Auto-text options and to add or remove entries.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T161921Z">
@@ -19053,6 +19069,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T161916Z">
         <seg>Klik op &lt;g0&gt;Woordenlijst...&lt;/g0&gt; om de weergave woordenlijst Auto-aanvullen te configureren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;g0&gt;OK&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T101422Z" creationid="Dick" creationdate="20230522T101422Z">
+        <seg>Klik op &lt;g0&gt;OK&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38879,6 +38903,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It will also create an empty translation memory that it will fill in the background, one segment at as time as you type your translation.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T101542Z" creationid="Dick" creationdate="20230522T101542Z">
+        <seg>Het zal ook een leeg vertaalgeheugen maken dat het op de achtergrond zal vullen, één segment per keer als u uw vertaling invoert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It will also find patterns such as “5136/36/71”.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230520T114858Z" creationid="Dick" creationdate="20230520T114858Z">
@@ -42650,6 +42682,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T151206Z" creationid="Dick" creationdate="20221220T151206Z">
         <seg>Verwijderde inactieve overeenkomsten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches for that memory will eventually appear in the &lt;g0&gt;Fuzzy Matches&lt;/g0&gt; pane.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T101630Z" creationid="Dick" creationdate="20230522T101630Z">
+        <seg>Overeenkomsten voor dat geheugen zullen eventueel worden weergegeven in het venster &lt;g0&gt;Fuzzy overeenkomsten&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -93415,6 +93455,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20140419T144608Z" creationid="Dirk" creationdate="20140419T144608Z">
         <seg>← Terug</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>→ OmegaT will create a folder set that contains your files.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T101445Z" creationid="Dick" creationdate="20230522T101445Z">
+        <seg>→ OmegaT zal een set mappen maken die uw bestanden bevatten.</seg>
       </tuv>
     </tu>
     <tu>
