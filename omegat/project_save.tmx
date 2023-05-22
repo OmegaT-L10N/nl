@@ -17833,6 +17833,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Changing the segmentation rules settings during a translation does not modify the segments registered in the project translation memory.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T082522Z" creationid="Dick" creationdate="20230522T082522Z">
+        <seg>Wijzigen van de instellingen voor de segmentatieregels gedurende een vertaling past niet de segmentatie aan van de in het vertaalgeheugen van het project geregistreerde segmenten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Changing the tag order may break the translated file!</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T122415Z" creationid="Dick" creationdate="20221220T122415Z">
@@ -59590,6 +59598,14 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T121012Z" creationid="Dirk" creationdate="20170914T121012Z">
         <seg>Weergaven schakelen met {0} en {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switching from &lt;e0&gt;sentence&lt;/e0&gt; to &lt;e1&gt;paragraph&lt;/e1&gt; segmentation mid-translation may force OmegaT to upgrade old translation memories that did not use sentence segmentation, but not vice versa.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T082747Z" creationid="Dick" creationdate="20230522T082747Z">
+        <seg>Schakelen van &lt;e0&gt;zin-&lt;/e0&gt; naar &lt;e1&gt;alinea-&lt;/e1&gt;segmentatie tijdens de vertaling zou OmegaT kunnen forceren om oude vertaalgeheugens, die geen zin-segmentatie gebruikten, te upgraden, maar niet vice versa.</seg>
       </tuv>
     </tu>
     <tu>
