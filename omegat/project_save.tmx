@@ -39522,6 +39522,14 @@ zelf bij de eerste keer dat het wordt uitgevoerd.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Language codes are used in various places in OmegaT to:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T081216Z" creationid="Dick" creationdate="20230522T081216Z">
+        <seg>Taalcodes worden ook op verschillende plaatsen binnen OmegaT gebruikt om:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Language name</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T125940Z">
@@ -80829,6 +80837,14 @@ create the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>apply the segmentation rules defined in the &lt;l0/&gt; preferences,</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T081321Z" creationid="Dick" creationdate="20230522T081321Z">
+        <seg>de gedefinieerde segmentatieregels toe te passen die zijn gedefinieerd in de voorkeuren &lt;l0/&gt;,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T133655Z" creationid="Dirk" creationdate="20170914T133655Z">
@@ -83031,6 +83047,22 @@ create the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>find grammatical and typographical mistakes from the rules set in the &lt;l0/&gt; preferences,</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T081444Z" creationid="Dick" creationdate="20230522T081444Z">
+        <seg>grammaticale en typografische fouten te zoeken voor de regels die zijn ingesteld in de voorkeuren &lt;l0/&gt;,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>find spelling mistakes from the dictionaries installed in the &lt;l0/&gt; preferences,</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T081359Z" creationid="Dick" creationdate="20230522T081359Z">
+        <seg>spelfouten te zoeken in de woordenlijsten die zijn geïnstalleerd in de voorkeuren &lt;l0/&gt;,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>findInProjectReuseLastWindow</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T104932Z" creationid="Dirk" creationdate="20160911T104932Z">
@@ -83331,6 +83363,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>gd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>get results in the &lt;l0/&gt; pane,</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T081241Z" creationid="Dick" creationdate="20230522T081241Z">
+        <seg>resultatens in het venster &lt;l0/&gt; te verkrijgen,</seg>
       </tuv>
     </tu>
     <tu>
