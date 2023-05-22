@@ -29361,6 +29361,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Functions that depend on a language either fail or produce incorrect results if there is a mismatch between the language codes.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T081719Z" creationid="Dick" creationdate="20230522T081719Z">
+        <seg>Functies die afhankelijk zijn van een taal ofwel falen of produceren incorrecte resultaten als de twee taalcodes niet overeenkomen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Further points to note regarding TMX files:</seg>
       </tuv>
       <tuv lang="nl">
@@ -41542,6 +41550,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make sure you enter the correct language codes and that all other locations requiring such a code match the one you assign here exactly.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T081619Z" creationid="Dick" creationdate="20230522T081619Z">
+        <seg>Zorg ervoor dat u de juiste taalcodes invoert en dat alle andere locaties die een dergelijke code vereisen, exact overeenkomen met die welke u hier toewijst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Makes the part of the expression to the right of the modifier case insensitive.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230520T090055Z" creationid="Dick" creationdate="20230520T090055Z">
@@ -46018,6 +46034,14 @@ OmegaT 4.0, Lees Mij-bestand</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T110752Z">
         <seg>OmegaT selecteert automatisch een tokenizer voor de bron- en de doeltaal, overeenkomstig de taalinstellingen van het project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT automatically selects the tokenizers that correspond to the source and target languages but you can manually modify those settings.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T081822Z" creationid="Dick" creationdate="20230522T081822Z">
+        <seg>OmegaT selecteert automatisch de tokenizers die corresponderen met de bron- en de doeltaal, maar u kunt deze instellingen handmatig aanpassen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56529,6 +56553,22 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
         <seg>Sentence-level segmentation</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221218T141316Z" creationid="Dick" creationdate="20221218T141316Z">
+        <seg>Segmentatie op niveau van de zin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sentence-level segmentation splits paragraphs or other text blocks in the source file into segments based on segmentation rules.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T081952Z" creationid="Dick" creationdate="20230522T081952Z">
+        <seg>Segmentatie op niveau van de zin splitst alinea's of andere tekstblokken in het beronbestand in segmenten, gebaseerd op segmentatieregels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sentence-level segmenting</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T081849Z" creationid="Dick" creationdate="20230522T081849Z">
         <seg>Segmentatie op niveau van de zin</seg>
       </tuv>
     </tu>
@@ -71951,6 +71991,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T110739Z">
         <seg>Tokenizers (of stemmers) verbeteren de kwaliteit van de overeenkomsten door het herkennen va betrokken woorden in de bron en gegevens in de vertaalgeheugens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tokenizers allow OmegaT to provide better matches.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T081845Z" creationid="Dick" creationdate="20230522T081845Z">
+        <seg>Tokenizers stellen OmegaT in staat om betere overeenkomsten te verschaffen.</seg>
       </tuv>
     </tu>
     <tu>
