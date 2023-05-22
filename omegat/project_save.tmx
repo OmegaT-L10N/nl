@@ -58350,6 +58350,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some Linux distributions offer OmegaT in their package manager.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T111704Z" creationid="Dick" creationdate="20230522T111704Z">
+        <seg>Sommige distributies van Linux bieden OmegaT aan in hun bestandsbeheerder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some additional scripts can be found here: &lt;u0&gt;OmegaT Scripts&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T130959Z" creationid="Dirk" creationdate="20160910T130959Z">
