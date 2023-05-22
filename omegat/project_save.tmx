@@ -20705,6 +20705,14 @@ the conditions stated below.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy the folder to a suitable location (e.g. &lt;f3&gt;Applications&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T113913Z" creationid="Dick" creationdate="20230522T113913Z">
+        <seg>Kopieer de map naar een toepasselijke map (bijv. &lt;f3&gt;Toepassingen&lt;/f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy the script into the OmegaT "script" folder, i.e. the folder containing source.txt etc. (The scripts can in principle be placed anywhere, but must then be edited with addition of the path to the script files.)</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131226T145938Z" creationid="Dirk" creationdate="20131226T145938Z">
@@ -24147,6 +24155,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T135641Z" creationid="Dick" creationdate="20190516T135641Z">
         <seg>Dubbelklik op &lt;f0&gt;OmegaT_4.n.n_Mac.zip&lt;/f0&gt; om het uit te pakken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Double click on the package you downloaded to unpack it.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T113744Z" creationid="Dick" creationdate="20230522T113744Z">
+        <seg>Dubbelklik op het pakket dat u hebt gedownload om het uit te pakken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33231,6 +33247,14 @@ the predecessor has it or can get it with reasonable efforts.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T163014Z" creationid="Dick" creationdate="20190516T163014Z">
         <seg>Als verscheidene programma's voor vertaling zijn geselecteerd, dan wordt &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; ook gebruikt om daar tussen te schakelen en voegt de laatst geselecteerde in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If so desired, drag and drop &lt;f0&gt;OmegaT.app&lt;/f0&gt; onto the Dock for easier access.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T113955Z" creationid="Dick" creationdate="20230522T113955Z">
+        <seg>Indien gewenst, sleep en zet &lt;f0&gt;OmegaT.app&lt;/f0&gt; neer op het Dock voor eenvoudiger toegang.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64426,6 +64450,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The folder contains two files: &lt;f1&gt;index.html&lt;/f1&gt; (the user manual entry file) and &lt;f2&gt;OmegaT.app&lt;/f2&gt; (the application).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T113848Z" creationid="Dick" creationdate="20230522T113848Z">
+        <seg>De map bevat twee bestanden: &lt;f1&gt;index.html&lt;/f1&gt; (de beginpagina van de gebruikershandleiding) en &lt;f2&gt;OmegaT.app&lt;/f2&gt; (het programma).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The folder structure mirrors that of the &lt;l0/&gt; folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T095359Z" creationid="Dick" creationdate="20230522T095359Z">
@@ -69473,6 +69505,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T140911Z">
         <seg>Dit zal een map maken die&lt;e1&gt; &lt;a2&gt;OmegaT&lt;/a2&gt; &lt;/e1&gt;heet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This creates a folder called &lt;f0&gt;OmegaT&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T113757Z" creationid="Dick" creationdate="20230522T113757Z">
+        <seg>Dit zal een map maken die &lt;f0&gt;OmegaT&lt;/f0&gt; heet.</seg>
       </tuv>
     </tu>
     <tu>
