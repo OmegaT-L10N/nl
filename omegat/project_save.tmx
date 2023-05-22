@@ -64530,6 +64530,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The freedom to distribute copies of your modified versions to others.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T103657Z" creationid="Dick" creationdate="20230522T103657Z">
+        <seg>De vrijheid om kopieën van uw aangepaste versies te distribueren aan anderen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The freedom to redistribute copies so you can help others.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T102757Z" creationid="Dick" creationdate="20230522T102739Z">
