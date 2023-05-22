@@ -13995,6 +13995,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All the parameters located in the OmegaT configuration folder will be shared unless you specify a different configuration folder with the &lt;l0&gt;--config-dir=&lt;path&gt;&lt;/l0&gt; option on the command line.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T122430Z" creationid="Dick" creationdate="20230522T122430Z">
+        <seg>Alle parameters die zijn geplaatst in de configuratiemap van OmegaT  zullen worden gedeeld, tenzij u een andere configuratiemap specificeert met de optie &lt;l0&gt;--config-dir=&lt;path&gt;&lt;/l0&gt; op de opdrachtregel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All the tags that are marked with &lt;c0&gt;translate="no"&lt;/c0&gt; will be ignored.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230517T093401Z" creationid="Dick" creationdate="20230517T093401Z">
@@ -14175,6 +14183,14 @@ conditions are met.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T171153Z" creationid="Dirk" creationdate="20131225T171153Z">
         <seg>Bijna elke huidige versie van Tcl/Tk zal waarschijnlijk geschikt zijn, maar u moet zowel Tcl (de scripting interpreter) als Tk (de grafische component) hebben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alongside an existing version</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T122212Z" creationid="Dick" creationdate="20230522T122212Z">
+        <seg>Naast een bestaande versie</seg>
       </tuv>
     </tu>
     <tu>
@@ -56302,6 +56318,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l1/&gt; section.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T122441Z" creationid="Dick" creationdate="20230522T122441Z">
+        <seg>Bekijk het gedeelte &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l2/&gt; preferences for details.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230512T085746Z" creationid="Dick" creationdate="20230512T085746Z">
@@ -68035,6 +68059,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The “old” version of OmegaT will be overwritten, but settings made from the OmegaT interface will be retained in the various configurations folders (see above).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T122201Z" creationid="Dick" creationdate="20230522T122201Z">
+        <seg>De "oude" versie van OmegaT zal worden overschreven, maar instellingen die zijn gemaakt vanuit de interface van OmegaT zullen worden behouden in de verschillende configuratiemappen (zie boven).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The “that, that” in the following sentence:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230519T140916Z" creationid="Dick" creationdate="20230519T140916Z">
@@ -71279,6 +71311,14 @@ vanaf de server.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T165942Z">
         <seg>Zij zullen dan effectief terugkeren naar de status "niet vertaald" omdat zij niet overeenkomen met de opgenomen segmenten in het projectgeheugen, zelfs als de originele vertaling daar nog steeds in staat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This will enable you to keep any number of versions side-by-side, which you may wish to do until you feel comfortable with the new version.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T122308Z" creationid="Dick" creationdate="20230522T122308Z">
+        <seg>Hiermee kunt u elk aantal versies naast elkaar inschakelen, wat u zou kunnen doen totdat u zich op uw gemak voelt met de nieuwe versie.</seg>
       </tuv>
     </tu>
     <tu>
