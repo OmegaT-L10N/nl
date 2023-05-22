@@ -12351,6 +12351,22 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A “level 1” TMX removes all tag information and contains only textual data.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T100337Z" creationid="Dick" creationdate="20230522T100337Z">
+        <seg>Een TMX “niveau 1” verwijdert alle informatie over tags en bevat alleen tekstuele informatie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A “level 2” TMX contains textual data along with tags encapsulated in a form compatible with other CAT tools.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T100459Z" creationid="Dick" creationdate="20230522T100459Z">
+        <seg>Een TMX “level 2” bevat tekstuele gegevens met tags die zijn ingekapseld in een vorm die compatibel is met andere programma's voor CAT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A&amp;dd</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T184825Z">
@@ -14821,6 +14837,14 @@ work under this License, and how to view a copy of this License.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134911Z">
         <seg>Een xml-bestand met alle toegankelijke optie-instellingen voor de GUI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An “OmegaT” TMX contains the tags created by OmegaT in a form that can only be used properly by an OmegaT project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T100234Z" creationid="Dick" creationdate="20230522T100234Z">
+        <seg>Een TMX van “OmegaT” bevat de tags die zijn gemaakt door OmegaT in een vorm die alleen op de juiste wijze kan worden door een project van OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
