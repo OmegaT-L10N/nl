@@ -17265,6 +17265,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, file filter settings are global and shared by all projects.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T090631Z" creationid="Dick" creationdate="20230522T090631Z">
+        <seg>Standaard zijn de instellingen voor bestandsfilters globaal en worden gedeeld door alle projecten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, it is not possible to select words in the source segment using the keyboard rather than the mouse.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T094716Z" creationid="Dirk" creationdate="20160911T094716Z">
@@ -40934,6 +40942,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local File Filters...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T090603Z" creationid="Dick" creationdate="20230522T090603Z">
+        <seg>Lokale bestandsfilters…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local File/Folder</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T161903Z" creationid="Dirk" creationdate="20160906T161903Z">
@@ -40978,6 +40994,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T083131Z" creationid="Dick" creationdate="20230522T083131Z">
         <seg>Lokale segmentatieregels…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local commands are run before global commands.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T090554Z" creationid="Dick" creationdate="20230522T090554Z">
+        <seg>Lokale opdrachten worden uitgevoerd vóór globale opdrachten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59458,6 +59482,14 @@ makes it unnecessary.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170916T120221Z" creationid="DiGro (Dick)" creationdate="20170916T120221Z">
         <seg>Zulke hulpcode is bijvoorbeeld al geschreven in Javascript, Groovy en Tcl/Tk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Such commands are defined in the &lt;l0/&gt; preference.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T090524Z" creationid="Dick" creationdate="20230522T090524Z">
+        <seg>Dergelijke opdrachten worden gedefinieerd in de voorkeur &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78432,6 +78464,14 @@ for enforcing compliance by third parties with this License.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131227T162252Z" creationid="Dirk" creationdate="20131227T162252Z">
         <seg>U kunt de met OmegaT meegeleverde gebruikershandleiding ook oproepen zonder OmegaT zelf uit te voeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also define global post-processing commands available to all projects that share the same configuration folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T090455Z" creationid="Dick" creationdate="20230522T090455Z">
+        <seg>U kunt ook globale opdrachten voor nabewerking definiëren die beschikbaar zijn voor alle projecten die dezelfde map voor configuratie gebruiken.</seg>
       </tuv>
     </tu>
     <tu>
