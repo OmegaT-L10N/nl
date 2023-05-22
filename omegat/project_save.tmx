@@ -74653,6 +74653,14 @@ De huidige instelling is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; and its submenus to access the locations of the project resources.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T092719Z" creationid="Dick" creationdate="20230522T092719Z">
+        <seg>Gebruik &lt;l0/&gt;&lt;l1/&gt; en en zijn submenu's om toegang te verkrijgen tot de locaties van de bronnen van het project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; or &lt;l2/&gt;&lt;l3/&gt; to create the target files and trigger the command.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T085914Z" creationid="Dick" creationdate="20230522T085914Z">
