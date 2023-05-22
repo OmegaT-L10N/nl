@@ -47527,6 +47527,14 @@ be launched.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT projects are &lt;e1&gt;not&lt;/e1&gt; stored inside OmegaT.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T121449Z" creationid="Dick" creationdate="20230522T121449Z">
+        <seg>Projecten van OmegaT worden &lt;e1&gt;niet&lt;/e1&gt; opgeslagen binnen OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT provides a convenient short list of two-letter language codes, but you can type any code that conforms to &lt;u0&gt;BCP-47&lt;/u0&gt; (including the three-letter language codes) into the appropriate field.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T081140Z" creationid="Dick" creationdate="20230522T081140Z">
@@ -50160,6 +50168,14 @@ Verdwenen als mist.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Parameter files that are included in the downloaded OmegaT package (especially the &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; for &lt;l1&gt;Windows&lt;/l1&gt; and the &lt;f2&gt;Configuration.properties&lt;/f2&gt; and &lt;f3&gt;Info.plist&lt;/f3&gt; files for &lt;l4&gt;macOS&lt;/l4&gt; packages) might be overwritten or deleted, so you may want to create a backup before upgrading, if you have been using these files to modify OmegaT’s launch parameters.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T121850Z" creationid="Dick" creationdate="20230522T121850Z">
+        <seg>Parameterbestanden die zijn opgenomen in het gedownloade pakket van OmegaT (speciaal de bestanden &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; voor &lt;l1&gt;Windows&lt;/l1&gt;- en &lt;f2&gt;Configuration.properties&lt;/f2&gt; en &lt;f3&gt;Info.plist&lt;/f3&gt; voor &lt;l4&gt;macOS&lt;/l4&gt;-pakketten) zouden kunnen worden overschreven of verwijderd, dus u zou een back-up willen maken voor het upgraden, als u deze bestanden hebt gebruikt om de parameters voor het starten van OmegaT aan te passen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Parentheses are always used in opening and closing pairs.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230519T140702Z" creationid="Dick" creationdate="20230519T140702Z">
@@ -52210,6 +52226,14 @@ lokaal project zonder functionaliteit voor team.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T110636Z">
         <seg>Projecten kunnen worden beheerd overeenkomstig uw stijl en wensen voor de ontwikkeling.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Projects that you have created in the past or are currently using will &lt;e0&gt;not&lt;/e0&gt; be modified or deleted.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T121424Z" creationid="Dick" creationdate="20230522T121424Z">
+        <seg>Projecten die u in het verleden heeft gemaakt of momenteel gebruikt zullen &lt;e0&gt;niet&lt;/e0&gt; worden aangepast of verwijderd.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68801,6 +68825,14 @@ U bent het slachtoffer van één van de drie.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T090000Z" creationid="Dick" creationdate="20230522T090000Z">
         <seg>Zij worden opgeslagen in het bestand &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They are separate objects that have no physical connection to the OmegaT application itself.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T121537Z" creationid="Dick" creationdate="20230522T121537Z">
+        <seg>Zij zijn afzonderlijke objecten die geen fysieke verbinding met het programma OmegaT zelf hebben.</seg>
       </tuv>
     </tu>
     <tu>
