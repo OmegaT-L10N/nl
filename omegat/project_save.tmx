@@ -64530,6 +64530,30 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The freedom to redistribute copies so you can help others.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T102757Z" creationid="Dick" creationdate="20230522T102739Z">
+        <seg>De vrijheid om kopieën opnieuw te distribueren, zodat u anderen kunt helpen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The freedom to run OmegaT as you wish, for any purpose.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T102610Z" creationid="Dick" creationdate="20230522T102610Z">
+        <seg>De vrijheid om OmegaT uit te voeren zoals u dat wilt, voor elk doel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The freedom to study how OmegaT works, and change it so it does your computing as you wish.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T102704Z" creationid="Dick" creationdate="20230522T102704Z">
+        <seg>De vrijheid om te bestuderen hoe OmegaT werkt, en het te wijzigen zodat het uw computerwerk uitvoert zoals u dat wilt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The full list of characters is presented &lt;l0&gt;below&lt;/l0&gt;.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230519T130919Z" creationid="Dick" creationdate="20230519T130919Z">
