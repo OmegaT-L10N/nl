@@ -17035,6 +17035,14 @@ Neem nog een biertje.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Build OmegaT</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T122904Z" creationid="Dick" creationdate="20230522T122904Z">
+        <seg>OmegaT bouwen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Building &lt;a0&gt;OmegaT&lt;/a0&gt; From Source</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142651Z">
@@ -48460,6 +48468,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once the code is downloaded, open a terminal in the source folder (&lt;f0&gt;omegat-code/&lt;/f0&gt; if you cloned from Sourceforge, or &lt;f1&gt;/omegat&lt;/f1&gt; if you cloned from GitHub) and type:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T123321Z" creationid="Dick" creationdate="20230522T123321Z">
+        <seg>Als de code eenmaal is gedownload, open een opdrachtscherm in de bronmap (&lt;f0&gt;omegat-code/&lt;/f0&gt; als u kloonde vanuit Sourceforge, of &lt;f1&gt;/omegat&lt;/f1&gt; als u kloonde vanuit GitHub) en typ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once the operation has finished, you can check the said folder: it should now contain a subfolder .svn and a green OK badge on its icon will show, that the contents of the folder are up-to-date:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T110649Z">
@@ -67099,6 +67115,14 @@ earlier work or a work "based on" the earlier work.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T130323Z" creationid="Dick" creationdate="20190516T171228Z">
         <seg>De bron- en doelbestanden mogen verschillende indelingen hebben (bijvoorbeeld: een bestand &lt;f0&gt;.docx&lt;/f0&gt; kan worden uitgelijnd met een bestand &lt;f1&gt;.pdf&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The source code for the current version can either be downloaded directly from the OmegaT &lt;u0&gt;download page&lt;/u0&gt;, or cloned from the &lt;u1&gt;Sourceforge&lt;/u1&gt; or &lt;u2&gt;GitHub&lt;/u2&gt; repositories.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T123213Z" creationid="Dick" creationdate="20230522T123213Z">
+        <seg>De broncode voor de huidige versie kan ofwel direct worden gedownload vanaf de &lt;u0&gt;download page&lt;/u0&gt; van OmegaT of worden gekloond vanuit de opslagplaatsen van &lt;u1&gt;Sourceforge&lt;/u1&gt; of &lt;u2&gt;GitHub&lt;/u2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
