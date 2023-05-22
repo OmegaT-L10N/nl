@@ -14235,6 +14235,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Also remember not to modify the project configuration or add TMX files in the meantime, as doing so may affect the results.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T132645Z" creationid="Dick" creationdate="20230522T132645Z">
+        <seg>Onthoud ook om in de tussentijd niet de configuratie van het project aan te passen of TMX-bestanden toe te voegen, omdat dat de resultaten zou kunnen beïnvloeden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Also supported is the CSV format.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T140235Z">
@@ -20193,6 +20201,14 @@ OmegaT gebruikt de volgende bibliotheken:
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T141947Z">
         <seg>Derhalve is het voldoende om dit bestand aan te passen om wijzigingen aan te brengen in de startopdracht.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Consider safely storing all the different files you are renaming for eventual reuse.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T132533Z" creationid="Dick" creationdate="20230522T132533Z">
+        <seg>Overweeg het veilig opslaan van alle verschillende bestanden die u hernoemt, om ze eventueel later opnieuw te kunnen gebruiken.</seg>
       </tuv>
     </tu>
     <tu>
