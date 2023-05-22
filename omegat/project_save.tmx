@@ -27992,6 +27992,14 @@ Gossamer-drempel houdt u tegen
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Follow your system’s instructions to install OmegaT shortcuts in convenient places of your choosing.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T114411Z" creationid="Dick" creationdate="20230522T114411Z">
+        <seg>Volg de instructies voor uw systeem om sneltoetsen voor OmegaT op handige plaatsen te installeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Font</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T174219Z">
@@ -34567,6 +34575,14 @@ by the Installation Information.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T121337Z" creationid="Dick" creationdate="20190516T121337Z">
         <seg>Indien u gedurende de vertaling besluit om te schakelen van zin- naar alinea-vertaling, zal het interne vertaalgeheugen van het project niet worden gewijzigd (OmegaT kan oude vertaalgeheugens bijwerken die geen gebruik maakten van zin-segmentatie, maar niet andersom), maar OmegaT zal proberen fuzzy overeenkomsten voor alinea's te maken door bestaande vertalingen van zinnen samen te voegen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you decide to install a new version, keep the following in mind:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T114639Z" creationid="Dick" creationdate="20230522T114639Z">
+        <seg>Als u besluit een nieuwe versie te installeren, denk dan aan het volgende:</seg>
       </tuv>
     </tu>
     <tu>
@@ -46654,6 +46670,14 @@ OmegaT 4.0, Lees Mij-bestand</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT can tell you when a new version is available.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T114446Z" creationid="Dick" creationdate="20230522T114446Z">
+        <seg>OmegaT kan u zeggen wanneer een nieuwe versie beschikbaar is.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT cannot import or read glossary files in proprietary binary formats, such as Trados Multiterm.</seg>
       </tuv>
       <tuv lang="nl">
@@ -48128,6 +48152,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T155837Z" creationid="DiGro (Dick)" creationdate="20170915T155837Z">
         <seg>OmegaT_&lt;versie&gt;_Beta_Source\dist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT’s preferences are stored in the configuration folder and will &lt;e0&gt;not&lt;/e0&gt; be modified by the new version.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T114817Z" creationid="Dick" creationdate="20230522T114817Z">
+        <seg>De voorkeuren voor OmegaT worden opgeslagen in de configuratiemap en zullen &lt;e0&gt;niet&lt;/e0&gt; worden aangepast door de nieuwe versie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63424,6 +63456,14 @@ Probeer alstublieft de fout te corrigeren en herlaad het project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The changes between your version and the current version are documented in the development site’s &lt;u0&gt;changes.txt&lt;/u0&gt; file.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T114605Z" creationid="Dick" creationdate="20230522T114605Z">
+        <seg>De wijzigingen tussen uw versie en de huidige versie zijn gedocumenteerd in het bestand&lt;u0&gt;changes.txt&lt;/u0&gt; op de ontwikkelaarspagina's.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The character with hexadecimal value 0xhh</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T170140Z">
@@ -75083,6 +75123,14 @@ op regel {1}, kolom {2}.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T140336Z">
         <seg>Bijwerken van een woordenlijstbestand is dus vrij eenvoudig: druk op &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; en voer de nieuwe term in, de vertaling ervan en opmerkingen die u zou kunnen hebben (zorg er voor dat u op 'tab' drukt tussen de velden) en sla het bestand op.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Upgrade</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T114419Z" creationid="Dick" creationdate="20230522T114419Z">
+        <seg>Bijwerken</seg>
       </tuv>
     </tu>
     <tu>
