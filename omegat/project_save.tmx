@@ -20737,6 +20737,14 @@ the conditions stated below.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy the contents of the various user folders to the equivalent location in the new project (source files, reference translation memory files, glossary files).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T134324Z" creationid="Dick" creationdate="20230522T134324Z">
+        <seg>Kopieer de inhoud van de verschillende mappen van de gebruiker naar de equivalente locatie in het nieuwe project (bronbestanden, bestanden voor vertaalgeheugens voor verwijzing, woordenlijstbestanden).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy the documents, you need the translation memory for, into the &lt;f0&gt;source&lt;/f0&gt; folder of the project.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T124901Z" creationid="Dick" creationdate="20211118T124901Z">
@@ -21357,6 +21365,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T110623Z">
         <seg>Maak een nieuw project op ProjectLocker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create a new project with the same settings.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T134200Z" creationid="Dick" creationdate="20230522T134200Z">
+        <seg>Maak een nieuw project met dezelfde instellingen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36918,6 +36934,14 @@ sue for patent infringement).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T165541Z">
         <seg>In de modus quiet, wordt minder informatie gelogd op het scherm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the rare case where your computer freezes and OmegaT does not have time to close properly, some important files can be corrupted and keep your project from reopening after you reboot your system.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T134140Z" creationid="Dick" creationdate="20230522T134140Z">
+        <seg>In het uitzonderlijke geval dat uw computer vastloopt en OmegaT geen tijd heeft om netjes af te sluiten, kunnen sommige belangrijke bestanden worden gecorrumpeerd en voorkomen dat uw project opnieuw wordt geopend nadat u uw systeem opnieuw hebt opgestart.</seg>
       </tuv>
     </tu>
     <tu>
@@ -81849,6 +81873,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T133408Z" creationid="Dick" creationdate="20230522T133408Z">
         <seg>Uw project is vergrendeld?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your project won’t open?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T134002Z" creationid="Dick" creationdate="20230522T134002Z">
+        <seg>Uw project wil niet openen?</seg>
       </tuv>
     </tu>
     <tu>
