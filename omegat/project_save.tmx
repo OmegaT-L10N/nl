@@ -74205,6 +74205,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Troubleshoot issues</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T130616Z" creationid="Dick" creationdate="20230522T130616Z">
+        <seg>Problemen oplossen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Troubleshooting</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T172840Z" creationid="Dirk" creationdate="20131225T172840Z">
