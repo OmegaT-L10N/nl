@@ -22923,6 +22923,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Detailed instructions on building OmegaT can be found in the &lt;u0&gt;README.txt&lt;/u0&gt; file located in the &lt;f1&gt;docs_devel&lt;/f1&gt; subfolder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T123608Z" creationid="Dick" creationdate="20230522T123608Z">
+        <seg>Gedetailleerde instructies voor het bouwen van OmegaT zijn te vinden in het bestand &lt;u0&gt;README.txt&lt;/u0&gt; dat is geplaatst in de submap &lt;f1&gt;docs_devel&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Detailed instructions on building are in the docs_devel &lt;u0&gt;readme&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T161109Z" creationid="Dick" creationdate="20190516T161109Z">
@@ -71331,6 +71339,14 @@ vanaf de server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will create a full, ready to launch distribution of OmegaT in the &lt;f0&gt;build/install/OmegaT&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T123418Z" creationid="Dick" creationdate="20230522T123418Z">
+        <seg>Dit zal een volledige, direct te gebruiken, distributie van OmegaT maken in de map &lt;f0&gt;build\install\OmegaT&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will create an &lt;f0&gt;omegat/&lt;/f0&gt; folder in the working folder in which you will find all the files needed to run &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T134835Z" creationid="Dick" creationdate="20190516T134835Z">
@@ -79821,6 +79837,14 @@ op het bureaublad en in het gebied voor snel starten om het van daaruit te koppe
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also run the application directly with the following command:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T123441Z" creationid="Dick" creationdate="20230522T123441Z">
+        <seg>U kunt ook de toepassing direct uitvoeren met de volgende opdracht:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also search for the caret, closing bracket, and hyphen as themselves by placing them at a position that does not trigger their special meaning: anywhere except right after the opening bracket for the caret, immediately after either opening bracket or the caret following it for the closing bracket, and either just after the opening bracket or just before the closing bracket for the hyphen.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230520T092051Z" creationid="Dick" creationdate="20230520T092051Z">
@@ -80231,6 +80255,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T140203Z" creationid="Dirk" creationdate="20131225T140203Z">
         <seg>U kunt het bijvoorbeeld gebruiken om de tal voor de gebruikersinterface te selecteren, meer geheugen aan OmegaT toe te wijzen, of een wachtwoord voor Google Translate in te voeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can get a list of all available tasks by typing:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T123511Z" creationid="Dick" creationdate="20230522T123511Z">
+        <seg>U kunt een lijst met alle beschikbare taken verkrijgen door te typen:</seg>
       </tuv>
     </tu>
     <tu>
