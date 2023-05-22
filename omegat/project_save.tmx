@@ -18449,6 +18449,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check the &lt;o0&gt;Use local segmentation rules&lt;/o0&gt; box, and adjust the segmentation rules as desired.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T084417Z" creationid="Dick" creationdate="20230522T084315Z">
+        <seg>Selecteer het vak &lt;o0&gt;Segmentatieregels projectspecifiek maken&lt;/o0&gt;, en pas de segmentatieregels aan zoals u wilt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check the &lt;u0&gt;OmegaT home page&lt;/u0&gt; for an up-to-date listing of auxiliary translation tools.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135559Z">
@@ -74777,6 +74785,14 @@ De huidige instelling is {0}MB;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T165715Z">
         <seg>Gebruik om te beginnen deze Helpteksten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this button to create local rules specific to your project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T084051Z" creationid="Dick" creationdate="20230522T084051Z">
+        <seg>Gebruik deze knop om lokale regels te maken, specifiek voor uw project.</seg>
       </tuv>
     </tu>
     <tu>
