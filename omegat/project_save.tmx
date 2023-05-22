@@ -27992,6 +27992,14 @@ Gossamer-drempel houdt u tegen
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fix all tag issues found in your documents.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T134952Z" creationid="Dick" creationdate="20230522T134952Z">
+        <seg>Repareer alle problemen met tags die in uw documenten worden gevonden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fixes are trivial operations and OmegaT assists troubleshooting with the related error message.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T173821Z">
@@ -48300,6 +48308,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT won’t behave?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T135215Z" creationid="Dick" creationdate="20230522T135215Z">
+        <seg>OmegaT gedraagt zich niet?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT zip or tar.bz2 archive to this folder and unpack it there.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T103907Z">
@@ -49324,6 +49340,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open the documents again in the original application.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T135035Z" creationid="Dick" creationdate="20230522T135035Z">
+        <seg>Open de documenten opnieuw in de originele toepassing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open the files TMXDialect.java and TMX filter in a text editor.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T150056Z" creationid="Dirk" creationdate="20131225T150056Z">
@@ -49344,6 +49368,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T173722Z">
         <seg>Open het project</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the project in OmegaT.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T134844Z" creationid="Dick" creationdate="20230522T134844Z">
+        <seg>Open het project in OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59014,6 +59046,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T174008Z">
         <seg>Sommige typen bronbestanden (bijvoorbeeld PO, TTX, etc.) zijn tweetalig, d.i. zij dienen zowel als bron als als vertaalgeheugen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Something has happened and OmegaT won’t behave anymore.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T135240Z" creationid="Dick" creationdate="20230522T135240Z">
+        <seg>Er gebeurde iets en OmegaT gedraagt zich niet meer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69701,6 +69741,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This action will fix any internal tag consistency issues due to not inserting tags properly while entering the translation in OmegaT.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T135205Z" creationid="Dick" creationdate="20230522T135205Z">
+        <seg>Deze actie zal problemen met inconsistente interne tags oplossen die niet correct werden ingevoerd bij het maken van de vertaling in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This action will open the project with the automatically created backup &lt;f0&gt;omegat.project&lt;/f0&gt; file.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T133945Z" creationid="Dick" creationdate="20230522T133945Z">
@@ -76045,6 +76093,14 @@ De huidige instelling is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; and focus on &lt;g2&gt;Tag issues&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T134924Z" creationid="Dick" creationdate="20230522T134924Z">
+        <seg>Gebruik &lt;l0/&gt;&lt;l1/&gt; en focus op &lt;g2&gt;Problemen met tags&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; and its submenus to access the locations of the project resources.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T092719Z" creationid="Dick" creationdate="20230522T092719Z">
@@ -76105,6 +76161,14 @@ De huidige instelling is {0}MB;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T080723Z" creationid="Dick" creationdate="20230522T080723Z">
         <seg>Gebruik &lt;l0/&gt;&lt;l1/&gt; om het dialoogvenster te openen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to recreate the documents.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T135013Z" creationid="Dick" creationdate="20230522T135013Z">
+        <seg>Gebruik &lt;l0/&gt;&lt;l1/&gt; om de documenten opnieuw te maken.</seg>
       </tuv>
     </tu>
     <tu>
