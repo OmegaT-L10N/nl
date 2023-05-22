@@ -80733,6 +80733,14 @@ create the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>and so on.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230522T081451Z" creationid="Dick" creationdate="20230522T081451Z">
+        <seg>enzovoort.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>and the Corresponding Source of the work is not available for anyone</seg>
       </tuv>
       <tuv lang="nl">
