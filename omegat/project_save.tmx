@@ -35640,6 +35640,14 @@ to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you need to perform translation or review tasks on that project, use OmegaT to download a separate copy of the team project and work from there.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T124611Z" creationid="Dick" creationdate="20230523T124611Z">
+        <seg>Wanneer u taken voor vertaling of nakijken moet uitvoeren in dat project, gebruik dan OmegaT om een afzonderlijk kopie van het teamproject te downloaden en werk vanuit daar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you need to reproduce text formatting (as well as other things such as drawings) in your translation, there are three ways to try:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T131835Z" creationid="Dirk" creationdate="20170914T131835Z">
@@ -77645,8 +77653,8 @@ De huidige instelling is {0}MB;</seg>
       <tuv lang="en">
         <seg>Use it to make modifications that affect the entire team.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230523T124224Z" creationid="Dick" creationdate="20230523T124224Z">
-        <seg>Gebruki het om aanpassingen te maken die invloed hebben op het gehele team.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T124404Z" creationid="Dick" creationdate="20230523T124224Z">
+        <seg>Gebruki het om aanpassingen te maken die betrekking hebben op het gehele team.</seg>
       </tuv>
     </tu>
     <tu>
@@ -79222,6 +79230,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T145247Z" creationid="DiGro (Dick)" creationdate="20170915T145247Z">
         <seg>We konden de pagina waar u naar zoekt niet vinden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We recommend that you avoid using that folder for translation tasks.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T124456Z" creationid="Dick" creationdate="20230523T124456Z">
+        <seg>We raden aan dat u vermijdt om die map voor taken met betrekking de vertaling te gebruiken.</seg>
       </tuv>
     </tu>
     <tu>
