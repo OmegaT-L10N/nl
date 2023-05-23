@@ -15283,6 +15283,14 @@ paragraph of section 11).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any files also named test.html in other subfolders will be ignored.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T120623Z" creationid="Dick" creationdate="20230523T120623Z">
+        <seg>Andere bestanden in andere mappen, die ook zijn genaamd test.html, worden genegeerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Any given expression either &lt;e0&gt;matches&lt;/e0&gt;, or &lt;e1&gt;does &lt;e2&gt;not&lt;/e2&gt; match&lt;/e1&gt; a word, phrase, or other sequence of text.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230519T125259Z" creationid="Dick" creationdate="20230519T125259Z">
@@ -31676,6 +31684,14 @@ Het is er wintertijd voor</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230519T122309Z" creationid="Dick" creationdate="20230519T122309Z">
         <seg>Hier zijn een aantal voorbeelden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Here are some typical examples:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T120441Z" creationid="Dick" creationdate="20230523T120441Z">
+        <seg>Hier zijn een aantal veel voorkomende voorbeelden:</seg>
       </tuv>
     </tu>
     <tu>
@@ -49558,6 +49574,22 @@ your home folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221221T144040Z" creationid="Dick" creationdate="20221221T144040Z">
         <seg>Momenteel vereist alleen deze voorkeur handmatige aanpassing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only translate &lt;f0&gt;test.html&lt;/f0&gt; file in the source folder itself.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T120532Z" creationid="Dick" creationdate="20230523T120532Z">
+        <seg>Vertaal alleen het bestand &lt;f0&gt;test.html&lt;/f0&gt; in de map source zelf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only translate the &lt;f0&gt;test.html&lt;/f0&gt; file in the &lt;f1&gt;dir-10&lt;/f1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T120652Z" creationid="Dick" creationdate="20230523T120652Z">
+        <seg>Vertaal alleen het bestand &lt;f0&gt;test.html&lt;/f0&gt; in de map &lt;f1&gt;dir-10&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74941,6 +74973,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T130624Z" creationid="Dick" creationdate="20190516T130624Z">
         <seg>Een PDF-bestand vertalen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translate all HTML files.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T120458Z" creationid="Dick" creationdate="20230523T120458Z">
+        <seg>Vertaal alle HTML-bestanden.</seg>
       </tuv>
     </tu>
     <tu>
