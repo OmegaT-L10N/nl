@@ -14273,6 +14273,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Almost all parameters presented in this section can be used in a config file.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T115449Z" creationid="Dick" creationdate="20230523T115449Z">
+        <seg>Nagenoeg alle parameters die in dit gedeelte zijn weergegeven mogen wordne gebruikt in een bestand config.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Almost any current version of Tcl/Tk will probably be suitable, but you must have both Tcl (the scripting interpreter) and Tk (the graphical component).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T171153Z" creationid="Dirk" creationdate="20131225T171153Z">
@@ -54420,6 +54428,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove the initial &lt;c0&gt;-D&lt;/c0&gt; or &lt;c1&gt;-X&lt;/c1&gt; to use Java parameters:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T115118Z" creationid="Dick" creationdate="20230523T115118Z">
+        <seg>Verwijder de initiële &lt;c0&gt;-D&lt;/c0&gt; of &lt;c1&gt;-X&lt;/c1&gt; om parameters voor Java te gebruiken:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove the project folder manually.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20150413T103920Z" creationid="Dirk" creationdate="20150413T103920Z">
@@ -94279,6 +94295,16 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134909Z">
         <seg>standaard segmentatieregels voor de gebruiker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>user.language=fr
+config-dir="path/to/new/configdir"</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T115139Z" creationid="Dick" creationdate="20230523T115139Z">
+        <seg>user.language=fr
+config-dir="pad/naar/nieuwe/configdir"</seg>
       </tuv>
     </tu>
     <tu>
