@@ -3788,6 +3788,28 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- Marco Cevoli (Telegram community manager)
+- Jean-Christophe Helary (Twitter community manager)
+- Kos Ivantsov (localisation manager)
+- Concepción Martin (Facebook community manager)
+- Hiroshi Miura (lead developer)
+- Briac Pilpré (webmaster)
+- Philippe Tourigny (documentation manager)
+- Lucie Vecerova (Facebook community manager)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T125616Z" creationid="Dick" creationdate="20230523T125616Z">
+        <seg>- Marco Cevoli (beheerder van gemeenschap van Telegram)
+- Jean-Christophe Helary (beheerder van gemeenschap van Twitter)
+- Kos Ivantsov (beheerder voor vertalingen)
+- Concepción Martin (beheerder van gemeenschap van Facebook)
+- Hiroshi Miura (hoofdontwikkelaar)
+- Briac Pilpré (webmaster)
+- Philippe Tourigny (beheerder van de documentatie)
+- Lucie Vecerova (beheerder van gemeenschap van Facebook)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>- Microsoft Open XML (*.docx, *.xlsx, *.pptx)</seg>
       </tuv>
       <tuv lang="nl">
@@ -63784,6 +63806,16 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The @language@ version of OmegaT has been translated by:
+@TRANSLATION_NOTICE@</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T125419Z" creationid="Dick" creationdate="20230523T125419Z">
+        <seg>De @language@ versie van OmegaT is vertaald door:
+@TRANSLATION_NOTICE@</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The ASTERISK: &lt;l0&gt;*&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230519T134855Z" creationid="Dick" creationdate="20230519T134855Z">
@@ -79444,9 +79476,9 @@ any other work released this way by its authors.</seg>
       <tuv lang="en">
         <seg>What is OmegaT?</seg>
       </tuv>
-      <tuv lang="nl" changeid="Kos Ivantsov" changedate="20210414T142826Z">
+      <tuv lang="nl" changeid="Dick" changedate="20230523T125453Z">
         <seg>Wat is OmegaT?
-</seg>
+Beheerder gemeenschap van</seg>
       </tuv>
     </tu>
     <tu>
