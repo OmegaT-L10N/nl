@@ -9006,6 +9006,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;o0&gt;--remote-project&lt;/o0&gt; &lt;u1&gt;&lt;path-to-omegat-project-file&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T113812Z" creationid="Dick" creationdate="20230523T113812Z">
+        <seg>&lt;o0&gt;--remote-project&lt;/o0&gt; &lt;u1&gt;&lt;pad-naar-projectbestand-van-omegat&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;one line to give the program's name and a brief idea of what it does.&gt;</seg>
       </tuv>
       <tuv lang="nl">
@@ -30151,6 +30159,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>General options:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T113542Z" creationid="Dick" creationdate="20230523T113542Z">
+        <seg>Algemene opties:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Generalities</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T165916Z">
@@ -40894,6 +40910,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170104T180502Z" creationid="Dirk" creationdate="20170104T180502Z">
         <seg>Lokale server starten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Launch the GUI and load the specified project</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T113702Z" creationid="Dick" creationdate="20230523T113702Z">
+        <seg>Start de gebruikersinterface en laad het gespecificeerde project</seg>
       </tuv>
     </tu>
     <tu>
@@ -58756,6 +58780,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Show usage information.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T113602Z" creationid="Dick" creationdate="20230523T113602Z">
+        <seg>Informatie over gebruik weergeven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Shows the dialog to modify the text display font.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T162145Z">
@@ -63680,6 +63712,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230519T141400Z" creationid="Dick" creationdate="20230519T141400Z">
         <seg>Het VIERKANTE HAAKJE VOOR OPENEN: &lt;l0&gt;(&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The OmegaT GUI is launched if no option is specified.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T113718Z" creationid="Dick" creationdate="20230523T113531Z">
+        <seg>De OmegaT gebruikersinterface wordt gestart als geen optie is gespecificeerd.</seg>
       </tuv>
     </tu>
     <tu>
@@ -80802,6 +80842,14 @@ for enforcing compliance by third parties with this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also get a list of these options in the terminal with the &lt;c0&gt;java -jar OmegaT.jar --help&lt;/c0&gt; command.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T113505Z" creationid="Dick" creationdate="20230523T113505Z">
+        <seg>U kunt ook een lijst met deze opties in de terminal verkrijgen met de opdracht &lt;c0&gt;java -jar OmegaT.jar --help&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also have several search windows open simultaneously.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T095936Z">
@@ -90941,6 +90989,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T103941Z">
         <seg>hoeft niet het volledige pad te worden ingevoerd.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>path to an omegat project</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T113734Z" creationid="Dick" creationdate="20230523T113622Z">
+        <seg>pad naar een project van OmegaTd</seg>
       </tuv>
     </tu>
     <tu>
