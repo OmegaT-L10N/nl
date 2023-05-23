@@ -28629,6 +28629,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;l1&gt;user.language=ja&lt;/l1&gt; (without the &lt;l2&gt;#&lt;/l2&gt;) will launch OmegaT with the user interface in Japanese.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T094612Z" creationid="Dick" creationdate="20230523T094612Z">
+        <seg>Bijvoorbeeld: &lt;l1&gt;user.language=ja&lt;/l1&gt; (zonder de &lt;l2&gt;#&lt;/l2&gt;) zal OmegaT starten met de gebruikersinterface in het Japans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, &lt;l2&gt;user.language=ja&lt;/l2&gt; (without the &lt;l3&gt;#&lt;/l3&gt;) will launch &lt;a4&gt;OmegaT&lt;/a4&gt; with the user interface in Japanese.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T140423Z" creationid="Dick" creationdate="20190516T140423Z">
@@ -28893,6 +28901,14 @@ freedoms that you received.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T170151Z">
         <seg>Dit is bijvoorbeeld het teken voor een backslash</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, to change the amount of memory available uncomment the line</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T094828Z" creationid="Dick" creationdate="20230523T094828Z">
+        <seg>Om, bijvoorbeeld, de hoeveelheid beschikbaar geheugen te wijzigen, haal de aanwijzing voor de opmerking weg bij de regel</seg>
       </tuv>
     </tu>
     <tu>
@@ -29177,6 +29193,14 @@ sale, or importing the Program or any portion of it.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T140308Z" creationid="Dick" creationdate="20190516T140308Z">
         <seg>Verwijder, voor vooraf gedefinieerde opties, de &lt;l1&gt;#&lt;/l1&gt; vóór een parameter om het in te schakelen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For predefined options, remove the &lt;l0&gt;#&lt;/l0&gt; symbol before a parameter to enable it.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T094531Z" creationid="Dick" creationdate="20230523T094531Z">
+        <seg>Voor vooraf gedefinieerde opties, verwijder het symbool &lt;l0&gt;#&lt;/l0&gt; vóór een parameter om die in te schakelen.</seg>
       </tuv>
     </tu>
     <tu>
