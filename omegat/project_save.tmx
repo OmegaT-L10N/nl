@@ -9062,10 +9062,26 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;o0&gt;--mode=console-stats&lt;/o0&gt; &lt;u1&gt;&lt;project path&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T121515Z" creationid="Dick" creationdate="20230523T121515Z">
+        <seg>&lt;o0&gt;--mode=console-stats&lt;/o0&gt; &lt;u1&gt;&lt;projectpad&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;o0&gt;--mode=console-translate&lt;/o0&gt; &lt;u1&gt;&lt;project path&gt;&lt;/u1&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230523T115958Z" creationid="Dick" creationdate="20230523T115958Z">
         <seg>&lt;o0&gt;--mode=console-translate&lt;/o0&gt; &lt;u1&gt;&lt;projectpad&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;o0&gt;--output-file=&lt;/o0&gt;&lt;u1&gt;[stats-output-file]&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T121545Z" creationid="Dick" creationdate="20230523T121545Z">
+        <seg>&lt;o0&gt;--output-file=&lt;/o0&gt;&lt;u1&gt;[stats-uitvoerbestand]&lt;/u1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -43974,6 +43990,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Minimize the output shown on the command line.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T121903Z" creationid="Dick" creationdate="20230523T121903Z">
+        <seg>Minimaliseeer de uitvoer die wordt gegeven op de opdrachtregel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Minutes:</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120513T145117Z">
@@ -45663,6 +45687,14 @@ measures.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T124523Z">
         <seg>Niet-afbreekbare spatie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Non-gui mode options:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T121838Z" creationid="Dick" creationdate="20230523T121838Z">
+        <seg>Niet-gebrkersinterface modus-opties:</seg>
       </tuv>
     </tu>
     <tu>
@@ -52532,6 +52564,14 @@ lokaal project zonder functionaliteit voor team.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Prints to that file, or to standard output if absent.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T121613Z" creationid="Dick" creationdate="20230523T121613Z">
+        <seg>Print naar dat bestand, of naar de standaard uitvoer indien afwezig.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Priority glossary</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T140353Z">
@@ -55154,6 +55194,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
       </tuv>
       <tuv lang="nl">
         <seg>Vereisten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Requires &lt;e0&gt;--output-file&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T121729Z" creationid="Dick" creationdate="20230523T121729Z">
+        <seg>Vereist &lt;e0&gt;--output-file&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60450,6 +60498,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specifies the output format.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T121741Z" creationid="Dick" creationdate="20230523T121741Z">
+        <seg>Specificeert de indeling van de uitvoer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T131106Z" creationid="Dirk" creationdate="20170914T131106Z">
@@ -65144,6 +65200,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The data is the same as when using &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T121806Z" creationid="Dick" creationdate="20230523T121806Z">
+        <seg>De gegevens zijn hetzelfde als bij het gebruiken van &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The default OmegaT shortcuts are available from Sourceforge: &lt;u0&gt;Default OmegaT Shortcuts&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T131200Z">
@@ -67267,6 +67331,14 @@ to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230519T081940Z" creationid="Dick" creationdate="20230519T081940Z">
         <seg>De andere items op de lijst voor het sjabloon zijn omgevingsvariabelen voor uw systeem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The output defaults to xml.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T121701Z" creationid="Dick" creationdate="20230523T121701Z">
+        <seg>De output gaat standaard naar xml.</seg>
       </tuv>
     </tu>
     <tu>
@@ -80401,6 +80473,14 @@ Uw pagina werd niet gevonden</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230518T101449Z" creationid="Dick" creationdate="20230518T101449Z">
         <seg>Binnen die map voor woordenlijsten ter verwijzing kunt u meerdere submappen voor terminologie maken, gerangschikt op onderwerp, cliënt of elke andere categorie die geschikt is voor uw werkstroom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Without &lt;e0&gt;--stats-type&lt;/e0&gt;, detects format from file extension.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T121647Z" creationid="Dick" creationdate="20230523T121647Z">
+        <seg>Zonder &lt;e0&gt;--stats-type&lt;/e0&gt;, detecteert de indeling vanuit de bestandsextensie.</seg>
       </tuv>
     </tu>
     <tu>
