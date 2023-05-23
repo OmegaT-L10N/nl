@@ -7506,8 +7506,8 @@ Bekijk "Hoofdstuk 3.</seg>
       <tuv lang="en">
         <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; comes with an &lt;f1&gt;OmegaT&lt;/f1&gt; executable located in &lt;f2&gt;OmegaT.app/Contents/MacOS/&lt;/f2&gt; that you can also use to launch multiple instances of &lt;f3&gt;OmegaT.app&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230523T074653Z" creationid="Dick" creationdate="20230523T074653Z">
-        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; komt met een uitvoerbaar bestand voor &lt;f1&gt;OmegaT&lt;/f1&gt; dat is geplaatst in &lt;f2&gt;OmegaT.app/Contents/MacOS/&lt;/f2&gt; dat u ook kunt gebruken om meerdere versies van &lt;f3&gt;OmegaT.app&lt;/f3&gt; te starten.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T074803Z" creationid="Dick" creationdate="20230523T074653Z">
+        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; komt met een uitvoerbaar bestand voor &lt;f1&gt;OmegaT&lt;/f1&gt; dat is geplaatst in &lt;f2&gt;OmegaT.app/Contents/MacOS/&lt;/f2&gt; dat u ook kunt gebruiken om meerdere versies van &lt;f3&gt;OmegaT.app&lt;/f3&gt; te starten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14959,6 +14959,14 @@ to receive a copy likewise does not require acceptance.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T104019Z">
         <seg>en krijg daar een indruk van wat er gaande is in de wereld van OmegaT...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>And it also comes with the generic &lt;f0&gt;OmegaT.jar&lt;/f0&gt; file located in &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt; that you can use to launch OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T074758Z" creationid="Dick" creationdate="20230523T074758Z">
+        <seg>En het komt met het algemene bestand &lt;f0&gt;OmegaT.jar&lt;/f0&gt; dat is geplaatst in &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt; dat u kunt gebruiken om OmegaT te starten vanaf de opdrachtregel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56804,6 +56812,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l2/&gt; section for details.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T074814Z" creationid="Dick" creationdate="20230523T074814Z">
+        <seg>Bekijk het gedeelte &lt;l2/&gt; voor details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;u0&gt;Oracle documentation&lt;/u0&gt; for examples.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230517T085801Z" creationid="Dick" creationdate="20230517T085801Z">
@@ -80992,6 +81008,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T135922Z" creationid="Dick" creationdate="20190516T135922Z">
         <seg>U kunt het gedrag van OmegaT' aanpassen door de &lt;e0&gt;Eigenschappen&lt;/e0&gt; als ook het bestand &lt;f1&gt;Configuration.properties&lt;/f1&gt; in het pakket te bewerken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can modify the behaviour of OmegaT.app by editing the &lt;f0&gt;Configuration.properties&lt;/f0&gt; (OmegaT configuration) as well as the &lt;f1&gt;Info.plist&lt;/f1&gt; (Java configuration) files located inside the OmegaT.app package.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T075139Z" creationid="Dick" creationdate="20230523T075139Z">
+        <seg>U kunt het gedrag van OmegaT.app aanpassen door de bestanden &lt;f0&gt;Configuration.properties&lt;/f0&gt; (configuratie van OmegaT ) als ook &lt;f1&gt;Info.plist&lt;/f1&gt; (configuratie van Java), geplaatst in het pakket OmegaT.app te bewerken.</seg>
       </tuv>
     </tu>
     <tu>
