@@ -15781,6 +15781,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As information on those topics is readily available, this manual limits itself to describing their use in the context of an OmegaT team project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T123620Z" creationid="Dick" creationdate="20230523T123620Z">
+        <seg>Deze handleiding beperkt zich tot het beschrijven van hun gebruik in de context van een project van OmegaT team omdat informatie over deze onderwerpen reeds uitgebreid beschikbaar is.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As is so often the case with things technical (and things translation), there are catches.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120402T173720Z">
@@ -42924,6 +42932,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Managing a team project calls for some knowledge of either the &lt;e0&gt;SVN&lt;/e0&gt; or &lt;e1&gt;Git&lt;/e1&gt; version control system (&lt;e2&gt;VCS&lt;/e2&gt; in the rest of this section).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T123408Z" creationid="Dick" creationdate="20230523T123408Z">
+        <seg>Beheren van een teamproject vereist enige kennis van ofwel de&lt;e0&gt;SVN&lt;/e0&gt; of &lt;e1&gt;Git&lt;/e1&gt; versiesystemen (&lt;e2&gt;VCS&lt;/e2&gt; in de rest van dit gedeelte).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Manfred Martin</seg>
       </tuv>
       <tuv lang="nl">
@@ -58752,6 +58768,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142836Z">
         <seg>Stel een nieuw project in</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set up a team project</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T123218Z" creationid="Dick" creationdate="20230523T123141Z">
+        <seg>Instellen van een Teamproject</seg>
       </tuv>
     </tu>
     <tu>
@@ -77451,6 +77475,14 @@ De huidige instelling is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use a team project</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T123136Z" creationid="Dick" creationdate="20230523T123136Z">
+        <seg>[DG]Een Teamproject gebruiken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use all mine</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20140419T144438Z" creationid="Dirk" creationdate="20140419T144438Z">
@@ -79028,8 +79060,8 @@ searchable without subscription:</seg>
       <tuv lang="en">
         <seg>Warn: Show warnings without exiting if there are tag issues.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230523T122206Z" creationid="Dick" creationdate="20230523T122206Z">
-        <seg>Waarschuwen: Waarscuwingen weergeven zonder af te breken als er problemen met tags zijn.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T123210Z" creationid="Dick" creationdate="20230523T122206Z">
+        <seg>Waarschuwen: Waarschuwingen weergeven zonder af te breken als er problemen met tags zijn.</seg>
       </tuv>
     </tu>
     <tu>
