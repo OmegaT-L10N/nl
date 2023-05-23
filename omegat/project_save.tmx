@@ -44032,8 +44032,8 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       <tuv lang="en">
         <seg>Minimize the output shown on the command line.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230523T121903Z" creationid="Dick" creationdate="20230523T121903Z">
-        <seg>Minimaliseeer de uitvoer die wordt gegeven op de opdrachtregel.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T122316Z" creationid="Dick" creationdate="20230523T121903Z">
+        <seg>Minimaliseer de uitvoer die wordt gegeven op de opdrachtregel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45733,8 +45733,8 @@ measures.</seg>
       <tuv lang="en">
         <seg>Non-gui mode options:</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230523T121838Z" creationid="Dick" creationdate="20230523T121838Z">
-        <seg>Niet-gebrkersinterface modus-opties:</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T122312Z" creationid="Dick" creationdate="20230523T121838Z">
+        <seg>Niet-gebruikersinterface modus-opties:</seg>
       </tuv>
     </tu>
     <tu>
