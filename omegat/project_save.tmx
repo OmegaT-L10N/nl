@@ -23485,6 +23485,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Disable team project functionality.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T114116Z" creationid="Dick" creationdate="20230523T114116Z">
+        <seg>Schakel de functionaliteit voor teamproject uit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Disable this option if you prefer not to further segment the paragraphs.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T082036Z" creationid="Dick" creationdate="20230522T082036Z">
@@ -24649,6 +24657,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T114309Z" creationid="Dick" creationdate="20230522T114309Z">
         <seg>Download de versie &lt;e0&gt;Cross-platform without JRE&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download the OmegaT project from the URL specified in &lt;e0&gt;&lt;path-to-omegat-project-file&gt;&lt;/e0&gt;, and load it.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T113926Z" creationid="Dick" creationdate="20230523T113926Z">
+        <seg>Download het project van OmegaT vanaf de URL die is gespecificeerd in &lt;e0&gt;&lt;pad-naar-projectbestand-van-omegat&gt;&lt;/e0&gt;, and load it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -77283,6 +77299,14 @@ De huidige instelling is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use this option if you want to prevent OmegaT from synchronizing the project contents.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T114205Z" creationid="Dick" creationdate="20230523T114205Z">
+        <seg>Gebruik deze optie als u wilt voorkomen dat OmegaT de inhoud van het project synchroniseert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use this option to leave a non translated segment blank.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230519T144858Z" creationid="Dick" creationdate="20230518T091439Z">
@@ -90995,8 +91019,8 @@ create the configuration folder.</seg>
       <tuv lang="en">
         <seg>path to an omegat project</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230523T113734Z" creationid="Dick" creationdate="20230523T113622Z">
-        <seg>pad naar een project van OmegaTd</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T113821Z" creationid="Dick" creationdate="20230523T113622Z">
+        <seg>pad naar een project van omegat</seg>
       </tuv>
     </tu>
     <tu>
