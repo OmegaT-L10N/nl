@@ -33961,6 +33961,14 @@ copy of the Program in return for a fee.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the language is not available, OmegaT defaults to English even if the system uses a different default language.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T112747Z" creationid="Dick" creationdate="20230523T112747Z">
+        <seg>Als de taal niet beschikbaar is gebruikt OmegaT standaard Engels, zelfs als het systeem een andere standaardtaal gebruikt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the language of the user's system is not available, &lt;a6&gt;OmegaT&lt;/a6&gt; defaults to English.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142159Z">
@@ -54460,10 +54468,26 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace &lt;c0&gt;CC&lt;/c0&gt; with the desired two-letter country code from the &lt;u1&gt;ISO 3166-1 alpha-2&lt;/u1&gt; list.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T112825Z" creationid="Dick" creationdate="20230523T112825Z">
+        <seg>Vervang &lt;c0&gt;CC&lt;/c0&gt; door de gewenste twee-letterige taalcode van de lijst &lt;u1&gt;ISO 3166-1 alpha-2&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace &lt;c0&gt;COLOR_GREEN&lt;/c0&gt; with &lt;c1&gt;COLOR_BLUE&lt;/c1&gt; and &lt;c2&gt;192, 255, 192&lt;/c2&gt; with &lt;c3&gt;225, 225, 255&lt;/c3&gt;.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T160112Z" creationid="DiGro (Dick)" creationdate="20170915T160112Z">
         <seg>Vervang &lt;c0&gt;COLOR_GREEN&lt;/c0&gt; door &lt;c1&gt;COLOR_BLUE&lt;/c1&gt; en &lt;c2&gt;192, 255, 192&lt;/c2&gt; door &lt;c3&gt;225, 225, 255&lt;/c3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace &lt;c0&gt;LL&lt;/c0&gt; with the desired two-letter language code from the &lt;u1&gt;ISO 639.1&lt;/u1&gt; list.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T112552Z" creationid="Dick" creationdate="20230523T112552Z">
+        <seg>Vervang &lt;c0&gt;LL&lt;/c0&gt; door de gewenste twee-letterige taalcode van de lijst &lt;u1&gt;ISO 639.1&lt;/u1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66163,6 +66187,14 @@ to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>De lijst hieronder is &lt;s0&gt;geen&lt;/s0&gt; volledige lijst van alle bestandsindelingen die worden ondersteund door OmegaT, maar is beperkt to die welke in het bijzonder interessant zijn voor gewone gebruikers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The list below presents parameters for the &lt;c0&gt;java&lt;/c0&gt; command that can be useful when working with OmegaT.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T112453Z" creationid="Dick" creationdate="20230523T112453Z">
+        <seg>De lijst hieronder geeft de parameters weer voor de opdracht &lt;c0&gt;java&lt;/c0&gt; die nuttig kunnen zijn bij het gebruiken van OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -77876,6 +77908,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T111646Z" creationid="Dick" creationdate="20190516T111646Z">
         <seg>Door deze optie te gebruiken kan de vertaler specificeren of in de doelbestanden de declaratie voor de codering moet worden opgenomen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using this parameter launches OmegaT with the user interface in the specified language, if available (even partially).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T112657Z" creationid="Dick" creationdate="20230523T112657Z">
+        <seg>Gebruiken van deze parameter start OmegaT met de gebruikersinterface in de gespecificeerde taal, indien beschikbaar (zelfs gedeeltelijk).</seg>
       </tuv>
     </tu>
     <tu>
