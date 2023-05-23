@@ -5632,6 +5632,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;OmegaT options&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T112246Z" creationid="Dick" creationdate="20230523T112246Z">
+        <seg>&lt;opties voor OmegaT&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;User Home&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134927Z">
@@ -49978,6 +49986,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Optional parameters accepted by the &lt;c0&gt;java&lt;/c0&gt; command.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T112123Z" creationid="Dick" creationdate="20230523T112123Z">
+        <seg>Optionele parameters die worden geaccepteerd door de opdracht &lt;c0&gt;java&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Optionally, you can let &lt;a0&gt;OmegaT&lt;/a0&gt; have an additional tmx file (&lt;a1&gt;OmegaT&lt;/a1&gt;-style) anywhere you specify, containing all translatable segments of the project.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T173637Z">
@@ -66231,6 +66247,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The location of the OmegaT java executable.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T112232Z" creationid="Dick" creationdate="20230523T112232Z">
+        <seg>De locatie van het uitvoerbare Java-bestand van OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The location of the default configuration folder varies by system (the &lt;e0&gt;~&lt;/e0&gt; character represents your home folder):</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221221T143327Z" creationid="Dick" creationdate="20221221T143327Z">
@@ -66743,6 +66767,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The options specific to OmegaT are described &lt;l0&gt;later in this section&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T112352Z" creationid="Dick" creationdate="20230523T112352Z">
+        <seg>De specifieke opties voor OmegaT worden &lt;l0&gt;later in dit gedeelte&lt;/l0&gt; beschreven</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The original file is backed up as: {0}</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T102847Z" creationid="Dick" creationdate="20221220T102755Z">
@@ -66783,6 +66815,14 @@ content, constitutes a covered work.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230523T074548Z" creationid="Dick" creationdate="20230523T074548Z">
         <seg>Het pakket verschaft ook het &lt;f0&gt;omegat.kaptn&lt;/f0&gt; script voor Kaptain, dat gebruikers van KDE nuttig zouden kunnen vinden, als ook een &lt;f1&gt;OmegaT&lt;/f1&gt; bash-script dat automatisch de toepasselijke opdracht voor &lt;a2&gt;Java&lt;/a2&gt; start om OmegaT uit te voeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The parameters relevant to running OmegaT are described &lt;l1&gt;below&lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T112201Z" creationid="Dick" creationdate="20230523T112201Z">
+        <seg>De parameters die relevant zijn voor het uitvoeren van OmegaT worden &lt;l1&gt;hieronder&lt;/l1&gt; beschreven.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70463,6 +70503,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T145641Z">
         <seg>Deze opdracht werkt niet als het gewijzigde segment al is gevalideerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This command tells the Java Virtual Machine to run a Jar package.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T112055Z" creationid="Dick" creationdate="20230523T112055Z">
+        <seg>Deze opdracht vertelt de Java Virtual Machine om een Jar-pakket uit te voeren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -90781,6 +90829,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T103941Z">
         <seg>hoeft niet het volledige pad te worden ingevoerd.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>path/to/OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T112207Z" creationid="Dick" creationdate="20230523T112207Z">
+        <seg>pad/naar/OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
