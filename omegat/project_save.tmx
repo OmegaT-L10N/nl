@@ -43454,6 +43454,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Methods vary from one system to another, but in general, once OmegaT is installed, you can launch it directly from the command line.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T095141Z" creationid="Dick" creationdate="20230523T095141Z">
+        <seg>Methoden variëren van het ene systeem naar het andere, maar in het algemeen als OmegaT eenmaal is geïnstalleerd, kunt u het direct vanaf de opdrachtregel starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Michael Zakharov</seg>
       </tuv>
       <tuv lang="nl">
@@ -71993,6 +72001,14 @@ vanaf de server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will launch OmegaT with 6 GB of memory; change the &lt;l0&gt;6g&lt;/l0&gt; to the desired amount.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T094906Z" creationid="Dick" creationdate="20230523T094906Z">
+        <seg>Dit zal OmegaT starten met 6 GB geheugen; wijzig de &lt;l0&gt;6g&lt;/l0&gt; naar de gewenste hoeveelheid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will launch OmegaT with 6 GB of memory; change the &lt;l4&gt;6g&lt;/l4&gt; to the desired amount.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20200116T105630Z" creationid="Dick" creationdate="20200116T105630Z">
@@ -80571,6 +80587,14 @@ op het bureaublad en in het gebied voor snel starten om het van daaruit te koppe
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also use AppleScript, Automator or Shortcuts to create Services or scripts that will automate frequent actions.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T095009Z" creationid="Dick" creationdate="20230523T095009Z">
+        <seg>U kunt ook AppleScript, Automator of sneltoetsen gebruiken om Services of scripts te maken die acties die veel voorkomen te automatiseren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can apply it to</seg>
       </tuv>
       <tuv lang="nl">
@@ -80753,6 +80777,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142920Z">
         <seg>U kunt een nieuw project maken voor elke nieuwe taak en u kunt op elk moment nieuwe bronbestanden aan een project toevoegen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can create a script that includes the desired command line launch parameters.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T095240Z" creationid="Dick" creationdate="20230523T095240Z">
+        <seg>u kunt een script maken dat de gewenste parameters voor de opdrachtregel om te starten bevat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -83767,6 +83799,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T104059Z">
         <seg>maar ziet u uw naam niet op deze lijst, neem dan alstublieft contact met ons op.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>by removing the &lt;l0&gt;&lt;!--&lt;/l0&gt; and &lt;l1&gt;--&gt;&lt;/l1&gt; markers.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T094854Z" creationid="Dick" creationdate="20230523T094854Z">
+        <seg>door de markeringen &lt;l0&gt;&lt;!--&lt;/l0&gt; en &lt;l1&gt;--&gt;&lt;/l1&gt; te verwijderen.</seg>
       </tuv>
     </tu>
     <tu>
