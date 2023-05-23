@@ -21823,6 +21823,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create the project structure</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T124749Z" creationid="Dick" creationdate="20230523T124749Z">
+        <seg>Maak de structuur van het project</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create the target documents as usual and convert the file to Microsoft Word.</seg>
       </tuv>
       <tuv lang="nl">
@@ -28090,6 +28098,14 @@ Gossamer-drempel houdt u tegen
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134854Z">
         <seg>Bestanden in de map &lt;f7&gt;source&lt;/f7&gt;, of zij vertaald zijn of niet, worden dan hier gegenereerd, in dezelfde hiërarchie als die welke aanwezig is in de submap source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fill the empty local copy with a real OmegaT project</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T124737Z" creationid="Dick" creationdate="20230523T124737Z">
+        <seg>Vul d leke lokale kopie met een echt project van OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -34799,6 +34815,14 @@ where to find the applicable terms.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T150151Z" creationid="DiGro (Dick)" creationdate="20170915T150138Z">
         <seg>Indien u twijfelt over welke versie u moet downloaden kunt u &lt;a0&gt;Download selecteren&lt;/a0&gt; gebruiken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you are creating a new empty project, you can follow the &lt;l0&gt;GUI procedure&lt;/l0&gt;, or create it directly from the command line: &lt;c1&gt;java -jar OmegaT.jar team init &lt;source language&gt; &lt;target language&gt;&lt;/c1&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T124918Z" creationid="Dick" creationdate="20230523T124918Z">
+        <seg>Wanneer u een nieuw leeg project maakt kunt u de &lt;l0&gt;procedure voor de gebruikersinterface&lt;/l0&gt; volgen, of het direct maken vanaf de opdrachtregel: &lt;c1&gt;java -jar OmegaT.jar team init &lt;brontaal&gt; &lt;doeltaal&gt;&lt;/c1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -71195,6 +71219,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This command also automatically registers the project in the version control system.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T125005Z" creationid="Dick" creationdate="20230523T125005Z">
+        <seg>Deze opdracht registreert ook automatisch het project in het versiesysteem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This command changes the folder to the folder containing the executable &lt;a0&gt;OmegaT&lt;/a0&gt; file.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T141936Z">
@@ -77653,8 +77685,8 @@ De huidige instelling is {0}MB;</seg>
       <tuv lang="en">
         <seg>Use it to make modifications that affect the entire team.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230523T124404Z" creationid="Dick" creationdate="20230523T124224Z">
-        <seg>Gebruki het om aanpassingen te maken die betrekking hebben op het gehele team.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T124622Z" creationid="Dick" creationdate="20230523T124224Z">
+        <seg>Gebruik het om aanpassingen te maken die betrekking hebben op het gehele team.</seg>
       </tuv>
     </tu>
     <tu>
