@@ -9006,6 +9006,30 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;o0&gt;--ITokenizer=&lt;/o0&gt;&lt;u1&gt;&lt;classname&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T114620Z" creationid="Dick" creationdate="20230523T114620Z">
+        <seg>&lt;o0&gt;--ITokenizer=&lt;/o0&gt;&lt;u1&gt;&lt;klassenaam&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;o0&gt;--ITokenizerTarget=&lt;/o0&gt;&lt;u1&gt;&lt;classname&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T114631Z" creationid="Dick" creationdate="20230523T114631Z">
+        <seg>&lt;o0&gt;--ITokenizerTarget=&lt;/o0&gt;&lt;u1&gt;&lt;klassenaam&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;o0&gt;--config-file=&lt;/o0&gt;&lt;u1&gt;&lt;path&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T114803Z" creationid="Dick" creationdate="20230523T114803Z">
+        <seg>&lt;o0&gt;--config-file=&lt;/o0&gt;&lt;u1&gt;&lt;pad&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;o0&gt;--remote-project&lt;/o0&gt; &lt;u1&gt;&lt;path-to-omegat-project-file&gt;&lt;/u1&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230523T113812Z" creationid="Dick" creationdate="20230523T113812Z">
@@ -11857,6 +11881,14 @@ consequence of further modification of the contributor version.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T171931Z">
         <seg>Een bestand zou geen overeenkomende items kunnen hebben, dus ziet het er leeg uit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A file written in the Java .properties format used to specify a batch of command line options.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T114908Z" creationid="Dick" creationdate="20230523T114908Z">
+        <seg>Een bestand, dat is geschreven in de indeling voor Java .properties, gebruikt om een batch van opties voor de opdrachtregel te specificeren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60234,6 +60266,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specify a source- or target-language tokenizer (using this option overrides project settings).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T114727Z" creationid="Dick" creationdate="20230523T114727Z">
+        <seg>Specificeer een bron- of doeltaal tokenizer (gebruiken van deze optie overschrijft de instellingen voor het project).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specify commands that are executed after the &lt;g0&gt;Create Translated Documents&lt;/g0&gt; command.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T120404Z" creationid="Dick" creationdate="20190516T120404Z">
@@ -65544,6 +65584,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The folder used to read and write OmegaT configuration files.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T114756Z" creationid="Dick" creationdate="20230523T114756Z">
+        <seg>De map die wordt gebruikt voor het lezen of schrijven naar Omegat configuratie-bestanden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The folder where distributed scripts are located.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221221T141944Z" creationid="Dick" creationdate="20221221T141914Z">
@@ -66931,6 +66979,14 @@ to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210220T132131Z" creationid="Dick" creationdate="20210220T132131Z">
         <seg>De optie verschijnt alleen als een dergelijke selectie mogelijk is.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The options are presented as a list of &lt;p0&gt;key=value&lt;/p0&gt; pairs.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T114958Z" creationid="Dick" creationdate="20230523T114958Z">
+        <seg>De opties worden weergegeven als een lijst van paren van &lt;p0&gt;sleutel=waarde&lt;/p0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
