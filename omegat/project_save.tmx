@@ -9022,6 +9022,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;o0&gt;--alignDir=&lt;/o0&gt;&lt;u1&gt;&lt;project path&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T121048Z" creationid="Dick" creationdate="20230523T121048Z">
+        <seg>&lt;o0&gt;--alignDir=&lt;/o0&gt;&lt;u1&gt;&lt;projectpad&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;o0&gt;--config-file=&lt;/o0&gt;&lt;u1&gt;&lt;path&gt;&lt;/u1&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230523T114803Z" creationid="Dick" creationdate="20230523T114803Z">
@@ -9038,10 +9046,34 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;o0&gt;--mode=console-align&lt;/o0&gt; &lt;u1&gt;&lt;project path&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T120914Z" creationid="Dick" creationdate="20230523T120914Z">
+        <seg>&lt;o0&gt;--mode=console-align&lt;/o0&gt; &lt;u1&gt;&lt;projectpad&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;o0&gt;--mode=console-createpseudotranslatetmx&lt;/o0&gt; &lt;u1&gt;&lt;project path&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T120711Z" creationid="Dick" creationdate="20230523T120711Z">
+        <seg>&lt;o0&gt;--mode=console-createpseudotranslatetmx&lt;/o0&gt; &lt;u1&gt;&lt;projectpad&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;o0&gt;--mode=console-translate&lt;/o0&gt; &lt;u1&gt;&lt;project path&gt;&lt;/u1&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230523T115958Z" creationid="Dick" creationdate="20230523T115958Z">
         <seg>&lt;o0&gt;--mode=console-translate&lt;/o0&gt; &lt;u1&gt;&lt;projectpad&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;o0&gt;--pseudotranslatetmx=&lt;/o0&gt;&lt;u1&gt;&lt;path&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T120805Z" creationid="Dick" creationdate="20230523T120805Z">
+        <seg>&lt;o0&gt;--pseudotranslatetmx=&lt;/o0&gt;&lt;u1&gt;&lt;pad&gt;&lt;/u1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -37544,6 +37576,14 @@ sue for patent infringement).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this mode OmegaT will create a TMX for the whole project using only the source files.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T120738Z" creationid="Dick" creationdate="20230523T120738Z">
+        <seg>In deze modus zal OmegaT een TMX voor het gehele project maken, alleen gebaseerd op de bronbestanden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this mode OmegaT will create a TMX for the whole project, based on the source files only.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142510Z">
@@ -37588,6 +37628,14 @@ sue for patent infringement).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142518Z">
         <seg>In deze modus zal OmegaT het bestand met de Java-eigenschappen die zijn gevonden in de map&lt;l0&gt; /source/ &lt;/l0&gt; van het project vergelijken met de inhoud op de opgegeven locatie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this mode, OmegaT will align the files in the /source folder of the project with those at the location specified by the &lt;e0&gt;--alignDir&lt;/e0&gt; parameter below.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T121031Z" creationid="Dick" creationdate="20230523T121031Z">
+        <seg>In deze modus zal OmegaT bestanden, gevonden in de map /source van het project, vergelijken met die op de met de parameter &lt;e0&gt;--alignDir&lt;/e0&gt; hieronder gespecificeerde locatie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60442,6 +60490,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specify the TMX file to create with:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T120759Z" creationid="Dick" creationdate="20230523T120759Z">
+        <seg>Specificeer het TMX/bestand moet worden gemaakt met:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specify the encoding for your plain text files</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T165840Z">
@@ -67211,6 +67267,14 @@ content, constitutes a covered work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The output pseudotranslated TMX file.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T120835Z" creationid="Dick" creationdate="20230523T120835Z">
+        <seg>Het uitgevoerde pseudotranslated TMX-bestand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The package also provides the &lt;f0&gt;omegat.kaptn&lt;/f0&gt; Kaptain script, which KDE users might find useful, as well as an &lt;f1&gt;OmegaT&lt;/f1&gt; bash script that automatically launches the appropriate &lt;a2&gt;java&lt;/a2&gt; command to run OmegaT.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230523T074548Z" creationid="Dick" creationdate="20230523T074548Z">
@@ -67255,6 +67319,14 @@ content, constitutes a covered work.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T125456Z" creationid="Dirk" creationdate="20170914T125456Z">
         <seg>De wachtwoorden komen niet overeen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The path containing the files translated in the target language.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T121133Z" creationid="Dick" creationdate="20230523T121133Z">
+        <seg>Het pad dat de vertaalde bestanden in de doeltaal bevat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -79039,6 +79111,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230519T134100Z" creationid="Dick" creationdate="20230519T134100Z">
         <seg>Wat is de ontbrekende letter?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What to fill the pseudotranslated TMX with.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T120906Z" creationid="Dick" creationdate="20230523T120906Z">
+        <seg>Waarmee de pseudotranslated TMX moet worden gevuld.</seg>
       </tuv>
     </tu>
     <tu>
