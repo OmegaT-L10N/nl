@@ -4553,9 +4553,9 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
 	  --source-pattern=&lt;pattern&gt;
 	    A regex whitelist of source files to process.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20221215T150123Z" creationid="Dick" creationdate="20221215T150123Z">
+      <tuv lang="nl" changeid="Dick" changedate="20230523T122446Z" creationid="Dick" creationdate="20221215T150123Z">
         <seg>--mode=console-translate
-	  --source-pattern=&lt;pattroon&gt;
+	  --source-pattern=&lt;patroon&gt;
 	    Een regex whitelist van te verwerken bronbestanden.</seg>
       </tuv>
     </tu>
