@@ -48005,6 +48005,14 @@ be launched.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT options</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T113330Z" creationid="Dick" creationdate="20230523T113330Z">
+        <seg>Opties voor OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT options:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221214T143014Z" creationid="Dick" creationdate="20221214T143014Z">
@@ -54536,6 +54544,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T174042Z">
         <seg>Vervang &lt;l0&gt;&lt;bestandsnaam&gt;&lt;/l0&gt; door de naam van het bestand dat u wilt maken, ofwel absoluut of relatief naar de werkmap (de map van waaruit u &lt;a1&gt;OmegaT&lt;/a1&gt; start).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace &lt;o0&gt;&lt;port number&gt;&lt;/o0&gt; with the port number your system uses to access the proxy server.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T113324Z" creationid="Dick" creationdate="20230523T113324Z">
+        <seg>Vervang &lt;o0&gt;&lt;port number&gt;&lt;/o0&gt; door het poortnummer dat uw systeem gebrukt om toegang te krijgen tot de proxyserver.</seg>
       </tuv>
     </tu>
     <tu>
