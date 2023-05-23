@@ -38814,6 +38814,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is also possible to use &lt;f0&gt;OmegaT.app&lt;/f0&gt; itself to launch OmegaT from the terminal.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T094316Z" creationid="Dick" creationdate="20230523T094316Z">
+        <seg>Het is ook mogelijk om &lt;f0&gt;OmegaT.app&lt;/f0&gt; zelf te gebruiken om OmegaT vanaf de opdrachtregel te starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is also worth asking on the &lt;a1&gt;localizers' list&lt;/a1&gt; (OmT-l10n) whether anyone has any reference material which might facilitate your translation.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131227T171721Z" creationid="Dirk" creationdate="20131227T171721Z">
@@ -56796,6 +56804,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l1/&gt; section below for details.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T094337Z" creationid="Dick" creationdate="20230523T094337Z">
+        <seg>Bekijk het gedeelte &lt;l1/&gt; hieronder voor details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l1/&gt; section.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T122441Z" creationid="Dick" creationdate="20230522T122441Z">
@@ -72282,8 +72298,8 @@ computer or modifying a private copy.</seg>
       <tuv lang="en">
         <seg>To access the files inside the &lt;f0&gt;OmegaT.app&lt;/f0&gt; package, right-click on &lt;f1&gt;OmegaT.app&lt;/f1&gt; and select “Show Package Contents”.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230523T075504Z" creationid="Dick" creationdate="20230523T075504Z">
-        <seg>Klik met rechts op &lt;f1&gt;OmegaT.app&lt;/f1&gt; en selecteer “Pakketinhoud weergeven”, om toegang te krijgen tot de bestanden binnen het pakket &lt;f0&gt;OmegaT.app&lt;/f0&gt;.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T094216Z" creationid="Dick" creationdate="20230523T075504Z">
+        <seg>Klik, om toegang te krijgen tot de bestanden binnen het pakket &lt;f0&gt;OmegaT.app&lt;/f0&gt;, met rechts op &lt;f1&gt;OmegaT.app&lt;/f1&gt; en selecteer “Pakketinhoud weergeven”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76895,6 +76911,14 @@ De huidige instelling is {0}MB;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T122648Z" creationid="Dick" creationdate="20230522T122648Z">
         <seg>Gebruik de standaard procedure voor uw besturingssysteem om OmegaT te verwijderen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use your text editor of choice to modify the files.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T094400Z" creationid="Dick" creationdate="20230523T094400Z">
+        <seg>Gebruik uw tekstbewerker naar keuze om de bestanden aan te passen.</seg>
       </tuv>
     </tu>
     <tu>
