@@ -9038,6 +9038,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;o0&gt;--mode=console-translate&lt;/o0&gt; &lt;u1&gt;&lt;project path&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T115958Z" creationid="Dick" creationdate="20230523T115958Z">
+        <seg>&lt;o0&gt;--mode=console-translate&lt;/o0&gt; &lt;u1&gt;&lt;projectpad&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;o0&gt;--remote-project&lt;/o0&gt; &lt;u1&gt;&lt;path-to-omegat-project-file&gt;&lt;/u1&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230523T113812Z" creationid="Dick" creationdate="20230523T113812Z">
@@ -9050,6 +9058,14 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230523T115750Z" creationid="Dick" creationdate="20230523T115750Z">
         <seg>&lt;o0&gt;--resource-bundle=&lt;/o0&gt;&lt;u1&gt;&lt;pad&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;o0&gt;--source-pattern=&lt;/o0&gt;&lt;u1&gt;&lt;pattern&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T120126Z" creationid="Dick" creationdate="20230523T120126Z">
+        <seg>&lt;o0&gt;--source-pattern=&lt;/o0&gt;&lt;u1&gt;&lt;patroon&gt;&lt;/u1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14617,6 +14633,14 @@ organization, or merging organizations.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T092141Z" creationid="Dick" creationdate="20230522T092141Z">
         <seg>Een vertaalproject van OmegaT bestaat uit een aantal bronnen in afzonderlijke mappen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An allowlist of regular expressions defining the source files to process.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T120233Z" creationid="Dick" creationdate="20230523T120233Z">
+        <seg>Een lijst van toegestane reguliere expressies die de te verwerken bronbestanden definieert.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37520,6 +37544,14 @@ sue for patent infringement).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this mode, OmegaT attempts to translate the files in the source folder with the available translation memories.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T120022Z" creationid="Dick" creationdate="20230523T120022Z">
+        <seg>In deze modus zal OmegaT proberen om de bestanden in de map source te vertalen met de beschikbare vertaalgeheugens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this mode, OmegaT will align files found in the &lt;f0&gt;/source/&lt;/f0&gt; folder of the project with the contents found at the specified location.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20200725T120255Z" creationid="Dick" creationdate="20200725T120255Z">
@@ -54084,6 +54116,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remember that in regular expressions, the period and backslash character must be escaped: &lt;c0&gt;\.&lt;/c0&gt; and &lt;c1&gt;\\&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T120421Z" creationid="Dick" creationdate="20230523T120421Z">
+        <seg>Onthoud dat in reguliere expressies de tekens punt en backslash moeten worden geëscaped: &lt;c0&gt;\.&lt;/c0&gt; en &lt;c1&gt;\\&lt;/c1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remember that most &lt;e0&gt;alphabetic&lt;/e0&gt; characters preceded by a &lt;l1&gt;\&lt;/l1&gt; turn into an expression that represents &lt;e2&gt;not the character itself, but its associated special meaning&lt;/e2&gt;.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230520T085022Z" creationid="Dick" creationdate="20230520T085022Z">
@@ -60330,6 +60370,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specify a mode other than the GUI default.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T115937Z" creationid="Dick" creationdate="20230523T115937Z">
+        <seg>Specificeer een andere modus dan de standaard voor de gebruikersinterface.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specify a source- or target-language tokenizer (using this option overrides project settings).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230523T114727Z" creationid="Dick" creationdate="20230523T114727Z">
@@ -65748,6 +65796,14 @@ instead.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20140419T143329Z" creationid="Dirk" creationdate="20140419T143329Z">
         <seg>De volgende opties zijn alleen van toepassing op het filter van 3.x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following options are available:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T115950Z" creationid="Dick" creationdate="20230523T115950Z">
+        <seg>De volgende opties zijn beschikbaar:</seg>
       </tuv>
     </tu>
     <tu>
@@ -71745,6 +71801,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T133552Z">
         <seg>Dit is handig als teksten veel handelsnamen en andere woorden met hoofdletters bevat die intact gelaten moeten worden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is useful if OmegaT is run on a server with TMX files automatically fed to a project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T120107Z" creationid="Dick" creationdate="20230523T120107Z">
+        <seg>Dit is handig als OmegaT wordt uitgevoerd op een server waarmee TMX-bestanden automatisch worden toegevoegd aan het project.</seg>
       </tuv>
     </tu>
     <tu>
