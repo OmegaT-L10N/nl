@@ -3063,6 +3063,14 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(This can vary depending on your distribution.)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T101152Z" creationid="Dick" creationdate="20230523T101152Z">
+        <seg>(Dit kan variëren, afhankelijk van uw distributie.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(This incidentally is a limitation of Java, not of OmegaT itself.)</seg>
       </tuv>
       <tuv lang="nl">
@@ -31512,6 +31520,14 @@ Het is er wintertijd voor</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Here are the default OmegaT.jar locations for each major platform:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T101113Z" creationid="Dick" creationdate="20230523T101113Z">
+        <seg>Hier zijn de standaard locaties voor OmegaT.jar voor elk belangrijk platform:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Here is a short summary of the chapters and their contents.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T124950Z">
@@ -42268,6 +42284,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Macos</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T101120Z" creationid="Dick" creationdate="20230523T101120Z">
+        <seg>macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Magento CE Locale CSV</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20130601T175604Z">
@@ -48702,6 +48726,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T141921Z">
         <seg>Op Windows wordt het een "MS-DOSvenster" genoemd en is het beschikbaar via het menu Start, in Alle programma's → Bureau-accessoires, via het item "Opdrachtprompt".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On Windows, the &lt;c0&gt;\&lt;/c0&gt; character is used to separate folder and file names, while macOS and Linux use the &lt;c1&gt;/&lt;/c1&gt; to do so.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T101042Z" creationid="Dick" creationdate="20230523T101042Z">
+        <seg>Op Windows wordt het teken &lt;c0&gt;\&lt;/c0&gt; gebruikt om map- en bestandsnamen te scheiden, terwijl macOS en Linux het teken &lt;c1&gt;/&lt;/c1&gt; gebruiken om dat te doen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68057,6 +68089,14 @@ earlier work or a work "based on" the earlier work.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T172043Z">
         <seg>De syntaxis van het taalpatroon komt overeen met de syntaxis voor reguliere uitdrukkingen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The syntax used to specify the location of an application or folder depends on the platform.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T100939Z" creationid="Dick" creationdate="20230523T100939Z">
+        <seg>De syntaxis die wordt gebruikt voor het specificeren van de locatie van een toepassing of map is afhankelijk van het platform.</seg>
       </tuv>
     </tu>
     <tu>
