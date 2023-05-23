@@ -9030,10 +9030,26 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;o0&gt;--mode=[console mode name]&lt;/o0&gt; &lt;u1&gt;&lt;project path&gt;&lt;/u1&gt; &lt;u2&gt;&lt;mode option&gt;&lt;/u2&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T115905Z" creationid="Dick" creationdate="20230523T115905Z">
+        <seg>&lt;o0&gt;--mode=[console modusnaam]&lt;/o0&gt; &lt;u1&gt;&lt;projectpad&gt;&lt;/u1&gt; &lt;u2&gt;&lt;optie modus&gt;&lt;/u2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;o0&gt;--remote-project&lt;/o0&gt; &lt;u1&gt;&lt;path-to-omegat-project-file&gt;&lt;/u1&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230523T113812Z" creationid="Dick" creationdate="20230523T113812Z">
         <seg>&lt;o0&gt;--remote-project&lt;/o0&gt; &lt;u1&gt;&lt;pad-naar-projectbestand-van-omegat&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;o0&gt;--resource-bundle=&lt;/o0&gt;&lt;u1&gt;&lt;path&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T115750Z" creationid="Dick" creationdate="20230523T115750Z">
+        <seg>&lt;o0&gt;--resource-bundle=&lt;/o0&gt;&lt;u1&gt;&lt;pad&gt;&lt;/u1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11635,6 +11651,14 @@ on the Program.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T172739Z" creationid="Dirk" creationdate="20131225T172739Z">
         <seg>Een persbericht van de Europese Commissie (in indeling .odt) in OmegaT en daaronder de directe doeltekst weergegeven in Opera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A Java .properties file to use for interface text.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T115829Z" creationid="Dick" creationdate="20230523T115829Z">
+        <seg>Een bestand voor Java .properties om te gebruiken voor de tekst van de interface.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36978,6 +37002,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In such cases, options defined in the config file take precedence over any option with duplicate functionality also passed on the command line.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T115745Z" creationid="Dick" creationdate="20230523T115745Z">
+        <seg>In dergelijk gevallen hebben de opties die zijn gedefinieerd in het bestand config voorrang boven elke optie met gedupliceerde functionaliteit die ook wordt doorgegeven op de opdrachtregel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In that case, each paragraph (as defined in the original document format) is displayed as a single segment, and the translator is free to reorganize the sentences within the segment in the translation.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221218T140610Z" creationid="Dick" creationdate="20221218T140610Z">
@@ -39146,6 +39178,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120402T175222Z">
         <seg>Het is in het bijzonder gericht op gebruikers voor wie Linux nieuw is.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is possible to combine &lt;c0&gt;--config-file&lt;/c0&gt; with other command line options compatible with launching the GUI.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T115602Z" creationid="Dick" creationdate="20230523T115602Z">
+        <seg>Het is mogelijk &lt;c0&gt;--config-file&lt;/c0&gt; te combineren met andere opties voor de opdrachtregel die compatibel zijn met het starten van de gebruikersinterface.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66899,6 +66939,14 @@ to take away your freedom to share and change the works.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230521T090507Z" creationid="Dick" creationdate="20230521T090507Z">
         <seg>De volgende keer dat u OmegaT opstart, zou uw nieuwe sneltoets actief moeten zijn en worden weergegeven na de naam van de functie in het menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The notable exception is &lt;c0&gt;remote-project&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T115512Z" creationid="Dick" creationdate="20230523T115512Z">
+        <seg>De vermeldenswaardige uitzondering is &lt;c0&gt;remote-project&lt;/c0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
