@@ -16881,6 +16881,14 @@ Neem nog een biertje.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Both are available from the &lt;g2&gt;System Tools&lt;/g2&gt; folder of the &lt;g3&gt;Start Menu&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T100457Z" creationid="Dick" creationdate="20230523T100457Z">
+        <seg>Beide zijn beschikbaar vanuit de map &lt;g2&gt;System Tools&lt;/g2&gt; van het &lt;g3&gt;menu Start&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Both are free, available for a number of different platforms, and can convert .docx and .odt files to .html format.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T160312Z" creationid="Dirk" creationdate="20131225T160312Z">
@@ -29427,6 +29435,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120401T142236Z">
         <seg>Gemakshalve zal er naar verwezen worden als "MS Office 2007-bestandsindelingen".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For the sake of simplicity, this manual refers to it as the terminal.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T100103Z" creationid="Dick" creationdate="20230523T100103Z">
+        <seg>Gemakshalve zal er in deze handleiding naar verwezen worden als de terminal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48670,6 +48686,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T141921Z">
         <seg>Op Windows wordt het een "MS-DOSvenster" genoemd en is het beschikbaar via het menu Start, in Alle programma's → Bureau-accessoires, via het item "Opdrachtprompt".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On Windows, you can use either the &lt;a0&gt;Command Prompt&lt;/a0&gt; or &lt;a1&gt;Powershell&lt;/a1&gt; as a terminal.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T100155Z" creationid="Dick" creationdate="20230523T100155Z">
+        <seg>Op Windows kunt u ofwel de &lt;a0&gt;Command Prompt&lt;/a0&gt; of &lt;a1&gt;Powershell&lt;/a1&gt; gebruiken als een terminal.</seg>
       </tuv>
     </tu>
     <tu>
