@@ -62664,6 +62664,22 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;f0&gt;Configuration.properties&lt;/f0&gt; file is located in the &lt;f1&gt;Contents/Resources/&lt;/f1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T075212Z" creationid="Dick" creationdate="20230523T075212Z">
+        <seg>Het bestand &lt;f0&gt;Configuration.properties&lt;/f0&gt; is geplaatst in de map &lt;f1&gt;Contents/Resources/&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Info.plist&lt;/f0&gt; file is located in the &lt;f1&gt;Contents/&lt;/f1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T075244Z" creationid="Dick" creationdate="20230523T075244Z">
+        <seg>Het bestand &lt;f0&gt;Info.plist&lt;/f0&gt; is geplaatst in de map &lt;f1&gt;Contents/&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;f0&gt;omegat&lt;/f0&gt; subfolder contains at least one and possibly several other files.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T135215Z" creationid="Dick" creationdate="20211118T135215Z">
@@ -72260,6 +72276,14 @@ computer or modifying a private copy.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T172242Z" creationid="Dirk" creationdate="20160910T172242Z">
         <seg>Een gebruiker moet, om toegang te krijgen tot het private gedeelte, een sleutel maken met behulp van https://demo.taas-project.eu/account/keys/create?system=omegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To access the files inside the &lt;f0&gt;OmegaT.app&lt;/f0&gt; package, right-click on &lt;f1&gt;OmegaT.app&lt;/f1&gt; and select “Show Package Contents”.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T075504Z" creationid="Dick" creationdate="20230523T075504Z">
+        <seg>Klik met rechts op &lt;f1&gt;OmegaT.app&lt;/f1&gt; en selecteer “Pakketinhoud weergeven”, om toegang te krijgen tot de bestanden binnen het pakket &lt;f0&gt;OmegaT.app&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
