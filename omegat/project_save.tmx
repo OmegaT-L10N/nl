@@ -19807,6 +19807,14 @@ OmegaT gebruikt de volgende bibliotheken:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Command syntax</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T111808Z" creationid="Dick" creationdate="20230523T111808Z">
+        <seg>Syntaxis voor opdrachten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Command:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T131255Z" creationid="Dirk" creationdate="20170914T131255Z">
@@ -48754,6 +48762,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On macOS, it is also possible to use &lt;f0&gt;OmegaT.app&lt;/f0&gt; directly in the terminal, in which case java parameters cannot be added:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T111945Z" creationid="Dick" creationdate="20230523T111945Z">
+        <seg>Op macOS is het ook mogelijk om direct &lt;f0&gt;OmegaT.app&lt;/f0&gt; in de terminal te gebruiken, in welke geval geen parameters voor Java kunnen worden toegevoegd:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On macOS: &lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt;&lt;k2&gt;Command&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230521T082228Z" creationid="Dick" creationdate="20230521T082228Z">
@@ -54514,6 +54530,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T093153Z" creationid="Dick" creationdate="20190516T093153Z">
         <seg>Hits in woordenlijst vervangen bij invoegen brontekst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace it with the actual location of the file on your system.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T111800Z" creationid="Dick" creationdate="20230523T111800Z">
+        <seg>Vervang het door de feitelijke locatie van het bestand op uw systeem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62436,6 +62460,14 @@ Het bereik van een tekstvervanging zijn de doelsegmenten van het project, of zij
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That location is presented as &lt;f0&gt;path/to/OmegaT.jar&lt;/f0&gt; in this chapter.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T111724Z" creationid="Dick" creationdate="20230523T111724Z">
+        <seg>Die locatie wordt in dit hoofdstuk weergegeven als &lt;f0&gt;pad/naar/OmegaT.jar&lt;/f0&gt; in this chapter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That means that if you feel so inclined, you may modify OmegaT to suit your own requirements.</seg>
       </tuv>
       <tuv lang="nl">
@@ -68089,6 +68121,14 @@ earlier work or a work "based on" the earlier work.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T172043Z">
         <seg>De syntaxis van het taalpatroon komt overeen met de syntaxis voor reguliere uitdrukkingen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The syntax to launch OmegaT from the terminal is:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T111832Z" creationid="Dick" creationdate="20230523T111832Z">
+        <seg>De syntaxis om OmegaT vanuit de terminal te starten is:</seg>
       </tuv>
     </tu>
     <tu>
@@ -88015,6 +88055,14 @@ create the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>java -jar &lt;java parameters&gt; path/to/OmegaT.jar &lt;OmegaT options&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T111846Z" creationid="Dick" creationdate="20230523T111846Z">
+        <seg>java -jar &lt;java parameters&gt; pad/naar/OmegaT.jar &lt;OmegaT opties&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>java -jar OmegaT.jar</seg>
       </tuv>
       <tuv lang="nl">
@@ -89931,6 +89979,16 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T133025Z" creationid="Dirk" creationdate="20160910T125623Z">
         <seg>open dialoogvenster Auto-aanvullen met contextuele suggesties (Mac: &lt;e0&gt;Esc&lt;/e0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>open path/to/OmegaT.app
+		-n --args &lt;OmegaT options&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T111959Z" creationid="Dick" creationdate="20230523T111959Z">
+        <seg>open pad/naar/OmegaT.app
+		-n --args &lt;OmegaT opties&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -94165,6 +94223,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T130601Z" creationid="Dick" creationdate="20211118T130601Z">
         <seg>waar &lt;p0&gt;map&lt;/p0&gt; de naam is van de map, met het complete pad, waarin uw OmegaT-programma - specifiek het bestand &lt;f1&gt;OmegaT.jar&lt;/f1&gt; - is geplaatst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>where &lt;u0&gt;-n&lt;/u0&gt; is used to create a new instance of OmegaT.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T112022Z" creationid="Dick" creationdate="20230523T112022Z">
+        <seg>waar &lt;u0&gt;-n&lt;/u0&gt; wordt gebruikt om een nieuwe instantie van OmegaT te maken.</seg>
       </tuv>
     </tu>
     <tu>
