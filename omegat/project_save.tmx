@@ -16937,6 +16937,14 @@ Neem nog een biertje.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Both Java parameters and OmegaT options can be used.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T115040Z" creationid="Dick" creationdate="20230523T115040Z">
+        <seg>Zowel parameters voor Java als opties voor OmegaT mogen worden gebruikt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Both are available from the &lt;g2&gt;System Tools&lt;/g2&gt; folder of the &lt;g3&gt;Start Menu&lt;/g3&gt;.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230523T100519Z" creationid="Dick" creationdate="20230523T100457Z">
