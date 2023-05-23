@@ -33669,6 +33669,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If that variant is not available, the user interface follows the same priority as above.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T113018Z" creationid="Dick" creationdate="20230523T113018Z">
+        <seg>Als die variant niet beschikbaar is, volgt de gebruikersinterface dezelfde prioriteit als hierboven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the</seg>
       </tuv>
       <tuv lang="nl">
@@ -43380,6 +43388,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Maximum memory assignment</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T113032Z" creationid="Dick" creationdate="20230523T113032Z">
+        <seg>Toewijzen maximum geheugen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Maximum number of finds has been reached ({0})</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T190254Z">
@@ -52992,6 +53008,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Proxy host ip address</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T113152Z" creationid="Dick" creationdate="20230523T113152Z">
+        <seg>Proxy host IP-adres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Proxy host port number</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142245Z">
@@ -54468,6 +54492,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace &lt;c0&gt;&lt;proxy IP&gt;&lt;/c0&gt; with the IP address of your proxy server, if your system uses one.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T113232Z" creationid="Dick" creationdate="20230523T113232Z">
+        <seg>Vervang &lt;c0&gt;&lt;proxy IP&gt;&lt;/c0&gt; door het IP-adres van uw proxyserver, als uw systeem er een gebruikt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace &lt;c0&gt;CC&lt;/c0&gt; with the desired two-letter country code from the &lt;u1&gt;ISO 3166-1 alpha-2&lt;/u1&gt; list.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230523T112825Z" creationid="Dick" creationdate="20230523T112825Z">
@@ -54488,6 +54520,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230523T112552Z" creationid="Dick" creationdate="20230523T112552Z">
         <seg>Vervang &lt;c0&gt;LL&lt;/c0&gt; door de gewenste twee-letterige taalcode van de lijst &lt;u1&gt;ISO 639.1&lt;/u1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace &lt;c0&gt;SIZE&lt;/c0&gt; with a number consisting of a multiple of 1024 followed by &lt;c1&gt;k&lt;/c1&gt; for kilobytes, &lt;c2&gt;m&lt;/c2&gt; for megabytes, or &lt;c3&gt;g&lt;/c3&gt; for gigabytes.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T113126Z" creationid="Dick" creationdate="20230523T113126Z">
+        <seg>Vervang &lt;c0&gt;SIZE&lt;/c0&gt; door een getal dat bestaat uit een veelvoud van 1024, gevolgd door &lt;c1&gt;k&lt;/c1&gt; voor kilobytes, &lt;c2&gt;m&lt;/c2&gt; voor megabytes, of &lt;c3&gt;g&lt;/c3&gt; voor gigabytes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66687,6 +66727,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The number must correspond to at least 2 MB.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T113146Z" creationid="Dick" creationdate="20230523T113146Z">
+        <seg>Het getal moet corresponderen met tenminste 2 MB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The number of unique segments, if needed, is provided in the standard statistics window, regardless of whether they have been translated or not.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T100037Z">
@@ -71841,6 +71889,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T094450Z" creationid="Dick" creationdate="20190516T094450Z">
         <seg>Deze pagina stelt u in staat verschillende kleuren te kiezen voor elk deel van de gebruikersinterface.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This parameter combines with the previous user interface language parameter to specify a regional variant.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T112928Z" creationid="Dick" creationdate="20230523T112928Z">
+        <seg>Deze parameter gecombineerd met de eerdere parameter voor de gebruikersinterface om een regionale variant te specificeren.</seg>
       </tuv>
     </tu>
     <tu>
