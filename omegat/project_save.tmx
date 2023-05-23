@@ -29355,6 +29355,14 @@ sale, or importing the Program or any portion of it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For instance, if the project is EN-to-FR, the specified folder must contain a bundle ending with &lt;f0&gt;_fr&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T121237Z" creationid="Dick" creationdate="20230523T121237Z">
+        <seg>Als, bijvoorbeeld, het project EN-naar-FR is, moet de gespecificeerde map een bundel hebben die eindigt op &lt;f0&gt;_fr&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For instance, if you are translating from Chinese to Dutch, try:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131228T123837Z" creationid="Dirk" creationdate="20131228T123837Z">
@@ -61384,6 +61392,14 @@ address new problems or concerns.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Supported filters include: ILIAS Language File, Java(TM) Resource Bundles, Key=Value Text, Magento CE Locale CSV, MoodlePHP, Mozilla DTD, Mozilla FTL, PO, RC, SubRip Subtitles, and Windows Resources.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T121507Z" creationid="Dick" creationdate="20230523T121507Z">
+        <seg>Enkele ondersteunde filters omvatten: ILIAS Language File, Java(TM) Resource Bundles, Key=Value Text, Magento CE Locale CSV, MoodlePHP, Mozilla DTD, Mozilla FTL, PO, RC, SubRip Subtitles en Windows Resources</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Suppose, for example, that you want to find instances of “OmegaT” and “omegat”, but not “OMEGAT”.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230520T090326Z" creationid="Dick" creationdate="20230520T090326Z">
@@ -62856,6 +62872,14 @@ Het bereik van een tekstvervanging zijn de doelsegmenten van het project, of zij
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T111908Z" creationid="Dick" creationdate="20230522T111908Z">
         <seg>Die map bevat alle bestanden die nodig zijn voor het uitvoeren van OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That folder must contain a translation in the target language of the project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T121149Z" creationid="Dick" creationdate="20230523T121149Z">
+        <seg>Die map moet een vertaling bevatten in de doeltaal van het project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67839,6 +67863,14 @@ the User Product in which it has been modified or installed.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T174021Z">
         <seg>Het resultaat zal dus afhangen van de volgorde waarin de bronsegmenten zijn geladen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The resulting TMX file is saved in the &lt;f0&gt;omegat/&lt;/f0&gt; folder as &lt;f1&gt;align.tmx&lt;/f1&gt; The file types that can be aligned depend on whether the alignment is supported by the file filter.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T121431Z" creationid="Dick" creationdate="20230523T121431Z">
+        <seg>Het resulterende TMX-bestand wordt opgeslagen in de map &lt;f0&gt;omegat/&lt;/f0&gt; als &lt;f1&gt;align.tmx&lt;/f1&gt;. De bestandstypen die kunnen worden uitgelijnd zijn afhankelijk van het feit of de uitlijning wordt ondersteund door het bestandsfilter.</seg>
       </tuv>
     </tu>
     <tu>
