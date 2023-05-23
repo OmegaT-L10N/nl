@@ -16609,6 +16609,14 @@ Neem nog een biertje.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Before graphical interfaces became common, users interacted with computers via a command-line interface (CLI), which requires typing commands to give instructions to the computer.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T095932Z" creationid="Dick" creationdate="20230523T095843Z">
+        <seg>Vóórdat grafische interfaces algemeen werden, interacteerden gebruikers met computers via een interface voor de opdrachtregel (CLI), wat vereist dat opdrachten worden getypt om instructies aan de computer te geven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Before proceeding</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20190418T093220Z" creationid="DiGro (Dick)" creationdate="20190418T093220Z">
@@ -40946,6 +40954,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Launching OmegaT from the command line also creates a new OmegaT instance for each launch.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T095725Z" creationid="Dick" creationdate="20230523T095725Z">
+        <seg>Starten van OmegaT vanaf de opdrachtregel maakt ook een nieuwe instantie voor elke start.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Launching OmegaT in console mode</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T165501Z">
@@ -48670,6 +48686,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230521T082228Z" creationid="Dick" creationdate="20230521T082228Z">
         <seg>Op macOS: &lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt;&lt;k2&gt;Command&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On modern systems, the CLI is accessed through an application generally called a "terminal" or "console".</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T100022Z" creationid="Dick" creationdate="20230523T100022Z">
+        <seg>Op moderne systemen wordt de toegang tot de CLI via een toepassing over het algemeen een "terminal" of "console" genoemd.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58616,6 +58640,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T124536Z">
         <seg>Script voor eenvoudig zoeken en vervangen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Simplified Overview</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T095737Z" creationid="Dick" creationdate="20230523T095737Z">
+        <seg>Vereenvoudigd overzicht</seg>
       </tuv>
     </tu>
     <tu>
