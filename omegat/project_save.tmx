@@ -4774,6 +4774,14 @@ en laad het project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--tag-validation=[abort|warn]</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T122043Z" creationid="Dick" creationdate="20230523T122043Z">
+        <seg>--tag-validation=[afbreken|waarschuwen]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--tag-validation=[abort|warn]
 		Validate tags.</seg>
       </tuv>
@@ -9110,6 +9118,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;o0&gt;--script=&lt;/o0&gt;&lt;u1&gt;&lt;path&gt;&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T121910Z" creationid="Dick" creationdate="20230523T121910Z">
+        <seg>&lt;o0&gt;--script=&lt;/o0&gt;&lt;u1&gt;&lt;pad&gt;&lt;/u1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;o0&gt;--source-pattern=&lt;/o0&gt;&lt;u1&gt;&lt;pattern&gt;&lt;/u1&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230523T120126Z" creationid="Dick" creationdate="20230523T120126Z">
@@ -12337,6 +12353,14 @@ the only significant mode of use of the product.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A script file to run when a project event is triggered.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T121953Z" creationid="Dick" creationdate="20230523T121953Z">
+        <seg>Een bestand met een script dat moet worden uitgevoerd als een gebeurtenis in het project wordt geactiveerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A search may be limited to 1000 items, so if you search on a common phrase, the editor then shows only those 1000 matching entries, and not all entries that match the search criteria.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T171930Z">
@@ -12729,6 +12753,14 @@ included in conveying the object code work.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T112150Z">
         <seg>Afbreken: Afsluiten met een fout als tags ongeldig zijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Abort: Exit with an error if there are tag issues.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T122120Z" creationid="Dick" creationdate="20230523T122120Z">
+        <seg>Afbreken: Afsluiten met een fout als er problemen met tags zijn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18779,6 +18811,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T124512Z">
         <seg>Controle beginletter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check tag issues.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T122013Z" creationid="Dick" creationdate="20230523T122013Z">
+        <seg>Controleer problemen met tags.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55094,6 +55134,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reports about tag issues are output to the terminal window.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T122305Z" creationid="Dick" creationdate="20230523T122305Z">
+        <seg>Rapporten over problemen met problemen met tags  worden uitgevoerd naar het venster van de terminal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Repository</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T161847Z" creationid="Dirk" creationdate="20160906T161847Z">
@@ -78974,6 +79022,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T112151Z">
         <seg>Waarschuwing: Rapporteer ongeldige tags naar stdout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Warn: Show warnings without exiting if there are tag issues.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T122206Z" creationid="Dick" creationdate="20230523T122206Z">
+        <seg>Waarschuwen: Waarscuwingen weergeven zonder af te breken als er problemen met tags zijn.</seg>
       </tuv>
     </tu>
     <tu>
