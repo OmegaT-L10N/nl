@@ -19775,6 +19775,14 @@ OmegaT gebruikt de volgende bibliotheken:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Command line launch</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T095455Z" creationid="Dick" creationdate="20230523T095455Z">
+        <seg>Starten vanaf de opdrachtregel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Command:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T131255Z" creationid="Dirk" creationdate="20170914T131255Z">
@@ -20315,6 +20323,14 @@ OmegaT gebruikt de volgende bibliotheken:
         <seg>modus Console-translate:
 	--source-pattern=&lt;patroon&gt;
 		Een regex whitelist van te verwerken bronbestanden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Consult the documentation for your system for more information.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T095439Z" creationid="Dick" creationdate="20230523T095439Z">
+        <seg>Bekijk de documentatie voor uw systeem voor meer informatie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32589,6 +32605,14 @@ menu, a prominent item in the list meets this criterion.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T162139Z" creationid="Dirk" creationdate="20160910T162139Z">
         <seg>Als de optie &lt;e0&gt;Relevante suggesties automatisch weergeven&lt;/e0&gt; is geselecteerd, wordt Auto-aanvullen automatisch gestart door de eerste letter te typen van een vertaald item voor de woordenlijst, of door "&lt;" te typen in het geval van tags.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If &lt;f0&gt;.jar&lt;/f0&gt; files are properly associated with the Java 11 Runtime Environment and your PATH settings are correct, you can also simply click (or double-click) on &lt;f1&gt;OmegaT.jar&lt;/f1&gt; to launch it directly.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T095405Z" creationid="Dick" creationdate="20230523T095405Z">
+        <seg>Als bestanden &lt;f0&gt;.jar&lt;/f0&gt; correct zijn geassocieerd met de Java 11 Runtime Environment en uw instellingen voor PATH zijn correct, kunt u ook eenvoudigweg klikken (of dubbelklikken) op &lt;f1&gt;OmegaT.jar&lt;/f1&gt; om het direct te starten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -77584,6 +77608,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Using the command line allows you to set various options that control or modify the behaviour of the application.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T095536Z" creationid="Dick" creationdate="20230523T095536Z">
+        <seg>Gebruiken van de opdrachtregel stelt u in staat verschillende opties in te stellen die het gedrag van de toepassing beheren of aanpassen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Using the console mode, one can make generating a localized interface a part of the build process.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T165447Z">
@@ -80390,6 +80422,14 @@ for enforcing compliance by third parties with this License.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T104658Z" creationid="Dick" creationdate="20230522T104658Z">
         <seg>U kunt dit later ook wijzigen door het bestand &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; te bewerken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also define and save sets of options in scripts that you can then use to launch OmegaT for a particular purpose.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T095635Z" creationid="Dick" creationdate="20230523T095635Z">
+        <seg>U kunt ook sets met opties definiëren en opslaan in scripts die u dan kunt gebruiken om OmegaT te starten voor een bepaald doel.</seg>
       </tuv>
     </tu>
     <tu>
