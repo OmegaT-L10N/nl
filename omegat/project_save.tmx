@@ -20583,6 +20583,14 @@ OmegaT gebruikt de volgende bibliotheken:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Consult the documentation for your server or hosting service for details.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T124039Z" creationid="Dick" creationdate="20230523T124039Z">
+        <seg>Bekijk de documentatie voor uw server of hostservice voor details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Consult the documentation for your system for more information.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230523T095439Z" creationid="Dick" creationdate="20230523T095439Z">
@@ -66823,6 +66831,14 @@ to take away your freedom to share and change the works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The local repository is used to add the initial project to the server, and can also be used for maintenance tasks, such as deleting files, that cannot be performed directly within OmegaT.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T124357Z" creationid="Dick" creationdate="20230523T124357Z">
+        <seg>De lokale opslagplaats wordt gebruikt om het initiële project toe te voegen aan de server, en kan ook worden gebruikt voor onderhoudstaken, zoals het verwijderen van bestanden, die niet direct binnen OmegaT kunnen worden uitgevoerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The location does not matter, since you can add it to the command line at launch (see below).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T165459Z">
@@ -72201,6 +72217,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>Deze lijst is voor de meer technische discussies over mogelijkheden en ontwikkeling en is bedoeld voor ontwikkelaars van OmegaT en andere geïnteresseerde partijen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This local version contains your &lt;e0&gt;project manager&lt;/e0&gt; copy of the OmegaT project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T124140Z" creationid="Dick" creationdate="20230523T124140Z">
+        <seg>Deze lokale versie bevat uw kopie van de &lt;e0&gt;projectbeheerder&lt;/e0&gt; van het project van OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -77619,6 +77643,14 @@ De huidige instelling is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use it to make modifications that affect the entire team.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T124224Z" creationid="Dick" creationdate="20230523T124224Z">
+        <seg>Gebruki het om aanpassingen te maken die invloed hebben op het gehele team.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use local &amp;segmentation rules</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221218T135753Z" creationid="Dick" creationdate="20221218T135753Z">
@@ -77775,6 +77807,14 @@ De huidige instelling is {0}MB;</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120401T155847Z">
         <seg>Gebruik de macro niveau_opmaak alleen op alinea's zonder of met weinig opmaak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the local VCS to make a local copy (clone)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T124101Z" creationid="Dick" creationdate="20230523T124101Z">
+        <seg>Gebruik het lokale VCS om een lokale kopie te maken (clone)</seg>
       </tuv>
     </tu>
     <tu>
