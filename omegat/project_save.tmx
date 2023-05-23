@@ -14709,6 +14709,14 @@ organization, or merging organizations.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An OmegaT team projects synchronizes the project translation memory &lt;l0/&gt; and the project writable glossary &lt;l1/&gt; between the hosting server and all the participating team members, and manages all possible conflicts between them.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T123831Z" creationid="Dick" creationdate="20230523T123831Z">
+        <seg>Een teamproject van OmegaT synchroniseert het vertaalgeheugen van het project &lt;l0/&gt; en de beschrijfbare woordenlijst van het project &lt;l1/&gt; met de hostserver en alle deelnemende teamleden, en beheert alle mogelijke conflicten tussen hen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An OmegaT translation project consists of a number of resources in separate folders.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T092141Z" creationid="Dick" creationdate="20230522T092141Z">
@@ -21755,6 +21763,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T110644Z">
         <seg>Maak een lege map waar u uw project zult bewaren en klik er met rechts op.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create an empty repository on your VCS hosting server</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T123917Z" creationid="Dick" creationdate="20230523T123917Z">
+        <seg>Maak een lege opslagplaats op uw VCS hostserver</seg>
       </tuv>
     </tu>
     <tu>
@@ -31804,6 +31820,14 @@ Het is er wintertijd voor</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230523T101113Z" creationid="Dick" creationdate="20230523T101113Z">
         <seg>Hier zijn de standaard locaties voor OmegaT.jar voor elk belangrijk platform:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Here are the steps to set up a team project:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T123901Z" creationid="Dick" creationdate="20230523T123901Z">
+        <seg>Hier zijn de stappen om een teamproject in te stellen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -52302,6 +52326,14 @@ of er nog aanvullende stappen moeten worden uitgevoerd.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Preparations</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T123837Z" creationid="Dick" creationdate="20230523T123837Z">
+        <seg>Voorbereidingen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Prerequisites</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142405Z">
@@ -71007,6 +71039,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T143400Z" creationid="Dirk" creationdate="20131225T143400Z">
         <seg>Dit kan in de toekomst weer eenvoudig opnieuw worden hersteld.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This can normally be done through a web interface, a graphical application, or the command line.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T124007Z" creationid="Dick" creationdate="20230523T124007Z">
+        <seg>Dit wordt normaal gesproken gedaan via een webinterface, een grafische toepassing, of de opdrachtregel.</seg>
       </tuv>
     </tu>
     <tu>
