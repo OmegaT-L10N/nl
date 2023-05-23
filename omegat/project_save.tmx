@@ -24053,6 +24053,22 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do not lock the omegat.project file.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T114353Z" creationid="Dick" creationdate="20230523T114353Z">
+        <seg>Het bestand omegat.project niet vergrendelen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do not remember the last folder opened in the file picker.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T114608Z" creationid="Dick" creationdate="20230523T114608Z">
+        <seg>Laatst geopende map niet onthouden in de bestandskiezer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do not segment after M. Mr. Mrs. and Ms.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T172111Z">
@@ -37700,6 +37716,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Initialize a team project using &lt;e0&gt;SL&lt;/e0&gt; and &lt;e1&gt;TL&lt;/e1&gt; as the source and target two-letter language codes, respectively.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T114314Z" creationid="Dick" creationdate="20230523T114314Z">
+        <seg>Initialiseer een teamproject met &lt;e0&gt;SL&lt;/e0&gt; en &lt;e1&gt;TL&lt;/e1&gt;, respectievelijk als de bron en doel twee-letterige taalcodes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Initialized en-ja team project.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T153739Z" creationid="Dirk" creationdate="20160906T153739Z">
@@ -48870,6 +48894,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T114054Z" creationid="Dick" creationdate="20230522T114054Z">
         <seg>Op andere platforms</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On some platforms, the omegat.project file is locked by default and attempting to open an already open project in another instance of OmegaT results in an error.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T114519Z" creationid="Dick" creationdate="20230523T114519Z">
+        <seg>Op sommige platforms wordt het bestand omegat.project standaard vergrendeld en het proberen te openen van een reeds geopend project in een andere instantie van OmegaT resulteert in een fout.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71929,6 +71961,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T124628Z" creationid="Dick" creationdate="20190517T113352Z">
         <seg>Deze optie verschijnt alleen als beide geselecteerde bestanden worden herkend als bestanden met Sleutel=Waarde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option prevents that error.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230523T114533Z" creationid="Dick" creationdate="20230523T114533Z">
+        <seg>Deze optie voorkomt die fout.</seg>
       </tuv>
     </tu>
     <tu>
