@@ -12399,6 +12399,14 @@ consequence of further modification of the contributor version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A number of free software third party utilities provide such “round-trip” conversion, including:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T121611Z" creationid="Dick" creationdate="20230524T121611Z">
+        <seg>Een aantal gratis softwareprogramma's van derde partijen verschaffen een dergelijk “rondgang”-conversie, inclusief:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A number of interactive tools are available to develop and test regular expressions.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T170408Z">
