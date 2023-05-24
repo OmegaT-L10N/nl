@@ -15787,6 +15787,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As above, but for files that should be part of the mapping.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T100609Z" creationid="Dick" creationdate="20230524T100609Z">
+        <seg>Zoals hierboven, maar dan voor bestanden die wel deel van de route uit zouden moeten maken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As above, but only for the document currently displayed in the Editor pane.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T170805Z" creationid="Dick" creationdate="20190516T170805Z">
@@ -27012,6 +27020,14 @@ Niemand hoort u schreeuwen.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20200725T115700Z" creationid="Dick" creationdate="20200725T115700Z">
         <seg>Voorbeeld: &lt;u0&gt;**/excludedfolder/**;*.txt&lt;/u0&gt; sluit bestanden die /excludedfolder/ in het pad hebben staan, en bestanden met de extensie .txt, uit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example: &lt;u0&gt;**/excludedfolder/**;*.txt&lt;/u0&gt; excludes files that have /excludedfolder/ in the path, as well as files with the &lt;f1&gt;.txt&lt;/f1&gt; extension.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T100521Z" creationid="Dick" creationdate="20230524T100456Z">
+        <seg>Voorbeeld: &lt;u0&gt;**/excludedfolder/**;*.txt&lt;/u0&gt; sluit bestanden die /excludedfolder/ in het pad hebben staan, en bestanden met de extensie &lt;f1&gt;.txt&lt;/f1&gt;, uit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59738,6 +59754,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Since files are included by default unless specifically excluded, this option is only necessary to specify exceptions to an exclusion pattern.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T100800Z" creationid="Dick" creationdate="20230524T100800Z">
+        <seg>Deze optie is alleen noodzakelijk om uitzonderingen te specificeren voor een patroon voor uitsluiting omdat bestanden standaard worden opgenomen, tenzij specifiek uitgesloten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Since it is a standard, an advantage of XLIFF is that file filters provided by one CAT tool vendor for conversion between a certain format and XLIFF (and, following completion of the translation workflow, back again) can in theory be used to prepare files in the format concerned for translation in any CAT tool capable of supporting XLIFF.</seg>
       </tuv>
       <tuv lang="nl">
@@ -77943,6 +77967,14 @@ De huidige instelling is {0}MB;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T132229Z" creationid="Dick" creationdate="20190516T132229Z">
         <seg>Een Teamproject gebruiken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use a semicolon to separate different patterns.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T100438Z" creationid="Dick" creationdate="20230524T100438Z">
+        <seg>Gebruik een puntkomma om de verschillende patronen te scheiden.</seg>
       </tuv>
     </tu>
     <tu>
