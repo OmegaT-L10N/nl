@@ -21005,6 +21005,14 @@ of er nog aanvullende stappen moeten worden uitgevoerd.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Conversion</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115331Z" creationid="Dick" creationdate="20230524T115331Z">
+        <seg>Conversie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Conversion to the new team project format cannot be performed in console mode.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230519T143626Z" creationid="Dick" creationdate="20221220T150313Z">
@@ -57944,8 +57952,8 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       <tuv lang="en">
         <seg>See the &lt;l0/&gt; preferences for details.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20221221T141842Z" creationid="Dick" creationdate="20221221T141842Z">
-        <seg>Bekijk de &lt;l0/&gt; voorkeuren voor details.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115311Z" creationid="Dick" creationdate="20221221T141842Z">
+        <seg>Bekijk de voorkeuren &lt;l0/&gt; voor details.</seg>
       </tuv>
     </tu>
     <tu>
