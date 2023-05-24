@@ -54698,6 +54698,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remote location or folder of the files to translate.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T100252Z" creationid="Dick" creationdate="20230524T100252Z">
+        <seg>Locatie op afstand of map voor de te vertalen bestanden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remote project file lacks git setting.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20220826T170203Z" creationid="Dick" creationdate="20220826T170203Z">
@@ -71395,6 +71403,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This can be either &lt;e0&gt;http&lt;/e0&gt; (which includes https), &lt;e1&gt;svn&lt;/e1&gt;, &lt;e2&gt;git&lt;/e2&gt;, or &lt;e3&gt;file&lt;/e3&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T100216Z" creationid="Dick" creationdate="20230524T100103Z">
+        <seg>Dit kan zijn: &lt;e0&gt;http&lt;/e0&gt; (inclusief https), &lt;e1&gt;svn&lt;/e1&gt;, &lt;e2&gt;git&lt;/e2&gt; of &lt;e3&gt;bestand&lt;/e3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This can be either http (which includes https), svn or git.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T125431Z" creationid="Dick" creationdate="20190516T125353Z">
@@ -78343,6 +78359,14 @@ De huidige instelling is {0}MB;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T133506Z">
         <seg>Gebruik untar (of iets soortgelijks, bijvoorbeeld&lt;f0&gt; winrar&lt;/f0&gt; in Windows) om de inhoud uit te pakken naar de projectmap "Dictionary".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use wildcards (following the Apache Ant style: *, ?, **) to add patterns for files that should not be part of the mapping.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T100411Z" creationid="Dick" creationdate="20230524T100411Z">
+        <seg>Gebruik jokertekens (gevolgd door de stijl van Apache Ant: *, ?, **) om patronen voor bestanden toe te voegen die geen deel van de route uit zouden moeten maken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -92851,8 +92875,8 @@ create the configuration folder.</seg>
       <tuv lang="en">
         <seg>repository url</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20190516T125444Z" creationid="Dick" creationdate="20190516T125444Z">
-        <seg>url voor opslagplaats</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T100224Z" creationid="Dick" creationdate="20190516T125444Z">
+        <seg>URL voor opslagplaats</seg>
       </tuv>
     </tu>
     <tu>
