@@ -42308,6 +42308,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>License: Apache License Version 2.0</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T121626Z" creationid="Dick" creationdate="20230524T121626Z">
+        <seg>Licentie: Apache License Version 2.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Licensing information</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T132941Z" creationid="Dirk" creationdate="20170914T132941Z">
@@ -54302,6 +54310,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T125550Z">
         <seg>schakelen RTL-LTR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rainbow, from the &lt;u0&gt;Okapi Framework&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T121620Z" creationid="Dick" creationdate="20230524T121620Z">
+        <seg>Rainbow, van het &lt;u0&gt;Okapi Framework&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
