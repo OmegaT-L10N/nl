@@ -11269,6 +11269,18 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_project_sources"&gt;
+	&lt;mapping local="source/subdir" repository=""&gt;
+	    &lt;excludes&gt;**/*.bak&lt;/excludes&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T101841Z" creationid="Dick" creationdate="20230524T101841Z">
+        <seg>&lt;repository type="svn" url="https://opslag_voor_alle_OmegaT_bronnen_van_teamproject"&gt;
+	&lt;mapping local="source/submap" repository=""&gt;
+	    &lt;excludes&gt;**/*.bak&lt;/excludes&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_projects"&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T130218Z" creationid="Dick" creationdate="20190516T130218Z">
@@ -26964,6 +26976,14 @@ Niemand hoort u schreeuwen.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>Everyone is permitted to copy and distribute verbatim copies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Everything in &lt;f0&gt;https://repo_for_All_OmegaT_team_project_sources&lt;/f0&gt; is mapped to the local OmegaT project source folder, except files with a &lt;f1&gt;.bak&lt;/f1&gt; extension.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T102004Z" creationid="Dick" creationdate="20230524T101927Z">
+        <seg>Alle inhoud van &lt;f0&gt;https://opslagplaats_voor_alle_OmegaT_team_project_bronnen&lt;/f0&gt; wordt doorverwezen naar de lokale OmegaT project bronmap, behalve alle &lt;f1&gt;*.bak&lt;/f1&gt;-bestanden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43310,6 +43330,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>Velen van u die dit lezen zullen vertalers zijn die al heel veel gebruikersdocumentatie hebben vertaald.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping for additional sources from a remote repository, with filters:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T101748Z" creationid="Dick" creationdate="20230524T101748Z">
+        <seg>Routes naar aanvullende bronnen uit de opslagplaats op afstand, met filters:</seg>
       </tuv>
     </tu>
     <tu>
