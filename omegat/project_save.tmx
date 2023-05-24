@@ -42316,6 +42316,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>License: Eclipse Public License v1.0</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T134854Z" creationid="Dick" creationdate="20230524T134854Z">
+        <seg>Licentie: Eclipse Public License v1.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>License: GNU General Public License v2</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230524T134541Z" creationid="Dick" creationdate="20230524T134541Z">
@@ -50804,6 +50812,22 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OpenXLIFF from &lt;u0&gt;Maxprograms&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T134850Z" creationid="Dick" creationdate="20230524T134850Z">
+        <seg>OpenXLIFF van &lt;u0&gt;Maxprograms&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OpenXLIFF supports a number of file filters, including some not supported natively by OmegaT.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T134933Z" creationid="Dick" creationdate="20230524T134933Z">
+        <seg>OpenXLIFF ondersteunt een aantal bestandsfilters, inclusief enkele die niet door OmegaT zelf worden ondersteund.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opening a command line window</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T141919Z">
@@ -57878,6 +57902,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;u0&gt;Converters&lt;/u0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T134843Z" creationid="Dick" creationdate="20230524T134843Z">
+        <seg>Bekijk &lt;u0&gt;Converters&lt;/u0&gt; voor details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;u0&gt;Howto - Translating PDF files with Iceni Infix and OmegaT&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T132027Z" creationid="Dirk" creationdate="20170914T132027Z">
@@ -57890,6 +57922,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230524T121748Z" creationid="Dick" creationdate="20230524T121748Z">
         <seg>Bekijk &lt;u0&gt;Lijst van bestandsfilters&lt;/u0&gt; voor details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;u0&gt;OpenXLIFF Filters&lt;/u0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T134946Z" creationid="Dick" creationdate="20230524T134946Z">
+        <seg>Bekijk &lt;u0&gt;OpenXLIFF Filters&lt;/u0&gt; voor details.</seg>
       </tuv>
     </tu>
     <tu>
