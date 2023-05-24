@@ -42316,6 +42316,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>License: GNU General Public License v2</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T134541Z" creationid="Dick" creationdate="20230524T134541Z">
+        <seg>Licentie: GNU General Public License v2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Licensing information</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T132941Z" creationid="Dirk" creationdate="20170914T132941Z">
@@ -57894,6 +57902,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;u0&gt;Rainbow TKit - OmegaT Project&lt;/u0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T134534Z" creationid="Dick" creationdate="20230524T134534Z">
+        <seg>Bekijk &lt;u0&gt;Rainbow TKit - OmegaT Project&lt;/u0&gt; voor details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;u0&gt;The Eclipse Temurin™ project&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T104436Z" creationid="Dick" creationdate="20230522T104436Z">
@@ -65330,6 +65346,14 @@ Probeer alstublieft de fout te corrigeren en herlaad het project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Translate Toolkit offers a number of convertion tools to and from the po format.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T134833Z" creationid="Dick" creationdate="20230524T134833Z">
+        <seg>De Translate Toolkit biedt een aantal gereedschappen voor conversie naar en vanuit de indeling po.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The URL must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T131345Z" creationid="Dirk" creationdate="20170914T131345Z">
@@ -66047,6 +66071,14 @@ instead.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T170133Z">
         <seg>Het besturingsteken dat overeenkomt met x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The converters from the &lt;u0&gt;Translate Toolkit&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T134721Z" creationid="Dick" creationdate="20230524T134721Z">
+        <seg>De converters van de &lt;u0&gt;Translate Toolkit&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -92721,6 +92753,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230129T134052Z" creationid="Dick" creationdate="20230129T134052Z">
         <seg>plug-ins/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>po4a supports a number of free software documentation formats, listed on the site front page, and offers conversion tools to and from the po format.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T134706Z" creationid="Dick" creationdate="20230524T134706Z">
+        <seg>po4a ondersteunt een aantal indelingen voor vrije software-documentatie, vermeld op de voorpagina van de site, en biedt gereedschappen voor conversie naar en vanuit de indeling po.</seg>
       </tuv>
     </tu>
     <tu>
