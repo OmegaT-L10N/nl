@@ -37272,6 +37272,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In team projects that use a simple mapping between the local repository and the remote repository (the default), &lt;e0&gt;and only in such projects&lt;/e0&gt;, the source and target files can be modified locally and uploaded to the server using &lt;l1/&gt;&lt;l2/&gt; and &lt;l3/&gt;&lt;l4/&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T083554Z" creationid="Dick" creationdate="20230524T083554Z">
+        <seg>In teamprojecten die een eenvoudige route gebruiken tussen de lokale opslagplaats en de opslagplaats op afstand (de standaard), &lt;e0&gt;en alleen in dergelijke projecten&lt;/e0&gt;, kunnen de bron- en doelbestanden lokaal worden aangepast en geüpload naar de server met &lt;l1/&gt;&lt;l2/&gt; en &lt;l3/&gt;&lt;l4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In that case, each paragraph (as defined in the original document format) is displayed as a single segment, and the translator is free to reorganize the sentences within the segment in the translation.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221218T140610Z" creationid="Dick" creationdate="20221218T140610Z">
@@ -72913,6 +72921,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120402T174309Z">
         <seg>Deze situatie zal u waarschijnlijk bekend zijn als u Powerpoint-bestanden hebt vertaald in OmegaT, of met andere CAT-programma's.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This step can be performed before the registering and publishing the project for the first time, and can also be used to add new files, or update existing ones after the project has been created.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T083254Z" creationid="Dick" creationdate="20230524T083254Z">
+        <seg>Deze stap kan worden uitgevoerd voor het voor de eerste keer registreren en publiceren van het project, en kan ook wordne gebruikt om nieuwe bestanden toe te voegen, of bestaande bij te werken nadat het project werd gemaakt.</seg>
       </tuv>
     </tu>
     <tu>
