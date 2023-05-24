@@ -14687,6 +14687,14 @@ conditions are met.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although the mapping feature is primarily intended for gathering source files from disparate locations, it can also be used for other types of files.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T095249Z" creationid="Dick" creationdate="20230524T095249Z">
+        <seg>Hoewel de mogelijkheid voor routes primair is bedoeld voor het verzamelen van bronbestanden vanaf afzonderlijke, kan het ook worden gebruikt van andere typen bestanden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Although this does not normally prevent the translated file from opening, keep the following points in mind when using this function:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T085532Z" creationid="Dick" creationdate="20230522T085532Z">
@@ -34755,8 +34763,8 @@ notice like this when it starts in an interactive mode:</seg>
       <tuv lang="en">
         <seg>If they do not match, make sure the &lt;f0&gt;filters.xml&lt;/f0&gt; and &lt;f1&gt;segmentation.conf&lt;/f1&gt; files are properly shared.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230524T094724Z" creationid="Dick" creationdate="20230524T094724Z">
-        <seg>Indien zij niet overeenkomen, zorg ervoor dat de bestanden &lt;f0&gt;filters.xml&lt;/f0&gt; en &lt;f1&gt;segmentation.conf&lt;/f1&gt; op de juiste wijze wordne gedeeld.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T094847Z" creationid="Dick" creationdate="20230524T094724Z">
+        <seg>Indien zij niet overeenkomen, zorg ervoor dat de bestanden &lt;f0&gt;filters.xml&lt;/f0&gt; en &lt;f1&gt;segmentation.conf&lt;/f1&gt; op de juiste wijze worden gedeeld.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35826,6 +35834,14 @@ to use Java Web Start.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135938Z">
         <seg>Als u de tags moet zien in OmegaT maar de meeste opmaak niet behoeft te behouden in het vertaalde document staat het u vrij om de tags niet op te nemen in het vertaalde document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you need to work on the project too, download the project yourself to a local location different from the local team project location</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T094841Z" creationid="Dick" creationdate="20230524T094841Z">
+        <seg>Als u ook zelf aan het project moet werken, download dan het project zelf naar een lokale locatie die anders is dan de locatie van het lokale teamproject</seg>
       </tuv>
     </tu>
     <tu>
@@ -39592,6 +39608,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T094555Z" creationid="Dirk" creationdate="20160911T094555Z">
         <seg>Het is mogelijk om tekst te slepen, vanaf elke plek vanuit het hoofdvenster, en het neer te zetten in het segment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is possible to map various remote locations to local files via the OmegaT user interface using &lt;l0/&gt; in the &lt;l1/&gt; dialog, or by editing the &lt;l2/&gt; file.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T095106Z" creationid="Dick" creationdate="20230524T095106Z">
+        <seg>Het is mogelijk om routes naar verschillende locaties op afstand naar lokale bestanden te maken via de gebruikersinterface van OmegaT met &lt;l0/&gt; in het dialoogvenster &lt;l1/&gt;, of door het bestand &lt;l2/&gt; te bewerken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55464,6 +55488,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T122945Z" creationid="Dirk" creationdate="20160906T161618Z">
         <seg>Mappen in opslagplaats…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repository mappings</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T094930Z" creationid="Dick" creationdate="20230524T094930Z">
+        <seg>Routes in opslagplaats</seg>
       </tuv>
     </tu>
     <tu>
@@ -82576,6 +82608,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="nl">
         <seg>U kunt informatie naar uw eigen discretie aanpassen, corrigeren, toevoegen of verwijderen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can now also work on the project with the team</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T094914Z" creationid="Dick" creationdate="20230524T094914Z">
+        <seg>U kunt nu ook met het team aan het project werken</seg>
       </tuv>
     </tu>
     <tu>
