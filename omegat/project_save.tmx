@@ -49652,6 +49652,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT's po support is robust enough to handle most po files, but OmegaT's default XLIFF filter is not sufficient to support XLIFF files created by Rainbow, OpenXLIFF or other CAT tools.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T140041Z" creationid="Dick" creationdate="20230524T140041Z">
+        <seg>OmegaT's ondersteuning voor po is robuust genoeg om de meeste po-bestanden af te handelen, maar het standaard filter van OmegaT is not voldoen om XLIFF-bestanden die zijn gemaakt door Rainbow, OpenXLIFF of andere CAT-programma's te ondersteunen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT, however, will present this sentence in the following fashion:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142911Z">
@@ -50832,6 +50840,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230524T134850Z" creationid="Dick" creationdate="20230524T134850Z">
         <seg>OpenXLIFF van &lt;u0&gt;Maxprograms&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OpenXLIFF produces XLIFF 1.2 compliant files.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T135841Z" creationid="Dick" creationdate="20230524T135841Z">
+        <seg>OpenXLIFF produceert XLIFF 1.2 conforme bestanden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54006,6 +54022,14 @@ public, and in some countries other activities as well.</seg>
         <seg>Propagation includes copying,
 distribution (with or without modification), making available to the
 public, and in some countries other activities as well.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Proper XLIFF support in OmegaT can only be obtained thought third-party plugins.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T140126Z" creationid="Dick" creationdate="20230524T140126Z">
+        <seg>Correcte ondersteuning voor XLIFF in OmegaT kan alleen wordne verkregen door plug-ins van derde partijen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57838,6 +57862,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l0&gt;below&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T140140Z" creationid="Dick" creationdate="20230524T140140Z">
+        <seg>Bekijk &lt;l0&gt;hieronder&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l0&gt;chapter Dictionaries&lt;/l0&gt; for more on this subject.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134726Z">
@@ -60670,6 +60702,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230512T091705Z" creationid="Dick" creationdate="20230512T091705Z">
         <seg>Sommige filters verschaffen een knop &lt;g0&gt;Opties…&lt;/g0&gt; om hun instellingen verder aan te passen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some formats, like PDF, cannot be properly handled through “round trip” conversions.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T140233Z" creationid="Dick" creationdate="20230524T140233Z">
+        <seg>Sommige indelingen, zoals PDF, kunnen niet correct worden afgehandeld door “rondgan”-conversies.</seg>
       </tuv>
     </tu>
     <tu>
