@@ -31034,6 +31034,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Global spell checking.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T135539Z" creationid="Dick" creationdate="20230524T135539Z">
+        <seg>Globale spellingscontrole</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossaries</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110716T164358Z">
@@ -44362,6 +44370,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T190254Z">
         <seg>Het maximale aantal gevonden items is bereikt ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Maxprograms also distributes &lt;u1&gt;XLIFF Manager&lt;/u1&gt;, a graphical user interface for the OpenXLIFF Filters.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T135753Z" creationid="Dick" creationdate="20230524T135753Z">
+        <seg>Maxprograms distribueert ook &lt;u1&gt;XLIFF Manager&lt;/u1&gt;, een grafische gebruikersinterface voor de OpenXLIFF Filters.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62040,6 +62056,14 @@ make it effectively proprietary.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T124626Z">
         <seg>BiDi-markeringen in huidige segment verwijderen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Strip Bidi Marks</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T135546Z" creationid="Dick" creationdate="20230524T135546Z">
+        <seg>BiDi-markeringen verwijderen</seg>
       </tuv>
     </tu>
     <tu>
