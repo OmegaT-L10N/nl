@@ -13513,6 +13513,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Administrators have two options for sending the location of the project to the translators:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T094115Z" creationid="Dick" creationdate="20230524T094115Z">
+        <seg>Beheerders hebben twee opties voor het verzenden van de locatie van het project naar de vertalers:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Advanced feature HowTos</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120401T131437Z">
@@ -13605,6 +13613,14 @@ the above requirements apply either way.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131228T124858Z" creationid="Dirk" creationdate="20131228T124858Z">
         <seg>Na het maken en testen van de snelkoppeling kunt u het aan het menu Start toevoegen door het daarheen te slepen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After creating the accounts, the administrator must send the translators their individual credentials.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T094010Z" creationid="Dick" creationdate="20230524T094010Z">
+        <seg>Nadat de accounts zijn gemaakt moet de beheerder hen hun individuele inloggegevens sturen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31726,6 +31742,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>Hausa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Have everybody download the project from OmegaT</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T094034Z" creationid="Dick" creationdate="20230524T094034Z">
+        <seg>Laat iedereen het project downloaden vanaf OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -58782,6 +58806,22 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T150022Z" creationid="DiGro (Dick)" creationdate="20170915T150022Z">
         <seg>Online trainingscursus voor in uw eigen tempo in het Engels (te koop)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Send a URL and ask the translators to use &lt;l0/&gt;&lt;l1/&gt; to create a local copy of the project on their own system.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T094204Z" creationid="Dick" creationdate="20230524T094204Z">
+        <seg>Stuur een URL en vraag de vertalers om &lt;l0/&gt;&lt;l1/&gt; te gebruiken om een lokale kopie van het project op hun eigen systeem te maken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Send an &lt;f0&gt;omegat.project&lt;/f0&gt; file containing the project URL, and then have the translators copy it to an empty folder and open it in OmegaT.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T094320Z" creationid="Dick" creationdate="20230524T094320Z">
+        <seg>Stuur een bestand &lt;f0&gt;omegat.project&lt;/f0&gt; dat de URL voor het project bevat, en laat de vertalers die kopiëren naar een lege map en het  openen in OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
