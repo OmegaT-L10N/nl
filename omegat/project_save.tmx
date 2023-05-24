@@ -23719,6 +23719,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Development</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T141334Z" creationid="Dick" creationdate="20230524T141334Z">
+        <seg>Ontwikkeling</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Development of OmegaT</seg>
       </tuv>
       <tuv lang="nl">
@@ -49087,6 +49095,14 @@ be launched.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT provides developers with thorough documentation to create file filter plugins.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T141417Z" creationid="Dick" creationdate="20230524T141417Z">
+        <seg>OmegaT verschaft ontwikkelaars uitgebreide documentatie voor het maken van plug-ins voor bestandsfilters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT provides predefined segmentation rules, and the translator can use regular expressions to modify them.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230520T121401Z" creationid="Dick" creationdate="20230520T121401Z">
@@ -51464,6 +51480,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T153017Z" creationid="Dick" creationdate="20221220T153017Z">
         <seg>Andere plug-ins zijn online beschikbaar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other plugins for less common formats are listed on the OmegaT wiki.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T141317Z" creationid="Dick" creationdate="20230524T141317Z">
+        <seg>Andere plug-ins voor minder voorkomende indelingen zijn vermeld op de wiki van OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57878,6 +57902,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l0&gt;above&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T141239Z" creationid="Dick" creationdate="20230524T141239Z">
+        <seg>Zie &lt;l0&gt;boven&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l0&gt;below&lt;/l0&gt;.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230524T140140Z" creationid="Dick" creationdate="20230524T140140Z">
@@ -57982,6 +58014,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;u0&gt;How to create a file filter plugin for OmegaT&lt;/u0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T141453Z" creationid="Dick" creationdate="20230524T141453Z">
+        <seg>Bekijk &lt;u0&gt;Hoe een plug-in voor bestandsfilters te maken voor OmegaT&lt;/u0&gt; voor details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;u0&gt;Howto - Translating PDF files with Iceni Infix and OmegaT&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T132027Z" creationid="Dirk" creationdate="20170914T132027Z">
@@ -58010,6 +58050,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134631Z">
         <seg>Bekijk &lt;u0&gt;documentatie van Oracle&lt;/u0&gt; voor voorbeelden van de patronen voor "SimpleDateFormat"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;u0&gt;Plugins&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T141325Z" creationid="Dick" creationdate="20230524T141325Z">
+        <seg>Bekijk &lt;u0&gt;Plug-ins&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78633,8 +78681,8 @@ De huidige instelling is {0}MB;</seg>
       <tuv lang="en">
         <seg>Use a team project</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230523T123136Z" creationid="Dick" creationdate="20230523T123136Z">
-        <seg>[DG]Een Teamproject gebruiken</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T141501Z" creationid="Dick" creationdate="20230523T123136Z">
+        <seg>Een Teamproject gebruiken</seg>
       </tuv>
     </tu>
     <tu>
