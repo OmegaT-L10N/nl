@@ -63614,6 +63614,14 @@ APPLICABLE LAW.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Team projects use synchronization mechanisms between project members.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T143318Z" creationid="Dick" creationdate="20230524T143318Z">
+        <seg>Teamprojecten gebruiken mechanismen voor synchronisatie tussen projectleden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Team synchronization</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T114834Z">
