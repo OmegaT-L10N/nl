@@ -8862,6 +8862,38 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;Associate&lt;/l0&gt; the format to an already supported format.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T114653Z" creationid="Dick" creationdate="20230524T114653Z">
+        <seg>&lt;l0&gt;Associeer&lt;/l0&gt; de indeling met een reeds bestaande ondersteunde indeling.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;Convert&lt;/l0&gt; the format to an already supported format.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T114726Z" creationid="Dick" creationdate="20230524T114726Z">
+        <seg>&lt;l0&gt;Converteer&lt;/l0&gt; de indeling naar een reeds ondersteunde indeling.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;Develop&lt;/l0&gt; a filter for the format.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T114830Z" creationid="Dick" creationdate="20230524T114830Z">
+        <seg>&lt;l0&gt;Ontwikkel&lt;/l0&gt; een filter voor die indeling.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;Extend&lt;/l0&gt; OmegaT with third-party plugins that support the format.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T114803Z" creationid="Dick" creationdate="20230524T114803Z">
+        <seg>&lt;l0&gt;Breid&lt;/l0&gt; OmegaT uit met plug-ins van derde partijen die de indeling ondersteunen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;Regular expressions&lt;/l0&gt; are a powerful way to look for instances of a string.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T121550Z" creationid="Dick" creationdate="20190517T121550Z">
@@ -35922,6 +35954,14 @@ to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you need to support formats that are not covered by OmegaT, there are four ways to do so:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T114620Z" creationid="Dick" creationdate="20230524T114620Z">
+        <seg>Als u indelingen moet ondersteunen die niet worden gedekt door OmegaT, zijn er vier manieren om dat te doen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you need to work on the project too, download the project yourself to a local location different from the local team project location</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230524T094841Z" creationid="Dick" creationdate="20230524T094841Z">
@@ -49340,6 +49380,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT's file filters provide a wide range of support for common and less common file formats.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T114533Z" creationid="Dick" creationdate="20230524T114533Z">
+        <seg>OmegaT's bestandsfilters verschaffen een breed scala aan ondersteuning voor veel voorkomende en minder voorkomende bestandsindelingen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT's glossary files are plain-text files in the format:</seg>
       </tuv>
       <tuv lang="nl">
@@ -62006,6 +62054,14 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>Ondersteuning voor talen van rechts-naar-links</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Support other formats</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T114440Z" creationid="Dick" creationdate="20230524T114440Z">
+        <seg>Ondersteuning voor andere indelingen</seg>
       </tuv>
     </tu>
     <tu>
