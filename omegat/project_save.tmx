@@ -65266,6 +65266,14 @@ Probeer alstublieft de fout te corrigeren en herlaad het project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The basic procedure is essentially the same, except that the team project administrator does not add every file to the version-controlled project on the server.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T114142Z" creationid="Dick" creationdate="20230524T114142Z">
+        <seg>In dit geval is de procedure essentieel hetzelfde, maar voegt de projectbeheerder niet elk bestand toe aan het project met versie-controle op de server.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The basic rule is that the sequence of tags must be preserved in the same order.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135814Z">
@@ -68477,6 +68485,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142446Z">
         <seg>De relevante bestanden zijn &lt;l2&gt;filters.conf&lt;/l2&gt; en &lt;l3&gt;segmentation.conf&lt;/l3&gt; en kunnen worden gevonden in de startmap van de gebruiker (bijv. &lt;l4&gt;C:\Documents and Settings\%User%\&lt;a5&gt;OmegaT&lt;/a5&gt;&lt;/l4&gt; onder Windows, &lt;l6&gt;%user%/.omegat/&lt;/l6&gt; onder Linux).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The remaining files are either copied by the translators themselves, or mappings that synchronize files from other locations are defined.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T114424Z" creationid="Dick" creationdate="20230524T114424Z">
+        <seg>De resterende bestanden kopiëren de vertalers  zelf, of routes, die de bestanden van andere locaties synchroniseren, worden gedefinieerd.</seg>
       </tuv>
     </tu>
     <tu>
