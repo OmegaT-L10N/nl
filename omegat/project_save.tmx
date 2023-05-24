@@ -34505,6 +34505,14 @@ notice like this when it starts in an interactive mode:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the server is self-hosted and does not have a provision for translators to register an account themselves, the team project administrator must create accounts with write access for the translators.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T093929Z" creationid="Dick" creationdate="20230524T093929Z">
+        <seg>Als de server zelf gehost wordt en geen voorziening heeft om de vertalers zelf een account te laten maken, moet de beheerder van het teamproject accounts met toegang voor schrijven maken voor de vertalers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the source documents contain whitespace used to control the layout, the whitespace that must be will retained in the translated document.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230512T093003Z" creationid="Dick" creationdate="20230512T093003Z">
@@ -53442,6 +53450,22 @@ lokaal project zonder functionaliteit voor team.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Projects on a hosting service</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T093636Z" creationid="Dick" creationdate="20230524T093527Z">
+        <seg>Projecten op een hostservice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Projects on a self-hosted server</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T093748Z" creationid="Dick" creationdate="20230524T093748Z">
+        <seg>Projecten op een zelf-gehoste server</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Projects that you have created in the past or are currently using will &lt;e0&gt;not&lt;/e0&gt; be modified or deleted.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T121424Z" creationid="Dick" creationdate="20230522T121424Z">
@@ -64814,6 +64838,14 @@ Probeer alstublieft de fout te corrigeren en herlaad het project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The administrator will then grant write access to the repository to those accounts.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T093734Z" creationid="Dick" creationdate="20230524T093734Z">
+        <seg>De beheerder zal dan toegang voor schrijven verlenen voor de opslagplaats, voor die accounts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The advantages of a VC system for a team of translators can be summarized as follows:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T110508Z">
@@ -69541,6 +69573,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T173959Z">
         <seg>De vertaler zal Engelse vertalingen te zien krijgen voor bronsegmenten in Nederlands en die gebruiken om de Chinese vertaling te maken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The translators will have to create an account for the service, and send their user name to the team project administrator.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T093632Z" creationid="Dick" creationdate="20230524T093632Z">
+        <seg>De vertalers zullen een account voor de service moeten maken, en hun gebruikersnaam doorsturen naar de beheerder van het teamproject.</seg>
       </tuv>
     </tu>
     <tu>
