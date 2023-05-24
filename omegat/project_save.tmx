@@ -11277,10 +11277,34 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;repository type="svn" url="https://repo_for_All_OmegaT_team_projects"&gt;
+	&lt;mapping local="" repository="En-US_DE_project"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T101142Z" creationid="Dick" creationdate="20230524T101142Z">
+        <seg>&lt;repository type="svn" url="https://opslag_voor_alle_OmegaT_teamprojecten"&gt;
+	&lt;mapping local="" repository="En-US_DE_project"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;repository type="svn" url="https://repo_for_OmegaT_team_project"&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T130027Z" creationid="Dick" creationdate="20190516T130027Z">
         <seg>&lt;repository type="svn" url="https://opslag_voor_OmegaT_teamproject"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="svn" url="https://repo_for_OmegaT_team_project"&gt;
+	&lt;mapping local="" repository=""/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T101007Z" creationid="Dick" creationdate="20230524T101007Z">
+        <seg>&lt;repository type="svn" url="https://opslag_voor_OmegaT_teamproject"&gt;
+	&lt;mapping local="" repository=""/&gt;
+&lt;/repository&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23057,8 +23081,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="en">
         <seg>Default project mapping:</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20201125T115152Z" creationid="Dick" creationdate="20201125T115152Z">
-        <seg>Standaard mappen voor project:</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T100947Z" creationid="Dick" creationdate="20201125T115152Z">
+        <seg>Standaard route voor project:</seg>
       </tuv>
     </tu>
     <tu>
@@ -26988,6 +27012,14 @@ Niemand hoort u schreeuwen.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135820Z">
         <seg>Voorbeeld:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example: &lt;u0&gt;**/*.docx&lt;/u0&gt; to add all .docx files in the project, even if they are located in an excluded folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T100910Z" creationid="Dick" creationdate="20230524T100910Z">
+        <seg>Voorbeeld: &lt;u0&gt;**/*.docx&lt;/u0&gt; om alle bestanden .docx in het project toe te voegen, zelfs als zij in een uitgesloten map staan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43302,6 +43334,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20201125T115232Z" creationid="Dick" creationdate="20201125T115232Z">
         <seg>Mappen voor projecten in een submap van de opslagplaats:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping for projects in a subfolder of the repository:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T101053Z" creationid="Dick" creationdate="20230524T101053Z">
+        <seg>Route voor projecten in een submap van de opslagplaats:</seg>
       </tuv>
     </tu>
     <tu>
