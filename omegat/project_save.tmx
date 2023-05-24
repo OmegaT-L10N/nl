@@ -32658,6 +32658,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, the &lt;f2&gt;readme.bak&lt;/f2&gt; is also included.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T102047Z" creationid="Dick" creationdate="20230524T102047Z">
+        <seg>Echter, het bestand &lt;f2&gt;readme.bak&lt;/f2&gt; is ook opgenomen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, the command-line alternative allows the user to control and modify the program's behavior.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T141917Z">
@@ -42456,8 +42464,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Local file mapping:</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20201125T115820Z" creationid="Dick" creationdate="20201125T115820Z">
-        <seg>Lokaal bestand mappen:</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T102326Z" creationid="Dick" creationdate="20201125T115820Z">
+        <seg>Route naar lokaal bestand:</seg>
       </tuv>
     </tu>
     <tu>
@@ -43350,6 +43358,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mapping for extra source files from the web:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T102111Z" creationid="Dick" creationdate="20230524T102111Z">
+        <seg>Routes voor extra bronbestanden vanaf het web:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mapping for extra source files from the web: &lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20201125T115647Z" creationid="Dick" creationdate="20201125T115647Z">
@@ -43400,8 +43416,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Mapping with renaming:</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20201125T115724Z" creationid="Dick" creationdate="20201125T115724Z">
-        <seg>Mappen met hernoemen:</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T102225Z" creationid="Dick" creationdate="20201125T115724Z">
+        <seg>Routes met hernoemen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -72748,6 +72764,14 @@ protecting users' freedom to change the software.</seg>
         <seg>This makes it possible to rename the file to be translated.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T130551Z" creationid="Dick" creationdate="20190516T130551Z">
+        <seg>Dit maakt het mogelijk het te vertalen bestand te hernoemen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This makes it possible to rename the file to translate.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T102244Z" creationid="Dick" creationdate="20230524T102244Z">
         <seg>Dit maakt het mogelijk het te vertalen bestand te hernoemen.</seg>
       </tuv>
     </tu>
