@@ -71575,6 +71575,14 @@ U bent het slachtoffer van één van de drie.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They require an intermediate conversion to a supported format that serves as a base to manually create a proper target language document.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T140518Z" creationid="Dick" creationdate="20230524T140518Z">
+        <seg>Zij vereisen een tussenliggende conversie naar een ondersteunde indeling die dient als een basis om handmatig een correct document in de doeltaal te maken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They will appear as separate segments in the editor.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230517T091652Z" creationid="Dick" creationdate="20230517T091652Z">
@@ -83093,6 +83101,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134159Z">
         <seg>U kunt projectspecifieke filters inschakelen via &lt;e0&gt;Project → Eigenschappen...&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can find a number of online or offline utilities that convert PDF to common office formats, but the conversion will always require extensive manual adjustments to the target document before a proper PDF document can be produced.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T140751Z" creationid="Dick" creationdate="20230524T140751Z">
+        <seg>U kunt een aantal mogelijkheden van online- of offline-programma's die PDF converteren naar veel voorkomende indelingen van kantoorpaketten, maar de conversie zal altijd uitgebreide handmatige aanpassingen vereisen aan het doeldocument, vóórdat een correct PDF-document kan worden geproduceerd.</seg>
       </tuv>
     </tu>
     <tu>
