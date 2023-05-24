@@ -21149,6 +21149,14 @@ the conditions stated below.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy the files to translate to the source/ folder, and use your SVN or Git client, or the command line, to add and publish them to the repository.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T082906Z" creationid="Dick" creationdate="20230524T082906Z">
+        <seg>Kopieer de te vertalen bestanden naar de map source/, en gebruik uw SVN- of Git-cliënt, of de opdrachtregel, om ze toe te voegen en te publiceren in de opslagplaats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy the folder to a suitable folder (e.g. Applications).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T135758Z" creationid="Dick" creationdate="20190516T135758Z">
@@ -77499,6 +77507,14 @@ De huidige instelling is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to add files from OmegaT.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T082928Z" creationid="Dick" creationdate="20230524T082928Z">
+        <seg>Gebruik &lt;l0/&gt;&lt;l1/&gt; om bestanden vanuit OmegaT toe te voegen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to assign an alternative translation to segments that require a different translation.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T084915Z" creationid="Dick" creationdate="20230522T084915Z">
@@ -83227,6 +83243,14 @@ or can get the source code.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T111810Z" creationid="Dick" creationdate="20211118T111810Z">
         <seg>Daarna moet u nogmaals op &lt;k6&gt;&lt;k7&gt;Ctrl&lt;/k7&gt;&lt;k8&gt;M&lt;/k8&gt;&lt;/k6&gt; drukken om de suggestie in te voeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You must use your SVN or Git client, or the command line, to add and publish any dictionaries, glossaries, translation memories or other files you want to include in the project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T083113Z" creationid="Dick" creationdate="20230524T083113Z">
+        <seg>U moet uw SVN- of Git-cliënt, of de opdrachtergel, gebruiken om woordenboeken, woordenlijsten vertaalgeheugens of andere bestanden, die u wilt opnemen in het project, toe te voegen en te publiceren.</seg>
       </tuv>
     </tu>
     <tu>
