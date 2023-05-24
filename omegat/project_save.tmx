@@ -16143,6 +16143,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Association</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T114840Z" creationid="Dick" creationdate="20230524T114840Z">
+        <seg>Associatie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>At each cursor position rules, consisting of a &lt;e0&gt;Before &lt;/e0&gt;and &lt;e1&gt;After &lt;/e1&gt;pattern, are applied in their given order to see if any of the&lt;e2&gt; Before&lt;/e2&gt; patterns are valid for the text on the left and the corresponding &lt;e3&gt;After&lt;/e3&gt; pattern for the text on the right of the cursor.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T172007Z">
@@ -28128,6 +28136,14 @@ Gossamer-drempel houdt u tegen
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File filters have a list of file extensions that are associated to them.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T114923Z" creationid="Dick" creationdate="20230524T114923Z">
+        <seg>Bestandsfilters hebben een lijst met bestandsextensies die ermee zijn geassocieerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File format</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210504T095019Z">
@@ -34511,6 +34527,14 @@ copy of the Program in return for a fee.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T093425Z" creationid="Dick" creationdate="20230522T093425Z">
         <seg>Als de map leeg is, geen van de bestanden bevat vertaalbare inhoud, of er zijn geen bestanden die worden ondersteund door de beschikbare bestandsfilters, zal OmegaT u meedelen dat de map leeg is.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the format you want to translate is structurally close to an already supported format, just add its file extension to the supported format extension list, or change the file extension to one that is accepted by the file filter that you want to use.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115132Z" creationid="Dick" creationdate="20230524T115132Z">
+        <seg>Als de indeling die u wilt vertalen structureel dicht bij een reeds ondersteunde indeling ligt, voeg dan eenvoudigweg de bestandsextensie toe aan de lijst met ondersteunde extensies voor die indeling, of  wijzig de bestandsextensie naar een die wordt geaccepteerd door het bestandsfilter dat u wilt gebruiken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -82323,6 +82347,14 @@ op het bureaublad en in het gebied voor snel starten om het van daaruit te koppe
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230523T095009Z" creationid="Dick" creationdate="20230523T095009Z">
         <seg>U kunt ook AppleScript, Automator of sneltoetsen gebruiken om Services of scripts te maken die acties die veel voorkomen te automatiseren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also use OmegaT's custom tag function to register format specific strings and have OmegaT handle them as if they were normal tags.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115248Z" creationid="Dick" creationdate="20230524T115248Z">
+        <seg>U kunt ook de functie voor aangepaste tags van OmegaT gebruiken om specifieke tekenreeksen voor de indeling te registreren en OmegaT ze laten afhandelen alsof het normale tags waren.</seg>
       </tuv>
     </tu>
     <tu>
