@@ -13785,6 +13785,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After the team project administrator confirms that a translator has been able to open the team project, it is a good idea to make sure that the &lt;l0&gt;project statistics&lt;/l0&gt; are the same for both the administrator (on the server) and the translator (locally).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T094608Z" creationid="Dick" creationdate="20230524T094546Z">
+        <seg>Nadat de beheerder van het teamproject heeft bevestigd dat een vertaler in staat moet zijn het teamproject te openen, is het een goed idee om ervoor te zorgen dat de &lt;l0&gt;statistieken van het project&lt;/l0&gt; hetzelfde zijn voor zowel de beheerder (op de server) en de vertaler (lokaal).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After the unpacking or installation is complete, you can delete the downloaded file as it is no longer needed.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T112339Z" creationid="Dick" creationdate="20230522T112339Z">
@@ -34741,6 +34749,14 @@ notice like this when it starts in an interactive mode:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T131239Z">
         <seg>Als zij niet conflicteren met sneltoetsen van het systeem, zouden zij beschikbaar moeten zijn binnen OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If they do not match, make sure the &lt;f0&gt;filters.xml&lt;/f0&gt; and &lt;f1&gt;segmentation.conf&lt;/f1&gt; files are properly shared.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T094724Z" creationid="Dick" creationdate="20230524T094724Z">
+        <seg>Indien zij niet overeenkomen, zorg ervoor dat de bestanden &lt;f0&gt;filters.xml&lt;/f0&gt; en &lt;f1&gt;segmentation.conf&lt;/f1&gt; op de juiste wijze wordne gedeeld.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71351,6 +71367,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20201125T115106Z" creationid="Dick" creationdate="20201125T115106Z">
         <seg>Dit kan zijn: http (inclusief https), svn, git of bestand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This can be useful if the project is set up to use different &lt;l1&gt;mappings&lt;/l1&gt; for each translator.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T094411Z" creationid="Dick" creationdate="20230524T094411Z">
+        <seg>Dit kan nuttig zijn als het project is ingesteld om verschillende &lt;l1&gt;routes&lt;/l1&gt; voor elke vertaler te gebruiken.</seg>
       </tuv>
     </tu>
     <tu>
