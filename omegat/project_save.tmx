@@ -57862,6 +57862,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;u0&gt;List of file filters&lt;/u0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T121748Z" creationid="Dick" creationdate="20230524T121748Z">
+        <seg>Bekijk &lt;u0&gt;Lijst van bestandsfilters&lt;/u0&gt; voor details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;u0&gt;Oracle documentation&lt;/u0&gt; for examples of the "SimpleDateFormat" patterns</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134631Z">
@@ -64948,6 +64956,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230519T141400Z" creationid="Dick" creationdate="20230519T141400Z">
         <seg>Het VIERKANTE HAAKJE VOOR OPENEN: &lt;l0&gt;(&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Okapi Framework comes with a number of file filters, including some not supported natively by OmegaT.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T121724Z" creationid="Dick" creationdate="20230524T121724Z">
+        <seg>Het Okapi Framework bevat een aantal bestandsfilters, inclusief enkele niet door OmegaT zelf ondersteunde.</seg>
       </tuv>
     </tu>
     <tu>
