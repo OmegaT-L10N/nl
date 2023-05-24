@@ -35295,6 +35295,14 @@ by the Installation Information.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you created the project from the GUI, you then have to explicitly add it to the version control system (&lt;c0&gt;add&lt;/c0&gt; in both SVN and Git).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T083942Z" creationid="Dick" creationdate="20230524T083942Z">
+        <seg>Wanneer u het project hebt gemaakt vanuit de gebruikersinterface, moet u het expliciet toevoegen aan het versiesysteem (&lt;c0&gt;add&lt;/c0&gt; in zowel SVN als Git).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa), but OmegaT will attempt to create paragraph fuzzy matches by glueing together existing sentence translations.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T165940Z">
@@ -54186,6 +54194,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Register the project files into the local VCS</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T083758Z" creationid="Dick" creationdate="20230524T083758Z">
+        <seg>Registreer de projectbestanden in het lokale VCS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Register your application</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170916T102535Z" creationid="DiGro (Dick)" creationdate="20170916T102535Z">
@@ -57658,6 +57674,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l2/&gt; preference for details.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T083733Z" creationid="Dick" creationdate="20230524T083720Z">
+        <seg>Bekijk de voorkeur &lt;l2/&gt; voor details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l2/&gt; preferences for details.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230512T085746Z" creationid="Dick" creationdate="20230512T085746Z">
@@ -60002,6 +60026,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131228T125732Z">
         <seg>Sommige andere CAT-programma's zijn in staat om woordenlijsten in deze indeling te importeren en te exporteren, of een soortgelijke indeling van platte-tekst die daaruit op eenvoudige wijze kan worden gemaakt (bijvoorbeeld door een zoek- &amp; vervangactie in Microsoft Word).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some plugins can make this task easier.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T083712Z" creationid="Dick" creationdate="20230524T083712Z">
+        <seg>Sommige plug-ins kunnen deze taak eenvoudiger maken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69157,6 +69189,14 @@ use, which is precisely where it is most unacceptable.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T173700Z">
         <seg>Het team kan ook dezelfde structuur voor de submappen gebruiken voor de doelbestanden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The team project administrator must use the local VCS to &lt;e0&gt;modify&lt;/e0&gt; or &lt;e1&gt;delete&lt;/e1&gt; those files.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T083654Z" creationid="Dick" creationdate="20230524T083654Z">
+        <seg>De beheerder van het teamproject moet de lokale VCS gebruiken o deze bestanden &lt;e0&gt;aan te passen&lt;/e0&gt; of &lt;e1&gt;te verwijderen&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
