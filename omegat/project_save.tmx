@@ -39576,6 +39576,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is also possible to use a team project configuration where several translators share the &lt;f0&gt;project_save.tmx&lt;/f0&gt; file, and only a subset of the other files.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T114047Z" creationid="Dick" creationdate="20230524T114047Z">
+        <seg>Het is ook mogelijk een configuratie voor een teamproject te gebruiken waar verschillende vertalers het bestand &lt;f0&gt;project_save.tmx&lt;/f0&gt; delen, en alleen een subset van de andere bestanden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is also worth asking on the &lt;a1&gt;localizers' list&lt;/a1&gt; (OmT-l10n) whether anyone has any reference material which might facilitate your translation.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131227T171721Z" creationid="Dirk" creationdate="20131227T171721Z">
@@ -58958,6 +58966,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Selective sharing</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T113800Z" creationid="Dick" creationdate="20230524T113754Z">
+        <seg>Selectief delen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Selects the previous, the next or the Nth fuzzy match displayed in the fuzzy match pane to replace or insert it to the segment.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T162016Z" creationid="Dick" creationdate="20190516T162016Z">
@@ -65038,6 +65054,14 @@ Probeer alstublieft de fout te corrigeren en herlaad het project.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T141944Z">
         <seg>De bovenstaande methode is een niet zo praktische manier om een programma routinematig te starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The above process describes the most common scenario, in which the team project administrator has full control of the project and all files (and statistics) are identical in all instances of the project, both on the server and the local systems of the translators.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T113922Z" creationid="Dick" creationdate="20230524T113922Z">
+        <seg>Het proces hierboven beschrijft de meest voorkomende scenario's, waar de projectbeheerder volledige controle heeft over het project en waar alle bestanden (en de statistieken) identiek zijn aan beide zijden (aan de zijde van de server en aan de zijde van de lokale systemen van de vertaler).</seg>
       </tuv>
     </tu>
     <tu>
@@ -81898,6 +81922,14 @@ for enforcing compliance by third parties with this License.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142929Z">
         <seg>U kunt een nieuwe term aan een woordenlijst toevoegen door te drukken op &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;, of bestaande woordenlijsten kopiëren naar de submap &lt;f1&gt;/glossary/&lt;/f1&gt; van uw projectmap en OmegaT zal automatisch daarin woorden opzoeken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can add as many mappings as you want, but one of the mappings must include the &lt;f0&gt;omegat.project&lt;/f0&gt; file.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T113743Z" creationid="Dick" creationdate="20230524T113715Z">
+        <seg>U mag net zoveel routes maken als u wilt, maar alleen in de context van een teamproject, d.i. één van de routes bevat het bestand &lt;f0&gt;omegat.project&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
