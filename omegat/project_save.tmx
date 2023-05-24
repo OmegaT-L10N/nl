@@ -13009,6 +13009,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Accessing a team project requires the following information:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T093517Z" creationid="Dick" creationdate="20230524T093517Z">
+        <seg>Toegang tot een teamproject vereist de volgende informatie:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Accessing the TaaS service</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T172336Z">
@@ -13741,6 +13749,14 @@ the above requirements apply either way.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T141735Z" creationid="Dick" creationdate="20190516T141735Z">
         <seg>Na de initiële installatie kunt u natuurlijk &lt;f3&gt;OmegaT.jnlp&lt;/f3&gt; ook gebruiken als u offline bent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After the project is ready and has been uploaded to the server, the team project administrator has to set up access for the translators.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T093447Z" creationid="Dick" creationdate="20230524T093447Z">
+        <seg>Nadat het project gereed is en is geüpload naar de server, moet de beheerder van het teamtoegang instellen voor de vertalers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28236,6 +28252,14 @@ Gossamer-drempel houdt u tegen
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Finally, publish your project to the remote server (&lt;c0&gt;commit&lt;/c0&gt; in SVN, &lt;c1&gt;commit&lt;/c1&gt; and &lt;c2&gt;push&lt;/c2&gt; in Git).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T093230Z" creationid="Dick" creationdate="20230524T093230Z">
+        <seg>Publiceer tenslotte uw project op de server op afstand (&lt;c0&gt;commit&lt;/c0&gt; in SVN, &lt;c1&gt;commit&lt;/c1&gt; en &lt;c2&gt;push&lt;/c2&gt; in Git).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Finally, save the changes with &lt;e0&gt;File - Save.&lt;/e0&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T140837Z">
@@ -30602,6 +30626,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T150157Z" creationid="Dick" creationdate="20221220T150157Z">
         <seg>Git-notificatie: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Give access rights to your team</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T093245Z" creationid="Dick" creationdate="20230524T093245Z">
+        <seg>Geef toegangsrechten aan uw team</seg>
       </tuv>
     </tu>
     <tu>
@@ -35922,6 +35954,14 @@ to use Java Web Start.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230520T121308Z" creationid="Dick" creationdate="20230520T121308Z">
         <seg>Als u lokale regels gebruikt, heeft u nog steeds toegang tot de globale regels, maar het aanpassen daarvan zal geen effect hebben op uw project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you use multiple projects on the same server, credentials will only be asked once for that server.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T093335Z" creationid="Dick" creationdate="20230524T093335Z">
+        <seg>Wanneer u meerdere projecten op dezelfde server gebruikt, zullen inloggegevens slechts één keer worden gevraagd voor die server.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53650,6 +53690,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T134856Z" creationid="Dick" creationdate="20211118T134838Z">
         <seg>Plaats de TMX in de map &lt;f0&gt;tm/enforce&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Put the registered files on the hosting server</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T093141Z" creationid="Dick" creationdate="20230524T093141Z">
+        <seg>Plaats de geregistreerde bestanden op de hostserver</seg>
       </tuv>
     </tu>
     <tu>
