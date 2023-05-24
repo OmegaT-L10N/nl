@@ -74806,6 +74806,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To ensure that all the properties of a format are properly taken into account, it is sometimes preferable to convert the file to a supported format and then convert the translated file back to the original format.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T121502Z" creationid="Dick" creationdate="20230524T121502Z">
+        <seg>Het heeft soms de voorkeur om het bestand te converteren naar een ondersteunde indeling en dan het vertaalde document terug te converteren naar de originele indeling om er voor te zorgen dat met alle eigenschappen van een indeling op de juiste wijze rekening wordt gehouden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To find a normal period, that meaning has to be cancelled using the &lt;l0&gt;\&lt;/l0&gt;, to make the expression &lt;l1&gt;\.&lt;/l1&gt;, which just matches a period.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230519T131139Z" creationid="Dick" creationdate="20230519T131139Z">
@@ -90559,14 +90567,6 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170914T161353Z" creationid="DiGro (Dick)" creationdate="20170914T161353Z">
         <seg>mALIGNa (MIT License)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>macOS</seg>
-      </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230521T103702Z" creationid="Dick" creationdate="20230521T103702Z">
-        <seg>[DG]Op macOS</seg>
       </tuv>
     </tu>
     <tu>
