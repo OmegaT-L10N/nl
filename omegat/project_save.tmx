@@ -54314,10 +54314,26 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Rainbow can create XLIFF 1.2 compliant files or OmegaT projects from all the files set as “input” files.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T134315Z" creationid="Dick" creationdate="20230524T134315Z">
+        <seg>Rainbow kan bestanden maken die voldoen aan XLIFF 1.2 of projecten voor OmegaTvanuit al de bestanden die zijn ingsteld als “invoer”-bestanden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Rainbow, from the &lt;u0&gt;Okapi Framework&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230524T121620Z" creationid="Dick" creationdate="20230524T121620Z">
         <seg>Rainbow, van het &lt;u0&gt;Okapi Framework&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rainbow-supported files are converted into XLIFF and inserted as source files into a full fledged OmegaT project that you can open with OmegaT right away.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T134524Z" creationid="Dick" creationdate="20230524T134524Z">
+        <seg>Rainbow-ondersteunde bestanden worden geconverteerd naar XLIFF en ingevoegd als bronbestanden in een volledig project voor OmegaT dat u direct kunt openen met OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
