@@ -13949,6 +13949,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After the project is downloaded, it is installed locally and only needs to be opened locally to synchronize with the server.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T143638Z" creationid="Dick" creationdate="20230524T143638Z">
+        <seg>Nadat het project is gedownload, het lokaal is geïnstalleerd en hoeft alleen lokaal te worden geopend om te synchroniseren met de server.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After the project is ready and has been uploaded to the server, the team project administrator has to set up access for the translators.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230524T093447Z" creationid="Dick" creationdate="20230524T093447Z">
@@ -56020,6 +56028,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T122945Z" creationid="Dirk" creationdate="20160906T161618Z">
         <seg>Mappen in opslagplaats…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repository credentials are stored in the &lt;l0/&gt; file and can be deleted from the &lt;l1/&gt; preferences.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T143729Z" creationid="Dick" creationdate="20230524T143729Z">
+        <seg>Logingegevens voor de opslagplaats worden opgeslagen in het bestand &lt;l0/&gt; en kunnen worden verwijderd vanuit de voorkeuren &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
