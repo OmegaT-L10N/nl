@@ -897,8 +897,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Align Files...</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dirk" changedate="20160906T160908Z" creationid="Dirk" creationdate="20160906T160908Z">
-        <seg>Bestanden &amp;uitlijnen...</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115712Z" creationid="Dirk" creationdate="20160906T160908Z">
+        <seg>Bestanden &amp;uitlijnen…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1937,8 +1937,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Preferences...</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dirk" changedate="20170914T121241Z" creationid="Dirk" creationdate="20170914T121241Z">
-        <seg>&amp;Voorkeuren...</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115712Z" creationid="Dirk" creationdate="20170914T121241Z">
+        <seg>&amp;Voorkeuren…</seg>
       </tuv>
     </tu>
     <tu>
@@ -4440,9 +4440,9 @@ Klik op de knop Bestanden kopiëren naar map Bronbestanden... in het venster Pro
         <seg>--disable-project-locking
 	  Do not attempt to lock the omegat.project file.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20221214T143736Z" creationid="Dick" creationdate="20221214T143736Z">
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115357Z" creationid="Dick" creationdate="20221214T143736Z">
         <seg>--disable-project-locking
-	Probeer niet het omegat.project-bestand van het project te vergrendelen..</seg>
+	Probeer niet het omegat.project-bestand van het project te vergrendelen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4920,6 +4920,14 @@ en laad het project.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>.*\.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115712Z" creationid="Dick" creationdate="20230524T115712Z">
+        <seg>…</seg>
       </tuv>
     </tu>
     <tu>
@@ -7598,6 +7606,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Check Issues...&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;V&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115712Z" creationid="Dick" creationdate="20230524T115712Z">
+        <seg>&lt;g0&gt;Check Issues…&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;V&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Close&lt;/g0&gt;: close the window without any change.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T140857Z" creationid="Dick" creationdate="20211118T140857Z">
@@ -7610,6 +7626,14 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T120750Z" creationid="Dick" creationdate="20211118T120750Z">
         <seg>&lt;g0&gt;Witruimte in vertaalde documenten comprimeren&lt;/g0&gt;: meerdere doorlopende witruimten zullen worden geconverteerd naar één enkele witruimte in het vertaalde document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Create Glossary Entry...&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;G&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115712Z" creationid="Dick" creationdate="20230524T115712Z">
+        <seg>&lt;g0&gt;Create Glossary Entry…&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;G&lt;/k4&gt;&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7678,6 +7702,22 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;New...&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;N&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115712Z" creationid="Dick" creationdate="20230524T115712Z">
+        <seg>&lt;g0&gt;New…&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;N&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Open...&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;O&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115712Z" creationid="Dick" creationdate="20230524T115712Z">
+        <seg>&lt;g0&gt;Open…&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;O&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Preserve spaces for all tags&lt;/g0&gt;: check this option if the source documents contain significant spaces used to control the layout that must not be ignored.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T120234Z" creationid="Dick" creationdate="20211118T120234Z">
@@ -7698,6 +7738,14 @@ Bekijk "Hoofdstuk 3.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T122721Z" creationid="Dick" creationdate="20190516T122721Z">
         <seg>&lt;g0&gt;Project&lt;/g0&gt; &lt;g1&gt;Nieuw…&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Properties...&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;E&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115712Z" creationid="Dick" creationdate="20230524T115712Z">
+        <seg>&lt;g0&gt;Properties…&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;E&lt;/k3&gt;&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7734,10 +7782,26 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Replace...&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;K&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115712Z" creationid="Dick" creationdate="20230524T115712Z">
+        <seg>&lt;g0&gt;Replace…&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;K&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Replace:&lt;/g0&gt; operates a "one by one" replacement, by the mean of buttons in the header of the Editor pane.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T140807Z" creationid="Dick" creationdate="20211118T140807Z">
         <seg>&lt;g0&gt;Vervangen:&lt;/g0&gt; voert een "één op één"-vervanging uit, door middel van de knoppen in de kop van het venster Bewerken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Save TMX...&lt;/g0&gt;: This item is grayed out until the next step is complete.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115712Z" creationid="Dick" creationdate="20230524T115712Z">
+        <seg>&lt;g0&gt;Save TMX…&lt;/g0&gt;: This item is grayed out until the next step is complete.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7758,10 +7822,34 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Search...&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;F&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115712Z" creationid="Dick" creationdate="20230524T115712Z">
+        <seg>&lt;g0&gt;Search…&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;F&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Segment number...&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;J&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115712Z" creationid="Dick" creationdate="20230524T115712Z">
+        <seg>&lt;g0&gt;Segment number…&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;J&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Skip text matching regular expression&lt;/g0&gt;: any text matching the regular expression is skipped.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T120422Z" creationid="Dick" creationdate="20211118T120422Z">
         <seg>&lt;g0&gt;Tekst die overeenkomt met reguliere uitdrukking overslaan&lt;/g0&gt;: De tekst die overeenkomt met de reguliere uitdrukking wordt overgeslagen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Source Files...&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;L&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115712Z" creationid="Dick" creationdate="20230524T115712Z">
+        <seg>&lt;g0&gt;Source Files…&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;L&lt;/k3&gt;&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7830,6 +7918,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;User Manual...&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;F1&lt;/k2&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115712Z" creationid="Dick" creationdate="20230524T115712Z">
+        <seg>&lt;g0&gt;User Manual…&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;F1&lt;/k2&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;case sensitive&lt;/g0&gt;: the search will be performed for the exact string specified; i.e. capitalization is observed.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T141211Z" creationid="Dick" creationdate="20211118T141110Z">
@@ -7880,8 +7976,8 @@ Bekijk "Hoofdstuk 3.</seg>
       <tuv lang="en">
         <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dirk" changedate="20170104T181103Z" creationid="Dirk" creationdate="20170104T181103Z">
-        <seg>&lt;html&gt;&lt;center&gt;Laden...&lt;br&gt;&lt;br&gt;Tip: Controles kunnen op elk moment worden in-/uitgeschakeld in het menu Opties.&lt;/center&gt;&lt;/html&gt;</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115504Z" creationid="Dirk" creationdate="20170104T181103Z">
+        <seg>&lt;html&gt;&lt;center&gt;Laden…&lt;br&gt;&lt;br&gt;Tip: Controles kunnen op elk moment worden in-/uitgeschakeld in het menu Opties.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9719,8 +9815,8 @@ Bekijk "Hoofdstuk 3.</seg>
       <tuv lang="en">
         <seg>&lt;p0&gt;Menu Project&lt;/p0&gt; &lt;s1&gt;New...&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dirk" changedate="20160910T142839Z">
-        <seg>&lt;p0&gt;menu Project&lt;/p0&gt; &lt;s1&gt;Nieuw...&lt;/s1&gt;</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115712Z">
+        <seg>&lt;p0&gt;menu Project&lt;/p0&gt; &lt;s1&gt;Nieuw…&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13191,8 +13287,8 @@ protocols for communication across the network.</seg>
       <tuv lang="en">
         <seg>Add &amp;Files...</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20221218T132245Z" creationid="Dick" creationdate="20221218T132245Z">
-        <seg>&amp;Bestanden toevoegen...</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115712Z" creationid="Dick" creationdate="20221218T132245Z">
+        <seg>&amp;Bestanden toevoegen…</seg>
       </tuv>
     </tu>
     <tu>
@@ -13873,6 +13969,14 @@ the above requirements apply either way.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T112339Z" creationid="Dick" creationdate="20230522T112339Z">
         <seg>Als het uitpakken of installeren is voltooid kunt u u het gedownloade bestand verwijderen omdat het niet langer nodig is.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After you finish aligning the two columns, click the &lt;g0&gt;Save TMX...&lt;/g0&gt; button to create the translation memory.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115712Z" creationid="Dick" creationdate="20230524T115712Z">
+        <seg>After you finish aligning the two columns, click the &lt;g0&gt;Save TMX…&lt;/g0&gt; button to create the translation memory.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19419,8 +19523,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Cleaning entry '{0}'...</seg>
       </tuv>
-      <tuv lang="nl" changeid="DiGro (Dick)" changedate="20180605T081747Z" creationid="DiGro (Dick)" creationdate="20180605T081747Z">
-        <seg>Item '{0}' opschonen...</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115712Z" creationid="DiGro (Dick)" creationdate="20180605T081747Z">
+        <seg>Item '{0}' opschonen…</seg>
       </tuv>
     </tu>
     <tu>
@@ -19611,8 +19715,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>Click on &lt;g1&gt;Copy Files to Source Folder...&lt;/g1&gt; to select your source files.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dirk" changedate="20160910T142847Z">
-        <seg>Klik op &lt;g1&gt;Bronbestanden importeren...&lt;/g1&gt; om uw bronbestanden te selecteren.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115712Z">
+        <seg>Klik op &lt;g1&gt;Bronbestanden importeren…&lt;/g1&gt; om uw bronbestanden te selecteren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21055,16 +21159,16 @@ of er nog aanvullende stappen moeten worden uitgevoerd.</seg>
       <tuv lang="en">
         <seg>Converting all .DOCX in the project...</seg>
       </tuv>
-      <tuv lang="nl" changeid="DiGro (Dick)" changedate="20180605T081613Z" creationid="DiGro (Dick)" creationdate="20180605T081613Z">
-        <seg>Alle .DOCX in het project converteren...</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115712Z" creationid="DiGro (Dick)" creationdate="20180605T081613Z">
+        <seg>Alle .DOCX in het project converteren…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Converting current .DOCX...</seg>
       </tuv>
-      <tuv lang="nl" changeid="DiGro (Dick)" changedate="20180605T081631Z" creationid="DiGro (Dick)" creationdate="20180605T081631Z">
-        <seg>Huidige .DOCX converteren...</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115712Z" creationid="DiGro (Dick)" creationdate="20180605T081631Z">
+        <seg>Huidige .DOCX converteren…</seg>
       </tuv>
     </tu>
     <tu>
@@ -30890,6 +30994,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Global Segmentation Rules...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115712Z" creationid="Dick" creationdate="20230524T115712Z">
+        <seg>Global Segmentation Rules…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Global or local?</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230520T120858Z" creationid="Dick" creationdate="20230520T120858Z">
@@ -32482,6 +32594,14 @@ Het is er wintertijd voor</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How To...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115712Z" creationid="Dick" creationdate="20230524T115712Z">
+        <seg>How To…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How they do so is very much up to them.</seg>
       </tuv>
       <tuv lang="nl">
@@ -33955,6 +34075,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T173740Z">
         <seg>Als de taalcode, noch de landcode overeenkomen zullen de segmenten worden genegeerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If no list of scripts is displayed on the left side of the script editor window, use the Scripting window &lt;g0&gt;File&lt;/g0&gt; &gt; &lt;g1&gt;Set Scripts Folder...&lt;/g1&gt; menu to set the location of the scripts.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115712Z" creationid="Dick" creationdate="20230524T115712Z">
+        <seg>If no list of scripts is displayed on the left side of the script editor window, use the Scripting window &lt;g0&gt;File&lt;/g0&gt; &gt; &lt;g1&gt;Set Scripts Folder…&lt;/g1&gt; menu to set the location of the scripts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36762,10 +36890,26 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In &lt;g0&gt;List View&lt;/g0&gt;, right click on the &lt;g1&gt;Action&lt;/g1&gt; widget at the right-end of the selected property line and select &lt;g2&gt;Notify Me When a Segment Has...&lt;/g2&gt; (where ... varies according to the desired notification).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115712Z" creationid="Dick" creationdate="20230524T115712Z">
+        <seg>In &lt;g0&gt;List View&lt;/g0&gt;, right click on the &lt;g1&gt;Action&lt;/g1&gt; widget at the right-end of the selected property line and select &lt;g2&gt;Notify Me When a Segment Has…&lt;/g2&gt; (where … varies according to the desired notification).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In &lt;g0&gt;Options &gt; External TMXs&lt;/g0&gt;, a number of variables allow to configure the display of the match pane:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T095134Z">
         <seg>In &lt;g0&gt;Opties &gt; Externe TMXen&lt;/g0&gt; maken een aantal variabelen het mogelijk om de weergave van het venster Overeenkomsten te configureren:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In &lt;g0&gt;Table View&lt;/g0&gt;, right click on the item and select &lt;g1&gt;Notify Me When a Segment Has...&lt;/g1&gt; (where ... varies according to the desired notification).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115712Z" creationid="Dick" creationdate="20230524T115712Z">
+        <seg>In &lt;g0&gt;Table View&lt;/g0&gt;, right click on the item and select &lt;g1&gt;Notify Me When a Segment Has…&lt;/g1&gt; (where … varies according to the desired notification).</seg>
       </tuv>
     </tu>
     <tu>
@@ -36926,6 +37070,14 @@ work and works based on it.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230519T082512Z" creationid="Dick" creationdate="20230519T082512Z">
         <seg>In aanvulling op een reguliere opdracht, kunt u een script aanroepen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In addition to the &lt;g0&gt;Save TMX...&lt;/g0&gt; button, the bottom part of the &lt;g1&gt;Align&lt;/g1&gt; window in the manual correction step features the same &lt;g2&gt;Highlight&lt;/g2&gt; check box and &lt;g3&gt;Pattern...&lt;/g3&gt; button as in the first step.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115712Z" creationid="Dick" creationdate="20230524T115712Z">
+        <seg>In addition to the &lt;g0&gt;Save TMX…&lt;/g0&gt; button, the bottom part of the &lt;g1&gt;Align&lt;/g1&gt; window in the manual correction step features the same &lt;g2&gt;Highlight&lt;/g2&gt; check box and &lt;g3&gt;Pattern…&lt;/g3&gt; button as in the first step.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37598,8 +37750,8 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       <tuv lang="en">
         <seg>In the &lt;g0&gt;Project&lt;/g0&gt; menu, select &lt;m1&gt;&lt;g2&gt;New...&lt;/g2&gt;&lt;/m1&gt; and type a name for your project.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dirk" changedate="20160910T142841Z">
-        <seg>In het menu &lt;g0&gt;Project&lt;/g0&gt;, selecteer &lt;m1&gt; &lt;g2&gt;Nieuw...&lt;/g2&gt; &lt;/m1&gt; en typ een naam in voor uw project.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115712Z">
+        <seg>In het menu &lt;g0&gt;Project&lt;/g0&gt;, selecteer &lt;m1&gt; &lt;g2&gt;Nieuw…&lt;/g2&gt; &lt;/m1&gt; en typ een naam in voor uw project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38794,6 +38946,14 @@ parts of the aggregate.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T145303Z" creationid="Dick" creationdate="20221220T145303Z">
         <seg>Installeren mislukt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Install new language...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115712Z" creationid="Dick" creationdate="20230524T115712Z">
+        <seg>Install new language…</seg>
       </tuv>
     </tu>
     <tu>
@@ -49966,8 +50126,8 @@ your home folder.</seg>
       <tuv lang="en">
         <seg>One of the most useful things OmegaT users can do is... to use OmegaT.</seg>
       </tuv>
-      <tuv lang="nl">
-        <seg>Eén van de meest nuttige dingen die gebruikers van OmegaT kunnen doen is... OmegaT gebruiken.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115712Z">
+        <seg>Eén van de meest nuttige dingen die gebruikers van OmegaT kunnen doen is… OmegaT gebruiken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50206,8 +50366,8 @@ your home folder.</seg>
       <tuv lang="en">
         <seg>Op&amp;en Recent...</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20221218T132227Z" creationid="Dick" creationdate="20221218T132227Z">
-        <seg>Recent project op&amp;enen...</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115416Z" creationid="Dick" creationdate="20221218T132227Z">
+        <seg>Recent project op&amp;enen…</seg>
       </tuv>
     </tu>
     <tu>
@@ -53050,6 +53210,14 @@ lokaal project zonder functionaliteit voor team.</seg>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T144754Z" creationid="DiGro (Dick)" creationdate="20170915T144754Z">
         <seg>Eerdere bijdragen van:
 (alfabetische volgorde)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Previously created files are overwritten by the process unless you have renamed them...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115712Z" creationid="Dick" creationdate="20230524T115712Z">
+        <seg>Previously created files are overwritten by the process unless you have renamed them…</seg>
       </tuv>
     </tu>
     <tu>
@@ -57080,8 +57248,8 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       <tuv lang="en">
         <seg>Scriptin&amp;g...</seg>
       </tuv>
-      <tuv lang="nl" changeid="DiGro" changedate="20110926T164454Z">
-        <seg>Scri&amp;pten...</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115712Z">
+        <seg>Scri&amp;pten…</seg>
       </tuv>
     </tu>
     <tu>
@@ -57488,8 +57656,8 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       <tuv lang="en">
         <seg>See "How To...</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20221218T130755Z" creationid="Dick" creationdate="20221218T130755Z">
-        <seg>Bekijk "How To...</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115404Z" creationid="Dick" creationdate="20221218T130755Z">
+        <seg>Bekijk "How To…</seg>
       </tuv>
     </tu>
     <tu>
@@ -58032,8 +58200,8 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       <tuv lang="en">
         <seg>See the &lt;l2/&gt; preferences for details.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230512T085746Z" creationid="Dick" creationdate="20230512T085746Z">
-        <seg>Bekijk de &lt;l2/&gt; voorkeuren voor details..</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115513Z" creationid="Dick" creationdate="20230512T085746Z">
+        <seg>Bekijk de &lt;l2/&gt; voorkeuren voor details.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58370,6 +58538,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20150413T105740Z">
         <seg>Vori&amp;ge overeenkomst selecteren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;g0&gt;Notify Me When a Segment Has...&lt;/g0&gt; (where ... varies depending on the pane for which you are enabling notifications.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115712Z" creationid="Dick" creationdate="20230524T115712Z">
+        <seg>Select &lt;g0&gt;Notify Me When a Segment Has…&lt;/g0&gt; (where … varies depending on the pane for which you are enabling notifications.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62936,8 +63112,8 @@ APPLICABLE LAW.</seg>
       <tuv lang="en">
         <seg>Tagwipe finished, reloading project...</seg>
       </tuv>
-      <tuv lang="nl" changeid="DiGro (Dick)" changedate="20180605T081707Z" creationid="DiGro (Dick)" creationdate="20180605T081707Z">
-        <seg>Tagwipe voltooid, opnieuw laden van project...</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115712Z" creationid="DiGro (Dick)" creationdate="20180605T081707Z">
+        <seg>Tagwipe voltooid, opnieuw laden van project…</seg>
       </tuv>
     </tu>
     <tu>
@@ -68803,8 +68979,8 @@ earlier work or a work "based on" the earlier work.</seg>
       <tuv lang="en">
         <seg>The script "{0}" is running...</seg>
       </tuv>
-      <tuv lang="nl" changeid="DiGro" changedate="20120103T175314Z">
-        <seg>Het script "{0}" wordt uitgevoerd...</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115450Z">
+        <seg>Het script "{0}" wordt uitgevoerd…</seg>
       </tuv>
     </tu>
     <tu>
@@ -78771,8 +78947,8 @@ De huidige instelling is {0}MB;</seg>
       <tuv lang="en">
         <seg>User Manual...</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dirk" changedate="20160910T132755Z">
-        <seg>Gebruikershandleiding...</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115712Z">
+        <seg>Gebruikershandleiding…</seg>
       </tuv>
     </tu>
     <tu>
@@ -79970,6 +80146,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131227T165337Z" creationid="Dirk" creationdate="20131227T165337Z">
         <seg>Web Start</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Web addresses (&lt;f1&gt;https://...&lt;/f1&gt;) open in the default browser.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115712Z" creationid="Dick" creationdate="20230524T115712Z">
+        <seg>Web addresses (&lt;f1&gt;https://…&lt;/f1&gt;) open in the default browser.</seg>
       </tuv>
     </tu>
     <tu>
@@ -82469,6 +82653,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120401T154323Z">
         <seg>U kunt de toetsencombinatie op elke moment wijzigen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can change the position of a file by selecting it and clicking one of the &lt;g0&gt;Move...&lt;/g0&gt; buttons on the right.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T115712Z" creationid="Dick" creationdate="20230524T115712Z">
+        <seg>You can change the position of a file by selecting it and clicking one of the &lt;g0&gt;Move…&lt;/g0&gt; buttons on the right.</seg>
       </tuv>
     </tu>
     <tu>
