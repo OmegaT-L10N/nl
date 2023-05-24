@@ -34857,6 +34857,14 @@ where to find the applicable terms.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you are converting an existing project, make sure you delete any files in the project that you do not need or want to upload to the server before proceeding to the next step.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T082741Z" creationid="Dick" creationdate="20230524T082741Z">
+        <seg>Wanneer u een bestaand project converteert, zorg er dan voor dat u bestanden, die u niet nodig hebt, verwijderd of wilt uploaden naar de server voordat u doorgaat met de volgende stap.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you are creating a new empty project, you can follow the &lt;l0&gt;GUI procedure&lt;/l0&gt;, or create it directly from the command line: &lt;c1&gt;java -jar OmegaT.jar team init &lt;source language&gt; &lt;target language&gt;&lt;/c1&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230523T124918Z" creationid="Dick" creationdate="20230523T124918Z">
@@ -57210,6 +57218,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l0&gt;spellchecker files&lt;/l0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T082558Z" creationid="Dick" creationdate="20230524T082558Z">
+        <seg>Bekijk &lt;l0&gt;bestanden voor spellingscontrole&lt;/l0&gt; voor details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l1/&gt; for details.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230512T091959Z" creationid="Dick" creationdate="20230512T091959Z">
@@ -59334,6 +59350,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T110637Z">
         <seg>Soortgelijk als in het geval van projecten van OmegaT zult u verschillende opslagplaatsen nodig hebben voor verschillende paren van talen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Similarly add any relevant lists of spellchecker files you want to make available to everyone working on the project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T082524Z" creationid="Dick" creationdate="20230524T082524Z">
+        <seg>Voeg op soortgelijke wijze relevante lijsten van bestanden voor spellingscontrole toe die u beschikbaar wilt maken voor iedereen die aan het project werkt.</seg>
       </tuv>
     </tu>
     <tu>
