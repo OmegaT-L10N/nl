@@ -43486,6 +43486,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make sure you understand the format requirements when you start working on a PDF or similar file.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T140845Z" creationid="Dick" creationdate="20230524T140845Z">
+        <seg>Zorg er voor dat u de vereisten voor de indeling begrijpt wanneer u begint te werken aan een PDF of soortgelijk bestand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make the necessary changes to the project properties at this stage, including local file filters or segmentation settings.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230523T125153Z" creationid="Dick" creationdate="20230523T125153Z">
@@ -46593,6 +46601,14 @@ measures.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>Niet alle CAT-programma's vertonen hetzelfde tolerantie en sommige zouden daarom de verwachte overeenkomsten niet hoeven weer te geven als de taalcodes niet genoeg voldoen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not all of the Okapi Framework file filters are included into the file filter plugin.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T141006Z" creationid="Dick" creationdate="20230524T141006Z">
+        <seg>Niet alle bestandsfilters van  het Okapi Framework zijn opgenomen in de plug-in met de bestandsfilters.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57958,6 +57974,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;u0&gt;Filters Included&lt;/u0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T141025Z" creationid="Dick" creationdate="20230524T141025Z">
+        <seg>Bekijk &lt;u0&gt;Opgenomen filters&lt;/u0&gt; voor details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;u0&gt;Howto - Translating PDF files with Iceni Infix and OmegaT&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T132027Z" creationid="Dirk" creationdate="20170914T132027Z">
@@ -65096,6 +65120,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Okapi Filters Plugin for OmegaT, from the &lt;u0&gt;Okapi Framework&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T140925Z" creationid="Dick" creationdate="20230524T140925Z">
+        <seg>De Okapi Filters Plugin voor OmegaT, van het &lt;u0&gt;Okapi Framework&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Okapi Framework comes with a number of file filters, including some not supported natively by OmegaT.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230524T121724Z" creationid="Dick" creationdate="20230524T121724Z">
@@ -71619,6 +71651,14 @@ U bent het slachtoffer van één van de drie.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T133450Z" creationid="Dirk" creationdate="20131225T133450Z">
         <seg>Derde-partij versies van Java: tot relatief recent draaide OmegaT alleen op de eigen Java van Oracle/Sun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Third-party plugins</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T140907Z" creationid="Dick" creationdate="20230524T140907Z">
+        <seg>Plug-ins van derde partijen</seg>
       </tuv>
     </tu>
     <tu>
@@ -80643,6 +80683,14 @@ Beheerder gemeenschap van</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T130712Z">
         <seg>Indien met de muis over een onderstreepte frase wordt gegaan, zal een omschrijving verschijnen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When installed, the plugin offers direct access to the added formats and also allows you to associate a custom filter parameters file created in Rainbow.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T141220Z" creationid="Dick" creationdate="20230524T141220Z">
+        <seg>Wanneer geïnstalleerd biedt de plug-in direct toegang tot de toegevoegde indelingen en stelt u ook in staat een bestand met parameters voor een aangepast bestandsfilter, gemaakt in Rainbow, te associëren.</seg>
       </tuv>
     </tu>
     <tu>
