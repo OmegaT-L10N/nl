@@ -12115,6 +12115,14 @@ consequence of further modification of the contributor version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A list of mapping parameters is presented below, and examples of their use are provided in the next section.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230524T095346Z" creationid="Dick" creationdate="20230524T095346Z">
+        <seg>Een lijst met parameters voor routes wordt hieronder weergegeven, en verbeelden van hun gebruik worden in het volgende gedeelte verschaft.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A list of possible arguments is given below.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142145Z">
