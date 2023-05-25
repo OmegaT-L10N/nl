@@ -79543,6 +79543,14 @@ De huidige instelling is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use translation memories</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T113851Z" creationid="Dick" creationdate="20230525T113851Z">
+        <seg>Vertaalgeheugens gebruiken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use untar utility (or its equivalent, for instance&lt;f0&gt; winrar&lt;/f0&gt; in Windows) to extract its contents into the &lt;f1&gt;dictionary&lt;/f1&gt; project folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T110558Z" creationid="Dick" creationdate="20211118T110558Z">
