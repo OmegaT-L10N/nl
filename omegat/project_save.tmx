@@ -14293,6 +14293,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All changes will be synchronized the next time a connection is available.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T113123Z" creationid="Dick" creationdate="20230525T113123Z">
+        <seg>Alle wijzigingen zullen de volgende keer als een verbinding beschikbaar worden gesynchroniseerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All collections (public and private) will be queried for the source and target language.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T172348Z">
@@ -24099,6 +24107,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T133614Z" creationid="Dick" creationdate="20190516T133614Z">
         <seg>Verbreek de verbinding met het netwerk vóór het project te openen,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Disconnect from the network before opening the project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T113157Z" creationid="Dick" creationdate="20230525T113157Z">
+        <seg>Verbreek de verbinding met het netwerk vóór het project te openen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50980,6 +50996,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open the project from the command line with the &lt;p0&gt;--no-team&lt;/p0&gt; option.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T113223Z" creationid="Dick" creationdate="20230525T113223Z">
+        <seg>Open het project vanaf de opdrachtregel met de optie &lt;p0&gt;--no-team&lt;/p0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open the project in OmegaT.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T134844Z" creationid="Dick" creationdate="20230522T134844Z">
@@ -58666,6 +58690,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230523T094337Z" creationid="Dick" creationdate="20230523T094337Z">
         <seg>Bekijk het gedeelte &lt;l1/&gt; hieronder voor details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l1/&gt; section for details.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T113229Z" creationid="Dick" creationdate="20230525T113229Z">
+        <seg>Bekijk het gedeelte &lt;l0/&gt; voor details.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71365,6 +71397,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There are two ways to work offline:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T113142Z" creationid="Dick" creationdate="20230525T113142Z">
+        <seg>Er zijn twee manieren om offline te werken:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There is a strong possibility that at some points, your translation will be longer than the original.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120402T174007Z">
@@ -74285,6 +74325,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120401T150012Z">
         <seg>Deze tag kan klaarblijkelijk niet worden verwijderd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This task is normally performed by the project administrator.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T113021Z" creationid="Dick" creationdate="20230525T113021Z">
+        <seg>Deze taak wordt normaal gesproken uitgevoerd door de projectbeheerder.</seg>
       </tuv>
     </tu>
     <tu>
@@ -83828,6 +83876,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120402T172627Z">
         <seg>U kunt nu de tekst vertalen (zie schermafbeelding).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can open a team project and work on it offline.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T113047Z" creationid="Dick" creationdate="20230525T113047Z">
+        <seg>U kunt een teamproject openen en er offline aan werken.</seg>
       </tuv>
     </tu>
     <tu>
