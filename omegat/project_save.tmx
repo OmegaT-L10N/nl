@@ -34901,6 +34901,14 @@ notice like this when it starts in an interactive mode:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the server uses SSH authentication, make sure you update your SSH configuration to include that server before attempting to download the project, otherwise you will get an authentication error and the project will fail to load.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T110305Z" creationid="Dick" creationdate="20230525T110305Z">
+        <seg>Als de server SSH-authenticatie gebruikt, zorg er dan voor dat uw uw configuratie van SSH bijwerkt om die server op te nemen, voordat u probeert het project te downloaden, anders zult u een fout in de authenticatie krijgen en het project zal niet laden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the source documents contain whitespace used to control the layout, the whitespace that must be will retained in the translated document.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230512T093003Z" creationid="Dick" creationdate="20230512T093003Z">
