@@ -48502,6 +48502,14 @@ OmegaT 4.0, Lees Mij-bestand</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT can read TMX-standard compliant memories produced by other tools.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T131845Z" creationid="Dick" creationdate="20230525T131845Z">
+        <seg>OmegaT kan TMX-standaard conforme geheugens lezen die zijn gemaakt door andere programma's.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT can tell you when a new version is available.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T114446Z" creationid="Dick" creationdate="20230522T114446Z">
