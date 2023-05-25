@@ -15047,6 +15047,14 @@ organization, or merging organizations.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An OmegaT project is a complex set of files.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T145144Z" creationid="Dick" creationdate="20230525T145144Z">
+        <seg>Een project van OmegaT is een complexe set bestanden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An OmegaT project is a folder containing files and subfolders.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T110407Z" creationid="Dick" creationdate="20190517T110407Z">
@@ -17167,6 +17175,14 @@ Neem nog een biertje.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>Zorg er voor dat u deze verzorgt op dezelfde manier als u de eigen inregelige tags van OmegaT zou afhandelen (de functionaliteit voor inregelige tags van OmegaT, zoals de functie tagvalidatie, is in dit geval echter niet beschikbaar).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Be cautious when you put a whole project in a file-sharing system like DropBox, OneCloud and the likes.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T145042Z" creationid="Dick" creationdate="20230525T145042Z">
+        <seg>Wees voorzichtig als u een heel project in een systeem voor het delen van bestanden, zoals DropBox, OneCloud en soortgelijke, plaatst.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49786,8 +49802,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>OmegaT uses collaborative version control systems to share data.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230525T144756Z" creationid="Dick" creationdate="20230525T144756Z">
-        <seg>OmegaT gebruikt collaboratieve versiesystemem om gegevens te delen.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T144950Z" creationid="Dick" creationdate="20230525T144756Z">
+        <seg>OmegaT gebruikt collaboratieve versiesystemen om gegevens te delen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63078,6 +63094,22 @@ address new problems or concerns.</seg>
         <seg>Such new versions will
 be similar in spirit to the present version, but may differ in detail to
 address new problems or concerns.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Such systems are free to use, install and manage and are widely used in the computer development world, making them extremely robust.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T144924Z" creationid="Dick" creationdate="20230525T144924Z">
+        <seg>Dergelijke systemen zijn vrij te gebruiken, te installeren en te beheren en worden breed gebruikt in de wereld van het ontwikkelen van computersoftware, war ze extreem robuust maakt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Such systems are not designed to keep track of the internal modifications of a given file.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T145114Z" creationid="Dick" creationdate="20230525T145114Z">
+        <seg>Dergelijke systemen zijn niet ontworpen om de interne wijzigingen in een bepaald bestand bij te houden.</seg>
       </tuv>
     </tu>
     <tu>
