@@ -51060,6 +51060,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open the old project and put the new source files in its &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T125230Z" creationid="Dick" creationdate="20230525T125230Z">
+        <seg>Open het oude project en plaats de nieuwe bronbestanden in de map &lt;l0/&gt; daarvan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open the project</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T173722Z">
@@ -56668,6 +56676,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T123718Z" creationid="Dirk" creationdate="20140813T173037Z">
         <seg>Lijst domein ophalen…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reuse TMs</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T125127Z" creationid="Dick" creationdate="20230525T125127Z">
+        <seg>TM's opnieuw gebruiken</seg>
       </tuv>
     </tu>
     <tu>
@@ -64550,6 +64566,14 @@ Het bereik van een tekstvervanging zijn de doelsegmenten van het project, of zij
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That’s the easiest way to work on the new version of an already translated document.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T125309Z" creationid="Dick" creationdate="20230525T125309Z">
+        <seg>Dat is de gemakkelijkste manier om aan een nieuwe versie van een reeds vertaald document te werken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The</seg>
       </tuv>
       <tuv lang="nl">
@@ -71173,6 +71197,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Their content comes from the global project memory (the &lt;l0/&gt; file) but is &lt;e1&gt;strictly limited&lt;/e1&gt; to what you have translated so far.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T125015Z" creationid="Dick" creationdate="20230525T125015Z">
+        <seg>Hun inhoud komt uit het globale geheugen van het project (het bestand &lt;l0/&gt;), maar is &lt;e1&gt;strikt beperkt&lt;/e1&gt; tot wat u tot dusverre hebt vertaald.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Their contents will not be displayed for translation.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230512T091157Z" creationid="Dick" creationdate="20230512T091157Z">
@@ -76158,6 +76190,14 @@ these rights or asking you to surrender the rights.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T174046Z">
         <seg>Hernoem het naar &lt;e6&gt;project_save.tmx &lt;/e6&gt;en plaats het in de map &lt;l7&gt;omegat&lt;/l7&gt; van uw project om het opnieuw in &lt;a5&gt;OmegaT&lt;/a5&gt; te gebruiken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To reuse translation memories from a previous project you have two options:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T125200Z" creationid="Dick" creationdate="20230525T125200Z">
+        <seg>U heeft twee opties om vertaalgeheugens uit een eerder project opnieuw te gebruiken:</seg>
       </tuv>
     </tu>
     <tu>
@@ -83427,6 +83467,14 @@ op het bureaublad en in het gebied voor snel starten om het van daaruit te koppe
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230524T115248Z" creationid="Dick" creationdate="20230524T115248Z">
         <seg>U kunt ook de functie voor aangepaste tags van OmegaT gebruiken om specifieke tekenreeksen voor de indeling te registreren en OmegaT ze laten afhandelen alsof het normale tags waren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also use the &lt;l0/&gt;&lt;l1/&gt; tool to create a TMX from two files in a format that OmegaT supports.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T125113Z" creationid="Dick" creationdate="20230525T125113Z">
+        <seg>U kunt ook het gereedschap &lt;l0/&gt;&lt;l1/&gt; gebruiken om een TMX te maken vanuit twee bestanden in een indeling die OmegaT ondersteunt.</seg>
       </tuv>
     </tu>
     <tu>
