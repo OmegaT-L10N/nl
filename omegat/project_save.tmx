@@ -49644,6 +49644,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT will then remember your credentials for that specific project unless you explicitly delete them.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T102504Z" creationid="Dick" creationdate="20230525T102504Z">
+        <seg>OmegaT zal dan uw inloggegevens onthouden voor dat specifieke project, tenzij u ze expliciet verwijdert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT will then report these segments as not translated.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T133630Z">
@@ -58474,6 +58482,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230512T092158Z" creationid="Dick" creationdate="20230512T092158Z">
         <seg>Bekijk het hoofdstuk &lt;l1/&gt; voor details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l1/&gt; preferences for details.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T102511Z" creationid="Dick" creationdate="20230525T102511Z">
+        <seg>Bekijk de &lt;l1/&gt; voorkeuren voor details.</seg>
       </tuv>
     </tu>
     <tu>
