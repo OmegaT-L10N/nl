@@ -85245,6 +85245,14 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You will have to fix them if you want to use them as reference memories, otherwise OmegaT will report an error and fail to load them.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T142619Z" creationid="Dick" creationdate="20230525T142619Z">
+        <seg>U zult ze moeten repareren als u ze wilt gebruiken als geheugens voor verwijzingen, of OmegaT zal een fout rapporteren en het weigeren ze te laden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You will have to manually apply bold, italics, or other text decorations in the translated file.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T085625Z" creationid="Dick" creationdate="20230522T085625Z">
