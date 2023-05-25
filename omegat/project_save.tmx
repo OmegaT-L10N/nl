@@ -57224,6 +57224,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>SDLXLIFF files</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T130653Z" creationid="Dick" creationdate="20230525T130653Z">
+        <seg>SDLXLIFF-bestanden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF</seg>
       </tuv>
       <tuv lang="nl">
@@ -63466,6 +63474,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>TTX is een XML-gebaseerde indeling.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TXML files</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T130638Z" creationid="Dick" creationdate="20230525T130638Z">
+        <seg>XML-bestanden</seg>
       </tuv>
     </tu>
     <tu>
@@ -82921,6 +82937,14 @@ Uw pagina werd niet gevonden</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>XLIFF files</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T130644Z" creationid="Dick" creationdate="20230525T130644Z">
+        <seg>XLIFF-bestanden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>XLIFF is the industry-standard bilingual file format.</seg>
       </tuv>
       <tuv lang="nl">
@@ -83242,6 +83266,14 @@ for enforcing compliance by third parties with this License.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T110140Z">
         <seg>U kunt daar nieuwe scripts toevoegen, zodat ze zullen verschijnen in de lijst met beschikbare scripts in het venster Scripten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can add such files to your project's &lt;l0/&gt; folder or one of its subfolders and the translated data will be immediately be available for matching purposes.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T130759Z" creationid="Dick" creationdate="20230525T130759Z">
+        <seg>U kunt dergelijk bestanden toevoegen aan de map &lt;l0/&gt; van uw project of een van de submappen daarvan en de vertaalde gegevens zullen direct beschikbaar zijn voor overeenkomsten.</seg>
       </tuv>
     </tu>
     <tu>
