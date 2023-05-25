@@ -54306,6 +54306,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Put the &lt;f0&gt;omegat.project&lt;/f0&gt; file in an empty folder, and open it in OmegaT.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T101026Z" creationid="Dick" creationdate="20230525T101026Z">
+        <seg>Plaats het bestand &lt;f0&gt;omegat.project&lt;/f0&gt; in een lege map, en open het in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Put the TMX in /tm/auto.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T172508Z" creationid="Dirk" creationdate="20160910T172508Z">
@@ -68965,6 +68973,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T171229Z" creationid="Dirk" creationdate="20160906T171229Z">
         <seg>Het project werd met succes geconverteerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project will automatically be downloaded to the folder containing that file.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T101107Z" creationid="Dick" creationdate="20230525T101107Z">
+        <seg>Het project zal automatisch worden gedownload naar de map die dat bestand bevat.</seg>
       </tuv>
     </tu>
     <tu>
