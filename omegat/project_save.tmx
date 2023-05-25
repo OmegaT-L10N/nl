@@ -49328,6 +49328,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT synchronizes a team project when it is opened, reloaded, closed or saved.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T111001Z" creationid="Dick" creationdate="20230525T111001Z">
+        <seg>OmegaT synchroniseert een teamproject wanneer het wordt geopend, opnieuw geladen, gesloten of opgeslagen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT tags in RTL segments</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T124026Z" creationid="Dick" creationdate="20211118T124026Z">
