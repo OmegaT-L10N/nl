@@ -25295,6 +25295,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Downloading the project</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T100014Z" creationid="Dick" creationdate="20230525T100014Z">
+        <seg>Het project downloaden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Downloading the right package</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T140726Z">
@@ -26508,6 +26516,14 @@ is the language code and YY is the region or country code (optional).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T110707Z">
         <seg>Voer een toepasselijke boodschap in het berichtenvenster in en druk op &lt;g0&gt;OK&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter the URL provided by the team project administrator in the &lt;g0&gt;Repository URL:&lt;/g0&gt; field at the top of the dialog, and specify a folder for the project in the &lt;g1&gt;New Local Project Folder:&lt;/g1&gt; field.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T100321Z" creationid="Dick" creationdate="20230525T100321Z">
+        <seg>Voer de URL in die is verschaft door de beheerder van het teamproject in het veld &lt;g0&gt;URL opslagplaats:&lt;/g0&gt; aan de bovenzijde van het dialoogvenster, en specificeer een map voor het project in het veld &lt;g1&gt;Map nieuwe lokale project:&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30413,6 +30429,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131228T130051Z">
         <seg>Vanaf versie 1.7.1 en verder is OmegaT in staat geweest om bestanden van Microsoft Office 2007 direct af te handelen, zonder conversie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From a URL</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T100020Z" creationid="Dick" creationdate="20230525T100020Z">
+        <seg>Vanaf een URL</seg>
       </tuv>
     </tu>
     <tu>
@@ -42016,6 +42040,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230521T081500Z" creationid="Dick" creationdate="20230521T081500Z">
         <seg>Leren van de meest frequente sneltoetsen zal niet lang duren als u eenmaal begint te werken met OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Leave the &lt;g2&gt;Default branch&lt;/g2&gt; option checked unless the project administrator has provided instructions for using a custom branch.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T100425Z" creationid="Dick" creationdate="20230525T100425Z">
+        <seg>Laat de optie &lt;g2&gt;Standaard branch&lt;/g2&gt; geselecteerd, tenzij de beheerder van het project instructies heeft gegeven om een aangepaste branch te gebruiken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78563,6 +78595,14 @@ De huidige instelling is {0}MB;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T084915Z" creationid="Dick" creationdate="20230522T084915Z">
         <seg>Gebruik &lt;l0/&gt;&lt;l1/&gt; om een alternatieve vertaling toe te wijzen aan segmenten die een andere vertaling vereisen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to bring up the &lt;g2&gt;Download Team Project&lt;/g2&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T100107Z" creationid="Dick" creationdate="20230525T100107Z">
+        <seg>Gebruik &lt;l0/&gt;&lt;l1/&gt; om het dialoogvenster &lt;g2&gt;Teamproject downloaden&lt;/g2&gt; op te roepen.</seg>
       </tuv>
     </tu>
     <tu>
