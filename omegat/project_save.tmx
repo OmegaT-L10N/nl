@@ -26522,8 +26522,8 @@ is the language code and YY is the region or country code (optional).</seg>
       <tuv lang="en">
         <seg>Enter the URL provided by the team project administrator in the &lt;g0&gt;Repository URL:&lt;/g0&gt; field at the top of the dialog, and specify a folder for the project in the &lt;g1&gt;New Local Project Folder:&lt;/g1&gt; field.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230525T100321Z" creationid="Dick" creationdate="20230525T100321Z">
-        <seg>Voer de URL in die is verschaft door de beheerder van het teamproject in het veld &lt;g0&gt;URL opslagplaats:&lt;/g0&gt; aan de bovenzijde van het dialoogvenster, en specificeer een map voor het project in het veld &lt;g1&gt;Map nieuwe lokale project:&lt;/g1&gt;.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T102240Z" creationid="Dick" creationdate="20230525T100321Z">
+        <seg>Voer de URL in die is verschaft door de beheerder van het teamproject in het veld &lt;g0&gt;URL opslagplaats:&lt;/g0&gt; aan de bovenzijde van het dialoogvenster, en specificeer een map voor het project in het veld &lt;g1&gt;Nieuwe lokale projectmap:&lt;/g1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
