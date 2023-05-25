@@ -41329,6 +41329,14 @@ zelf bij de eerste keer dat het wordt uitgevoerd.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Just put the English-Japanese file in &lt;f0&gt;tm/tmx2source&lt;/f0&gt; under the name &lt;f1&gt;JA-JP.tmx&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T150438Z" creationid="Dick" creationdate="20230525T150438Z">
+        <seg>Plaats eenvoudigwegc het Engels-Japanse bestand in &lt;f0&gt;tm/tmx2source&lt;/f0&gt; met de naam &lt;f1&gt;JA-JP.tmx&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Justification of source and target segments depends upon the project languages.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135625Z">
@@ -50008,6 +50016,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T133741Z" creationid="Dirk" creationdate="20131225T133741Z">
         <seg>OmegaT zal nu kunnen worden uitgevoerd op de implementatie van OpenJDK Java die wordt meegeleverd met sommige Linux-distributies, maar sommige functies (zoals de volledige set van opties voor de opdrachtregels) zouden niet beschikbaar kunnen zijn; er kan een andere set lettertypen meegeleverd zijn en sommige uitglijers zijn gerapporteerd, zoals met de weergave van vensters en de functie Segmentatie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will now show you the Japanese text corresponding to the English source segment:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T150546Z" creationid="Dick" creationdate="20230525T150546Z">
+        <seg>OmegaT zal u nu de Japanse tekst, die correspondeert met het Engelse bronsegment, laten zien:</seg>
       </tuv>
     </tu>
     <tu>
@@ -67800,6 +67816,14 @@ instead.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T131228Z">
         <seg>De eerste is de sneltoets voor &lt;g0&gt;Project openen&lt;/g0&gt;, de tweede voor &lt;g1&gt;Item voor woordenlijst maken&lt;/g1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The first line is the original English, the second line is the bridge language you expect to find useful when you create your translation, and the third line is the current translation to French.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T150742Z" creationid="Dick" creationdate="20230525T150742Z">
+        <seg>De eerste regel is het originele Engels, de tweede regel is de taal van de brugtaal waarvan u verwacht dat die nuttig is bij het maken van uw vertaling, en de derde regel is de huidige vertaling naar Frans.</seg>
       </tuv>
     </tu>
     <tu>
