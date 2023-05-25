@@ -35077,6 +35077,14 @@ notice like this when it starts in an interactive mode:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If there is a conflict between the remote and local versions of the &lt;f0&gt;omegat.project&lt;/f0&gt; file and the local version is overwritten, OmegaT creates a backup file called &lt;f1&gt;omegat.project.YYYYMMDDhhmm.bak&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T112404Z" creationid="Dick" creationdate="20230525T112404Z">
+        <seg>Als er een conflict is tussen het project op afstand en de lokale versies van het bestand &lt;f0&gt;omegat.project&lt;/f0&gt; en de lokale versie wordt overschreven, maakt OmegaT een back-upbestand, genaamd &lt;f1&gt;omegat.project.JJJJMMDDhhmm.bak&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If there is a declaration, that encoding will be used regardless of the setting specified here.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T110846Z" creationid="Dick" creationdate="20221220T110846Z">
@@ -35939,6 +35947,14 @@ free software which everyone can redistribute and change under these terms.</seg
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T143848Z">
         <seg>Indien u de suggestie acceptabel vindt, druk op &lt;k0&gt; &lt;k1&gt;&lt;i2/&gt;Ctrl&lt;/k1&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k0&gt; om het doelgedeelte van het geopende segment te vervangen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you first download the remote project using an &lt;f0&gt;omegat.project&lt;/f0&gt; file provided by the project administrator, OmegaT will use the mappings in that file, if any.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T112229Z" creationid="Dick" creationdate="20230525T112229Z">
+        <seg>Wanneer u eerst het project op afstand download met een bestand &lt;f0&gt;omegat.project&lt;/f0&gt; dat is verschaft door de projectbeheerder, zal OmegaT de routes in dat bestand gebruiken, indien aanwezig.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48390,6 +48406,14 @@ OmegaT 4.0, Lees Mij-bestand</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT creates up to ten backup files, and older backups are automatically deleted in turn.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T112455Z" creationid="Dick" creationdate="20230525T112455Z">
+        <seg>OmegaT maakt maximaal tien back-upbestanden, en oudere back-ups worden op hun beurt automatisch verwijderd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT currently requires version 1.6 of the JRE or later.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T150501Z" creationid="DiGro (Dick)" creationdate="20170915T150501Z">
@@ -55274,6 +55298,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T185941Z">
         <seg>Resterend:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remember that any modifications to the local project configuration files will be overwritten by the versions on the server when the project is synchronized.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T112610Z" creationid="Dick" creationdate="20230525T112610Z">
+        <seg>Onthoud dat alle aanpassingen aan de configuratiebestanden van het lokale project zullen worden overschreven door de versies op de server als het project wordt gesynchroniseerd.</seg>
       </tuv>
     </tu>
     <tu>
