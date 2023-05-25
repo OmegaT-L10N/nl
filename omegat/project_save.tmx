@@ -61394,6 +61394,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some tools produce invalid TMX files under certain conditions.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T131913Z" creationid="Dick" creationdate="20230525T131913Z">
+        <seg>Sommige programma's produceren onder bepaalde omstandigheden ongeldige TMX-bestanden maken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some types of source files (for instance PO, TTX, etc.) are bilingual, i.e. they serve both as a source and as a translation memory.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T174008Z">
