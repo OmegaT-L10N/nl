@@ -15781,6 +15781,14 @@ paragraph of section 11).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any writable folder can be used instead of the project &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T142943Z" creationid="Dick" creationdate="20230525T142943Z">
+        <seg>Elke map met schrijfrechten kan worden gebruikt in plaats van de projectmap &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Anything after the "//" will be ignored.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T131034Z">
@@ -22325,6 +22333,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T162738Z">
         <seg>Maakt de vertaalde documenten in de map Target van het project en maakt de bestanden voor het vertaalgeheugen (level1, level2 en omegat tmx-bestanden) in de hoofdmap van het project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating a TM specific to selected documents</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T143044Z" creationid="Dick" creationdate="20230525T143044Z">
+        <seg>Een TM maken,  specifiek voor geselecteerde documenten</seg>
       </tuv>
     </tu>
     <tu>
@@ -37952,6 +37968,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>In de praktijk vereist het werken met de XLIFF-werkstroom vaak het gebruik van programma's die niet erg gebruikersvriendelijk zijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In situations where you need to share a TMX that contain only the text from certain specific files and excludes other content, follow the procedure below:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T143155Z" creationid="Dick" creationdate="20230525T143155Z">
+        <seg>In situaties waar u een TMX moet delen die alleen de tekst uit bepaalde speciefieke bestanden bevat en ander inhoud uitsluit, volg dan de procedure hieronder:</seg>
       </tuv>
     </tu>
     <tu>
@@ -58898,6 +58922,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230525T113242Z" creationid="Dick" creationdate="20230525T113229Z">
         <seg>Bekijk het gedeelte &lt;l1/&gt; voor details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l1/&gt; section of the project property dialog.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T143016Z" creationid="Dick" creationdate="20230525T143016Z">
+        <seg>Bekijke het gedeelte &lt;l1/&gt; van het dialoogvenster voor de projecteigenschappen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -85045,6 +85077,14 @@ unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T184909Z">
         <seg>U kunt proberen om dit probleem op een van de volgende manieren op te lossen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may want to store translation memories in separate folders, by client or area of specialty so you can reuse them quickly when the need arises.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T142857Z" creationid="Dick" creationdate="20230525T142857Z">
+        <seg>U zou uw vertaalgeheugens misschien willen opslaan in afzonderlijke mappen, per cliënt of onderwerp zodat u ze snel opnieuw kunt gebruiken als dat nodig is.</seg>
       </tuv>
     </tu>
     <tu>
