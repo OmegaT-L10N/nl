@@ -28354,8 +28354,8 @@ Gossamer-drempel houdt u tegen
       <tuv lang="en">
         <seg>File filters are either local and specific to a given project, or global and available to all the projects that share a configuration folder.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230512T090414Z" creationid="Dick" creationdate="20230512T090414Z">
-        <seg>Bestandsfilters zijn ofwel lokaal en specifiek voor een bepaald project, of globaal en beschikbaar voor alle projects die een configuratiemap delen.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T123610Z" creationid="Dick" creationdate="20230512T090414Z">
+        <seg>Bestandsfilters zijn ofwel lokaal en specifiek voor een bepaald project, of globaal en beschikbaar voor alle projecten die een configuratiemap delen.</seg>
       </tuv>
     </tu>
     <tu>
