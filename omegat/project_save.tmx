@@ -39792,6 +39792,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Introduction to OmegaT</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T150907Z" creationid="Dick" creationdate="20230525T150907Z">
+        <seg>Introductie voor OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Introduction to OmegaT (2.5.0).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131226T155441Z" creationid="Dirk" creationdate="20131226T155441Z">
@@ -84916,6 +84924,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120401T154948Z">
         <seg>U kunt een soortgelijke procedure gebruiken om een knop voor uw macro te maken:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can use any number of TMX files containing as many different bridge language pairs as you want.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T150851Z" creationid="Dick" creationdate="20230525T150851Z">
+        <seg>U mag elk aantal TMX-bestanden, die net zoveel verschillende brugtalen bevatten als u wilt, gebruiken.</seg>
       </tuv>
     </tu>
     <tu>
