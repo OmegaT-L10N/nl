@@ -14005,6 +14005,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After you generate the target files use &lt;l0/&gt;&lt;l1/&gt; to add them to the server, if the project administrator has requested you to do so.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T112749Z" creationid="Dick" creationdate="20230525T112749Z">
+        <seg>Nadat u de doelbestanden hebt gemaakt, gebruik dan &lt;l0/&gt;&lt;l1/&gt; om ze aan de server toe te voegen, als de projectbeheerder u heeft gevraagd om dat te doen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog will open.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142843Z">
@@ -23435,6 +23443,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Deleting files</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T112758Z" creationid="Dick" creationdate="20230525T112758Z">
+        <seg>Bestanden verwijderen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Deleting source files</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T133232Z" creationid="Dick" creationdate="20190516T133232Z">
@@ -28436,6 +28452,14 @@ Gossamer-drempel houdt u tegen
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131226T153955Z" creationid="Dirk" creationdate="20131226T153955Z">
         <seg>Bestanden in de indeling van Microsoft Office 2007 XML kunnen direct worden vertaald in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Files in a team project cannot be deleted from OmegaT or the local file system.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T112855Z" creationid="Dick" creationdate="20230525T112855Z">
+        <seg>Bestanden in een teamproject kunnen niet worden verwijderd uit OmegaT of het lokale bestandssysteem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50612,6 +50636,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only the project administrator should use &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T112644Z" creationid="Dick" creationdate="20230525T112644Z">
+        <seg>Alleen de projectbeheerder zou &lt;l0/&gt;&lt;l1/&gt; moeten gebruiken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only this preference currently requires manual modification.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221221T144040Z" creationid="Dick" creationdate="20221221T144040Z">
@@ -61514,6 +61546,14 @@ can do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source files</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T112618Z" creationid="Dick" creationdate="20230525T112618Z">
+        <seg>Bronbestanden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source files committed</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T121315Z" creationid="Dirk" creationdate="20170914T121315Z">
@@ -63698,6 +63738,14 @@ APPLICABLE LAW.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134600Z">
         <seg>Doelbestandsnaam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target files</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T112647Z" creationid="Dick" creationdate="20230525T112647Z">
+        <seg>Doelbestanden</seg>
       </tuv>
     </tu>
     <tu>
@@ -71979,6 +72027,14 @@ U bent het slachtoffer van één van de drie.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134330Z">
         <seg>Zij zullen als afzonderlijke segmenten in de vertaling verschijnen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They will be restored the next time the project is synchronized.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T112957Z" creationid="Dick" creationdate="20230525T112957Z">
+        <seg>De volgende keer dat het project wordt gesynchroniseerd zullen zij worden hersteld.</seg>
       </tuv>
     </tu>
     <tu>
