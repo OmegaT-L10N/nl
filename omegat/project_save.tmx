@@ -27332,6 +27332,14 @@ Niemand hoort u schreeuwen.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exact matches coming from the &lt;l0/&gt; and the &lt;l1/&gt; subfolders will be automatically inserted into the translation, without the prefix that is inserted by OmegaT when it inserts matches above a set threshold.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T125931Z" creationid="Dick" creationdate="20230525T125931Z">
+        <seg>Exacte overeenkomsten die vanuit de  &lt;l0/&gt; en de submappen &lt;l1/&gt; komen zullen automatisch in de vertaling worden ingevoegd, zonder het voorvoegsel dat wordt ingevoegd door OmegaT wanneer het overeenkomsten boven een bepaalde ingestelde drempel invoegt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Example - Search and Replace</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T124535Z">
