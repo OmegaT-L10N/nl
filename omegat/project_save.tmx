@@ -29563,6 +29563,14 @@ freedoms that you received.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, many hosting services support access to the same repository using either the SSH +Git or https protocol.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T112041Z" creationid="Dick" creationdate="20230525T112041Z">
+        <seg>Veel hostservices ondersteunen, bijvoorbeeld, toegang tot dezelfde opslagplaats met ofwel het SSH +Git of HTTPS-protocol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, rules for Canadian French (FR-CA) should be set higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T172033Z">
@@ -34905,6 +34913,22 @@ notice like this when it starts in an interactive mode:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T130131Z" creationid="Dick" creationdate="20190516T123218Z">
         <seg>Als het project specifieke filters en parameters voor segmentatie gebruikt, moeten beide bestanden &lt;f0&gt;filters.xml&lt;/f0&gt; en &lt;f1&gt;segmentation.conf&lt;/f1&gt; worden toegevoegd aan het versiesysteem en worden gepubliceerd op de server.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the remote project contains custom mappings, but the local project does not, the mappings from the server are applied to the local project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T111847Z" creationid="Dick" creationdate="20230525T111847Z">
+        <seg>Als het project op afstand aangepaste routes bevat, maar het lokale project niet, worden de routes van de server toegepast op het lokale project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the remote project specifies a URL protocol and you download it using a different protocol, your local configuration will be preserved.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T111944Z" creationid="Dick" creationdate="20230525T111944Z">
+        <seg>Als het project op afstand een URL-protocol specificeert en u download het met een ander protocol, zal uw lokale configuratie worden behouden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49632,6 +49656,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T110720Z">
         <seg>OmegaT zal het als een teamproject herkennen en zal alles, standaard elke drie minuten, automatisch synchroniseren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will respect the local protocol selection.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T112112Z" creationid="Dick" creationdate="20230525T112112Z">
+        <seg>OmegaT zal de selectie van het lokale protocol respecteren.</seg>
       </tuv>
     </tu>
     <tu>
