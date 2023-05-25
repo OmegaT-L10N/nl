@@ -43822,6 +43822,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make sure that you have properly tested your project layout and set up a separate data backup before sharing data in such a system.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T145430Z" creationid="Dick" creationdate="20230525T145430Z">
+        <seg>Zorg er voor d u de lay-out van uw project deugdelijk hebt getest en stel een afzonderlijk back-up van de gegevens in, voordat u gegevens deelt in een dergelijk systeem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make sure that you have the Kaptain launcher installed (&lt;a0&gt;refer if necessary to the Linux Howto)&lt;/a0&gt;, then enter the Google Translate API key in the relevant field on the Connectivity tab.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T132719Z" creationid="Dirk" creationdate="20131225T132719Z">
@@ -63110,6 +63118,14 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230525T145114Z" creationid="Dick" creationdate="20230525T145114Z">
         <seg>Dergelijke systemen zijn niet ontworpen om de interne wijzigingen in een bepaald bestand bij te houden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Such systems will not always be able to provide you with the most recent version of your data, may even lock some files for no obvious reasons and can even corrupt team project related files.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T145323Z" creationid="Dick" creationdate="20230525T145323Z">
+        <seg>Dergelijke systemen zullen niet altijd in staat zijn om u te voorzien van de meest recente versie van uw gegevens, zou zelfs sommige bestanden kunnen vergrendelen zonder duidelijke reden en kunnen zelfs teamproject gerelateerde bestanden corrumperen.</seg>
       </tuv>
     </tu>
     <tu>
