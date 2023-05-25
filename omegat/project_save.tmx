@@ -81111,6 +81111,14 @@ Beheerder gemeenschap van</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When a project is initially created, it comes with its own empty project translation memory, the &lt;l0/&gt; file, located in the &lt;l1/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T114019Z" creationid="Dick" creationdate="20230525T114019Z">
+        <seg>Wanneer een project initieel is gemaakt, heeft het zijn eigen lege vertaalgeheugen voor het project, het bestand &lt;l0/&gt;, geplaatst in de map &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When a rule is triggered, the corresponding phrase will be underlined in blue in the Editor (see &lt;e1&gt;also &lt;/e1&gt;and &lt;e2&gt;I didn't do nothing&lt;/e2&gt; in the picture above).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T105951Z">
