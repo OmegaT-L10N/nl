@@ -17595,6 +17595,14 @@ Neem nog een biertje.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bridge two languages</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T145503Z" creationid="Dick" creationdate="20230525T145503Z">
+        <seg>Brug tussen twee talen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Brief instructions for creating the macro (in MS Office 2007) are provided below.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131228T125257Z">
@@ -18173,6 +18181,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134549Z">
         <seg>Als standaard heeft het vertaalde bestand dezelfde codering als de codering van het bronbestand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, those matches are limited to the source and target languages defined in the &lt;l1/&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T145614Z" creationid="Dick" creationdate="20230525T145614Z">
+        <seg>Standaard zijn deze overeenkomsten beperkt tot de bron- en doeltalen, gedefinieerd in het dialoogvenster &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36215,6 +36231,14 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you have a TMX that corresponds to your source document and contains its translation to a different language, you can also display that language &lt;e0&gt;right below&lt;/e0&gt; the source segment for use as an additional reference language.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T145836Z" creationid="Dick" creationdate="20230525T145836Z">
+        <seg>Als u een TMX hebt dat correspondeert met uw brondocument en zijn vertaling in een andere taal bevat, kunt u ook die taal &lt;e0&gt;direct onder&lt;/e0&gt; het bronsegment weergeven, om te gebruiken als een aanvullende taal voor verwijzing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have a natural aversion to reading instructions, and your approach to new software is to click on every button you see until something resembling the desired effect occurs, then OmegaT is probably not suitable for you.</seg>
       </tuv>
       <tuv lang="nl">
@@ -48714,6 +48738,14 @@ OmegaT 4.0, Lees Mij-bestand</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T171154Z">
         <seg>OmegaT zal een lijst weergeven waarin alle segmenten staan waarin alle gespecificeerde woorden voorkomen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT displays fuzzy matches in the &lt;l0/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T145531Z" creationid="Dick" creationdate="20230525T145531Z">
+        <seg>OmegaT geeft fuzzy overeenkomsten weer in het venster &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75356,6 +75388,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To achieve this:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T145846Z" creationid="Dick" creationdate="20230525T145846Z">
+        <seg>Om dit te bereiken:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To activate any of the Machine Translation services, go to &lt;g0&gt;Options &gt; Machine Translate ...&lt;/g0&gt; and activate the service desired.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T143751Z">
@@ -83530,6 +83570,14 @@ for enforcing compliance by third parties with this License.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T104259Z">
         <seg>U kunt kopieën van bestanden, delen uit het logbestand, schermafdrukken of iets waarvan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can add matches in languages that are not the target language.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T145639Z" creationid="Dick" creationdate="20230525T145639Z">
+        <seg>U kunt overeenkomsten toevoegen in talen die niet de doeltaal zijn.</seg>
       </tuv>
     </tu>
     <tu>
