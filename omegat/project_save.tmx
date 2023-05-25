@@ -27592,6 +27592,14 @@ Gossamer-drempel houdt u tegen
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Existing translations are used to speed up the translation process.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T123722Z" creationid="Dick" creationdate="20230525T123722Z">
+        <seg>Bestaande vertalingen worden gebruikt om het vertaalproces te versnellen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exit code {0}: "{1}"</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20130310T120725Z">
@@ -33733,6 +33741,14 @@ hoeft niet het volledige pad te worden ingevoerd.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a given sentence has already been translated once, there is no need to retranslate it.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T123754Z" creationid="Dick" creationdate="20230525T123754Z">
+        <seg>Indien een bepaalde zin al eens is vertaald, is er geen reden om die opnieuw te gaan vertalen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If a glossary item has alternate definitions, they will be displayed on the same line.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T115838Z" creationid="Dick" creationdate="20211118T115838Z">
@@ -33889,6 +33905,14 @@ this License without regard to the additional permissions.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T173818Z">
         <seg>Als een fout in een dergelijk bestand wordt gevonden zal OmegaT de positie aangeven binnen het defecte bestand waarin de fout zich bevindt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If an old translation is similar to the contents of the segment you are translating, you can recycle it in your translation.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T123926Z" creationid="Dick" creationdate="20230525T123926Z">
+        <seg>Als een oude vertaling soortgelijk is aan de inhoud van het segment dat u vertaalt, kunt u die opnieuw gebruiken in uw vertaling.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58638,6 +58662,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; pane for details.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T123939Z" creationid="Dick" creationdate="20230525T123939Z">
+        <seg>Bekijk het venster &lt;l0/&gt; voor details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; preference for details.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230518T092144Z" creationid="Dick" creationdate="20221221T145502Z">
@@ -58658,6 +58690,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230524T115311Z" creationid="Dick" creationdate="20221221T141842Z">
         <seg>Bekijk de voorkeuren &lt;l0/&gt; voor details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l0/&gt; project property.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T123815Z" creationid="Dick" creationdate="20230525T123815Z">
+        <seg>Bekijk de projecteigenschap &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73913,6 +73953,14 @@ protecting users' freedom to change the software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This memory is gradually filled as your translation progresses.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T123647Z" creationid="Dick" creationdate="20230525T123647Z">
+        <seg>Dit geheugen wordt gedurende de vertaling gevuld.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This menu displays entries only when a project is open.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T161258Z" creationid="Dick" creationdate="20190516T161258Z">
@@ -83221,6 +83269,14 @@ the Spotlight search field.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20200116T110631Z" creationid="Dick" creationdate="20200116T110631Z">
         <seg>U kunt het ook starten in het zoekveld van Spotlight.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also make use of reference translation memories by putting them in the &lt;l0/&gt; folder of your project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T124038Z" creationid="Dick" creationdate="20230525T124038Z">
+        <seg>U kunt ook gebruik maken van vertaalgeheugen voor verwijzing door ze in de map &lt;l0/&gt; van uw project te plaatsen.</seg>
       </tuv>
     </tu>
     <tu>
