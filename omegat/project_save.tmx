@@ -21221,6 +21221,14 @@ of er nog aanvullende stappen moeten worden uitgevoerd.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Conversely, you can ask your partner to write the project TMX files to a folder on a shared disk that you will assign as your &lt;l0/&gt; folder for the current translation.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T144152Z" creationid="Dick" creationdate="20230525T144152Z">
+        <seg>Omgekeerd kunt u uw partner vragen de TMX-bestanden voor het project weg te schijven naar een gedeelde schijf die u kunt toewijzen als uw map &lt;l0/&gt; voor de huidige vertaling.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Conversion</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230524T115331Z" creationid="Dick" creationdate="20230524T115331Z">
@@ -48982,6 +48990,14 @@ OmegaT 4.0, Lees Mij-bestand</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT instantaneously recognizes modifications to TMX files.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T144219Z" creationid="Dick" creationdate="20230525T144219Z">
+        <seg>OmegaT herkent onmiddellijk aanpassingen aan de TMX-bestanden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT interfaces to SVN and Git, two common team software versioning and revision control systems (RCS), available under an open source license.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T173947Z">
@@ -71869,6 +71885,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Therefore, any time one side creates or modifies such a TMX using &lt;l0/&gt;&lt;l1/&gt;, the other side does not need to do anything to have that TMX recognized locally.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T144335Z" creationid="Dick" creationdate="20230525T144335Z">
+        <seg>Daarom zal, iedere keer als één kant een dergelijke TMX maakt of aanpast met &lt;l0/&gt;&lt;l1/&gt;, hoeft de andere kant niets te doen om er voor te zorgen dat de TMX lkaal wordt herkend.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Therefore, by modifying or propagating a</seg>
       </tuv>
       <tuv lang="nl">
@@ -72787,6 +72811,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T174757Z" creationid="Dirk" creationdate="20160910T174757Z">
         <seg>Dit is ook van toepassing op het venster &lt;l2&gt;Projectbestanden&lt;/l2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This approach also works just as well for sharing glossaries where the project writable glossary (with a non-default name to avoid overwriting the file) is located in a shared glossary folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T144505Z" creationid="Dick" creationdate="20230525T144505Z">
+        <seg>Deze benadering werkt net zo goed voor het delen van woordenlijsten waar de beschrijfbare woordenlijst van het project (met een niet-standaard naam om overschrijven van het bestand te voorkomen) is geplaatst in een gedeelde map glossary.</seg>
       </tuv>
     </tu>
     <tu>
