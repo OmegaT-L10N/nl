@@ -30449,6 +30449,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>From an &lt;f0&gt;omegat.project&lt;/f0&gt; file</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T100446Z" creationid="Dick" creationdate="20230525T100446Z">
+        <seg>Vanuit een bestand &lt;f0&gt;omegat.project&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>From auto memory</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20141020T094725Z" creationid="Dirk" creationdate="20141020T094725Z">
