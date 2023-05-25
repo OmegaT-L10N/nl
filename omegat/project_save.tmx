@@ -16223,6 +16223,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As reference translations, OmegaT also supports bilingual documents that are not TMX files.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T130249Z" creationid="Dick" creationdate="20230525T130249Z">
+        <seg>OmegaT ondersteunt ook tweetalige documenten die geen TMX-bestanden zijn als vertalingen ter verwijzing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As shown in the &lt;l0&gt;Edit menu table&lt;/l0&gt; below, the function code for the &lt;g1&gt;Create Alternative Translation&lt;/g1&gt; function is &lt;c2&gt;editMultipleAlternate&lt;/c2&gt;.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230521T090108Z" creationid="Dick" creationdate="20230521T090108Z">
@@ -26323,6 +26331,14 @@ Uw helppagina werd niet gevonden</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T130935Z" creationid="Dirk" creationdate="20170914T130935Z">
         <seg>Projectspecifieke opdrachten inschakelen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enable the &lt;l0/&gt; option to have OmegaT remember that the inserted matches came from those folders.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T130110Z" creationid="Dick" creationdate="20230525T130110Z">
+        <seg>Schakel de optie &lt;l0/&gt; in om OmegaT te laten onthouden dat de ingevoegde overeenkomsten uit die mappen kwamen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67348,6 +67364,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The file formats that OmegaT supports are all the bilingual formats that OmegaT accepts as source files:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T130339Z" creationid="Dick" creationdate="20230525T130339Z">
+        <seg>De bestandsindelingen die OmegaT ondersteunt zijn alle tweetalige indelingen die OmegaT accepteert als bronbestanden:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The file is commented to help you.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T140313Z" creationid="Dirk" creationdate="20131225T140313Z">
@@ -79587,6 +79611,14 @@ De huidige instelling is {0}MB;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230523T124101Z" creationid="Dick" creationdate="20230523T124101Z">
         <seg>Gebruik het lokale VCS om een lokale kopie te maken (clone)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the navigation menus found in &lt;l0/&gt;&lt;l1/&gt; to navigate to an automatically inserted segment.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T130158Z" creationid="Dick" creationdate="20230525T130158Z">
+        <seg>Gebruik de menu's voor navigatie in &lt;l0/&gt;&lt;l1/&gt; om te navigeren naar een automatisch ingevoegd segment.</seg>
       </tuv>
     </tu>
     <tu>
