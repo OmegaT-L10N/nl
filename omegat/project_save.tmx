@@ -13917,6 +13917,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After reloading the old project, its translation memory will be applied to the new source files.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T125353Z" creationid="Dick" creationdate="20230525T125353Z">
+        <seg>Na het opnieuw laden van het oude project, zal het vertaalgeheugen daarvan worden toegepast op de nieuwe bronbestanden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After segmenting the source file into structural units, &lt;a0&gt;OmegaT&lt;/a0&gt; will segment these blocks further into sentences.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T172002Z">
@@ -14831,6 +14839,14 @@ conditions are met.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170916T115212Z" creationid="DiGro (Dick)" creationdate="20170916T115212Z">
         <seg>Indien u al weet welke versie u wilt downloaden kunt u, als alternatief, klikken op de knop naar een overzicht van de verschillende beschikbare versies van OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, put the reference memories from the old project in the &lt;l0/&gt; folder of the new one.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T125600Z" creationid="Dick" creationdate="20230525T125600Z">
+        <seg>Plaats, als alternatief, de geheugens voor verwijzing vanuit het oude project in de map &lt;l0/&gt; van het nieuwe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23559,6 +23575,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T171949Z">
         <seg>Betrouwbare segmentatieregels zijn al beschikbaar voor veel talen, dus is het onwaarschijnlijk dat het voor u nodig is om uw eigen segmentatieregels te schrijven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Depending on how reliable the memory is, you can prefer to put it in one of the following subfolders:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T125724Z" creationid="Dick" creationdate="20230525T125724Z">
+        <seg>Afhankelijk van hoe betrouwbaar het geheugen is, kunt u de voorkeur hebben om het in één van de volgende submappen te plaatsen:</seg>
       </tuv>
     </tu>
     <tu>
@@ -33462,6 +33486,14 @@ SUCH DAMAGES.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T153335Z" creationid="Dirk" creationdate="20131225T153335Z">
         <seg>Idealer wijze zou een weergave twee dingen doen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Identical segments will be automatically translated.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T125414Z" creationid="Dick" creationdate="20230525T125414Z">
+        <seg>Identieke segmenten zullen automatisch worden vertaald.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60582,6 +60614,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Similar segments will be provided with matches from the project translated memory as you enter them.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T125513Z" creationid="Dick" creationdate="20230525T125513Z">
+        <seg>Soortgelijke segmenten zullen worden verschaft met overeenkomsten vanuit het vertaalgeheugen van het project als u ze invoert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Similarly add any relevant lists of spellchecker files you want to make available to everyone working on the project.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230524T082524Z" creationid="Dick" creationdate="20230524T082524Z">
@@ -64570,6 +64610,14 @@ Het bereik van een tekstvervanging zijn de doelsegmenten van het project, of zij
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230525T125309Z" creationid="Dick" creationdate="20230525T125309Z">
         <seg>Dat is de gemakkelijkste manier om aan een nieuwe versie van een reeds vertaald document te werken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That’s the preferred method if you want to start your translation from scratch.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T125636Z" creationid="Dick" creationdate="20230525T125636Z">
+        <seg>Dat heeft de voorkeur als u vanaf nul wilt beginnen met uw vertaling.</seg>
       </tuv>
     </tu>
     <tu>
