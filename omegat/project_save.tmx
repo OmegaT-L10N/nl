@@ -22217,6 +22217,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create your own TMs</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T124604Z" creationid="Dick" creationdate="20230525T124604Z">
+        <seg>Uw eigen TM's maken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create your own key then input it below.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T124427Z" creationid="Dirk" creationdate="20170914T124427Z">
@@ -25795,6 +25803,14 @@ propagate the contents of its contributor version.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>Each licensee is addressed as "you".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each of the three files constitutes a bilingual export of the current content of your translation.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T124913Z" creationid="Dick" creationdate="20230525T124913Z">
+        <seg>Elk van de drie bestanden bestaat uit een tweetalige export van de huidige inhoud van uw vertaling.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58798,6 +58814,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l2/&gt; project property for details.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T124832Z" creationid="Dick" creationdate="20230525T124832Z">
+        <seg>Bekijk de project-eigenschap &lt;l2/&gt; voor details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l2/&gt; section for details.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230523T074814Z" creationid="Dick" creationdate="20230523T074814Z">
@@ -81765,6 +81789,14 @@ technological measures.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T124241Z" creationid="Dick" creationdate="20211118T124241Z">
         <seg>Bij het vertalen van uw bestanden slaat OmegaT al uw voortgang op in het vertaalgeheugen &lt;f0&gt;project_save.tmx&lt;/f0&gt; dat zich bevindt in de submap &lt;f1&gt;/omegat&lt;/f1&gt; van het project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you use &lt;l0/&gt;&lt;l1/&gt; to create the target documents for a project, OmegaT also outputs three translation memories that reflect the current state of the translation for the files in the source folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T124826Z" creationid="Dick" creationdate="20230525T124826Z">
+        <seg>Wanneer u &lt;l0/&gt;&lt;l1/&gt; gebruikt om de doeldocumenten in een project, voert OmegaT ook drie vertaalgeheugens uit die de huidige status van de vertaling voor de bestanden in de bronmap reflecteren.</seg>
       </tuv>
     </tu>
     <tu>
