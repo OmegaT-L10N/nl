@@ -54958,6 +54958,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reading TMs from other tools</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T130818Z" creationid="Dick" creationdate="20230525T130818Z">
+        <seg>TM's lezen uit andere programma's</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reading of TMX file complete</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T190345Z">
