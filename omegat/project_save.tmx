@@ -16071,6 +16071,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As in regular local projects, the configuration of the team project is defined by the contents of the &lt;f0&gt;omegat.project&lt;/f0&gt; file and the optional use of special files for project-specific filters or segmentation rules.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T111313Z" creationid="Dick" creationdate="20230525T111313Z">
+        <seg>Zoals ook in normale lokale projecten wordt de configuratie van het teamproject gedefinieerd door de inhoud van het bestand &lt;f0&gt;omegat.project&lt;/f0&gt; en het optionele gebruik van speciale bestanden voor projectspecifieke filters of segmentatieregels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As information on those topics is readily available, this manual limits itself to describing their use in the context of an OmegaT team project.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230523T123620Z" creationid="Dick" creationdate="20230523T123620Z">
@@ -63782,6 +63790,14 @@ APPLICABLE LAW.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Team project configuration</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T111137Z" creationid="Dick" creationdate="20230525T111137Z">
+        <seg>Configuratie teamproject </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Team projects use synchronization mechanisms between project members.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230524T143318Z" creationid="Dick" creationdate="20230524T143318Z">
@@ -67144,6 +67160,14 @@ instead.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T100034Z">
         <seg>Het eerste segment en de inhoud daarvan zullen worden geclassificeerd als "geen overeenkomst", en de rest van hen als een herhaling van de eerste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The first time the project is downloaded, OmegaT retrieves the &lt;f0&gt;omegat.project&lt;/f0&gt; file from the server.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T111354Z" creationid="Dick" creationdate="20230525T111354Z">
+        <seg>De eerste keer dat het project wordt gedownload haalt, OmegaT het bestand &lt;f0&gt;omegat.project&lt;/f0&gt; op van de server.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73653,6 +73677,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>Dit betekent dat de broncode van het programma OmegaT vrijelijk beschikbaar is, en dat OmegaT's licentie de gebruikers een aanmerkelijke vrijheid geeft in het gebruik er van.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This means the automatic save function also regularly synchronizes local versions with the version on the server at the interval specified in the &lt;l0/&gt; preference.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T111117Z" creationid="Dick" creationdate="20230525T111117Z">
+        <seg>Dit betekent dat de geautomatiseerde functie voor opslaan ook regelmatig lokale versies synchroniseert met de versie op de server met de interval die is gespecificeerd in de voorkeur &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
