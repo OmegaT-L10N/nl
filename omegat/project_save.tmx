@@ -25457,6 +25457,14 @@ werd project_save.tmx niet echt geüpload en SVN schakelde naar een onstabiele s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>During synchronization, all other local files are overwritten with the versions on the remote server, exept for &lt;f0&gt;omegat.project&lt;/f0&gt; (see below).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T110912Z" creationid="Dick" creationdate="20230525T110912Z">
+        <seg>Gedurende de synchronisatie zullen alle andere lokale bestanden worden overschreven door de versies op de server op afstand, behalve &lt;f0&gt;omegat.project&lt;/f0&gt; (zie hieronder).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>During the installation, depending on your operating system, you may receive</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T103556Z">
@@ -50420,6 +50428,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only the contents of the two following files are synchronized:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T110433Z" creationid="Dick" creationdate="20230525T110433Z">
+        <seg>Alleen de inhoud van de volgende twee bestanden wordt gesynchroniseerd:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only the file &lt;f0&gt;test.html&lt;/f0&gt; in the folder &lt;f1&gt;dir-10&lt;/f1&gt; will be processed.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T160504Z" creationid="Dick" creationdate="20190516T160504Z">
@@ -62826,6 +62842,14 @@ address new problems or concerns.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Synchronization</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T110315Z" creationid="Dick" creationdate="20230525T110315Z">
+        <seg>Synchronisati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Synchronization error</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120708T191554Z">
@@ -62838,6 +62862,14 @@ address new problems or concerns.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230519T143647Z" creationid="Dick" creationdate="20230129T133827Z">
         <seg>Synchronisatie van opslagplaatsen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Synchronizing the project adds translations made by all team members to local copies of the project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T110405Z" creationid="Dick" creationdate="20230525T110405Z">
+        <seg>Synchroniseren van het project voegt vertalingen toe die zijn gemaakt door alle leden aan de lokale kopieën van het project.</seg>
       </tuv>
     </tu>
     <tu>
