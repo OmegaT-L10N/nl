@@ -21449,6 +21449,14 @@ the conditions stated below.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy only the documents whose content you want to include into the &lt;f0&gt;source&lt;/f0&gt; folder of your project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T143252Z" creationid="Dick" creationdate="20230525T143252Z">
+        <seg>Kopieer alleen de documenten waarvan u de inhoud wilt opnemen naar de map &lt;f0&gt;source&lt;/f0&gt; van uw project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy the</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T103905Z">
@@ -66122,6 +66130,14 @@ Probeer alstublieft de fout te corrigeren en herlaad het project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The TMX files located in the exported translation memory folder now contain only the original and translated text from the files you copied into the source folder, in the selected language pair.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T143605Z" creationid="Dick" creationdate="20230525T143605Z">
+        <seg>De TMX-bestanden die zijn geplaatst in de map van het geëxporteerde vertaalgeheugen bevatten nu alleen de originele en vertaalde tekst uit de bestanden die u hebt gekopieerd naar de bronmap, in het geselecteerde taalpaar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The TMX source language ({0}) differs from the project source language ({1}).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T104348Z" creationid="Dick" creationdate="20221220T104348Z">
@@ -79255,6 +79271,22 @@ De huidige instelling is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to check for possible issues.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T143351Z" creationid="Dick" creationdate="20230525T143351Z">
+        <seg>Gebruik &lt;l0/&gt;&lt;l1/&gt; om te controleren op mogelijke problemen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to create the TMX files that correspond to the current contents.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T143424Z" creationid="Dick" creationdate="20230525T143424Z">
+        <seg>Gebruik &lt;l0/&gt;&lt;l1/&gt; om de TMX-bestanden te maken die corresponderen met de huidige inhoud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to directly access it.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230518T100254Z" creationid="Dick" creationdate="20230518T100254Z">
@@ -79267,6 +79299,14 @@ De huidige instelling is {0}MB;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230518T093748Z" creationid="Dick" creationdate="20230518T093748Z">
         <seg>Gebruik &lt;l0/&gt;&lt;l1/&gt; om nieuwe termen in de woordenlijst op te nemen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to find any untranslated segments (and translate them, if need be).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T143330Z" creationid="Dick" creationdate="20230525T143330Z">
+        <seg>Gebruik &lt;l0/&gt;&lt;l1/&gt; om te zoeken naar niet vertaalde segmenten (en vertaal ze indien ndoig).</seg>
       </tuv>
     </tu>
     <tu>
