@@ -6638,6 +6638,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Basic project configuration:&lt;/e0&gt; Source and languages, tokenizers, and the project folder hierarchy.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T111504Z" creationid="Dick" creationdate="20230525T111504Z">
+        <seg>&lt;e0&gt;Basisconfiguratie van het project:&lt;/e0&gt; Bron en talen, tokenizers, en de hiërarchie van de projectmap.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Browse TaaS Collections&lt;/e0&gt; will allow browsing existing collections for the source and target languages of the project, and downloading them.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T172344Z">
@@ -34159,6 +34167,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If no custom mappings have been defined for the remote project, but local mappings have been customized, the local settings are preserved without affecting the settings on the server.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T111744Z" creationid="Dick" creationdate="20230525T111744Z">
+        <seg>Als er geen aangepaste routes zijn gedefinieerd voor het project op afstand, maar lokale routes zijn aangepast, worden de lokale instellingen behouden, zonder de instellingen op de server te beïnvloeden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If no list of scripts is displayed on the left side of the script editor window, use the Scripting window &lt;g0&gt;File&lt;/g0&gt; &gt; &lt;g1&gt;Set Scripts Folder...&lt;/g1&gt; menu to set the location of the scripts.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230524T115712Z" creationid="Dick" creationdate="20230524T115712Z">
@@ -37142,6 +37158,14 @@ work and works based on it.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T165954Z">
         <seg>Op eenzelfde manier als hierboven kan de gebruiker project-specifieke bestandsfilters maken, die tezamen met het project zullen worden opgeslagen en alleen geldig zullen zijn voor het huidige project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In a team project, the basic configuration parameters of the local project are always overridden by the configuration on the server originally set by the project administrator.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T111616Z" creationid="Dick" creationdate="20230525T111616Z">
+        <seg>In een team project worden parameters van de basisconfiguratie van het lokale project altijd overschreven door de configuratie op de server, origineel ingesteld door de beheerder.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72843,6 +72867,14 @@ permission to run the unmodified Program.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221221T145257Z" creationid="Dick" creationdate="20221221T145257Z">
         <seg>Dit bestand bevat de informatie voor het inloggen in uw opslagplaatsen voor teamprojecten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file defines the following parameters:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T111406Z" creationid="Dick" creationdate="20230525T111406Z">
+        <seg>Dit bestand definieert de volgende parameters:</seg>
       </tuv>
     </tu>
     <tu>
