@@ -7558,6 +7558,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;f0&gt;LL-CC.tmx&lt;/f0&gt;, or</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T145952Z" creationid="Dick" creationdate="20230525T145952Z">
+        <seg>&lt;f0&gt;LL-CC.tmx&lt;/f0&gt;, of</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; can make use of macOS Services.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T140941Z" creationid="Dick" creationdate="20190516T140941Z">
@@ -14527,6 +14535,14 @@ conditions are met.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T131012Z">
         <seg>Alle talen hebben toegang tot het objectmodel van OmegaT, met het project als het hoogste object.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the letters must be capital letters.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T150107Z" creationid="Dick" creationdate="20230525T150107Z">
+        <seg>Alle letters moeten hoofdletters zijn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21605,6 +21621,14 @@ the conditions stated below.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T173902Z">
         <seg>Kopieer de vertaalgeheugens, die de vertalingen voor de hierboven genoemde documenten bevatten, naar de map &lt;f0&gt;tm/auto&lt;/f0&gt; van het nieuwe project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy the translation memory containing the additional reference language into &lt;f0&gt;tmx2source&lt;/f0&gt; in the &lt;l1/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T145931Z" creationid="Dick" creationdate="20230525T145931Z">
+        <seg>Kopieer het vertaalgeheugen, dat de aanvullende taal voor verwijzing bevat, naar de map &lt;f0&gt;tmx2source&lt;/f0&gt; in de map &lt;l1/&gt; folder.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36231,6 +36255,14 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you have a TMX that contains the Japanese translation of an English document you are translating to French, you can use the Japanese translation as an alternative exact reference by displaying it under the English text to translate.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T150401Z" creationid="Dick" creationdate="20230525T150401Z">
+        <seg>Als u een TMX hebt die de Japanse vertaling van een Engels document bevat dat u vertaalt naar het Frans, kunt u de Japanse vertaling gebruiken als een alternatieve exacte verwijzing door het onder de te vertalen Engelse tekst weer te geven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have a TMX that corresponds to your source document and contains its translation to a different language, you can also display that language &lt;e0&gt;right below&lt;/e0&gt; the source segment for use as an additional reference language.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230525T145836Z" creationid="Dick" creationdate="20230525T145836Z">
@@ -50844,6 +50876,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only segments that match the source &lt;e0&gt;exactly&lt;/e0&gt; are displayed.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T150155Z" creationid="Dick" creationdate="20230525T150155Z">
+        <seg>Alleen segmenten die &lt;e0&gt;exact&lt;/e0&gt; overeenkomen met de bron worden weergegeven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only the contents of the two following files are synchronized:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230525T110433Z" creationid="Dick" creationdate="20230525T110433Z">
@@ -56162,6 +56202,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T132219Z" creationid="Dick" creationdate="20230522T132219Z">
         <seg>Hernoem het huidige bestand &lt;f0&gt;project_save.tmx&lt;/f0&gt; (bijvoorbeeld naar &lt;f1&gt;project_save.tmx.tmp&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rename the memory file to:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T145945Z" creationid="Dick" creationdate="20230525T145945Z">
+        <seg>hernoem het gehuegnbestand naar:</seg>
       </tuv>
     </tu>
     <tu>
@@ -80692,6 +80740,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Using a Japanese reference under the English source</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T150227Z" creationid="Dick" creationdate="20230525T150227Z">
+        <seg>Gebruiken van een Japanse verwijzing onder de Engelse bron</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Using a different language checker on your local machine than the one supplied with OmegaT gives you the option of personalising the verification rules.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T113132Z" creationid="Dick" creationdate="20190516T113021Z">
@@ -97397,6 +97453,14 @@ config-dir="pad/naar/nieuwe/configdir"</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230521T083736Z" creationid="Dick" creationdate="20230521T083701Z">
         <seg>waar &lt;c0&gt;aanpassingstoets&lt;/c0&gt; mag zijn: &lt;l1&gt;shift&lt;/l1&gt;, &lt;l2&gt;ctrl&lt;/l2&gt;, &lt;l3&gt;meta&lt;/l3&gt;, &lt;l4&gt;alt&lt;/l4&gt;, of &lt;l5&gt;altGraph&lt;/l5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>where &lt;e0&gt;LL&lt;/e0&gt; is the internal language code of the langage that you want to display as reference, and &lt;e1&gt;CC&lt;/e1&gt; is an arbitrary 2-letter code.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230525T150049Z" creationid="Dick" creationdate="20230525T150049Z">
+        <seg>waar &lt;e0&gt;LL&lt;/e0&gt; de interne taalcode is van de taal die u als verwijzing wilt weergeven, en &lt;e1&gt;CC&lt;/e1&gt; is een willekeurige 2-letterige code.</seg>
       </tuv>
     </tu>
     <tu>
