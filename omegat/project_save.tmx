@@ -17883,6 +17883,14 @@ been installed in ROM).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Buttons</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T081040Z" creationid="Dick" creationdate="20230526T081040Z">
+        <seg>Knoppen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Buttons are very few in OmegaT.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221221T145927Z" creationid="Dick" creationdate="20221221T145927Z">
@@ -18749,6 +18757,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T165939Z">
         <seg>Wijzigen van deze vlag past niet de segmentatie van de reeds bestaande vertaalgeheugens aan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapters, how-to and appendices</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T081304Z" creationid="Dick" creationdate="20230526T081304Z">
+        <seg>Hoofdstukken, how-to en appendices</seg>
       </tuv>
     </tu>
     <tu>
@@ -19917,6 +19933,14 @@ software for all its users.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T082237Z" creationid="Dick" creationdate="20230522T082237Z">
         <seg>Klik op &lt;l0/&gt; om projectspecifieke (lokale) segmentatieregels te gebruiken in plaats van de globale regels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T081047Z" creationid="Dick" creationdate="20230526T081047Z">
+        <seg>Klik op &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28684,6 +28708,14 @@ Gossamer-drempel houdt u tegen
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T110605Z" creationid="Dick" creationdate="20221220T110605Z">
         <seg>Bestandsnaam variabelen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Files and folders</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T081146Z" creationid="Dick" creationdate="20230526T081146Z">
+        <seg>Bestanden en mappen</seg>
       </tuv>
     </tu>
     <tu>
@@ -42982,6 +43014,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Links to external resources</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T081327Z" creationid="Dick" creationdate="20230526T081327Z">
+        <seg>Links naar externe bronnen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Linux</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131227T165819Z" creationid="Dirk" creationdate="20131227T165819Z">
@@ -45066,6 +45106,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230526T081001Z" creationid="Dick" creationdate="20230526T081001Z">
         <seg>Menu-items met een standaard sneltoets</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Menu items with no default shortcut</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T081033Z" creationid="Dick" creationdate="20230526T081033Z">
+        <seg>Menu-items zonder een standaard sneltoets</seg>
       </tuv>
     </tu>
     <tu>
@@ -52536,6 +52584,14 @@ Verdwenen als mist.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Panes, windows, dialogs</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T081109Z" creationid="Dick" creationdate="20230526T081109Z">
+        <seg>Panelen, vensters, dialoogvensters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Panjabi, Punjabi</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T130429Z">
@@ -53700,6 +53756,14 @@ of er nog aanvullende stappen moeten worden uitgevoerd.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T171600Z" creationid="Dirk" creationdate="20160906T171600Z">
         <seg>Vooraf gedefinieerde inloggegevens niet doorgegeven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Preference settings and project properties</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T081228Z" creationid="Dick" creationdate="20230526T081228Z">
+        <seg>Voorkeursinstellingen en projecteigenschappen</seg>
       </tuv>
     </tu>
     <tu>
@@ -60790,6 +60854,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Shortcuts</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T081404Z" creationid="Dick" creationdate="20230526T081404Z">
+        <seg>Sneltoetsen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Shortcuts are activated by pressing &lt;k0&gt;Ctrl&lt;/k0&gt; and a letter.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T145004Z">
@@ -65578,6 +65650,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;l0/&gt; chapter.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T081315Z" creationid="Dick" creationdate="20230526T081315Z">
+        <seg>Het hoofdstuk &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;l0/&gt; item in the &lt;l1/&gt; menu is an exception.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230521T101954Z" creationid="Dick" creationdate="20230521T101954Z">
@@ -65586,10 +65666,26 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;l0/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T081135Z" creationid="Dick" creationdate="20230526T081135Z">
+        <seg>Het venster &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;l0/&gt; preference allows you to define strings that OmegaT will mark in red by default, and treat as extraneous tags for validation purposes.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230519T124132Z" creationid="Dick" creationdate="20230519T124132Z">
         <seg>De voorkeur &lt;l0/&gt; stelt u in staat tekenreeksen te definiëren die OmegaT standaard in rood zal markeren, en behandelen als extra tags voor validatie-doeleinden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0/&gt; preference.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T081251Z" creationid="Dick" creationdate="20230526T081251Z">
+        <seg>De voorkeur &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65606,6 +65702,14 @@ for making modifications to it.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230519T124357Z" creationid="Dick" creationdate="20230519T124357Z">
         <seg>De instelling &lt;l0/&gt; stelt u in staat tekenreeksen te definiëren die OmegaT zal accentueren in de uitgelijnde documenten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0&gt; &lt;f1&gt;omegat.project&lt;/f1&gt; &lt;/l0&gt; file.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T081208Z" creationid="Dick" creationdate="20230526T081208Z">
+        <seg>Het bestand &lt;l0&gt; &lt;f1&gt;omegat.project&lt;/f1&gt; &lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -65654,6 +65758,14 @@ for making modifications to it.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T165919Z">
         <seg>Het dialoogvenster &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt;&lt;g6&gt;eigenschappen...&lt;/g6&gt; &lt;/m0&gt; wordt gebruikt om de projectmappen en talen te definiëren en aan te passen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;u0&gt;Java Regex documentation&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T081357Z" creationid="Dick" creationdate="20230526T081357Z">
+        <seg>De &lt;u0&gt;documentatie voor Java Regex&lt;/u0&gt;. </seg>
       </tuv>
     </tu>
     <tu>
