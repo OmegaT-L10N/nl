@@ -80271,6 +80271,14 @@ De huidige instelling is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; and the &lt;l2/&gt; preferences to manage glossary matches.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T122029Z" creationid="Dick" creationdate="20230526T122029Z">
+        <seg>Gebruik &lt;l0/&gt;&lt;l1/&gt; en de voorkeuren &lt;l2/&gt; om overeenkomsten van woordenlijsten te beheren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; if you don’t remember where your project is.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230526T102119Z" creationid="Dick" creationdate="20230526T102119Z">
@@ -80315,6 +80323,14 @@ De huidige instelling is {0}MB;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230524T082928Z" creationid="Dick" creationdate="20230524T082928Z">
         <seg>Gebruik &lt;l0/&gt;&lt;l1/&gt; om bestanden vanuit OmegaT toe te voegen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to add terms to your glossary.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T121959Z" creationid="Dick" creationdate="20230526T121959Z">
+        <seg>Gebruik &lt;l0/&gt;&lt;l1/&gt; om termen aan uw woordenlijst toe te voegen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -80795,6 +80811,14 @@ De huidige instelling is {0}MB;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210220T132148Z" creationid="Dick" creationdate="20210220T132148Z">
         <seg>Gebruik modus &lt;g0&gt;ID vergelijking&lt;/g0&gt; om teksten met Sleutel=Waarde uit te lijnen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;l0/&gt; menu to manage translation memory matches and perform other various useful functions.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T122350Z" creationid="Dick" creationdate="20230526T122350Z">
+        <seg>Gebruik het menu &lt;l0/&gt; om overeenkomsten van vertaalgeheugens te beheren en andere verschillende nuttige functies uit te voeren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -83085,6 +83109,22 @@ technological measures.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20201125T120456Z" creationid="Dick" creationdate="20201125T120456Z">
         <seg>Wanneer u het project download, wordt het project lokaal geconverteerd naar een teamproject en worden standaard doorverwijzingen toegevoegd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you enter a segment containing terms that match entries in your glossaries, those terms and their translations are displayed in the &lt;l0/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T122133Z" creationid="Dick" creationdate="20230526T122133Z">
+        <seg>Wanneer u een segment invoert dat termen bevat die overeenkomen met items in uw woordenlijsten, worden die termen en hun vertalingen weergegeven in het venster &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you enter a segment that matches part of the content of the project translation memories, OmegaT displays the matches in the &lt;l0/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T122303Z" creationid="Dick" creationdate="20230526T122303Z">
+        <seg>Wanneer u een segment invoert dat overeenkomt met de inhoud van het vertaalgeheugen van het project, geeft OmegaT die overeenkomsten weer in het venster &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
