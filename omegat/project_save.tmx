@@ -53440,6 +53440,14 @@ Verdwenen als mist.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Picture yourself tasked with translating an updated version of a manual from a previous job.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T143352Z" creationid="Dick" creationdate="20230526T143352Z">
+        <seg>Stel uzelf voor dat uw taak is een bijgewerkte versie van een handleiding uit een eerdere taak te vertalen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pinpoint Align: Select corresponding cell</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T173224Z" creationid="Dirk" creationdate="20160906T173224Z">
@@ -56378,6 +56386,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142842Z">
         <seg>Onthoud waar u het project maakt, omdat u er later naar terug moet keren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remembering the main editing and navigation shortcuts (or &lt;l0&gt;modifying them to suit your needs&lt;/l0&gt;) can help you streamline your work.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T143214Z" creationid="Dick" creationdate="20230526T143214Z">
+        <seg>Onthouden van de belangrijkste sneltoetsen voor bewerken en navigatie (of &lt;l0&gt;ze aanpassen zodat ze aan uw behoeften voldoen&lt;/l0&gt;) kan helpen uw werk te stroomlijnen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61842,6 +61858,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135940Z">
         <seg>Omdat tags in de tekst zelf zijn opgenomen, is het mogelijk om segmentatieregels te gebruiken om segmenten te maken met minder tags.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Since the first few pages have not changed, your are greeted with a screenful of already translated segments from the previous job's memory upon opening the project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T143537Z" creationid="Dick" creationdate="20230526T143537Z">
+        <seg>Omdat de eerste paar pagina's niet zijn gewijzigd, wordt u begroet door een scherm vol met reeds vertaalde segmenten uit het geheugen van de eerdere taak bij het openen van het project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74935,6 +74959,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is best illustrated with an example:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T143238Z" creationid="Dick" creationdate="20230526T143238Z">
+        <seg>Dit wordt het beste geïllustreerd met een voorbeeld:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is described as "free as in speech", in contrast to "free as in beer".</seg>
       </tuv>
       <tuv lang="nl">
@@ -81976,6 +82008,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T171201Z">
         <seg>Zoeken met sleutelwoorden naar &lt;e0&gt;&lt;l1&gt;geopend bestand&lt;/l1&gt;&lt;/e0&gt; zal dus alle entiteiten van de tekenreeks &lt;e2&gt;&lt;l3&gt;open file&lt;/l3&gt;&lt;/e2&gt; vinden, en ook &lt;e4&gt;&lt;l5&gt;bestand geopend&lt;/l5&gt;, &lt;l6&gt;geopend invoer bestand&lt;/l6&gt;, &lt;l7&gt;bestand kan gevaarlijk zijn als geopend&lt;/l7&gt;&lt;/e4&gt;, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using shortcuts to streamline the translation process</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T143310Z" creationid="Dick" creationdate="20230526T143310Z">
+        <seg>Gebruiken van sneltoetsen om het vertaalproces te stroomlijnen process</seg>
       </tuv>
     </tu>
     <tu>
