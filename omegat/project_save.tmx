@@ -36273,8 +36273,8 @@ free software which everyone can redistribute and change under these terms.</seg
       <tuv lang="en">
         <seg>If you do not see the contents of a file in the &lt;l0/&gt; pane, that file might be empty, or in a format that is not supported by OmegaT.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230526T102215Z" creationid="Dick" creationdate="20230526T102215Z">
-        <seg>Als u niet de inhoud van een bestand ziet in het venster &lt;l0/&gt;, zou dat ebstand leeg kunnen zijn, of in een indeling die niet wordt ondersteund door OmegaT.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T112249Z" creationid="Dick" creationdate="20230526T102215Z">
+        <seg>Als u de inhoud van een bestand niet ziet in het venster &lt;l0/&gt;, zou dat bestand leeg kunnen zijn, of in een indeling die niet wordt ondersteund door OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
