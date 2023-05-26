@@ -6862,6 +6862,14 @@ Bekijk "Hoofdstuk 3.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;In this manual:&lt;/e0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;E&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T100010Z" creationid="Dick" creationdate="20230526T100010Z">
+        <seg>&lt;e0&gt;In deze handleiding:&lt;/e0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;E&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Install over the existing installation.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T140714Z">
@@ -22249,6 +22257,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create a new project</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T100013Z" creationid="Dick" creationdate="20230526T100013Z">
+        <seg>Een nieuw project maken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create a new project on ProjectLocker</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T110623Z">
@@ -36530,6 +36546,14 @@ to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you have not yet installed OmegaT, see the &lt;l0/&gt; how-to.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T100049Z" creationid="Dick" creationdate="20230526T100049Z">
+        <seg>Bekijk de how-to &lt;l0/&gt; als u OmegaT nog niet hebt geïnstalleerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have the source and the target Properties files for one and the same contents in your language pair, this procedure will create a corresponding tmx file for these contents.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T165607Z">
@@ -41645,6 +41669,14 @@ zelf bij de eerste keer dat het wordt uitgevoerd.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221221T150632Z" creationid="Dick" creationdate="20221221T150632Z">
         <seg>Identificatie toets</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Key modifiers are identified by a single letter.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T095917Z" creationid="Dick" creationdate="20230526T095917Z">
+        <seg>Aanpassingstoetsen worden geïdentificeerd door één enkele letter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50524,6 +50556,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On Windows and Linux: &lt;k0&gt;&lt;k1&gt;Control&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T095952Z" creationid="Dick" creationdate="20230526T095952Z">
+        <seg>Op Windows en Linux: &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On Windows and Linux: &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230521T082221Z" creationid="Dick" creationdate="20230521T082221Z">
@@ -50568,6 +50608,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230523T111945Z" creationid="Dick" creationdate="20230523T111945Z">
         <seg>Op macOS is het ook mogelijk om direct &lt;f0&gt;OmegaT.app&lt;/f0&gt; in de terminal te gebruiken, in welke geval geen parameters voor Java kunnen worden toegevoegd:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On macOS: &lt;k0&gt;&lt;k1&gt;Command&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T100000Z" creationid="Dick" creationdate="20230526T100000Z">
+        <seg>Op macOS: &lt;k0&gt;&lt;k1&gt;Command&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -76670,6 +76718,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To learn how to launch OmegaT, see the &lt;l0/&gt; how-to.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T100123Z" creationid="Dick" creationdate="20230526T100123Z">
+        <seg>Bekijk de how-to &lt;l0/&gt; om te leren hoe OmegaT te starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To limit the amount of data, it is possible to select a specific domain by selecting &lt;e0&gt;Select TaaS Terminology Lookup Domain&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T172349Z">
@@ -77078,6 +77134,14 @@ these rights or asking you to surrender the rights.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142840Z">
         <seg>Maak eerst een project dat al uw bestanden zal bevatten, zoals uw bronbestanden, vertaalgeheugens, woordenlijsten en uiteindelijk uw vertaalde bestand, om te beginnen met het gebruiken van OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To start using OmegaT, you first have to create a project to hold all your files.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T100211Z" creationid="Dick" creationdate="20230526T100211Z">
+        <seg>U moet, om te kunnen beginnen met het gebruiken van OmegaT, eerst een project maken dat al uw bestanden bevat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -79955,6 +80019,14 @@ De huidige instelling is {0}MB;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221221T144432Z" creationid="Dick" creationdate="20221221T144432Z">
         <seg>Gebruik &lt;l0/&gt;&lt;l1/&gt; om de inhoud van het bestand te bekijken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt;, and select an empty folder or create a new one with the name of your project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T100250Z" creationid="Dick" creationdate="20230526T100250Z">
+        <seg>Gebruik &lt;l0/&gt;&lt;l1/&gt; en selecteer een lege map of maak ene nieuwe met de naam voor uw project.</seg>
       </tuv>
     </tu>
     <tu>
