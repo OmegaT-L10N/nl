@@ -20377,6 +20377,14 @@ OmegaT gebruikt de volgende bibliotheken:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Collaboration</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T075047Z" creationid="Dick" creationdate="20230526T075047Z">
+        <seg>Samenwerking</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Colours</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20170914T124532Z" creationid="Dirk" creationdate="20170914T124532Z">
@@ -60998,6 +61006,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Simple settings enable translators to easily share resources and work together on a project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T075125Z" creationid="Dick" creationdate="20230526T075125Z">
+        <seg>Eenvoudige instellingen stellen vertalers in staat om gemakkelijk bronnen te delen en samn te werken aan een project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Simplified Overview</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230523T095737Z" creationid="Dick" creationdate="20230523T095737Z">
@@ -71009,6 +71025,14 @@ use, which is precisely where it is most unacceptable.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T173700Z">
         <seg>Het team kan ook dezelfde structuur voor de submappen gebruiken voor de doelbestanden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The team functionality offers industrial grade robustness and the flexibility to synchronize project resources among team members, while allowing easy resolution of conflicts between different translations.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T075343Z" creationid="Dick" creationdate="20230526T075343Z">
+        <seg>De team-functionaliteit biedt robuustheid op industrieel niveau en de flexibiliteit om bronnen van het project te synchroniseren tussen teamleden, waarbij het gemakkelijk wordt gemaakt conflicten de verschillende vertalingen op te lossen.</seg>
       </tuv>
     </tu>
     <tu>
