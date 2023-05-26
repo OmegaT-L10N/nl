@@ -2785,6 +2785,14 @@ for which you have or can give appropriate copyright permission.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(And do so again each time you reach a large unchanged section.)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T143740Z" creationid="Dick" creationdate="20230526T143740Z">
+        <seg>(En dat elke keer doen wanneer u een lang niet gewijzigd gedeelte bereikt.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(Call Last Search Window)</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230521T094120Z" creationid="Dick" creationdate="20230521T094120Z">
@@ -12211,6 +12219,14 @@ consequence of further modification of the contributor version.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230520T102241Z" creationid="Dick" creationdate="20230520T102241Z">
         <seg>Een aantal voorbeelden worden in de tabel hieronder weergegeven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A few segments later, you come across a term you should add to the glossary.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T143818Z" creationid="Dick" creationdate="20230526T143818Z">
+        <seg>Een paar segmenten later, komt u bij een term die u zou willen toevoegen aan de woordenlijst.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40016,6 +40032,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Instead of reaching for the mouse, you unlock the cursor with &lt;l0&gt;&lt;k1&gt;F2&lt;/k1&gt;&lt;/l0&gt;, use the cursor keys and standard system shortcuts to navigate to the term and select it, and then press &lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;S&lt;/k4&gt;&lt;k5&gt;G&lt;/k5&gt;&lt;/k2&gt; to &lt;l6&gt;call up the glossary entry dialog&lt;/l6&gt; to enter the source term.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T144107Z" creationid="Dick" creationdate="20230526T144107Z">
+        <seg>In plaats van naar de muis te grijpen, ontgrendelt u de cursor met &lt;l0&gt;&lt;k1&gt;F2&lt;/k1&gt;&lt;/l0&gt;, gebruikt de cursortoetsen en standaard sneltoetsen van het systeem om naar de term te navigeren en die te selecteren, en dan te drukken op &lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;S&lt;/k4&gt;&lt;k5&gt;G&lt;/k5&gt;&lt;/k2&gt; om &lt;l6&gt;het dialoogvenster voor het invoeren van een item voor de woordenlijst &lt;/l6&gt; op te roepen om de bronterm in te voeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Instead, launch a text editor (such as Notepad or Wordpad), then open the launch script file with File &gt; Open.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131228T112554Z" creationid="Dirk" creationdate="20131228T112554Z">
@@ -55714,6 +55738,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131226T151512Z" creationid="Dirk" creationdate="20131226T151512Z">
         <seg>In plaats van te zoeken naar alle items van "abc" en die te corrigeren vooraleer door te gaan (wat mogelijk is, maar nadelen heeft), zou zij eenvoudigweg kunnen beslissen om ze te corrigeren tijdens de doorgang voor de volgende versie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rather than tediously scroll down until you find the first segment to translate, you quickly press &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt; to &lt;l3&gt;jump straight into the action&lt;/l3&gt; and start translating.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T143707Z" creationid="Dick" creationdate="20230526T143707Z">
+        <seg>In plaats van langzaam naar beneden te scrollen totdat u het eerste te vertalen segment vindt, drukt u snel op &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt; om &lt;l3&gt;direct naar de actie&lt;/l3&gt; te gaan en te beginnen met vertalen.</seg>
       </tuv>
     </tu>
     <tu>
