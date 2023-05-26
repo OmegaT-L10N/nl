@@ -12627,6 +12627,14 @@ the only significant mode of use of the product.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A sentence might look like this in its original application:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T135604Z" creationid="Dick" creationdate="20230526T135604Z">
+        <seg>Een zin zou er uit kunnen zien zoals dit in zijn originele toepassing:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A separable portion of the object code, whose source code is excluded</seg>
       </tuv>
       <tuv lang="nl">
@@ -23827,6 +23835,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Depending on the original format, OmegaT, however, will present this sentence in a fashion similar to this one:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T135801Z" creationid="Dick" creationdate="20230526T135801Z">
+        <seg>Afhankelijk van de originele indeling echter zal OmegaT deze zin weergeven op een manier die soortgelijk is aan deze:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Depending on the pane status, different signs can appear at its top right corner:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T174247Z">
@@ -33150,6 +33166,14 @@ Het is er wintertijd voor</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230526T075808Z" creationid="Dick" creationdate="20230526T075808Z">
         <seg>Hoe kan OmegaT helpen bij dergelijke storingen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How decorations are displayed in OmegaT</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T135813Z" creationid="Dick" creationdate="20230526T135813Z">
+        <seg>Hoe decoraties worden weergegeven in OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -49624,6 +49648,22 @@ translation leveraging into updated projects.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is an &lt;c0&gt;&lt;t0/&gt;&lt;/c0&gt;easy to use&lt;c1&gt;&lt;t1/&gt;&lt;/c1&gt; program for &lt;c2&gt;&lt;t2/&gt;&lt;/c2&gt;eager&lt;c3&gt;&lt;t3/&gt;&lt;/c3&gt; translators</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T135857Z" creationid="Dick" creationdate="20230526T135857Z">
+        <seg>OmegaT is een &lt;c0&gt;&lt;t0/&gt;&lt;/c0&gt;eenvoudig-te gebruiken&lt;c1&gt;&lt;t1/&gt;&lt;/c1&gt; programma voor &lt;c2&gt;&lt;t2/&gt;&lt;/c2&gt;gretige&lt;c3&gt;&lt;t3/&gt;&lt;/c3&gt; vertalers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is an &lt;e0&gt;easy-to-use&lt;/e0&gt; program for &lt;e1&gt;eager&lt;/e1&gt; translators</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T135708Z" creationid="Dick" creationdate="20230526T135708Z">
+        <seg>OmegaT is een &lt;e0&gt;eenvoudig-te gebruiken&lt;/e0&gt; programma voor &lt;e1&gt;gretige&lt;/e1&gt; vertalers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is an open-source application and project.</seg>
       </tuv>
       <tuv lang="nl">
@@ -60746,6 +60786,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T172002Z">
         <seg>Segmentatie op niveau van de zin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sentence with decorative formatting</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T135616Z" creationid="Dick" creationdate="20230526T135616Z">
+        <seg>Zin met decoratieve opmaak</seg>
       </tuv>
     </tu>
     <tu>
@@ -72177,6 +72225,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135917Z">
         <seg>De functie Tags valideren detecteert gewijzigde tags (of dat met opzet is gedaan of per ongeluk) en toont de betrokken segmenten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The various tag related settings can be very helpful to properly manage the tags in a documents.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T140328Z" creationid="Dick" creationdate="20230526T140328Z">
+        <seg>De verschillende aan tags gerelateerde instellingen kunnen heel nuttig zijn om de tags in documenten juist te beheren.</seg>
       </tuv>
     </tu>
     <tu>
