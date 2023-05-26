@@ -85024,6 +85024,14 @@ installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can modify the structure of a project at any time after you have started translating.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T101845Z" creationid="Dick" creationdate="20230526T101845Z">
+        <seg>U kunt de structuur van een project op elk moment aanpassen nadat u bent begonnen met vertalen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can modify the structure of your project by adding or removing files from the folders, or even by changing the folders used by the project at any time, even during the course of the translation.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T092631Z" creationid="Dick" creationdate="20230522T092631Z">
