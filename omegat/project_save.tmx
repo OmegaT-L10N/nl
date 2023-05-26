@@ -61878,6 +61878,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Since OmegaT has registered your navigation history, you only need to use &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;J&lt;/k3&gt;&lt;/k0&gt; to immediately continue from where you left off.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T145612Z" creationid="Dick" creationdate="20230526T145612Z">
+        <seg>Omdat OmegaT uw geschiedenis van de navigatie heeft geregistreerd, hoeft u alleen maar &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;J&lt;/k3&gt;&lt;/k0&gt; te gebruiken om direct door te gaan waar u ophield.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Since files are included by default unless specifically excluded, this option is only necessary to specify exceptions to an exclusion pattern.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230524T100800Z" creationid="Dick" creationdate="20230524T100800Z">
@@ -86975,6 +86983,14 @@ or can get the source code.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T192154Z">
         <seg>U moet uw JDK 1.6 bijwerken naar de laatste versie, of verwijder alleen de jaxb-*.jar-bestanden uit de OmegaT map /lib</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You now decide to review the annotated segments.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T145646Z" creationid="Dick" creationdate="20230526T145646Z">
+        <seg>U besluit nu om de geannoteerde segmenten na te kijken.</seg>
       </tuv>
     </tu>
     <tu>
