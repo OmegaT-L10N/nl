@@ -15533,6 +15533,14 @@ to receive a copy likewise does not require acceptance.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>And before you ever need to follow those steps, OmegaT will allow you to focus on actually translating, and hopefully help you become a better translator.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T080157Z" creationid="Dick" creationdate="20230526T080157Z">
+        <seg>En voordat u ooit die stappen moet volgen zal OmegaT u toestaan u te focussen op het feitelijke vertalen, en hopelijk helpt het u een betere vertaler te worden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>And get a feel of what is going on in the OmegaT world...</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T104019Z">
@@ -27312,6 +27320,14 @@ Niemand hoort u schreeuwen.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T130130Z">
         <seg>Ests</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Even if things look very broken, do not panic.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T075936Z" creationid="Dick" creationdate="20230526T075936Z">
+        <seg>Geen paniek, zelfs niet als dingen er heel slecht uitzien.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41369,6 +41385,14 @@ zelf bij de eerste keer dat het wordt uitgevoerd.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Just follow the simple steps described in the &lt;l0/&gt; how-to.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T080032Z" creationid="Dick" creationdate="20230526T080032Z">
+        <seg>Volg gewoonweg de eenvoudige stappen, beschreven in de how-to &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Just put the English-Japanese file in &lt;f0&gt;tm/tmx2source&lt;/f0&gt; under the name &lt;f1&gt;JA-JP.tmx&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230525T150438Z" creationid="Dick" creationdate="20230525T150438Z">
@@ -47185,6 +47209,14 @@ measures.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T125443Z">
         <seg>Niet te vergeten zijn zorg en zorgvuldigheid voor het intact en in goede orde houden van de opgeslagen dingen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not to worry.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T075815Z" creationid="Dick" creationdate="20230526T075815Z">
+        <seg>Geen zorgen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70165,6 +70197,14 @@ earlier work or a work "based on" the earlier work.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T165740Z" creationid="Dick" creationdate="20190516T165740Z">
         <seg>Het venster met de resultaten is opgemaakt in de vorm van een tabel waarin:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The robust design of OmegaT makes it &lt;e0&gt;extremely&lt;/e0&gt; unlikely that you have lost more than a few minutes of work.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T075912Z" creationid="Dick" creationdate="20230526T075912Z">
+        <seg>Het robuuste ontwerp van OmegaT maakt het &lt;e0&gt;bijzonder&lt;/e0&gt; onwaarschijnlijk dat u meer dan een paar minuten werk hebt verloren.</seg>
       </tuv>
     </tu>
     <tu>
