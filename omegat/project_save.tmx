@@ -16439,6 +16439,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As you savour your coffee, you reflect on how much more smoothly you were able to use the various OmegaT functions compared to when you had just gotten started and spent a lot of time clicking through menus.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T150543Z" creationid="Dick" creationdate="20230526T150543Z">
+        <seg>Als u zich uw koffie laat smaken, reflecteert u over hoeveel sneller u in staat was de verschillende functies van OmegaT te gebruiken, vergeleken met wanneer u gewoon was begonnen en veel tijd kwijt zou zijn geweest ana het klikken door de menu's.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As you translate your files, &lt;a0&gt;OmegaT&lt;/a0&gt; stores your work continually in &lt;f1&gt;project_save.tmx&lt;/f1&gt; in the project's /&lt;f2&gt;omegat&lt;/f2&gt; subfolder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T173707Z">
@@ -16563,6 +16571,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T124932Z">
         <seg>Tegelijkertijd kan het meerdere bestanden uit eerdere vertalingen gebruiken als verwijzing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>At the same time, you realize that during you session, you used the &lt;l0/&gt;&lt;l1/&gt; menu and the cursor keys several times, and decide to &lt;l2&gt;add a new shortcut&lt;/l2&gt; to streamline that part of the process as well.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T150811Z" creationid="Dick" creationdate="20230526T150811Z">
+        <seg>Tegelijkertijd realiseert u zich dat gedurende uw sessie, u het menu &lt;l0/&gt;&lt;l1/&gt; gebruikte en ook de cursortoetsen verschillende keren, en besluit om &lt;l2&gt;een nieuwe sneltoets toe te voegen&lt;/l2&gt; om ook dat gedeelte van het proces beter te stroomlijnen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71509,6 +71525,14 @@ earlier work or a work "based on" the earlier work.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T140644Z">
         <seg>De eenvoudigste manier om OmegaT te starten is echter om het programma&lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt;.exe&lt;/e0&gt; uit te voeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The smoother workfow, in turn, allowed you to better focus on the translation itself.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T150623Z" creationid="Dick" creationdate="20230526T150623Z">
+        <seg>De snellere werkstroom, op zijn beurt, stelde u in staat u beter te focussen op de vertaling zelf.</seg>
       </tuv>
     </tu>
     <tu>
