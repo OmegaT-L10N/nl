@@ -44278,6 +44278,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Manage your segments</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T113648Z" creationid="Dick" creationdate="20230526T113648Z">
+        <seg>Uw segmenten beheren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Managing a team project calls for some knowledge of either the &lt;e0&gt;SVN&lt;/e0&gt; or &lt;e1&gt;Git&lt;/e1&gt; version control system (&lt;e2&gt;VCS&lt;/e2&gt; in the rest of this section).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230523T123408Z" creationid="Dick" creationdate="20230523T123408Z">
