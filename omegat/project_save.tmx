@@ -44446,6 +44446,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Manage your projects</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T142439Z" creationid="Dick" creationdate="20230526T142439Z">
+        <seg>Uw projecten beheren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Manage your segments</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230526T113648Z" creationid="Dick" creationdate="20230526T113648Z">
@@ -45810,8 +45818,8 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
       <tuv lang="en">
         <seg>Modifications made outside OmegaT can be reinserted in OmegaT (and thus in the project translation memory, to keep it up to date) either by entering them manually in the relevant segments, or by aligning the original file and the final translated file to create a new translation memory (TMX) file that will be put in the &lt;l0/&gt; folder of your project folder.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230526T142410Z" creationid="Dick" creationdate="20230526T142410Z">
-        <seg>Aanpassingen die buiten OmegaT zijn gemaakt kunnen opnieuw in OmegaT worden ingevoegd (en dus in het vertaalgeheugen van het project om ze up to date te houden) ofwel door ze handmatig in de relevante segmenten in te voeren, of door het originele bestand uit te lijnen met het uiteindelijke vertaalde bestand om een nieuw bestand voor het vertaalgeheugen (TMX) te maken d zal wordne geplaatst in de map &lt;l0/&gt; van uw projectmap.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T142421Z" creationid="Dick" creationdate="20230526T142410Z">
+        <seg>Aanpassingen die buiten OmegaT zijn gemaakt kunnen opnieuw in OmegaT worden ingevoegd (en dus in het vertaalgeheugen van het project om ze up to date te houden) ofwel door ze handmatig in de relevante segmenten in te voeren, of door het originele bestand uit te lijnen met het uiteindelijke vertaalde bestand om een nieuw bestand voor het vertaalgeheugen (TMX) te maken dat zal worden geplaatst in de map &lt;l0/&gt; van uw projectmap.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78903,6 +78911,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation projects are just folders containing files.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T142510Z" creationid="Dick" creationdate="20230526T142510Z">
+        <seg>Vertaalprojecten zijn slechts mappen die bestanden bevatten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation unit encountered before TMX header.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T190409Z">
@@ -84774,6 +84790,14 @@ for enforcing compliance by third parties with this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can access and modify the project settings using &lt;l0/&gt; &lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T142640Z" creationid="Dick" creationdate="20230526T142640Z">
+        <seg>U kunt toegang krijgen tot de projectinstelling en ze aanpassen met &lt;l0/&gt; &lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can access that folder directly with the &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Access Configuration Folder&lt;/g2&gt; &lt;/m0&gt; menu entry.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135127Z" creationid="Dirk" creationdate="20160910T134928Z">
@@ -85421,6 +85445,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142920Z">
         <seg>U kunt een nieuw project maken voor elke nieuwe taak en u kunt op elk moment nieuwe bronbestanden aan een project toevoegen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can create a new project for each new job, or you can add new source files to an existing project at any time.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T142607Z" creationid="Dick" creationdate="20230526T142607Z">
+        <seg>U kunt ene nieuw project maken voor elke nieuwe taak, of u kunt op elk moment nieuwe bronbestanden toevoegen aan een bestaand project.</seg>
       </tuv>
     </tu>
     <tu>
