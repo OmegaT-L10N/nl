@@ -35179,6 +35179,14 @@ copy of the Program in return for a fee.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the documents you translate use bold, italics, or other decorative elements, OmegaT will convert those elements into tags that enclose the decorated text.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T135045Z" creationid="Dick" creationdate="20230526T135045Z">
+        <seg>Als de documenten die u vertaalt elementen in vet, cursief of andere decoratie hebben, zal OmegaT deze elementen converteren naar tags die de decoratieve tekst omsluiten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the file already exists, no attempt is done to verify the format or the character set of the file: the new entries will always be in tab-separated format and UTF-8.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135957Z">
@@ -63714,6 +63722,14 @@ makes it unnecessary.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135423Z">
         <seg>Zulke bestanden hebben geen informatie over opmaak naast de "witte ruimte" die wordt gebruikt om tekst uit te lijnen, alinea's aan te geven of pagina-einden in te voegen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Such files include LibreOffice files, HTML files an Microsoft Office files for example.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T135404Z" creationid="Dick" creationdate="20230526T135404Z">
+        <seg>Dergelijke bestanden omvatten bijvoorbeeld bestanden van LibreOffice, HTML-bestanden en bestanden van Microsoft Office.</seg>
       </tuv>
     </tu>
     <tu>
