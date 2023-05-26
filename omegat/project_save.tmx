@@ -59774,6 +59774,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the following options and scripts for details:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T140347Z" creationid="Dick" creationdate="20230526T140347Z">
+        <seg>Bekijk de volgende opties en scripts voor details:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the section Preventing data loss for ways and means of protecting your work.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T165924Z">
@@ -71701,6 +71709,14 @@ use, which is precisely where it is most unacceptable.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The tags in OmegaT are grayed, making them easy to recognize.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T140431Z" creationid="Dick" creationdate="20230526T140431Z">
+        <seg>De tags in OmegaT zijn grijs, dat ze eenvoudig te herkennen maakt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The tags in OmegaT are greyed, so they are easy to recognise.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142912Z">
@@ -73219,6 +73235,14 @@ U bent het slachtoffer van één van de drie.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230519T134902Z" creationid="Dick" creationdate="20230519T134849Z">
         <seg>Zij worden niet gevolgd door een spatie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They are protected to prevent you from modifying their contents, but you can delete them, enter them by hand or move them around in the target sentence.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T140518Z" creationid="Dick" creationdate="20230526T140518Z">
+        <seg>Zij zijn beveiligd, om te voorkomen dat u hun inhoud wijzigt, maar u kunt ze verwijderen, ze handmatig invoeren of ze verplaatsen in de doelzin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -80351,6 +80375,14 @@ De huidige instelling is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt; &lt;l1/&gt; and &lt;l2/&gt; to insert the tags at the cursor location.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T140553Z" creationid="Dick" creationdate="20230526T140553Z">
+        <seg>Gebruik &lt;l0/&gt; &lt;l1/&gt; en &lt;l2/&gt; om de tags in te voegen op de locatie van de cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt; or &lt;l1/&gt; to create the translated files and the exported TMX files.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T095932Z" creationid="Dick" creationdate="20230522T095932Z">
@@ -85309,6 +85341,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T133629Z">
         <seg>U zou kunnen besluiten om zulke segmenten niet te vertalen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can define custom tags that will be managed in the same manner.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T140623Z" creationid="Dick" creationdate="20230526T140623Z">
+        <seg>U kunt aangepaste tags definiëren die op dezelfde manier kunnen worden beheerd.</seg>
       </tuv>
     </tu>
     <tu>
