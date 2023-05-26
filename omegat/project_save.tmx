@@ -15869,6 +15869,14 @@ paragraph of section 11).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any time you create the translated files, any previously created files with the same name are overwritten.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T141528Z" creationid="Dick" creationdate="20230526T141528Z">
+        <seg>Elke keer als u de vertaalde bestanden maakt zullen eerder gemaakte bestanden met dezelfde naam worden overschreven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Any writable folder can be used instead of the project &lt;l0/&gt; folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230525T142943Z" creationid="Dick" creationdate="20230525T142943Z">
@@ -23791,6 +23799,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230512T092034Z" creationid="Dick" creationdate="20230512T092034Z">
         <seg>Verwijderen van dat bestand herstelt ook de voorkeuren voor het filter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deleting the contents of the &lt;l0/&gt; folder &lt;e1&gt;never&lt;/e1&gt; impacts the content of your translations.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T141819Z" creationid="Dick" creationdate="20230526T141819Z">
+        <seg>Verwijderen van de inhoud van de map &lt;l0/&gt; heeft &lt;e1&gt;nooit&lt;/e1&gt; invloed op de inhoud van uw vertalingen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56734,6 +56750,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Rename any files you want to prevent from being overwritten after you create them.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T141600Z" creationid="Dick" creationdate="20230526T141600Z">
+        <seg>Hernoem bestanden waarvan u niet wilt dat ze worden overschreven nadat u ze gemaakt hebt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Rename it &lt;f0&gt;project_save.tmx&lt;/f0&gt; if necessary.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T134453Z" creationid="Dick" creationdate="20230522T134453Z">
@@ -68248,6 +68272,14 @@ instead.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T130806Z">
         <seg>De documentatie wordt gedistribueerd in de hoop dat het bruikbaar zal zijn, maar ZONDER ENIGE GARANTIE; zelfs zonder de impliciete garantie voor VERHANDELBAARHEID of GESCHIKTHEID VOOR EEN BEPAALD DOEL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The documents are created in the &lt;l0/&gt; folder of your project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T141845Z" creationid="Dick" creationdate="20230526T141845Z">
+        <seg>De documenten wordne gemaakt in de map &lt;l0/&gt; van uw project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -85193,6 +85225,14 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can automate file name changes using the &lt;l0/&gt; option for the file filter.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T141642Z" creationid="Dick" creationdate="20230526T141642Z">
+        <seg>U kunt wijzigingen voor bestandsnamen automatiseren met de optie &lt;l0/&gt; voor het bestandsfilter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can automate the above procedure somewhat by creating a macro.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120401T152046Z">
@@ -87027,6 +87067,14 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T134637Z" creationid="Dick" creationdate="20230522T134637Z">
         <seg>Uw vertaalde bestand wil niet openen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your translations are &lt;e0&gt;always&lt;/e0&gt; stored in the &lt;l1/&gt; file, which is the project translation memory, located in the &lt;l2/&gt; folder of your project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T141742Z" creationid="Dick" creationdate="20230526T141742Z">
+        <seg>Uw vertalingen worden &lt;e0&gt;altijd&lt;/e0&gt; opgeslagen in het bestand &lt;l1/&gt;, wat het vertaalgeheugen voor het project is, geplaatst de map &lt;l2/&gt; van uw project.</seg>
       </tuv>
     </tu>
     <tu>
