@@ -18361,6 +18361,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By the time you get near the end of the section, you have also used &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;R&lt;/k2&gt;&lt;/k0&gt; once or twice to replace already automatically entered fuzzy matches from the previous translation with better matches from earlier in the current section.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T145153Z" creationid="Dick" creationdate="20230526T145153Z">
+        <seg>Tegen de tijd dat u bij het einde van het gedeelte komt, heeft u ook een of tweemaal &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;R&lt;/k2&gt;&lt;/k0&gt; gebruikt om reeds automatisch ingevoerde fuzzy overeenkomsten uit de eerdere vertaling te vervangen met betere overeenkomsten van eerder in het huidige gedeelte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By unchecking &lt;e0&gt;Automatically Fetch Translations&lt;/e0&gt; option, machine translations will be fetched only upon invoking &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k1&gt; (&lt;k4&gt; &lt;k5&gt;Cmd&lt;/k5&gt; &lt;k6&gt;M&lt;/k6&gt; &lt;/k4&gt; on OS X) on the current segment.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T160622Z" creationid="Dirk" creationdate="20160910T160622Z">
@@ -62382,6 +62390,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T190056Z">
         <seg>Sommige projectmappen schijnen te zijn verplaatst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some segments will require further modification later on, so you use &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;A&lt;/k2&gt;&lt;k3&gt;9&lt;/k3&gt;&lt;/k0&gt; to enter the Notepad pane, leave yourself a note and come back to the Editor pane with &lt;k4&gt;&lt;k5&gt;C&lt;/k5&gt;&lt;k6&gt;A&lt;/k6&gt;&lt;k7&gt;0&lt;/k7&gt;&lt;/k4&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T144956Z" creationid="Dick" creationdate="20230526T144956Z">
+        <seg>Sommige segmenten zullen later nadere aanpassingen nodig hebben, dus u gebruikt &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;A&lt;/k2&gt;&lt;k3&gt;9&lt;/k3&gt;&lt;/k0&gt; om naar het venster Notepad te gaan, uzelf een opmerking te sturen en en terug te komen naar het venster Bewerken met &lt;k4&gt;&lt;k5&gt;C&lt;/k5&gt;&lt;k6&gt;A&lt;/k6&gt;&lt;k7&gt;0&lt;/k7&gt;&lt;/k4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
