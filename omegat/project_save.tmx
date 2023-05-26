@@ -66026,6 +66026,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;l0/&gt; function lets you search the entire project for terms, sentence fragments, and so on, using exact, keyword, or regular expression searches.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T122526Z" creationid="Dick" creationdate="20230526T122526Z">
+        <seg>De functie &lt;l0/&gt; laat u door het gehele project zoeken naar termen, fragmenten van zinnen, enzovoort, met behulp van exacte, sleutelwoord, of zoekacties met reguliere expressies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;l0/&gt; item in the &lt;l1/&gt; menu is an exception.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230521T101954Z" creationid="Dick" creationdate="20230521T101954Z">
@@ -84734,6 +84742,14 @@ for enforcing compliance by third parties with this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also focus only on the results by filtering them in the Editor.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T122647Z" creationid="Dick" creationdate="20230526T122647Z">
+        <seg>U kunt zich ook alleen focussen op de resultaten door ze te filteren in het venster Bewerken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also get a list of these options in the terminal with the &lt;c0&gt;java -jar OmegaT.jar --help&lt;/c0&gt; command.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230523T113505Z" creationid="Dick" creationdate="20230523T113505Z">
@@ -84835,6 +84851,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       <tuv lang="nl" changeid="Dick" changedate="20200116T110534Z" creationid="Dick" creationdate="20200116T110534Z">
         <seg>U kunt ook handmatig het bestand OmegaT.exe slepen naar het menu Start, 
 op het bureaublad en in het gebied voor snel starten om het van daaruit te koppelen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also narrow the scope of the search based on information such as author or date.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T122612Z" creationid="Dick" creationdate="20230526T122612Z">
+        <seg>U kunt ook het bereik van de zoekactie beperken, gebaseerd op informatie zoals auteur of datum.</seg>
       </tuv>
     </tu>
     <tu>
@@ -85596,6 +85620,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T173759Z">
         <seg>U kunt deze drie TMX-bestanden, (-&lt;f2&gt;omegat.tmx&lt;/f2&gt;", "&lt;f3&gt;-level1.tmx&lt;/f3&gt;" en "&lt;f4&gt;-level2.tmx&lt;/f4&gt;"), beschouwen als een "exporteerbaar vertaalgeheugen", dat is: een export van de inhoud van uw huidige project in tweetalige vorm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can replace terms with the &lt;l0/&gt; function using a similar dialog.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T122722Z" creationid="Dick" creationdate="20230526T122722Z">
+        <seg>U kunt termen vervangen met de functie &lt;l0/&gt; met een soortgelijk dialoogvenster.</seg>
       </tuv>
     </tu>
     <tu>
