@@ -45808,6 +45808,14 @@ a computer network, with no transfer of a copy, is not conveying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modifications made outside OmegaT can be reinserted in OmegaT (and thus in the project translation memory, to keep it up to date) either by entering them manually in the relevant segments, or by aligning the original file and the final translated file to create a new translation memory (TMX) file that will be put in the &lt;l0/&gt; folder of your project folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T142410Z" creationid="Dick" creationdate="20230526T142410Z">
+        <seg>Aanpassingen die buiten OmegaT zijn gemaakt kunnen opnieuw in OmegaT worden ingevoegd (en dus in het vertaalgeheugen van het project om ze up to date te houden) ofwel door ze handmatig in de relevante segmenten in te voeren, of door het originele bestand uit te lijnen met het uiteindelijke vertaalde bestand om een nieuw bestand voor het vertaalgeheugen (TMX) te maken d zal wordne geplaatst in de map &lt;l0/&gt; van uw projectmap.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modifications made to any glossary are immediately recognized by OmegaT displayed in the &lt;l0/&gt; pane.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230518T101103Z" creationid="Dick" creationdate="20230518T101103Z">
@@ -51200,6 +51208,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T110714Z">
         <seg>Als het teamproject een maal is ingesteld, hoeven leden van het team slechts via &lt;a0&gt;OmegaT&lt;/a0&gt; toegang tot het teamproject te krijgen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once the translated files have been created, you can open them in their original application to check their contents and eventually further modify them.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T142029Z" creationid="Dick" creationdate="20230526T142029Z">
+        <seg>Als de vertaalde bestanden eenmaal zijn gemaakt, kunt u ze openen in hun originele toepassing om hun inhoud te controleren en ze eventueel verder aan te passen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63838,6 +63854,14 @@ makes it unnecessary.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Such external modifications will &lt;e0&gt;not&lt;/e0&gt; be reflected in OmegaT.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T142056Z" creationid="Dick" creationdate="20230526T142056Z">
+        <seg>Dergelijke externe aanpassingen zullen &lt;e0&gt;niet&lt;/e0&gt; worden weergegeven in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Such file formats are designed to hold formatting information.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135450Z">
@@ -68278,8 +68302,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The documents are created in the &lt;l0/&gt; folder of your project.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230526T141845Z" creationid="Dick" creationdate="20230526T141845Z">
-        <seg>De documenten wordne gemaakt in de map &lt;l0/&gt; van uw project.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T141850Z" creationid="Dick" creationdate="20230526T141845Z">
+        <seg>De documenten worden gemaakt in de map &lt;l0/&gt; van uw project.</seg>
       </tuv>
     </tu>
     <tu>
