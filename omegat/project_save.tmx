@@ -49800,6 +49800,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT takes care of that &lt;e2&gt;automatically&lt;/e2&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T074811Z" creationid="Dick" creationdate="20230526T074811Z">
+        <seg>OmegaT regelt dat &lt;e2&gt;automatisch&lt;/e2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT team</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T112601Z" creationid="Dick" creationdate="20190517T112601Z">
@@ -72005,6 +72013,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There is no limit to the number of translation memories that can be used as reference in a translation project, and OmegaT makes it very easy to assign different levels of priority to these additional memories.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T075039Z" creationid="Dick" creationdate="20230526T075033Z">
+        <seg>er is geen beperking voor het aantal vertaalgeheugens dat als een verwijzing kan worden gebruikt in een vertaalproject, en OmegaT naakt het heel eenvoudig om verschillende niveaus van prioriteit toe te wijzen aan deze aanvullende geheugens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There is no need to instruct OmegaT to use a particular spelling dictionary; OmegaT will use the correct language dictionary based upon the language codes of your project.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T172204Z">
@@ -72489,8 +72505,8 @@ U bent het slachtoffer van één van de drie.</seg>
       <tuv lang="en">
         <seg>They can also include reference translation memories, glossaries, and other reference files.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230526T074640Z" creationid="Dick" creationdate="20230526T074640Z">
-        <seg>Zij kunnen ook vertaalgeheugens voor verwijzing, woordenlijstem en andere bestanden voor verwijzing bevatten.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T074645Z" creationid="Dick" creationdate="20230526T074640Z">
+        <seg>Zij kunnen ook vertaalgeheugens voor verwijzing, woordenlijsten en andere bestanden voor verwijzing bevatten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78003,6 +78019,22 @@ install.sh.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230526T074500Z" creationid="Dick" creationdate="20230526T074500Z">
         <seg>Vertalers kunnen eenvoudig de inhoud of locatie van die bronnen op elk moment aanpassen gedurende de vertaling.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translators can very easily reuse an existing projectʼs translation memory by simply adding new translation files to an existing project, or by copying an existing translation memory to a new project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T074925Z" creationid="Dick" creationdate="20230526T074925Z">
+        <seg>Vertalers kunnen heel eenvoudig het vertaalgeheugen van een project opnieuw gebruiken door eenvoudigweg nieuwe te vertalen bestanden toe te voegen aan een bestaand project, of door een bestaan vertaalgeheugen te kopiëren naar een nieuw project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translators do not have to &lt;e0&gt;create&lt;/e0&gt; a translation memory or &lt;e1&gt;associate&lt;/e1&gt; one to a new project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T074757Z" creationid="Dick" creationdate="20230526T074757Z">
+        <seg>Vertalers hoven geen vertaalgeheugen &lt;e0&gt;te maken&lt;/e0&gt; of er een &lt;e1&gt;te associeren&lt;/e1&gt; aan een nieuw project.</seg>
       </tuv>
     </tu>
     <tu>
