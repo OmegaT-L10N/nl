@@ -15095,6 +15095,14 @@ organization, or merging organizations.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An OmegaT translation project consists of a number of resources stored in separate folders, of an &lt;l0&gt;&lt;f1&gt;omegat.project&lt;/f1&gt;&lt;/l0&gt; file that stores the location of all the resources and of a &lt;l2&gt;&lt;f3&gt;project_save.tmx&lt;/f3&gt;&lt;/l2&gt; translation memory file that stores all the translations made while working on that project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T074401Z" creationid="Dick" creationdate="20230526T074401Z">
+        <seg>Een vertaalproject van OmegaT bestaat uit een aantal bronnen in afzonderlijke mappen, uit een bestand &lt;l0&gt;&lt;f1&gt;omegat.project&lt;/f1&gt;&lt;/l0&gt; dat stores de locaties van alle bronnen opslaat en uit een bestand voor vertaalgeheugen &lt;l2&gt;&lt;f3&gt;project_save.tmx&lt;/f3&gt;&lt;/l2&gt; dat alle vertalingen opslaat die zijn gemaakt binnen dat project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An allowlist of regular expressions defining the source files to process.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230523T120233Z" creationid="Dick" creationdate="20230523T120233Z">
@@ -77895,6 +77903,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation project</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T074132Z" creationid="Dick" creationdate="20230526T074132Z">
+        <seg>Project vertalen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation project files</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134703Z">
@@ -81586,6 +81602,14 @@ any other work released this way by its authors.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>Webster's Revised Unabridged Dictionary (1913)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Welcome to OmegaT, a computer-assisted translation (CAT) tool that offers great flexibility, performance and robustness, as well as features beyond those of commercial offerings, even for beginning translators.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T074129Z" creationid="Dick" creationdate="20230526T074129Z">
+        <seg>Welkom bij OmegaT, een computer-assisted translation (CAT)-programma dat veel flexibiliteit, uitvoering en robuustheid biedt, als ook mogelijkheden die buiten het bereik van commerciëael aanbiedingen liggen, zelfs voor beginnende vertalers.</seg>
       </tuv>
     </tu>
     <tu>
