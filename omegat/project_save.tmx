@@ -45520,8 +45520,8 @@ permissions.</seg>
       <tuv lang="en">
         <seg>Menus are where you access most of OmegaT's functions.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20221221T150248Z" creationid="Dick" creationdate="20221221T150248Z">
-        <seg>Menu'szijn waar u toegang krijgt tot de meeste functies van OmegaT.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T151407Z" creationid="Dick" creationdate="20221221T150248Z">
+        <seg>Menu's zijn waar u toegang krijgt tot de meeste functies van OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46230,6 +46230,14 @@ your receipt of the notice.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T145003Z">
         <seg>De meeste functies zijn ook beschikbaar via sneltoetsen voor het toetsenbord.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Most menu items have an associated keyboard shortcut.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T151452Z" creationid="Dick" creationdate="20230526T151452Z">
+        <seg>De meeste menu-items hebben een geassocieerde sneltoets voor het toetsenbord.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61488,8 +61496,8 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       <tuv lang="en">
         <seg>Shortcuts are ubiquitous in this manual and you should be able very shortly to remember the few that are useful in the course of a standard translation day.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20221221T150216Z" creationid="Dick" creationdate="20221221T150216Z">
-        <seg>Sneltoetsen zijn in deze gebruikerhsndleiding overal aanwezig en u zou op korte termijn in staat moeten zijn om de paar te onthouden die nuttig zijn in het kader van een standaard vertaaldag.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T151515Z" creationid="Dick" creationdate="20221221T150216Z">
+        <seg>Sneltoetsen zijn in deze gebruikerhsndleiding overal aanwezig en u zou op korte termijn in staat moeten zijn om de paar te onthouden die nuttig zijn in het kader van een standaard dag voor vertalingen.</seg>
       </tuv>
     </tu>
     <tu>
