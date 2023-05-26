@@ -45062,6 +45062,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Menu items with a default shortcut</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T081001Z" creationid="Dick" creationdate="20230526T081001Z">
+        <seg>Menu-items met een standaard sneltoets</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Menus</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T110324Z" creationid="Dick" creationdate="20190517T110324Z">
@@ -61046,6 +61054,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Similarly, links to the various parts of the manual are displayed in a way that make it easier to identify the function of the linked item.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T080944Z" creationid="Dick" creationdate="20230526T080944Z">
+        <seg>Soortgelijk worden links naar de verschillende delen van de handleiding weergegeven op een manier die het eenvoudiger maakt de functie van het gekoppelde item te identificeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Simple example of a post-processing commands:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230519T145107Z" creationid="Dick" creationdate="20230519T121332Z">
@@ -66582,6 +66598,14 @@ Probeer alstublieft de fout te corrigeren en herlaad het project.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230524T113922Z" creationid="Dick" creationdate="20230524T113922Z">
         <seg>Het proces hierboven beschrijft de meest voorkomende scenario's, waar de projectbeheerder volledige controle heeft over het project en waar alle bestanden (en de statistieken) identiek zijn aan beide zijden (aan de zijde van de server en aan de zijde van de lokale systemen van de vertaler).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The action associated with an item also hints at its function in case the display fails to convey the visual differences: &lt;e0&gt;use&lt;/e0&gt; a menu item, or &lt;e1&gt;click&lt;/e1&gt; on a button.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T080841Z" creationid="Dick" creationdate="20230526T080841Z">
+        <seg>De actie die is geassocieerd aan een item geeft ook een hint voor die functie in het geval de weergave de visuele verschillen niet goed uitdrukt: &lt;e0&gt;gebruik&lt;/e0&gt; een menu-item, of &lt;e1&gt;klik&lt;/e1&gt; op een knop.</seg>
       </tuv>
     </tu>
     <tu>
@@ -79811,6 +79835,14 @@ De huidige instelling is {0}MB;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221221T144432Z" creationid="Dick" creationdate="20221221T144432Z">
         <seg>Gebruik &lt;l0/&gt;&lt;l1/&gt; om de inhoud van het bestand te bekijken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T081018Z" creationid="Dick" creationdate="20230526T081018Z">
+        <seg>Gebruik &lt;l0/&gt;&lt;l1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
