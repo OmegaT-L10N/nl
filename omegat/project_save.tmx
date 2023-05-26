@@ -20001,6 +20001,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click on the &lt;l0/&gt; button to display a list of dictionaries available at the URL in the &lt;g1&gt;URL of downloadable spellchecking dictionaries&lt;/g1&gt; field above that button.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T112850Z" creationid="Dick" creationdate="20230526T112850Z">
+        <seg>Klik op de knop &lt;l0/&gt; om een lijst met beschikbare woordenboeken weer te geven vanaf de URL in het veld &lt;g1&gt;URL van online woordenboeken&lt;/g1&gt; boven die knop.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click on the Keyboard button.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120401T152925Z">
@@ -50268,6 +50276,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT will download them and copy them to the spellchecking dictionaries location specified at the top of the dialog (the &lt;l1&gt;configuration&lt;/l1&gt; folder by default).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T113127Z" creationid="Dick" creationdate="20230526T113127Z">
+        <seg>OmegaT zal ze downloaden en kopiëren naar de locatie voor de woordenboeken voor spellingscontrole, gespecificeerd aan de bovenzijde van het dialoogvenster (standaard de map voor de &lt;l1&gt;configuratie&lt;/l1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT will not launch if tokenizers are found in the /plugin folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T110756Z">
@@ -60138,6 +60154,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T151330Z" creationid="Dick" creationdate="20221220T151330Z">
         <seg>Selecteer de juiste versie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select as many dictionaries as you want and click the &lt;g0&gt;Install&lt;/g0&gt; button.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T112950Z" creationid="Dick" creationdate="20230526T112950Z">
+        <seg>Selecteer net zoveel woordenboeken als u wilt en klik op de knop &lt;g0&gt;Installeren&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
