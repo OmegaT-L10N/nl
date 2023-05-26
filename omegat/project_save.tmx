@@ -29056,6 +29056,14 @@ Gossamer-drempel houdt u tegen
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Find the location of that space.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T114837Z" creationid="Dick" creationdate="20230526T114837Z">
+        <seg>Zoek de locatie van die spatie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Find words starting with a vowel that come after the article “a” rather than “an”.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230520T114410Z" creationid="Dick" creationdate="20230520T114410Z">
@@ -31914,6 +31922,14 @@ that there is no warranty for this free software.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go back to OmegaT and use &lt;l0/&gt;&lt;l1/&gt; to have OmegaT recognize the change.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T114935Z" creationid="Dick" creationdate="20230526T114935Z">
+        <seg>Ga terug naar OmegaT en gebruik &lt;l0/&gt;&lt;l1/&gt; om OmegaT de wijziging te laten herkennen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go back to Step 5.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T135851Z" creationid="Dick" creationdate="20230522T135851Z">
@@ -32046,6 +32062,14 @@ that there is no warranty for this free software.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T171957Z" creationid="Dirk" creationdate="20160906T171957Z">
         <seg>Ga naar https://term.tilde.com/account/keys/create?system=omegaT om uw eigen sleutel te maken en geef die dan door aan OmegaT met -Dtaas.user.key=xxxxx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to the source file with &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T114823Z" creationid="Dick" creationdate="20230526T114823Z">
+        <seg>Ga naar het bronbestand met &lt;l0/&gt;&lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44090,6 +44114,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135229Z">
         <seg>Maak het uitvoerbaar (&lt;l0&gt;chmod +x OmegaT&lt;/l0&gt;) vanaf de opdrachtregel nadat u zich er van overtuigd hebt dat u in de toepassingsmap van OmegaT bent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make it look good!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T114954Z" creationid="Dick" creationdate="20230526T114954Z">
+        <seg>Laat het er goed uitzien!</seg>
       </tuv>
     </tu>
     <tu>
@@ -56848,6 +56880,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace it with a non-breakable space.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T114854Z" creationid="Dick" creationdate="20230526T114854Z">
+        <seg>Vervang het door een niet-afbrekende spatie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace it with the actual location of the file on your system.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230523T111800Z" creationid="Dick" creationdate="20230523T111800Z">
@@ -58198,6 +58238,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230521T090556Z" creationid="Dick" creationdate="20230521T090556Z">
         <seg>Sla het bestand op nadat u het maken van uw wijzigingen hebt voltooid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save the file.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T114906Z" creationid="Dick" creationdate="20230526T114906Z">
+        <seg>Sla het bestand op.</seg>
       </tuv>
     </tu>
     <tu>
@@ -85065,6 +85113,14 @@ your programs, too.</seg>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T143123Z" creationid="DiGro (Dick)" creationdate="20170915T143123Z">
         <seg>U vindt de tekst van de licentie in
 /docs/OmegaT-license.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can follow the steps below to merge two text sections separated by a space character:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T114811Z" creationid="Dick" creationdate="20230526T114811Z">
+        <seg>U kunt de stappen hieronder volgen om twee gedeelten, die zijn gescheiden door een teken spatie, samen te voegen:</seg>
       </tuv>
     </tu>
     <tu>
