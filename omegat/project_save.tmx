@@ -18147,8 +18147,8 @@ software for all its users.</seg>
       <tuv lang="en">
         <seg>By default, resources include the project’s translation memory, which is automatically created upon project creation, and the files to translate.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230526T074600Z" creationid="Dick" creationdate="20230526T074600Z">
-        <seg>Standaard bevatten bronnen het vertaalgeheugen van het project, dat automatisch wordt gemkaat bij het maken van het project, en de te vertalen bestanden.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T114323Z" creationid="Dick" creationdate="20230526T074600Z">
+        <seg>Standaard bevatten bronnen het vertaalgeheugen van het project, dat automatisch wordt gemaakt bij het maken van het project, en de te vertalen bestanden.</seg>
       </tuv>
     </tu>
     <tu>
