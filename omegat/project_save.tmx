@@ -13453,6 +13453,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add a segmentation rule to further segment them, or an exception rule to merge them with the part they were split from.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T114652Z" creationid="Dick" creationdate="20230526T114652Z">
+        <seg>Voeg een segmentatieregel toe om ze verder te segmenteren, of een uitzondering om ze samen te voegen met het gedeelte waarvan het werd afgesplitst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20130930T165622Z" creationid="Dirk" creationdate="20130930T165622Z">
@@ -59830,6 +59838,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segments within a paragraph can be further segmented, or "unsegmented" (merged).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T114557Z" creationid="Dick" creationdate="20230526T114549Z">
+        <seg>Segmenten in een alinea kunnen verder worden gesegmenteerd, of "niet-gesegmenteerd" (samengevoegd).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20110112T184818Z">
@@ -67724,6 +67740,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The default setting for a translation project is to create &lt;e0&gt;sentences&lt;/e0&gt; by splitting the &lt;e1&gt;paragraph blocks&lt;/e1&gt; found in the document.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T114456Z" creationid="Dick" creationdate="20230526T114456Z">
+        <seg>De standaard instelling voor een vertaalproject is om &lt;e0&gt;zinnen&lt;/e0&gt; te maken door te splitsen op de &lt;e1&gt;alineablokken&lt;/e1&gt; die worden gevonden in het document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The default shortcut for &lt;l0&gt;closing a project&lt;/l0&gt; is defined on Windows and Linux as:</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230521T085226Z" creationid="Dick" creationdate="20230521T085226Z">
@@ -71245,6 +71269,14 @@ earlier work or a work "based on" the earlier work.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>De standaard ondergaat nog steeds ontwikkelingen; dat is waar de verschillende versies naar verwijzen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The standard space character is often used as a segment boundary.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T114732Z" creationid="Dick" creationdate="20230526T114732Z">
+        <seg>Het standaard teken voor spatie wordt vaak gebruikt als een grens voor een segment.</seg>
       </tuv>
     </tu>
     <tu>
