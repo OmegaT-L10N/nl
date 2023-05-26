@@ -35163,6 +35163,14 @@ copy of the Program in return for a fee.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the format of your file is not listed, use third-party plugins or convert the file to a format that is supported.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T112433Z" creationid="Dick" creationdate="20230526T112433Z">
+        <seg>Als de indeling van uw bestand niet is vermeld, gebruik dan plug-ins van derde partijen of converteer het bestand naar een indeling die wel wordt ondersteund.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the format you want to translate is structurally close to an already supported format, just add its file extension to the supported format extension list, or change the file extension to one that is accepted by the file filter that you want to use.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230524T115132Z" creationid="Dick" creationdate="20230524T115132Z">
@@ -50572,6 +50580,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Omegat provides a spellchecking system, but does not come with the dictionaries required to actually spellcheck your translations.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T112539Z" creationid="Dick" creationdate="20230526T112539Z">
+        <seg>Omegat verschaft een systeem voor spellingscontrole, maar heeft geen woordenboeken die zijn vereist om feitelijk uw vertalingen te controleren op spelling.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On Error Resume Next&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120401T160746Z">
@@ -59446,6 +59462,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l3/&gt; how-to for details.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T112440Z" creationid="Dick" creationdate="20230526T112440Z">
+        <seg>Bekijk de &lt;l3/&gt; how-to voor details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;u0&gt;Oracle documentation&lt;/u0&gt; for examples.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230517T085801Z" creationid="Dick" creationdate="20230517T085801Z">
@@ -62792,6 +62816,14 @@ can do so.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120401T131328Z">
         <seg>Spellingscontrole</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spellchecking dictionaries</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T112454Z" creationid="Dick" creationdate="20230526T112454Z">
+        <seg>Woordenboeken voor spellingscontrole</seg>
       </tuv>
     </tu>
     <tu>
@@ -80127,6 +80159,14 @@ De huidige instelling is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l1/&gt;&lt;l2/&gt; to open the list of supported file formats.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T112322Z" creationid="Dick" creationdate="20230526T112322Z">
+        <seg>Gebruik &lt;l1/&gt;&lt;l2/&gt; om de lijst met ondersteunde bestandsindelingen te openen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l1&gt;$&lt;o2&gt;n&lt;/o2&gt;&lt;/l1&gt;, where &lt;o3&gt;n&lt;/o3&gt; is the number of the group defined in the search.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230519T140629Z" creationid="Dick" creationdate="20230519T140629Z">
@@ -80483,6 +80523,14 @@ De huidige instelling is {0}MB;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230518T101549Z" creationid="Dick" creationdate="20230518T101549Z">
         <seg>Gebruik de &lt;l0/&gt; projecteigenschap om de locatie van de map voor woordenlijsten in te stellen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;l0/&gt; section in the general &lt;l1/&gt; dialog to access the spellchecking preferences.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T112655Z" creationid="Dick" creationdate="20230526T112655Z">
+        <seg>Gebruik het gedeelte &lt;l0/&gt; in het algemene dialoogvenster &lt;l1/&gt; om toegang te krijgen tot de voorkeuren voor spellingscontrole.</seg>
       </tuv>
     </tu>
     <tu>
@@ -86039,6 +86087,14 @@ or can get the source code.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T144922Z">
         <seg>U moet online zijn om een programma voor machinevertaling te kunnen gebruiken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You need to install the dictionaries you need yourself.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T112612Z" creationid="Dick" creationdate="20230526T112612Z">
+        <seg>U dient de woordenboeken, die u nodig hebt, zelf te installeren.</seg>
       </tuv>
     </tu>
     <tu>
