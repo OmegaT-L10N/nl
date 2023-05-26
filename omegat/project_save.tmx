@@ -32970,6 +32970,14 @@ Het is er wintertijd voor</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How can OmegaT help against such glitches?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T075808Z" creationid="Dick" creationdate="20230526T075808Z">
+        <seg>Hoe kan OmegaT helpen bij dergelijke storingen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How they do so is very much up to them.</seg>
       </tuv>
       <tuv lang="nl">
@@ -43750,6 +43758,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Made for translators</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T075403Z" creationid="Dick" creationdate="20230526T075403Z">
+        <seg>Gemaakt voor vertalers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Magento CE Locale CSV</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20130601T175604Z">
@@ -49294,6 +49310,14 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120401T133052Z">
         <seg>OmegaT is in staat om de huidige indelingen van Microsoft Office direct af te handelen, zonder conversie naar of vanuit andere indelingen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is designed not only to facilitate the translation process, but also to ensure the translator does not have to worry about losing data.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T075458Z" creationid="Dick" creationdate="20230526T075458Z">
+        <seg>OmegaT is niet alleen ontworpen om het vertaalproces te faciliteren, maar ook om er voor te zorgen dat de vertaler niet bang hoeft te zijn voor verlies van gegevens.</seg>
       </tuv>
     </tu>
     <tu>
@@ -85144,6 +85168,14 @@ installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You have not used OmegaT yet, but you remember the times you were translating in your word processor and a computer glitch wiped out the book translation you had been working on for the last six months, or the report that was due in one hour.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T075729Z" creationid="Dick" creationdate="20230526T075729Z">
+        <seg>Als OmegaT nog niet hebt gebruikt, maar denk aan de keren dat u aan het vertalen was in uw tekstbewerker en een storing in de computer de boekvertaling waaraan u de laatste zes maanden had gewerkt wiste, of het rapport dat over een uur moest worden ingeleverd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You have reached the daily limit for requests</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160906T165329Z" creationid="Dirk" creationdate="20160906T165329Z">
@@ -85785,6 +85817,14 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135230Z">
         <seg>U kunt dan OmegaT starten door dit bestand vanaf de opdrachtregel uit te voeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You're considering OmegaT, but…</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T075750Z" creationid="Dick" creationdate="20230526T075750Z">
+        <seg>U verweegt OmegaT, maar…</seg>
       </tuv>
     </tu>
     <tu>
