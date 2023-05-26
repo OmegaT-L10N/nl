@@ -14101,6 +14101,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After you have typed the translation of a segment, use &lt;l0/&gt;&lt;l1/&gt; to move to the next untranslated segment.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T121451Z" creationid="Dick" creationdate="20230526T121451Z">
+        <seg>Nadat u de vertaling van een segment hebt getypt, gebruik dan &lt;l0/&gt;&lt;l1/&gt; om naar het volgende niet vertaalde segment te gaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Again note that the backslash is escaped as well.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142610Z">
@@ -65994,6 +66002,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;l0/&gt; pane is where you type your translation.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T121325Z" creationid="Dick" creationdate="20230526T121325Z">
+        <seg>Het venster &lt;l0/&gt; is waar u uw vertaling typt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;l0/&gt; pane.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230526T081135Z" creationid="Dick" creationdate="20230526T081135Z">
@@ -77370,6 +77386,14 @@ these rights or asking you to surrender the rights.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To see how efficient you can be with shortcuts, see the &lt;l0/&gt; section.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T121408Z" creationid="Dick" creationdate="20230526T121408Z">
+        <seg>Bekijk het gedeelte &lt;l0/&gt; om te zien hoe efficiënt u kunt zijn met sneltoetsen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To see which file formats can be handled by OmegaT, see the menu &lt;g0&gt;Options &gt; File Filters ... &lt;/g0&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134123Z">
@@ -78193,6 +78217,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221220T150044Z" creationid="Dick" creationdate="20221220T150044Z">
         <seg>Vertaal dit meervoud als meervoudsvorm #{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translate your files</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T121301Z" creationid="Dick" creationdate="20230526T121301Z">
+        <seg>Uw bestanden vertalen</seg>
       </tuv>
     </tu>
     <tu>
@@ -80799,6 +80831,14 @@ De huidige instelling is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the various options in the &lt;l0/&gt; menu and move the various &lt;l1&gt;panes&lt;/l1&gt; around to obtain the layout that fits your workflow best.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T121250Z" creationid="Dick" creationdate="20230526T121250Z">
+        <seg>Gebruik de verschillende opties in het menu &lt;l0/&gt; en verplaats de verschillende  &lt;l1&gt;vensters&lt;/l1&gt; om de lay-out te krijgen die het beste bij uw werkstroom past.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use these Help texts to get started.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T165715Z">
@@ -83005,6 +83045,14 @@ technological measures.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T171854Z" creationid="Dirk" creationdate="20131225T171854Z">
         <seg>Wanneer u al deze hebt geselecteerd, zal de knop Start verschijnen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you leave the segment, its translation is automatically stored into the &lt;l0/&gt; file and will be used as reference for the rest of your translation.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T121552Z" creationid="Dick" creationdate="20230526T121552Z">
+        <seg>Wanneer u het segment verlaat wordt zijn vertaling automatisch opgeslagen in het bestand &lt;l0/&gt; en zal als verwijzing wordne gebruikt voor de rest van uw vertaling.</seg>
       </tuv>
     </tu>
     <tu>
