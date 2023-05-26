@@ -35325,6 +35325,14 @@ notice like this when it starts in an interactive mode:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the project target language is &lt;e0&gt;fr&lt;/e0&gt; and the dictionary name is &lt;e1&gt;fr_fr&lt;/e1&gt; or &lt;e2&gt;fr-fr&lt;/e2&gt;, you can either:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T113514Z" creationid="Dick" creationdate="20230526T113514Z">
+        <seg>Als de doeltaal van het project &lt;e0&gt;fr&lt;/e0&gt; is en de naam van het woordenboek is &lt;e1&gt;fr_fr&lt;/e1&gt; of &lt;e2&gt;fr-fr&lt;/e2&gt;, kunt u ofwel:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the project uses specific filters and segmentation parameters, both the &lt;f0&gt;filters.xml&lt;/f0&gt; and &lt;f1&gt;segmentation.conf&lt;/f1&gt; files must be added to the versioning system and published on the server.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190517T130131Z" creationid="Dick" creationdate="20190516T123218Z">
@@ -49094,6 +49102,14 @@ OmegaT 4.0, Lees Mij-bestand</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT does not recognize languages automatically, and only uses a dictionary if its name matches the target language code.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T113329Z" creationid="Dick" creationdate="20230526T113329Z">
+        <seg>OmegaT herkent talen niet automatisch, en gebruikt een woordenboek alleen als de naam ervan overeenkomt met de code van de doeltaal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT does not run satisfactorily on all versions of Java.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20131225T132826Z" creationid="Dirk" creationdate="20131225T132826Z">
@@ -54906,6 +54922,14 @@ lokaal project zonder functionaliteit voor team.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T113041Z">
         <seg>Zoekacties kunnen standaard worden uitgevoerd op de bron en het doel, TM's als verwijzing, woordenlijsten, notities en opmerkingen van het project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project target language code and spellchecking dictionary name</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T113421Z" creationid="Dick" creationdate="20230526T113421Z">
+        <seg>Project doeltaalcode en naam van het woordenboek voor spellingscontrole</seg>
       </tuv>
     </tu>
     <tu>
@@ -97803,6 +97827,22 @@ create the configuration folder.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>urd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>use &lt;l0/&gt;&lt;l1/&gt; to access the &lt;l2&gt;configuration&lt;/l2&gt; folder and change the dictionary file names to &lt;e3&gt;fr&lt;/e3&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T113635Z" creationid="Dick" creationdate="20230526T113635Z">
+        <seg>&lt;l0/&gt;&lt;l1/&gt; gebruiken om toegang te krijgen tot de &lt;l2&gt;configuratie&lt;/l2&gt;map en de bestandsnamen van de woordenboeken wijzigen naar &lt;e3&gt;fr&lt;/e3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>use &lt;l0/&gt;&lt;l1/&gt; to change the project target language to &lt;e2&gt;fr-fr&lt;/e2&gt;, or</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T113539Z" creationid="Dick" creationdate="20230526T113539Z">
+        <seg>&lt;l0/&gt;&lt;l1/&gt; gebruiken om de doeltaal van het project te wijzigen naar &lt;e2&gt;fr-fr&lt;/e2&gt;, or</seg>
       </tuv>
     </tu>
     <tu>
