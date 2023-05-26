@@ -42580,6 +42580,14 @@ permissions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Later on, you come up with a better way to phrase a somewhat thorny expression that had come up earlier, so you select it in the source text, press &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt; &lt;l3&gt;to find&lt;/l3&gt; it, and then use &lt;k4&gt;&lt;k5&gt;C&lt;/k5&gt;&lt;k6&gt;J&lt;/k6&gt;&lt;/k4&gt; to immediately jump to that segment from the search dialog.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T145505Z" creationid="Dick" creationdate="20230526T145505Z">
+        <seg>Later vindt u ene betere manier om een enigszins lastige expressie, die eerder naar voren kwam,  beter te formuleren dus selecteert u het in de brontekst, drukt op &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt; &lt;l3&gt;om &lt;/l3&gt; het te zoeken, en gebruikt dan &lt;k4&gt;&lt;k5&gt;C&lt;/k5&gt;&lt;k6&gt;J&lt;/k6&gt;&lt;/k4&gt; om direct naar dat segment te springen vanhet dialoogvenster Zoeken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Later, after you have accepted the license agreement, the setup program asks you whether you wish to create a folder in the &lt;e0&gt;start&lt;/e0&gt; menu, and whether you wish to create a shortcut on the desktop and in the quick launch bar - you can create these shortcuts later by dragging &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.exe&lt;/e1&gt; to the desktop or to the start menu to link it from there.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T140637Z">
