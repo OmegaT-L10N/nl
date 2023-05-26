@@ -12655,6 +12655,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A shortcut based workflow</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T143054Z" creationid="Dick" creationdate="20230526T143054Z">
+        <seg>Een op sneltoetsen gebaseerd werkstroom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A simple class consists of any number of characters enclosed by &lt;l0&gt;[&lt;/l0&gt; and &lt;l1&gt;]&lt;/l1&gt;.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230520T092859Z" creationid="Dick" creationdate="20230520T092859Z">
@@ -27592,6 +27600,14 @@ Niemand hoort u schreeuwen.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T131446Z" creationid="Dick" creationdate="20230522T131446Z">
         <seg>Elke keer als het bestand &lt;f0&gt;project_save.tmx&lt;/f0&gt; wordt aangepast:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Every time you create the translated files (see &lt;l0/&gt;, above), OmegaT creates three translation memories that contain the state of the translation of the files currently in the &lt;l1/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T143031Z" creationid="Dick" creationdate="20230526T143031Z">
+        <seg>Elke keer als u de vertaalde bestanden maakt (bekijk &lt;l0/&gt; hierboven), maakt OmegaT drie vertaalgeheugens die de status van de vertaling voor de bestanden in de map &lt;l1/&gt; bevatten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -77682,6 +77698,14 @@ these rights or asking you to surrender the rights.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To see the list of files in the project, use &lt;l2/&gt; from the same menu.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T142733Z" creationid="Dick" creationdate="20230526T142733Z">
+        <seg>Gebruik &lt;l2/&gt; uit hetzelfde menu om de lijst met bestanden in het project te bekijken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To see which file formats can be handled by OmegaT, see the menu &lt;g0&gt;Options &gt; File Filters ... &lt;/g0&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134123Z">
@@ -84792,8 +84816,8 @@ for enforcing compliance by third parties with this License.</seg>
       <tuv lang="en">
         <seg>You can access and modify the project settings using &lt;l0/&gt; &lt;l1/&gt;.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230526T142640Z" creationid="Dick" creationdate="20230526T142640Z">
-        <seg>U kunt toegang krijgen tot de projectinstelling en ze aanpassen met &lt;l0/&gt; &lt;l1/&gt;.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T142739Z" creationid="Dick" creationdate="20230526T142640Z">
+        <seg>U kunt toegang krijgen tot de projectinstellingen en ze aanpassen met &lt;l0/&gt; &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -84802,6 +84826,14 @@ for enforcing compliance by third parties with this License.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T135127Z" creationid="Dirk" creationdate="20160910T134928Z">
         <seg>De map kan direct worden aangeroepen door het item in het hoofdmenu &lt;m0&gt; &lt;g1&gt;Opties&lt;/g1&gt; &lt;g2&gt;Toegang tot configuratiemap&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can access the contents of all resources at any time with the &lt;l3/&gt; option.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T142814Z" creationid="Dick" creationdate="20230526T142814Z">
+        <seg>U kunt op elk moment toegang krijgen tot de bronnen met de optie &lt;l3/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
