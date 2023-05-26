@@ -22465,6 +22465,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create the translated files</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T141413Z" creationid="Dick" creationdate="20230526T141413Z">
+        <seg>De vertaalde documenten maken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create your own TMs</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230525T124604Z" creationid="Dick" creationdate="20230525T124604Z">
@@ -28556,6 +28564,14 @@ Gossamer-drempel houdt u tegen
       </tuv>
       <tuv lang="nl">
         <seg>Volgsysteem voor verzoeken om mogelijkheden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Feel free to modify the &lt;l0/&gt; layout and &lt;l1/&gt; options when you review the translation.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T141325Z" creationid="Dick" creationdate="20230526T141325Z">
+        <seg>Het staat u vrij om de lay-out &lt;l0/&gt; en de opties &lt;l1/&gt; aan te passen wanneer u uw vertaling nakijkt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57512,6 +57528,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Return to OmegaT, check your document for tag issues and recreate the translated file.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T141154Z" creationid="Dick" creationdate="20230526T141154Z">
+        <seg>Ga terug naar OmegaT, controleer uw document op problemen met tags en maak het vertaalde bestand opnieuw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reuse TMs</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230525T125127Z" creationid="Dick" creationdate="20230525T125127Z">
@@ -57580,6 +57604,14 @@ Deze woorden: 'Pagina niet gevonden'</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160126T141340Z" creationid="Dirk" creationdate="20160126T141340Z">
         <seg>Bespreking van OmegaT, 2010.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Review your translation</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T141247Z" creationid="Dick" creationdate="20230526T141247Z">
+        <seg>Uw vertaling nakijken</seg>
       </tuv>
     </tu>
     <tu>
@@ -80991,6 +81023,14 @@ De huidige instelling is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the &lt;l0/&gt; option to perform various checks on the contents of your translation.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T141405Z" creationid="Dick" creationdate="20230526T141405Z">
+        <seg>Gebruik de optie &lt;l0/&gt; om verschillende controles uit te voeren op de inhoud van uw vertaling.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the &lt;l0/&gt; project property to limit the scope of the segmentation rules to the current project.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230520T121135Z" creationid="Dick" creationdate="20230520T121135Z">
@@ -83461,6 +83501,14 @@ technological measures.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T131929Z" creationid="Dick" creationdate="20211118T131929Z">
         <seg>Wanneer u wilt zien hoe uw vertaling eruit zal zien in zijn uiteindelijke opmaak, druk op &lt;k7&gt;&lt;k8&gt;Ctrl&lt;/k8&gt;&lt;k9&gt;D&lt;/k9&gt;&lt;/k7&gt; om het vertaalde document te genereren, dat zal worden gemaakt in de submap &lt;f10&gt;target&lt;/f10&gt; van uw projectmap.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whenever you want to see what your translation will look like in its final format, use &lt;l0/&gt; &lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T141441Z" creationid="Dick" creationdate="20230526T141441Z">
+        <seg>Wanneer u wilt zien hoe uw vertaling eruit zal zien in zijn uiteindelijke opmaak, gebruik dan &lt;l0/&gt; &lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
