@@ -34141,6 +34141,14 @@ hoeft niet het volledige pad te worden ingevoerd.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a file refuses to open in LibreOffice, Word or other application, it is often due to errors in the management of OmegaT tags.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T141120Z" creationid="Dick" creationdate="20230526T141120Z">
+        <seg>Als een bestand weigert te openen in LibreOffice, Word of een andere toepassing, is het vaak vanwege fouten in het beheer van de tags van OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If a given sentence has already been translated once, and translated correctly, there is no need for it to be retranslated.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T173756Z">
@@ -36758,6 +36766,14 @@ to use Java Web Start.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T134202Z">
         <seg>Indien u later filters wijzigt zullen alleen de projectfilters worden bijgewerkt, waarbij de filters voor de gebruikers ongewijzigd zullen blijven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you make mistakes when you manage the tags, your translated files might fail to open.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T140951Z" creationid="Dick" creationdate="20230526T140951Z">
+        <seg>Indien u echter fouten maakt bij het beheren van de tags, kan het zijn dat uw vertaalde bestanden niet willen openen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -80383,6 +80399,14 @@ De huidige instelling is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt; &lt;l1/&gt; to check your tags before you generate your translated files.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T141029Z" creationid="Dick" creationdate="20230526T141029Z">
+        <seg>Gebruik &lt;l0/&gt; &lt;l1/&gt; om uw tags te controleren vóórdat u uw vertaalde bestanden maakt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt; or &lt;l1/&gt; to create the translated files and the exported TMX files.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T095932Z" creationid="Dick" creationdate="20230522T095932Z">
@@ -84842,6 +84866,14 @@ for enforcing compliance by third parties with this License.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T090455Z" creationid="Dick" creationdate="20230522T090455Z">
         <seg>U kunt ook globale opdrachten voor nabewerking definiëren die beschikbaar zijn voor alle projecten die dezelfde map voor configuratie gebruiken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also define strings that OmegaT should warn you about if you leave them in a translation.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T140916Z" creationid="Dick" creationdate="20230526T140916Z">
+        <seg>U kunt ook tekenreeksen definiëren waarover OmegaT u zou moeten waarschuwen als u ze in een vertaling laat staan.</seg>
       </tuv>
     </tu>
     <tu>
