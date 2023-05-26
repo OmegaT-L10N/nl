@@ -65938,6 +65938,22 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;l0/&gt; (on the right), which contains project information</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T121121Z" creationid="Dick" creationdate="20230526T121121Z">
+        <seg>&lt;l0/&gt; (aan de rechterkant), dat projectinformatie bevat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0/&gt; and &lt;l1/&gt; panes are docked</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T121048Z" creationid="Dick" creationdate="20230526T121048Z">
+        <seg>De veensters &lt;l0/&gt; en &lt;l1/&gt; zijn vastgezet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;l0/&gt; chapter.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230526T081315Z" creationid="Dick" creationdate="20230526T081315Z">
