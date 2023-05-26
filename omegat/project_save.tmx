@@ -75924,6 +75924,14 @@ computer or modifying a private copy.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To avoid duplicating shortcut descriptions, we use single letters as a common identifier for modifiers.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T095850Z" creationid="Dick" creationdate="20230526T095850Z">
+        <seg>We gebruiken, om dupliceren van beschrijvingen van sneltoetsen te vermijden, enkele letters als een algemene identificatie voor aanpassingstoetsen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To avoid losing important data, make regular copies of the &lt;f0&gt;/omegat/project_save.tmx&lt;/f0&gt; file to a backup medium such as a USB key, an external hard drive, or a cloud service.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T140050Z" creationid="Dick" creationdate="20230522T140050Z">
