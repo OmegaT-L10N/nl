@@ -19945,6 +19945,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click on &lt;l0/&gt; or &lt;l1/&gt; and add source files.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T102053Z" creationid="Dick" creationdate="20230526T102053Z">
+        <seg>Klik op &lt;l0/&gt; of &lt;l1/&gt; en voeg de bronbestanden toe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click on &lt;l0/&gt; to use project-specific (local) segmentation rules rather than the global rules.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T082237Z" creationid="Dick" creationdate="20230522T082237Z">
@@ -36263,6 +36271,14 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you do not see the contents of a file in the &lt;l0/&gt; pane, that file might be empty, or in a format that is not supported by OmegaT.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T102215Z" creationid="Dick" creationdate="20230526T102215Z">
+        <seg>Als u niet de inhoud van een bestand ziet in het venster &lt;l0/&gt;, zou dat ebstand leeg kunnen zijn, of in een indeling die niet wordt ondersteund door OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you do not use the default configuration folder, all modifications made in the &lt;l0&gt;preferences&lt;/l0&gt; will be stored in the specified configuration folder and will not appear when you resume work with the default configuration folder.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221221T143712Z" creationid="Dick" creationdate="20221221T143712Z">
@@ -38440,6 +38456,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T143851Z">
         <seg>In het segment hierboven, bijvoorbeeld, zou &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;M&lt;/k6&gt; &lt;/k4&gt; de Spaanse versie overschrijven met de Sloveense suggestie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the dialog, just tell OmegaT what new resource folders to use.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T101934Z" creationid="Dick" creationdate="20230526T101934Z">
+        <seg>In het dialoogvenster vertel OmegaT gewoon wat de nieuwe te gebruiken mappen voor de bronnen zijn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41061,6 +41085,14 @@ itself on the first run.</seg>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170915T143846Z" creationid="DiGro (Dick)" creationdate="20170915T143846Z">
         <seg>Het zal de juiste omgeving voor uw computer installeren en de toepassing
 zelf bij de eerste keer dat het wordt uitgevoerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It will then just ask you to reload the project and start using the new locations.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T102015Z" creationid="Dick" creationdate="20230526T102015Z">
+        <seg>Het zal u dan vragen het project op nieuw te laden en te beginnen met het gebruiken van de nieuwe locaties.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65738,6 +65770,14 @@ for making modifications to it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;l0/&gt; dialog opens next.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T102033Z" creationid="Dick" creationdate="20230526T102033Z">
+        <seg>Vervolgens open het dialoogvenster &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;l0/&gt; item in the &lt;l1/&gt; menu is an exception.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230521T101954Z" creationid="Dick" creationdate="20230521T101954Z">
@@ -79923,6 +79963,14 @@ De huidige instelling is {0}MB;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T092719Z" creationid="Dick" creationdate="20230522T092719Z">
         <seg>Gebruik &lt;l0/&gt;&lt;l1/&gt; en en zijn submenu's om toegang te verkrijgen tot de locaties van de bronnen van het project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; if you don’t remember where your project is.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T102119Z" creationid="Dick" creationdate="20230526T102119Z">
+        <seg>Gebruik &lt;l0/&gt;&lt;l1/&gt; als u niet meer weet waar uw project staat.</seg>
       </tuv>
     </tu>
     <tu>
