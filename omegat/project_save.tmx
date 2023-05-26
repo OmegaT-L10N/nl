@@ -20097,6 +20097,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click the &lt;g0&gt;Close&lt;/g0&gt; button.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T113157Z" creationid="Dick" creationdate="20230526T113157Z">
+        <seg>Klik op de knop &lt;g0&gt;Sluiten&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click the &lt;g0&gt;Edit&lt;/g0&gt; tab on the Wikipedia page.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20190516T164256Z" creationid="Dick" creationdate="20190516T164256Z">
@@ -50276,6 +50284,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT will display a list of the installed dictionaries.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T113218Z" creationid="Dick" creationdate="20230526T113218Z">
+        <seg>OmegaT zal een lijst met geïnstalleerde woordenboeken weergeven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT will download them and copy them to the spellchecking dictionaries location specified at the top of the dialog (the &lt;l1&gt;configuration&lt;/l1&gt; folder by default).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230526T113127Z" creationid="Dick" creationdate="20230526T113127Z">
@@ -74989,6 +75005,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T095558Z">
         <seg>Dit aantal wordt tussen haakjes weergegeven, naast de titel "Projectbestanden"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This operation may take some time.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T113140Z" creationid="Dick" creationdate="20230526T113140Z">
+        <seg>Deze bewerking kan enige tijd duren.</seg>
       </tuv>
     </tu>
     <tu>
