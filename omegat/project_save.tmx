@@ -18113,6 +18113,14 @@ software for all its users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, resources include the project’s translation memory, which is automatically created upon project creation, and the files to translate.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T074600Z" creationid="Dick" creationdate="20230526T074600Z">
+        <seg>Standaard bevatten bronnen het vertaalgeheugen van het project, dat automatisch wordt gemkaat bij het maken van het project, en de te vertalen bestanden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, scripts are stored in the "scripts" folder located in OmegaT installation folder (the folder that contains the OmegaT.jar).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T110136Z">
@@ -72479,6 +72487,14 @@ U bent het slachtoffer van één van de drie.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They can also include reference translation memories, glossaries, and other reference files.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T074640Z" creationid="Dick" creationdate="20230526T074640Z">
+        <seg>Zij kunnen ook vertaalgeheugens voor verwijzing, woordenlijstem en andere bestanden voor verwijzing bevatten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They can be created and updated manually or imported from other projects.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20210504T092444Z" creationid="Dick" creationdate="20210504T092444Z">
@@ -77979,6 +77995,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="nl">
         <seg>Vertalers zijn er vrij in om zo veel of zo weinig werk te doen als zij willen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translators can easily modify the contents or location of those resources at any time during the translation.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T074500Z" creationid="Dick" creationdate="20230526T074500Z">
+        <seg>Vertalers kunnen eenvoudig de inhoud of locatie van die bronnen op elk moment aanpassen gedurende de vertaling.</seg>
       </tuv>
     </tu>
     <tu>
