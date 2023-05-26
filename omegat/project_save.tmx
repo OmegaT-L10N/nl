@@ -15087,6 +15087,14 @@ organization, or merging organizations.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An OmegaT project is simply a set of folders that holds all your default resources.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T100331Z" creationid="Dick" creationdate="20230526T100331Z">
+        <seg>Een project van OmegaT is eenvoudigweg een set mappen die al uw standaard bronnen bevat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An OmegaT team projects synchronizes the project translation memory &lt;l0/&gt; and the project writable glossary &lt;l1/&gt; between the hosting server and all the participating team members, and manages all possible conflicts between them.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230523T123831Z" creationid="Dick" creationdate="20230523T123831Z">
@@ -38308,6 +38316,14 @@ doubtful cases shall be resolved in favor of coverage.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In that dialog, select or enter the languages of your source and translated files, set the various options, and click on &lt;g0&gt;OK&lt;/g0&gt; to continue.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T100533Z" creationid="Dick" creationdate="20230526T100533Z">
+        <seg>Selecteer, in dat dialoogvenster, of voer de talen voor uw bron en vertaalde bestanden in, stel de verschillende opties in, en klik op &lt;g0&gt;OK&lt;/g0&gt; om door te gaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the "Command" field, use the navigation button to find your &lt;a0&gt;OmegaT&lt;/a0&gt; launch script (the file named &lt;a1&gt;OmegaT&lt;/a1&gt; in the unpacked folder), and select it.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T140834Z">
@@ -44026,6 +44042,14 @@ permissions.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T133759Z" creationid="Dick" creationdate="20230522T133759Z">
         <seg>Zorg ervoor dat de bestanden identiek zijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure that you enter the correct languages and that all other locations requiring a language code match the code you assign here.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T100659Z" creationid="Dick" creationdate="20230526T100659Z">
+        <seg>Zorg er voor dat u de juiste taalcodes invoert en dat alle andere locaties die een taalcode vereisen, overeenkomen met de code die u hier toewijst.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65702,6 +65726,14 @@ for making modifications to it.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230526T081315Z" creationid="Dick" creationdate="20230526T081315Z">
         <seg>Het hoofdstuk &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0/&gt; dialog opens after you have named your project.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T100402Z" creationid="Dick" creationdate="20230526T100402Z">
+        <seg>Het  dialoogvenster &lt;l0/&gt; opent nadat u uw project een naam hebt gegeven.</seg>
       </tuv>
     </tu>
     <tu>
