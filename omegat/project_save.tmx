@@ -21293,6 +21293,14 @@ of er nog aanvullende stappen moeten worden uitgevoerd.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Conventions used in this manual</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T080445Z" creationid="Dick" creationdate="20230526T080445Z">
+        <seg>Conventies die in deze handleiding worden gebruikt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Conversely, where products are clearly not directly compatible, it is often possible to find procedures by which they can work together.</seg>
       </tuv>
       <tuv lang="nl">
@@ -36554,6 +36562,14 @@ to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you need assistance with any aspect of OmegaT, feel free to join the &lt;u0&gt;OmegaT user groups.&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T080425Z" creationid="Dick" creationdate="20230526T080425Z">
+        <seg>Als u ondersteuning nodig hebt met enig aspect van OmegaT, neem dan vrijblijvend deel aan de &lt;u0&gt;OmegaT gebruikersgroep.&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you need assistance with any aspect of OmegaT, feel free to join the &lt;u1&gt;OmegaT users group.&lt;/u1&gt;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142940Z">
@@ -49689,8 +49705,8 @@ be launched.</seg>
       <tuv lang="en">
         <seg>OmegaT provides a convenient short list of two-letter language codes, but you can type any code that conforms to &lt;u0&gt;BCP-47&lt;/u0&gt; (including the three-letter language codes) into the appropriate field.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230522T081140Z" creationid="Dick" creationdate="20230522T081140Z">
-        <seg>OmegaT verschaft een handige lijst met verkorte twee-letterige taalcodes, maar u mag elke code, die zich conformeert aan &lt;u0&gt;BCP-47&lt;/u0&gt; (inclusief de drie-letterige taalcodes), in het toepasselijk veld invoeren.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T080239Z" creationid="Dick" creationdate="20230522T081140Z">
+        <seg>OmegaT verschaft een handige lijst met verkorte twee-letter taalcodes, maar u mag elke code, die zich conformeert aan &lt;u0&gt;BCP-47&lt;/u0&gt; (inclusief de drie-letter taalcodes), in het toepasselijk veld invoeren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54032,8 +54048,8 @@ lokaal project zonder functionaliteit voor team.</seg>
       <tuv lang="en">
         <seg>Previously created files are overwritten by the process unless you have renamed them...</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230524T115712Z" creationid="Dick" creationdate="20230524T115712Z">
-        <seg>Previously created files are overwritten by the process unless you have renamed them…</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T080339Z" creationid="Dick" creationdate="20230524T115712Z">
+        <seg>Eerder gemaakte bestanden worden door het proces overschreven, tenzij u ze hebt hernoemd…</seg>
       </tuv>
     </tu>
     <tu>
@@ -72527,6 +72543,14 @@ U bent het slachtoffer van één van de drie.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They are displayed in a way that makes it easier to identify their function.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T080630Z" creationid="Dick" creationdate="20230526T080630Z">
+        <seg>Zij worden op een manier weergegeven die hun functie eenvoudiger maakt te identificeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They are found in the &lt;l0/&gt; preferences.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T090652Z" creationid="Dick" creationdate="20230522T090652Z">
@@ -74965,6 +74989,14 @@ protecting users' freedom to change the software.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230520T113914Z" creationid="Dick" creationdate="20230520T113914Z">
         <seg>Dit gedeelte geeft een aantal voorbeelden weer die demonstreren hoe de verschillende hierboven beschreven kunnen worden gecombineerd op krachtige zoekacties in OmegaT uit te voeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This section presents the conventions used to distinguish the elements of the OmegaT user interface in this manual.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T080542Z" creationid="Dick" creationdate="20230526T080542Z">
+        <seg>Dit gedeelte geeft de conventies weer die worden gebruikt om onderscheid te maken tussen de elementen van de gebruikersinterface van OmegaT in deze handleiding.</seg>
       </tuv>
     </tu>
     <tu>
