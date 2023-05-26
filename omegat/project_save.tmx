@@ -86432,6 +86432,14 @@ installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You have enabled the &lt;l0&gt;auto-completion&lt;/l0&gt; to automatically display not only history predictions, but also glossary terms, and pre-defined short strings, which can be entered with simple arrow navigation.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T144407Z" creationid="Dick" creationdate="20230526T144407Z">
+        <seg>U heeft &lt;l0&gt;auto-aanvullen&lt;/l0&gt; ingeschakeld om automatisch niet alleen historische voorspellingen weer te geven, maar ook termen uit woordenlijsten, en vooraf gedefinieerde korte tekenreeksen, die kunnen worden ingevoegd met eenvoudige navigatie met de pijltjes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You have not used OmegaT yet, but you remember the times you were translating in your word processor and a computer glitch wiped out the book translation you had been working on for the last six months, or the report that was due in one hour.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230526T075729Z" creationid="Dick" creationdate="20230526T075729Z">
@@ -87025,6 +87033,14 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142512Z">
         <seg>U specificeert dat het TMX/bestand moet worden gemaakt met</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You then switch back to the editor, lock the cursor again with &lt;l7&gt;&lt;k8&gt;F2&lt;/k8&gt;&lt;/l7&gt; and repeat the process to enter the target term.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T144211Z" creationid="Dick" creationdate="20230526T144211Z">
+        <seg>U schakelt dan terug naar het venster Bewerken, vergrendelt de cursor opnieuw met &lt;l7&gt;&lt;k8&gt;F2&lt;/k8&gt;&lt;/l7&gt; en herhaalt het proces om de doelterm in te voeren.</seg>
       </tuv>
     </tu>
     <tu>
