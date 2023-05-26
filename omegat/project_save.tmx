@@ -13501,6 +13501,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add reminders in the &lt;l0/&gt; pane for problematic segments</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T121808Z" creationid="Dick" creationdate="20230526T121808Z">
+        <seg>Herinneringen toevoegen in het venster &lt;l0/&gt; voor problematische segmenten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add terms to a glossary whilst translating in OmegaT</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro (Dick)" changedate="20170916T120933Z" creationid="DiGro (Dick)" creationdate="20170916T120933Z">
@@ -26403,6 +26411,14 @@ propagate that work, subject to this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Either a segment is translated, or it is not.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T121708Z" creationid="Dick" creationdate="20230526T121708Z">
+        <seg>Een segment is vertaald, of het is dat niet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Either can be used as the source or target.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T173731Z">
@@ -36710,6 +36726,14 @@ to use Java Web Start.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T173750Z">
         <seg>Als u de segmentatie van het project aanpast of bestanden uit de bron verwijdert, zullen sommige overeenkomsten in het venster Overeenkomsten kunnen verschijnen als &lt;e1&gt;wezen-tekenreeksen&lt;/e1&gt;: zulke overeenkomsten verwijzen niet langer naar segmenten die voorkomen in de brondocumenten, omdat zij overeenkomen met segmenten die werden vertaald en opgenomen vóór de aanpassingen plaats vonden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you need a specific review process you can, for example:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T121739Z" creationid="Dick" creationdate="20230526T121739Z">
+        <seg>Als u een specifiek proces voor nakijken nodig hebt kunt u, bijvoorbeeld:</seg>
       </tuv>
     </tu>
     <tu>
@@ -49126,6 +49150,14 @@ OmegaT 4.0, Lees Mij-bestand</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT does not assign different statuses to translated segments.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T121651Z" creationid="Dick" creationdate="20230526T121651Z">
+        <seg>OmegaT wijst niet verschillende statussen toe aan vertaalde segmenten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT does not have access to the remote repository: verify your connection or your credentials.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230510T112822Z" creationid="Dick" creationdate="20230510T112822Z">
@@ -59426,6 +59458,14 @@ Het bereik van een zoekactie is standaard het project en kan worden ingesteld op
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20221221T143454Z" creationid="Dick" creationdate="20221221T143454Z">
         <seg>Bekijk de &lt;l0/&gt; how-to voor details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l0/&gt; menu for more navigation options.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T121620Z" creationid="Dick" creationdate="20230526T121620Z">
+        <seg>Bekijk het menu &lt;l0/&gt; voor meer opties om te navigeren.</seg>
       </tuv>
     </tu>
     <tu>
@@ -80335,6 +80375,22 @@ De huidige instelling is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to enter the Notepad and add your remark.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T121831Z" creationid="Dick" creationdate="20230526T121831Z">
+        <seg>Gebruik &lt;l0/&gt;&lt;l1/&gt; om naar Notepad te gaan en voeg uw opmerking in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to filter segments based on criteria that you set, and review only those.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T121939Z" creationid="Dick" creationdate="20230526T121939Z">
+        <seg>Gebruik &lt;l0/&gt;&lt;l1/&gt; om segmenten te filteren, gebaseerd op criteria die u instelt, en kijk alleen die na.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to find any untranslated segments (and translate them, if need be).</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230525T143330Z" creationid="Dick" creationdate="20230525T143330Z">
@@ -80355,6 +80411,14 @@ De huidige instelling is {0}MB;</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230522T135013Z" creationid="Dick" creationdate="20230522T135013Z">
         <seg>Gebruik &lt;l0/&gt;&lt;l1/&gt; om de documenten opnieuw te maken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to return to the Editor and resume your translation.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T121859Z" creationid="Dick" creationdate="20230526T121859Z">
+        <seg>Gebruik &lt;l0/&gt;&lt;l1/&gt; om terug te gaan naar Bewerken en ga door met uw vertaling.</seg>
       </tuv>
     </tu>
     <tu>
