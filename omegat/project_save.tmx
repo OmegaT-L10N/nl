@@ -13981,6 +13981,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After quickly tapping &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;I&lt;/k2&gt;&lt;/k0&gt; to insert the match, you make the necessary changes to match the revised text.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T144603Z" creationid="Dick" creationdate="20230526T144603Z">
+        <seg>Nadat u snel het gedrukt op &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;I&lt;/k2&gt;&lt;/k0&gt; om de overeenkomst in te voegen, maakt u de noodzakelijke wijzigingen zodat de gereviseerde tekst overeenkomt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After reloading the old project, its translation memory will be applied to the new source files.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230525T125353Z" creationid="Dick" creationdate="20230525T125353Z">
@@ -74319,6 +74327,14 @@ permission to run the unmodified Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This continues, with the occasional sequence of &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;2&lt;/k2&gt;&lt;/k0&gt; (or other number) followed by &lt;k3&gt;&lt;k4&gt;C&lt;/k4&gt;&lt;k5&gt;I&lt;/k5&gt;&lt;/k3&gt; when one of the matches from 2 to 5 is more suitable.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T144837Z" creationid="Dick" creationdate="20230526T144837Z">
+        <seg>Dit gaat zo door, met de reeks van &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;2&lt;/k2&gt;&lt;/k0&gt; (of een ander nummer) gevolgd door &lt;k3&gt;&lt;k4&gt;C&lt;/k4&gt;&lt;k5&gt;I&lt;/k5&gt;&lt;/k3&gt; als een van de overeenkomsten van 2 tot en met 5 meer geschikt is.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This converter is available for Windows and Mac.</seg>
       </tuv>
       <tuv lang="nl">
@@ -87033,6 +87049,14 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T142512Z">
         <seg>U specificeert dat het TMX/bestand moet worden gemaakt met</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You then reach a revised section of the text where the &lt;l0/&gt; pane shows a number of similar segments from the previous job.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T144455Z" creationid="Dick" creationdate="20230526T144455Z">
+        <seg>U bereikt dan een gereviseerd gedeelte van de tekst waar het venster &lt;l0/&gt; een aantal soortgelijke segmenten weergeeft uit de eerdere taak.</seg>
       </tuv>
     </tu>
     <tu>
