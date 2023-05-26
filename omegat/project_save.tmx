@@ -50344,6 +50344,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT synchronizes the Editor contents with the selected result, so you can edit the segments right away.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T145824Z" creationid="Dick" creationdate="20230526T145824Z">
+        <seg>OmegaT synchroniseert de inhoud van Bewerken met het geselecteerde resultaat, dus u kunt de segmenten direct bewerken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT tags in RTL segments</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20211118T124026Z" creationid="Dick" creationdate="20211118T124026Z">
@@ -76404,6 +76412,14 @@ your copyrighted material outside their relationship with you.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Time for a break.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T145836Z" creationid="Dick" creationdate="20230526T145836Z">
+        <seg>Tijd foor een pauze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tmx files contain translation units, made of a number of equivalent segments in several languages.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T173726Z">
@@ -87113,6 +87129,14 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T133548Z">
         <seg>U vertaalt uw bestanden door van segment naar segment te gaan, waarbij elk segment op zijn beurt wordt bewerkt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You use &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt; to find them and, in the search window, use &lt;k3&gt;&lt;k4&gt;C&lt;/k4&gt;&lt;k5&gt;N&lt;/k5&gt;&lt;/k3&gt; and &lt;k6&gt;&lt;k7&gt;C&lt;/k7&gt;&lt;k8&gt;P&lt;/k8&gt;&lt;/k6&gt; to navigate the results.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T145744Z" creationid="Dick" creationdate="20230526T145744Z">
+        <seg>U gebruikt &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt; om ze te zoeken en, in het venster Zoeken, gebruik &lt;k3&gt;&lt;k4&gt;C&lt;/k4&gt;&lt;k5&gt;N&lt;/k5&gt;&lt;/k3&gt; en &lt;k6&gt;&lt;k7&gt;C&lt;/k7&gt;&lt;k8&gt;P&lt;/k8&gt;&lt;/k6&gt; om naar de resultaten te navigeren.</seg>
       </tuv>
     </tu>
     <tu>
