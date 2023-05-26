@@ -23523,6 +23523,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Default OmegaT layout on macOS</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T115054Z" creationid="Dick" creationdate="20230526T115054Z">
+        <seg>Standaard lay-out OmegaT op macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Default branch</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20220826T170604Z" creationid="Dick" creationdate="20220826T170604Z">
@@ -50948,6 +50956,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once all that is done, the source files appear in OmegaT in a layout that looks like this:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T115036Z" creationid="Dick" creationdate="20230526T115036Z">
+        <seg>Als dat allemaal is gedaan verschijnen de bronbestanden in OmegaT in die er als volgt uitziet:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once computed, the data also available in &lt;f6&gt;omegat/project_stats_match.txt.&lt;/f6&gt; Note that the file is time-stamped, as the calculation (contrary to the standard statistics) is not instantaneous and can thus quickly become obsolete.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160911T100046Z">
@@ -65950,6 +65966,14 @@ for making modifications to it.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230521T101954Z" creationid="Dick" creationdate="20230521T101954Z">
         <seg>Het item &lt;l0/&gt; in het menu &lt;l1/&gt; is een uitzondering.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0/&gt; pane</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T115059Z" creationid="Dick" creationdate="20230526T115059Z">
+        <seg>Het venster &lt;l0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
