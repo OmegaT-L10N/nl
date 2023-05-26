@@ -16297,8 +16297,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>As shown in the &lt;l0&gt;Edit menu table&lt;/l0&gt; below, the function code for the &lt;g1&gt;Create Alternative Translation&lt;/g1&gt; function is &lt;c2&gt;editMultipleAlternate&lt;/c2&gt;.</seg>
       </tuv>
-      <tuv lang="nl" changeid="Dick" changedate="20230521T090108Z" creationid="Dick" creationdate="20230521T090108Z">
-        <seg>Zoals weergegeven in de &lt;l0&gt;tabel Menu bewerken&lt;/l0&gt; hieronder, is  &lt;c2&gt;editMultipleAlternate&lt;/c2&gt; de functiecode voor de functie &lt;g1&gt;Create Alternative Translation&lt;/g1&gt;.</seg>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T113814Z" creationid="Dick" creationdate="20230521T090108Z">
+        <seg>Zoals weergegeven in de &lt;l0&gt;tabel Menu bewerken&lt;/l0&gt; hieronder, is de functiecode voor de functie &lt;g1&gt;Create Alternative Translation&lt;/g1&gt;: &lt;c2&gt;editMultipleAlternate&lt;/c2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
