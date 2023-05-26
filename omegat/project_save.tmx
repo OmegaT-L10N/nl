@@ -79991,6 +79991,14 @@ De huidige instelling is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to come back to this dialog after you have created the project,.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20230526T101810Z" creationid="Dick" creationdate="20230526T101810Z">
+        <seg>Gebruik &lt;l0/&gt;&lt;l1/&gt; om terug te keren naar dit dialoogvenster nadat u het project hebt gemaakt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to create the TMX files that correspond to the current contents.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230525T143424Z" creationid="Dick" creationdate="20230525T143424Z">
