@@ -1,3 +1,4 @@
 # Glossary in tab-separated format -*- coding: utf-8 -*-
 program folder	programmamap
 niet-afbrekende	spatie
+backup files	back-upbestanden
