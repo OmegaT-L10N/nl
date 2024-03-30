@@ -4,3 +4,4 @@ niet-afbrekende	spatie
 backup files	back-upbestanden
 how-to	how-to
 non-breakable	niet-afbrekende
+Plug-inbestanden	Plugin file
