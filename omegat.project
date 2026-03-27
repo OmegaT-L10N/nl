@@ -8,7 +8,9 @@
         </mapping>
       </repository>
       <repository type="git" url="https://github.com/OmegaT-L10N/doc_src.git">
-        <mapping local="source/" repository=""/>
+        <mapping local="source/" repository="">
+          <excludes>.github/**</excludes>
+        </mapping>
       </repository>
       <repository type="http" url="https://github.com/omegat-org/omegat/raw/master/">
         <mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/>
@@ -33,8 +35,8 @@
         <mapping local="source/scripts/nbsp.properties" repository="scripts/properties/nbsp.properties"/>
         <mapping local="source/scripts/tagwipe.properties" repository="scripts/properties/tagwipe.properties"/>
       </repository>
-      <repository type="http" url="https://raw.githubusercontent.com/omegat-org/omegat/releases/">
-        <mapping local="source/6.0/Bundle.properties" repository="6.0/src/org/omegat/Bundle.properties"/>
+      <repository type="http" url="https://raw.githubusercontent.com/omegat-org/omegat/refs/heads/releases/6.0/">
+        <mapping local="source/6.0/Bundle.properties" repository="src/org/omegat/Bundle.properties"/>
       </repository>
       <repository type="git" url="https://github.com/omegat-l10n/omegat-website.git">
         <mapping local="source/website/" repository="_i18n/en/">
