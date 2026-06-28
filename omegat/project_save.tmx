@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.0_0_5461637" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.2.0_0_513b564" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -123115,6 +123115,22 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display Longer (Similar) Terms First</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20260628T121214Z" creationid="Dick" creationdate="20260628T121214Z">
+        <seg>Eerst langere (soortgelijke) termen weergeven</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display Longer Definitions First</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20260628T121228Z" creationid="Dick" creationdate="20260628T121228Z">
+        <seg>Eerst langere definities weergeven</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display Modification Info</seg>
       </tuv>
       <tuv lang="nl" changeid="Dick" changedate="20230527T115719Z" creationid="Dick" creationdate="20230527T115719Z">
@@ -123255,6 +123271,22 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="nl" changeid="DiGro" changedate="20120327T163916Z">
         <seg>Weergave voor huidige &amp;segment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display longer (similar) terms first</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20260628T121246Z" creationid="Dick" creationdate="20260628T121246Z">
+        <seg>Eerst langere (soortgelijke) termen weergeven</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display longer definitions first</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20260628T121300Z" creationid="Dick" creationdate="20260628T121300Z">
+        <seg>Eerst langere definities weergeven</seg>
       </tuv>
     </tu>
     <tu>
@@ -218018,6 +218050,14 @@ kunt plakken.</seg>
       </tuv>
       <tuv lang="nl" changeid="Dirk" changedate="20160910T130423Z">
         <seg>Afaan Oromo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Orphan segment</seg>
+      </tuv>
+      <tuv lang="nl" changeid="Dick" changedate="20260628T121138Z" creationid="Dick" creationdate="20260628T121138Z">
+        <seg>Wezen-segment</seg>
       </tuv>
     </tu>
     <tu>
